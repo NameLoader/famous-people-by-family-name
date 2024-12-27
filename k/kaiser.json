@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Franz Joseph I",
+    "givenNames": [
+      "Franz",
+      "Joseph"
+    ],
+    "familyName": "Kaiser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria",
+    "occupation": "Emperor of Austria",
+    "achievements": [
+      "Ruled Austria-Hungary for over 68 years.",
+      "Overseen the Austro-Prussian War and its consequences."
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1916
+  }
+]

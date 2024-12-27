@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ray Douglas Bradbury",
+    "givenNames": [
+      "Ray",
+      "Douglas"
+    ],
+    "familyName": "Bradbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Bradbury",
+    "occupation": "Author, screenwriter",
+    "achievements": [
+      "Prolific science fiction and fantasy author",
+      "Known for novels like *Fahrenheit 451* and *The Martian Chronicles*",
+      "Awards: Hugo Award, Nebula Award, O. Henry Award"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2012
+  }
+]

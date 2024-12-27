@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Leonhard Euler",
+    "givenNames": [
+      "Leonhard"
+    ],
+    "familyName": "Euler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+    "occupation": "Mathematician, Physicist, Astronomer",
+    "achievements": [
+      "Made fundamental contributions to calculus, graph theory, number theory, and mechanics.",
+      "Developed the notation for mathematical functions still in use today.",
+      "Identified the relationship between pi and natural logarithms."
+    ],
+    "yearBorn": 1707,
+    "yearDied": 1783
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Helen Keller",
+    "givenNames": [
+      "Helen"
+    ],
+    "familyName": "Keller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "occupation": "Activist, Author, Political Figure",
+    "achievements": [
+      "Overcame deafness and blindness to become a world-renowned author, political activist, and lecturer.",
+      "Authored numerous books and articles, including her autobiography, _The Story of My Life_.",
+      "Advocate for people with disabilities."
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1968
+  }
+]

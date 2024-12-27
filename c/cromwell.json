@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Oliver Cromwell",
+    "givenNames": [
+      "Oliver"
+    ],
+    "familyName": "Cromwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Cromwell",
+    "occupation": "English military and political leader",
+    "achievements": [
+      "Led the Parliamentarian forces to victory in the English Civil War",
+      "Served as Lord Protector of England, Scotland, and Ireland",
+      "Established a republic known as the Commonwealth of England"
+    ],
+    "yearBorn": 1599,
+    "yearDied": 1658
+  },
+  {
+    "fullName": "Richard Cromwell",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Cromwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Cromwell",
+    "occupation": "English politician and Lord Protector",
+    "achievements": [
+      "Succeeded his father Oliver Cromwell as Lord Protector",
+      "Ruled England for a brief period after the death of his father",
+      "Resigned from the post due to political instability and pressure"
+    ],
+    "yearBorn": 1626,
+    "yearDied": 1712
+  }
+]

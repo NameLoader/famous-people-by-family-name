@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Lucas",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Lucas",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Lucas",
+    "occupation": "Film director, producer, screenwriter",
+    "achievements": [
+      "Created the Star Wars franchise",
+      "Co-founded Industrial Light & Magic",
+      "Won numerous awards including an Honorary Academy Award"
+    ],
+    "yearBorn": 1944
+  }
+]

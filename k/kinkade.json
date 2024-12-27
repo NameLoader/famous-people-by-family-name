@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Kinkade",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Kinkade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kinkade",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his 'cottage style' paintings",
+      "One of the most commercially successful artists of all time"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 2012
+  }
+]

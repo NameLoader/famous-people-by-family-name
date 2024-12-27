@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "James Boswell",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Boswell",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Boswell",
+    "occupation": "Writer, biographer",
+    "achievements": [
+      "Best known for his biography of Samuel Johnson."
+    ],
+    "yearBorn": 1740,
+    "yearDied": 1795
+  }
+]

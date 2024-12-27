@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Harrison Ford",
+    "givenNames": [
+      "Harrison"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harrison_Ford",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in blockbuster franchises like 'Star Wars' and 'Indiana Jones'",
+      "Known for his charismatic performances and rugged looks",
+      "Received numerous accolades for his work, including a Golden Globe Award"
+    ],
+    "yearBorn": 1942
+  }
+]

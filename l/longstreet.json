@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Longstreet",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Longstreet",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Longstreet",
+    "occupation": "Confederate General",
+    "achievements": [
+      "Served as a prominent general in the Confederate Army during the American Civil War",
+      "Known for his military acumen and strategic brilliance"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1904
+  }
+]

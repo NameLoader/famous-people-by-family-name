@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Merle Haggard",
+    "givenNames": [
+      "Merle"
+    ],
+    "familyName": "Haggard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merle_Haggard",
+    "occupation": "Country music singer, songwriter, guitarist",
+    "achievements": [
+      "One of the most influential country music artists of all time.",
+      "Known for his signature Bakersfield sound.",
+      "Grammy Award winner."
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2016
+  }
+]

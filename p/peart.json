@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Neil Peart",
+    "givenNames": [
+      "Neil"
+    ],
+    "familyName": "Peart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Peart",
+    "occupation": "Musician, lyricist",
+    "achievements": [
+      "Drummer and songwriter for Rush",
+      "Known for complex drumming style and poetic lyrics",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2020
+  }
+]

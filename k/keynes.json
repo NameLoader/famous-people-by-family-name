@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Maynard Keynes",
+    "givenNames": [
+      "John",
+      "Maynard"
+    ],
+    "familyName": "Keynes",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+    "occupation": "Economist, philosopher",
+    "achievements": [
+      "Developed Keynesian economics",
+      "Influenced government economic policy during the Great Depression and World War II",
+      "Wrote influential works like 'The General Theory of Employment, Interest and Money'"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1946
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Holdren",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Holdren",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Holdren",
+    "occupation": "Scientist, Science Advisor",
+    "achievements": [
+      "Science advisor to President Barack Obama",
+      "Director of the White House Office of Science and Technology Policy",
+      "Leading figure in environmental science and energy policy"
+    ],
+    "yearBorn": 1946
+  }
+]

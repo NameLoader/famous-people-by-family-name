@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Edward Kennedy Ellington",
+    "givenNames": [
+      "Edward",
+      "Kennedy"
+    ],
+    "familyName": "Ellington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duke_Ellington",
+    "occupation": "Jazz composer, pianist, and bandleader",
+    "achievements": [
+      "Revolutionized jazz music with his innovative compositions and arrangements.",
+      "Led one of the most influential big bands in history.",
+      "Composed numerous iconic jazz standards, including 'It Don't Mean a Thing (If It Ain't Got That Swing)' and 'Take the 'A' Train'."
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1974
+  }
+]

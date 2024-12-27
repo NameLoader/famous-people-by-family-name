@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Mingus",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Mingus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Mingus",
+    "occupation": "Jazz composer, bassist, bandleader",
+    "achievements": [
+      "One of the most influential jazz composers and bassists of all time",
+      "Known for his innovative and challenging compositions",
+      "Led a number of highly acclaimed jazz ensembles"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1979
+  }
+]

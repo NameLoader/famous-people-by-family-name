@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Pierre Corneille",
+    "givenNames": [
+      "Pierre"
+    ],
+    "familyName": "Corneille",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Corneille",
+    "occupation": "Playwright",
+    "achievements": [
+      "One of the most important French dramatists of the classical period",
+      "Known for his tragedies like *The Cid* and *Horace*",
+      "Influential on later writers like Molière and Racine"
+    ],
+    "yearBorn": 1606,
+    "yearDied": 1684
+  }
+]

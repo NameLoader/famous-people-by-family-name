@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Sir Isaac Newton",
+    "givenNames": [
+      "Isaac"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
+    "occupation": "Physicist, mathematician, astronomer, alchemist",
+    "achievements": [
+      "Law of Universal Gravitation",
+      "Laws of Motion",
+      "Calculus",
+      "Optics"
+    ],
+    "yearBorn": 1643,
+    "yearDied": 1727
+  },
+  {
+    "fullName": "John Newton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Newton",
+    "occupation": "Clergyman, abolitionist",
+    "achievements": [
+      "Wrote the hymn 'Amazing Grace'",
+      "Played a key role in the abolition of the slave trade"
+    ],
+    "yearBorn": 1725,
+    "yearDied": 1807
+  }
+]

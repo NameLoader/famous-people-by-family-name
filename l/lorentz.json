@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hendrik Lorentz",
+    "givenNames": [
+      "Hendrik"
+    ],
+    "familyName": "Lorentz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hendrik_Lorentz",
+    "occupation": "Physicist",
+    "achievements": [
+      "Developed the Lorentz transformation equations.",
+      "Received the Nobel Prize in Physics in 1902 for his work on electromagnetism."
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1928
+  }
+]

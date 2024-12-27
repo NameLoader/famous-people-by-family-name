@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Venn",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Venn",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Venn",
+    "occupation": "Mathematician, logician",
+    "achievements": [
+      "Developed the Venn diagram, a visual tool for representing set relationships.",
+      "Made significant contributions to symbolic logic and probability theory."
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1923
+  }
+]

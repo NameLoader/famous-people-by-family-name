@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Gordon Lightfoot",
+    "givenNames": [
+      "Gordon"
+    ],
+    "familyName": "Lightfoot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Lightfoot",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Influential folk music singer-songwriter",
+      "Known for songs like 'The Wreck of the Edmund Fitzgerald' and 'If You Could Read My Mind'",
+      "Inducted into the Canadian Music Hall of Fame"
+    ],
+    "yearBorn": 1938
+  }
+]

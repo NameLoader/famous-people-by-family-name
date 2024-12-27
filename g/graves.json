@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Robert Graves",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Graves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Graves",
+    "occupation": "Poet, novelist, classicist",
+    "achievements": [
+      "Highly influential poet of the 20th century",
+      "Author of numerous novels and poems",
+      "Known for his works on classical mythology and history",
+      "Recipient of several literary awards"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1985
+  }
+]

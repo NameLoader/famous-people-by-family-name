@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Steven Crowder",
+    "givenNames": [
+      "Steven"
+    ],
+    "familyName": "Crowder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Crowder",
+    "occupation": "Political commentator, comedian, television host",
+    "achievements": [
+      "Host of the daily political talk show 'Louder with Crowder'",
+      "Co-founder of the conservative news website 'The Louder with Crowder Show'"
+    ],
+    "yearBorn": 1987
+  }
+]

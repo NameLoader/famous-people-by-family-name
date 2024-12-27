@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Paul Volcker",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Volcker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Volcker",
+    "occupation": "Economist, Federal Reserve Chairman",
+    "achievements": [
+      "Led the Federal Reserve through the fight against high inflation in the early 1980s.",
+      "Instrumental in establishing modern monetary policy frameworks."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2019
+  }
+]

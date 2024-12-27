@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Andrew Jackson",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+    "occupation": "Politician, 7th President of the United States",
+    "achievements": [
+      "Led the US to victory in the War of 1812",
+      "Championed Jacksonian Democracy"
+    ],
+    "yearBorn": 1567,
+    "yearDied": 1845
+  },
+  {
+    "fullName": "Michael Jackson",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "occupation": "Singer, songwriter, dancer, entertainer",
+    "achievements": [
+      "One of the most popular entertainers of all time",
+      "Global icon known for his innovative music and dance moves"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Janet Jackson",
+    "givenNames": [
+      "Janet"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janet_Jackson",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Highly successful music career spanning decades",
+      "Known for her provocative performances and social commentary"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Jesse Jackson",
+    "givenNames": [
+      "Jesse"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Jackson",
+    "occupation": "Civil rights activist, politician",
+    "achievements": [
+      "Prominent figure in the Civil Rights Movement",
+      "Founded the Rainbow PUSH Coalition"
+    ],
+    "yearBorn": 1941
+  }
+]

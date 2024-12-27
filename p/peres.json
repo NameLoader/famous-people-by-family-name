@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Shimon Peres",
+    "givenNames": [
+      "Shimon"
+    ],
+    "familyName": "Peres",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shimon_Peres",
+    "occupation": "Politician, Nobel Peace Prize Laureate",
+    "achievements": [
+      "Served as Prime Minister of Israel on two occasions.",
+      "Minister of Defense and other prominent government positions.",
+      "Instrumental in the Oslo Accords.",
+      "Awarded the Nobel Peace Prize in 1994."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2016
+  }
+]

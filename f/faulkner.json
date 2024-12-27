@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Cuthbert Faulkner",
+    "givenNames": [
+      "William",
+      "Cuthbert"
+    ],
+    "familyName": "Faulkner",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Faulkner",
+    "occupation": "Novelist, Short Story Writer, Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1949)",
+      "Pulitzer Prize for Fiction (1950 - 'A Fable')",
+      "Widely considered one of the most important American writers of the 20th century"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1962
+  }
+]

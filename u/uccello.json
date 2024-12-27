@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Paolo Uccello",
+    "givenNames": [
+      "Paolo"
+    ],
+    "familyName": "Uccello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Uccello",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure in Early Renaissance Italian painting",
+      "Known for his linear perspective and innovative use of geometry in art",
+      "Famous works include 'The Battle of San Romano' and 'The Hunt in the Forest'"
+    ],
+    "yearBorn": 1397,
+    "yearDied": 1475
+  }
+]

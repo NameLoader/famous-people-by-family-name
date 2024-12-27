@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Annika Sörenstam Langer",
+    "givenNames": [
+      "Annika",
+      "Sörenstam"
+    ],
+    "familyName": "Langer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annika_S%C3%B6renstam",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "10 Major Championship wins",
+      "82 LPGA Tour victories",
+      "World Golf Hall of Fame inductee"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Bernhard Langer",
+    "givenNames": [
+      "Bernhard"
+    ],
+    "familyName": "Langer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Langer",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "Two-time Masters Tournament winner",
+      "Multiple PGA Tour and European Tour victories",
+      "PGA Champions Tour record holder"
+    ],
+    "yearBorn": 1957
+  }
+]

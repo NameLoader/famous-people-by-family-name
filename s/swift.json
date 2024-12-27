@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Taylor Alison Swift",
+    "givenNames": [
+      "Taylor",
+      "Alison"
+    ],
+    "familyName": "Swift",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "occupation": "Singer-songwriter, actress",
+    "achievements": [
+      "One of the world's best-selling music artists",
+      "Won 12 Grammy Awards"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Jonathan Swift",
+    "givenNames": [
+      "Jonathan"
+    ],
+    "familyName": "Swift",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+    "occupation": "Writer, cleric",
+    "achievements": [
+      "Author of Gulliver's Travels",
+      "Dean of St Patrick's Cathedral, Dublin"
+    ],
+    "yearBorn": 1667,
+    "yearDied": 1745
+  }
+]

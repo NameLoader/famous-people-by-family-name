@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Carl Jacobi",
+    "givenNames": [
+      "Carl"
+    ],
+    "familyName": "Jacobi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Jacobi",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Contributions to analysis and number theory",
+      "Introduced the Jacobi identity"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1851
+  }
+]

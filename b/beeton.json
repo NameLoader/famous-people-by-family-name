@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Isabella Beeton",
+    "givenNames": [
+      "Isabella"
+    ],
+    "familyName": "Beeton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabella_Beeton",
+    "occupation": "Writer, editor",
+    "achievements": [
+      "Author of *Mrs. Beeton's Book of Household Management*"
+    ],
+    "yearBorn": 1836,
+    "yearDied": 1865
+  }
+]

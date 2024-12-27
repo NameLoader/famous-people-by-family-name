@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Georgi Dimitrov",
+    "givenNames": [
+      "Georgi"
+    ],
+    "familyName": "Dimitrov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgi_Dimitrov",
+    "occupation": "Politician, communist leader",
+    "achievements": [
+      "Led the Bulgarian Communist Party.",
+      "Key figure in the Comintern and the Second International."
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1949
+  }
+]

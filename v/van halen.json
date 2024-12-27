@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Edward Lodewijk van Halen",
+    "givenNames": [
+      "Edward",
+      "Lodewijk"
+    ],
+    "familyName": "van Halen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_van_Halen",
+    "occupation": "Guitarist, Composer, Singer, Songwriter",
+    "achievements": [
+      "Influential guitarist known for his virtuosity and innovative techniques.",
+      "Co-founded the rock band Van Halen.",
+      "Known for hit songs like \"Jump\", \"Panama\", and \"Eruption\".",
+      "Inducted into the Rock & Roll Hall of Fame in 2007."
+    ],
+    "yearBorn": 1955,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Wolfgang van Halen",
+    "givenNames": [
+      "Wolfgang"
+    ],
+    "familyName": "van Halen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_van_Halen",
+    "occupation": "Bassist, Singer, Songwriter",
+    "achievements": [
+      "Son of Eddie van Halen.",
+      "Became bassist for Van Halen after his father's death."
+    ],
+    "yearBorn": 1991
+  }
+]

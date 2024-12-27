@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Muir",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Muir",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Muir",
+    "occupation": "Naturalist, Author,  Glacier Expert",
+    "achievements": [
+      "Founder of the Sierra Club",
+      "Advocate for National Parks and Wilderness Preservation",
+      "Author of influential writings on nature"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1914
+  }
+]

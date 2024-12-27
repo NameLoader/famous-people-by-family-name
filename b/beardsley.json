@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Aubrey Beardsley",
+    "givenNames": [
+      "Aubrey"
+    ],
+    "familyName": "Beardsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Beardsley",
+    "occupation": "Artist, Illustrator",
+    "achievements": [
+      "Known for his highly stylized and decadent Art Nouveau illustrations",
+      "Influential figure in the Aesthetic Movement",
+      "Created iconic works like 'The Peacock Skirt' and 'Salome'"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1898
+  }
+]

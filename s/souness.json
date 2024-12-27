@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Graeme Souness",
+    "givenNames": [
+      "Graeme"
+    ],
+    "familyName": "Souness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graeme_Souness",
+    "occupation": "Footballer, manager",
+    "achievements": [
+      "Liverpool legend",
+      "Scottish national team captain",
+      "FA Cup winner",
+      "UEFA Champions League winner"
+    ],
+    "yearBorn": 1953
+  }
+]

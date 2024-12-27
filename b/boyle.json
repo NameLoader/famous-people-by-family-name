@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Boyle",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Boyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Boyle",
+    "occupation": "Physicist, Chemist, Philosopher",
+    "achievements": [
+      "Established the Boyle's Law which describes the relationship between pressure and volume of a gas.",
+      "Considered one of the founders of modern chemistry.",
+      "Pioneered experimental methods in science."
+    ],
+    "yearBorn": 1627,
+    "yearDied": 1691
+  }
+]

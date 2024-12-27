@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Singleton Copley",
+    "givenNames": [
+      "John",
+      "Singleton"
+    ],
+    "familyName": "Copley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Singleton_Copley",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading portrait and history painter of the American colonies.",
+      "Known for his realism and detail."
+    ],
+    "yearBorn": 1738,
+    "yearDied": 1815
+  }
+]

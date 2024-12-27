@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Joseph Needham",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Needham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Needham",
+    "occupation": "Historian, Scientist",
+    "achievements": [
+      "Author of 'Science and Civilization in China'",
+      "Pioneering work on the history of science and technology in China"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1995
+  }
+]

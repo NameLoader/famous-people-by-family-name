@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sir Donald George Bradman",
+    "givenNames": [
+      "Donald",
+      "George"
+    ],
+    "familyName": "Bradman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_Bradman",
+    "occupation": "Cricketer",
+    "achievements": [
+      "Considered by many to be the greatest batsman of all time.",
+      "Averaged over 99 runs per innings in Test matches.",
+      "Led Australia to victory in numerous Test series."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2001
+  }
+]

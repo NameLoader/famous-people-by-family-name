@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mary Anning",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Anning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Anning",
+    "occupation": "Paleontologist, fossil collector",
+    "achievements": [
+      "Major contributions to paleontology through fossil discoveries.",
+      "Identified numerous new species of marine reptiles and invertebrates.",
+      "Challenged existing scientific views on prehistoric life."
+    ],
+    "yearBorn": 1799,
+    "yearDied": 1847
+  }
+]

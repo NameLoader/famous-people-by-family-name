@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Stockton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Stockton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stockton",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Hall of Famer",
+      "All-Star 10 times",
+      "Led the NBA in assists for 9 consecutive seasons",
+      "Retired with most assists and steals in NBA history"
+    ],
+    "yearBorn": 1962
+  }
+]

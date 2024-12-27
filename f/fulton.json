@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Fulton",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Fulton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Fulton",
+    "occupation": "Inventor, Entrepreneur",
+    "achievements": [
+      "Invented the commercially successful steamboat",
+      "Revolutionized river transportation in the United States"
+    ],
+    "yearBorn": 1765,
+    "yearDied": 1815
+  }
+]

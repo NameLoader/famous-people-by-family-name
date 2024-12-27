@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ava Gardner",
+    "givenNames": [
+      "Ava"
+    ],
+    "familyName": "Gardner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ava_Gardner",
+    "occupation": "Actress",
+    "achievements": [
+      "Iconic Hollywood actress known for films like 'Mogambo' and 'The Killers'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1990
+  }
+]

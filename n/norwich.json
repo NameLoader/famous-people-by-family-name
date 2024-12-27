@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward IV of England",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Norwich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+    "occupation": "King of England",
+    "achievements": [
+      "Reigned as King of England from 1461 to 1470 and again from 1471 until his death.",
+      "Established the House of York on the English throne."
+    ],
+    "yearBorn": 1442,
+    "yearDied": 1483
+  }
+]

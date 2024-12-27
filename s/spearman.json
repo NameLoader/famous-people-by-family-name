@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Spearman",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Spearman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Spearman",
+    "occupation": "Psychologist, statistician",
+    "achievements": [
+      "Developed the concept of 'general intelligence' (g factor)",
+      "Pioneered factor analysis in psychology and statistics"
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1945
+  }
+]

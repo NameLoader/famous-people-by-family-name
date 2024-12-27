@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Rudolf Julius Emanuel Clausius",
+    "givenNames": [
+      "Rudolf",
+      "Julius",
+      "Emanuel"
+    ],
+    "familyName": "Clausius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Clausius",
+    "occupation": "physicist, mathematician",
+    "achievements": [
+      "Formulated the second law of thermodynamics.",
+      "Developed the concept of entropy.",
+      "Contributed to the understanding of heat transfer and the kinetic theory of gases."
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1888
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Henry Seward",
+    "givenNames": [
+      "William",
+      "Henry"
+    ],
+    "familyName": "Seward",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_H._Seward",
+    "occupation": "Politician, Secretary of State",
+    "achievements": [
+      "U.S. Senator from New York",
+      "Secretary of State under President Abraham Lincoln",
+      "Negotiated the purchase of Alaska"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1872
+  }
+]

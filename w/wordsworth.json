@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Wordsworth",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Wordsworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth",
+    "occupation": "Poet",
+    "achievements": [
+      "Leading figure of the Romantic movement in English literature.",
+      "Author of famous poems like 'I Wandered Lonely as a Cloud' and 'Tintern Abbey'."
+    ],
+    "yearBorn": 1770,
+    "yearDied": 1850
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hugh Jackman",
+    "givenNames": [
+      "Hugh"
+    ],
+    "familyName": "Jackman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Jackman",
+    "occupation": "Actor, Singer",
+    "achievements": [
+      "Academy Award nominee",
+      "Tony Award winner",
+      "Golden Globe Award winner",
+      "Known for role as Wolverine in X-Men franchise"
+    ],
+    "yearBorn": 1968
+  }
+]

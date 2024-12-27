@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Addams",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Addams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Addams",
+    "occupation": "Cartoonist, Writer",
+    "achievements": [
+      "Created the Addams Family cartoon series",
+      "Influenced popular culture with macabre and darkly comedic characters"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1988
+  }
+]

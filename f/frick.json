@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Clay Frick",
+    "givenNames": [
+      "Henry",
+      "Clay"
+    ],
+    "familyName": "Frick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Clay_Frick",
+    "occupation": "Industrialist, Steel Magnate",
+    "achievements": [
+      "Key figure in the Carnegie Steel Company and the rise of American industrialism.",
+      "Major contributor to the development of vertical integration in the steel industry."
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1919
+  }
+]

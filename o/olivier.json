@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Laurence Olivier",
+    "givenNames": [
+      "Laurence"
+    ],
+    "familyName": "Olivier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Olivier",
+    "occupation": "Actor, director",
+    "achievements": [
+      "Knighted in 1947 for his services to drama",
+      "Won an Academy Award for Best Actor for 'Hamlet'",
+      "Considered one of the greatest actors of the 20th century"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1989
+  }
+]

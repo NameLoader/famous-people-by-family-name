@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Frédéric François Chopin",
+    "givenNames": [
+      "Frédéric",
+      "François"
+    ],
+    "familyName": "Chopin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frédéric_Chopin",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Considered one of the greatest composers of the Romantic era",
+      "Known for his virtuoso piano works",
+      "Influenced generations of musicians"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1849
+  }
+]

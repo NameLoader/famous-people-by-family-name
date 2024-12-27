@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hugh Dowding",
+    "givenNames": [
+      "Hugh"
+    ],
+    "familyName": "Dowding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Dowding",
+    "occupation": "Air Chief Marshal",
+    "achievements": [
+      "Commanded Fighter Command during the Battle of Britain",
+      "Instrumental in the British victory against the Luftwaffe"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1970
+  }
+]

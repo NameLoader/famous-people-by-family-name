@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Naismith",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Naismith",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Naismith",
+    "occupation": "Inventor, Physical Education Instructor",
+    "achievements": [
+      "Invented the game of basketball in 1891",
+      "Developed the first official rules for basketball"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1939
+  }
+]

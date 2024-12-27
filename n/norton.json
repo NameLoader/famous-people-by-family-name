@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Edward Norton",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Norton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Norton",
+    "occupation": "American actor and film producer",
+    "achievements": [
+      "Known for his critically acclaimed performances in films such as 'Fight Club', 'American History X', and 'The Grand Budapest Hotel'.",
+      "Nominated for Academy Awards for Best Actor and Best Supporting Actor."
+    ],
+    "yearBorn": 1969
+  }
+]

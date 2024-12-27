@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Orville Wright",
+    "givenNames": [
+      "Orville"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orville_Wright",
+    "occupation": "Inventor, Aviator",
+    "achievements": [
+      "Co-invented and built the world's first successful airplane",
+      "Made the first controlled, powered and sustained heavier-than-air human flight"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Frank Lloyd Wright",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+    "occupation": "Architect",
+    "achievements": [
+      "One of the most influential architects of the 20th century",
+      "Known for his Prairie School style and organic architecture",
+      "Designed iconic buildings like Fallingwater and Guggenheim Museum"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1959
+  }
+]

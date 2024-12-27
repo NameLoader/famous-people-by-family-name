@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jesse Owens",
+    "givenNames": [
+      "Jesse"
+    ],
+    "familyName": "Owens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Owens",
+    "occupation": "Athlete",
+    "achievements": [
+      "Four gold medals at the 1936 Berlin Olympics",
+      "Shattering world records in multiple track events",
+      "Symbol of overcoming racial discrimination and prejudice"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1980
+  }
+]

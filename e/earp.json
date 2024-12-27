@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Virgil Earp",
+    "givenNames": [
+      "Virgil"
+    ],
+    "familyName": "Earp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virgil_Earp",
+    "occupation": "Lawman, deputy marshal",
+    "achievements": [
+      "Served as a lawman alongside his brother Wyatt."
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1905
+  },
+  {
+    "fullName": "Morgan Earp",
+    "givenNames": [
+      "Morgan"
+    ],
+    "familyName": "Earp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Earp",
+    "occupation": "Lawman, gambler",
+    "achievements": [
+      "Participated in the Gunfight at the O.K. Corral."
+    ],
+    "yearBorn": 1851,
+    "yearDied": 1882
+  }
+]

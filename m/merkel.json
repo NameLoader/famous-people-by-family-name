@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Angela Dorothea Merkel",
+    "givenNames": [
+      "Angela",
+      "Dorothea"
+    ],
+    "familyName": "Merkel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angela_Merkel",
+    "occupation": "Politician",
+    "achievements": [
+      "First female Chancellor of Germany",
+      "Longest-serving Chancellor of Germany",
+      "Led Germany through the Eurozone crisis",
+      "Instrumental in addressing the Syrian refugee crisis"
+    ],
+    "yearBorn": 1954
+  }
+]

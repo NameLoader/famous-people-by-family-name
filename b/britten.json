@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Benjamin Britten",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Britten",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Britten",
+    "occupation": "Composer",
+    "achievements": [
+      "One of the most important British composers of the 20th century",
+      "Known for his operas, orchestral works, and choral music",
+      "Prolific composer with over 80 major works"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1976
+  }
+]

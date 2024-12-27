@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Bernard Cornwell",
+    "givenNames": [
+      "Bernard"
+    ],
+    "familyName": "Cornwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Cornwell",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling historical fiction author",
+      "Known for the *Sharpe* series and the *Warlord Chronicles*"
+    ],
+    "yearBorn": 1944
+  }
+]

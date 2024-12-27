@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Thomas Mann",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Mann",
+    "occupation": "Novelist, essayist, short story writer",
+    "achievements": [
+      "Nobel Prize in Literature (1929)",
+      "German Expressionism author"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Michael Mann",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Mann_(director)",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Known for films like 'Heat', 'The Last of the Mohicans', and 'Miami Vice'"
+    ],
+    "yearBorn": 1943
+  }
+]

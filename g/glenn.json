@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Herschel Glenn Jr.",
+    "givenNames": [
+      "John",
+      "Herschel"
+    ],
+    "familyName": "Glenn",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Glenn",
+    "occupation": "Astronaut, US Senator",
+    "achievements": [
+      "First American to orbit Earth",
+      "Senator from Ohio"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2016
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Curtin",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Curtin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Curtin",
+    "occupation": "Prime Minister of Australia",
+    "achievements": [
+      "Led Australia through World War II",
+      "Strengthened ties with the United States and Great Britain",
+      "Introduced social welfare programs"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1945
+  }
+]

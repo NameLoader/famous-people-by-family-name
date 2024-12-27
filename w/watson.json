@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "James Watson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Watson",
+    "occupation": "Geneticist",
+    "achievements": [
+      "Co-discovered the double helix structure of DNA with Francis Crick."
+    ],
+    "yearBorn": 1928
+  }
+]

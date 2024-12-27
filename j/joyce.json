@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Joyce",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Joyce",
+    "occupation": "Novelist, Poet",
+    "achievements": [
+      "Modernist writer",
+      "Known for Ulysses and Finnegans Wake",
+      "Influential on 20th-century literature"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1941
+  }
+]

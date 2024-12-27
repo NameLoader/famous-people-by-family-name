@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Forman",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Forman",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Foreman",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Two-time world heavyweight champion",
+      "Olympic gold medalist (1968)",
+      "Hall of Fame inductee (International Boxing Hall of Fame)"
+    ],
+    "yearBorn": 1949
+  }
+]

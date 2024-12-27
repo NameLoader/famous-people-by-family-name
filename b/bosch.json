@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hieronymus Bosch",
+    "givenNames": [
+      "Hieronymus"
+    ],
+    "familyName": "Bosch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hieronymus_Bosch",
+    "occupation": "Painter",
+    "achievements": [
+      "Master of Surrealism",
+      "Known for fantastical and often disturbing paintings",
+      "Significant influence on Western art"
+    ],
+    "yearBorn": 1450,
+    "yearDied": 1516
+  }
+]

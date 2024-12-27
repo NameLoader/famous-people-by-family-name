@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edmund Burke",
+    "givenNames": [
+      "Edmund"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Burke",
+    "occupation": "Politician, Philosopher",
+    "achievements": [
+      "Key figure in the Enlightenment",
+      "Founder of modern conservatism",
+      "Authored influential works like 'Reflections on the Revolution in France'"
+    ],
+    "yearBorn": 1729,
+    "yearDied": 1797
+  }
+]

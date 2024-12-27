@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Max Born",
+    "givenNames": [
+      "Max"
+    ],
+    "familyName": "Born",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Born",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1954) for his fundamental research in quantum mechanics.",
+      "Developed the Born rule in quantum mechanics.",
+      "Contributed to the theory of Brownian motion."
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1970
+  }
+]

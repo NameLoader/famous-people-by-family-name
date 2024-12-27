@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Charles John Huffam Dickens",
+    "givenNames": [
+      "Charles",
+      "John",
+      "Huffam"
+    ],
+    "familyName": "Dickens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Widely regarded as one of the greatest novelists of all time.",
+      "Known for his vivid portrayals of Victorian London life and social issues.",
+      "Famous works include Oliver Twist, A Tale of Two Cities, Great Expectations."
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1870
+  }
+]

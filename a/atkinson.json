@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Rowan Atkinson",
+    "givenNames": [
+      "Rowan"
+    ],
+    "familyName": "Atkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowan_Atkinson",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Known for his role as Mr. Bean",
+      "Starred in films like 'Bean' and 'Johnny English'"
+    ],
+    "yearBorn": 1955
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Jay Gatsby",
+    "givenNames": [
+      "Jay"
+    ],
+    "familyName": "Gatsby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jay_Gatsby",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of F. Scott Fitzgerald's novel *The Great Gatsby*",
+      "Represents the American Dream and its disillusionment"
+    ]
+  }
+]

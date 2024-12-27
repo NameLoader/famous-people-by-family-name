@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Goldthorpe",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Goldthorpe",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Goldthorpe",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Pioneering work in the sociology of stratification and social mobility.",
+      "Influential contributions to the understanding of class structure in modern societies."
+    ],
+    "yearBorn": 1938
+  }
+]

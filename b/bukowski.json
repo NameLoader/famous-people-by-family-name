@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Bukowski",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Bukowski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Bukowski",
+    "occupation": "Poet, novelist, short story writer",
+    "achievements": [
+      "Known for his gritty, often autobiographical writing style.",
+      "Widely considered one of the most influential American writers of the 20th century."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1994
+  }
+]

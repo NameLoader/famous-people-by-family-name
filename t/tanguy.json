@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Yves Tanguy",
+    "givenNames": [
+      "Yves"
+    ],
+    "familyName": "Tanguy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yves_Tanguy",
+    "occupation": "Painter, Surrealist artist",
+    "achievements": [
+      "Surrealist paintings often featuring organic shapes and biomorphic forms.",
+      "Member of the French Surrealist movement."
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1955
+  }
+]

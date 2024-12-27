@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Michael Dell",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Dell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Dell",
+    "occupation": "Entrepreneur, Business Magnate",
+    "achievements": [
+      "Founded Dell Technologies",
+      "Revolutionized the personal computer industry through direct-to-consumer sales"
+    ],
+    "yearBorn": 1965
+  }
+]

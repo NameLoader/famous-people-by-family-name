@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Clay",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Clay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Clay",
+    "occupation": "Politician",
+    "achievements": [
+      "Speaker of the House",
+      "Secretary of State",
+      "Advocate for the American System"
+    ],
+    "yearBorn": 1777,
+    "yearDied": 1852
+  }
+]

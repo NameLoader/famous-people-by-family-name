@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "John Huston",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Huston",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Huston",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Directed iconic films like *The Maltese Falcon*, *The Asphalt Jungle*, *Key Largo*"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Anjelica Huston",
+    "givenNames": [
+      "Anjelica"
+    ],
+    "familyName": "Huston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anjelica_Huston",
+    "occupation": "Actress, director",
+    "achievements": [
+      "Academy Award for Best Supporting Actress for *Prizzi's Honor*",
+      "Starred in films like *The Witches*, *The Dead Don't Die*"
+    ],
+    "yearBorn": 1951
+  }
+]

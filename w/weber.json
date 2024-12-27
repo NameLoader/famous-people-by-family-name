@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Max Weber",
+    "givenNames": [
+      "Max"
+    ],
+    "familyName": "Weber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Weber",
+    "occupation": "Sociologist, philosopher, economist",
+    "achievements": [
+      "Founder of modern sociology",
+      "Developed the theory of rationalization",
+      "Influential works include *The Protestant Ethic and the Spirit of Capitalism* and *Economy and Society*"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1920
+  }
+]

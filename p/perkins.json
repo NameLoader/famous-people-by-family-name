@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Perkins Marsh",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_P._Marsh",
+    "occupation": "Lawyer, Writer, Diplomat, Environmentalist",
+    "achievements": [
+      "Author of 'Man and Nature'",
+      "Considered the father of modern environmentalism",
+      "U.S. Minister to Turkey and Italy"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1882
+  }
+]

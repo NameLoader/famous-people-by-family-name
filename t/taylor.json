@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Elizabeth Taylor",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Taylor",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner (two times)",
+      "Highly successful Hollywood actress"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "James Taylor",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Taylor",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner (five times)",
+      "Influential folk rock musician"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Zachary Taylor",
+    "givenNames": [
+      "Zachary"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+    "occupation": "Military officer, 12th President of the United States",
+    "achievements": [
+      "Commanded US forces in the Mexican-American War",
+      "President during the early years of the Civil War"
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1850
+  }
+]

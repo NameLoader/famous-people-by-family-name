@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Greta Swanson",
+    "givenNames": [
+      "Greta"
+    ],
+    "familyName": "Swanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greta_Garbo",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the biggest movie stars of the Golden Age of Hollywood.",
+      "Known for her enigmatic persona and roles in classics like 'Anna Karenina' and 'Ninotchka'."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1990
+  }
+]

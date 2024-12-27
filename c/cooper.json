@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Gary Cooper",
+    "givenNames": [
+      "Gary"
+    ],
+    "familyName": "Cooper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Cooper",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (1952) for *High Noon*",
+      "Starred in numerous classic Westerns and dramas"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1961
+  }
+]

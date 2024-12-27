@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Thurber",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Thurber",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Thurber",
+    "occupation": "Writer, cartoonist",
+    "achievements": [
+      "Known for his witty and satirical short stories and cartoons.",
+      "Author of classic works like 'The Secret Life of Walter Mitty' and 'My Life and Hard Times'.",
+      "Co-founder of the humor magazine 'The New Yorker'."
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1961
+  }
+]

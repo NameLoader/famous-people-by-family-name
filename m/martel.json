@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Martel",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Martel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Martel",
+    "occupation": "Frankish Military Leader, Mayor of the Palace",
+    "achievements": [
+      "Halted the Umayyad Caliphate's advance into Europe at the Battle of Tours (732)",
+      "Consolidated Frankish power and laid the foundations for the Carolingian Empire",
+      "Implemented administrative reforms that strengthened the Frankish state"
+    ],
+    "yearBorn": 688,
+    "yearDied": 741
+  }
+]

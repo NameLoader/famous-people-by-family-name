@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Notman",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Notman",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Notman",
+    "occupation": "Photographer",
+    "achievements": [
+      "Founded one of the most prominent photographic studios in Canada.",
+      "Documented Canadian life and landscape through his photographs.",
+      "Contributed to the development of early Canadian photography."
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1890
+  }
+]

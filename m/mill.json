@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Stuart Mill",
+    "givenNames": [
+      "John",
+      "Stuart"
+    ],
+    "familyName": "Mill",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stuart_Mill",
+    "occupation": "Philosopher, Political Economist, and Civil Liberal",
+    "achievements": [
+      "Key figure in Utilitarianism",
+      "Advocated for women's suffrage",
+      "Wrote influential works like 'On Liberty' and 'Utilitarianism'"
+    ],
+    "yearBorn": 1806,
+    "yearDied": 1873
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Paul Klee",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Klee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Klee",
+    "occupation": "Painter, printmaker, and graphic designer",
+    "achievements": [
+      "Pioneer of modernist art",
+      "Influential figure in Bauhaus movement",
+      "Known for his vibrant colors, whimsical imagery, and playful compositions"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1940
+  }
+]

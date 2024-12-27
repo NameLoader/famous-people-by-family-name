@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Maria Trapp",
+    "givenNames": [
+      "Maria"
+    ],
+    "familyName": "Trapp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_von_Trapp",
+    "occupation": "Singer, Author",
+    "achievements": [
+      "Led the Trapp Family Singers to international fame.",
+      "Author of several books about her life and family.",
+      "Subject of the musical 'The Sound of Music'."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1987
+  }
+]

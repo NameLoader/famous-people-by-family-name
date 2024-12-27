@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "David Robert Joseph Beckham",
+    "givenNames": [
+      "David",
+      "Robert",
+      "Joseph"
+    ],
+    "familyName": "Beckham",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Beckham",
+    "occupation": "Footballer, Entrepreneur",
+    "achievements": [
+      "Considered one of the greatest midfielders of his generation.",
+      "Won numerous trophies with Manchester United, Real Madrid, and LA Galaxy.",
+      "Captain of the England national team.",
+      "Successful businessman and global icon."
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Victoria Caroline Beckham",
+    "givenNames": [
+      "Victoria",
+      "Caroline"
+    ],
+    "familyName": "Beckham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Beckham",
+    "occupation": "Singer, Fashion Designer, Actress",
+    "achievements": [
+      "Founding member of the Spice Girls.",
+      "Successful fashion designer with her own brand.",
+      "Influential figure in popular culture."
+    ],
+    "yearBorn": 1974
+  }
+]

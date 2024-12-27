@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Paul Gascoigne",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Gascoigne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Gascoigne",
+    "occupation": "Footballer",
+    "achievements": [
+      "Considered one of England's greatest midfielders.",
+      "Played for Newcastle United, Tottenham Hotspur, and Lazio.",
+      "Represented England at the 1990 World Cup."
+    ],
+    "yearBorn": 1967
+  }
+]

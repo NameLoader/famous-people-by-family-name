@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Marcus Tullius Cicero",
+    "givenNames": [
+      "Marcus",
+      "Tullius"
+    ],
+    "familyName": "Cicero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cicero",
+    "occupation": "Roman statesman, lawyer, and philosopher",
+    "achievements": [
+      "One of the most influential orators in Roman history.",
+      "Known for his eloquence, philosophical writings, and political career.",
+      "Played a key role in the late Roman Republic."
+    ],
+    "yearBorn": 106,
+    "yearDied": 43
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Woody Allen",
+    "givenNames": [
+      "Woody"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woody_Allen",
+    "occupation": "Film director, screenwriter, actor, comedian",
+    "achievements": [
+      "Academy Award for Best Original Screenplay (Annie Hall)",
+      "Numerous other awards and nominations"
+    ],
+    "yearBorn": 1935
+  }
+]

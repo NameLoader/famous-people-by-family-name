@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mae Jemison",
+    "givenNames": [
+      "Mae"
+    ],
+    "familyName": "Jemison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mae_Jemison",
+    "occupation": "Physician, Engineer, Astronaut",
+    "achievements": [
+      "First African-American woman in space",
+      "NASA astronaut",
+      "Doctor of Medicine",
+      "Engineer"
+    ],
+    "yearBorn": 1956
+  }
+]

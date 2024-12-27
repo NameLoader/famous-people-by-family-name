@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Manson",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Manson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Manson",
+    "occupation": "Cult leader, criminal",
+    "achievements": [
+      "Led the Manson Family cult",
+      "Orchestrated a series of murders in 1969"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2017
+  }
+]

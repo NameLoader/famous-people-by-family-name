@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Bartram",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Bartram",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Bartram",
+    "occupation": "Botanist, Naturalist, Explorer",
+    "achievements": [
+      "Published 'Travels through North America'",
+      "Noted for his detailed observations of the flora and fauna of North America"
+    ],
+    "yearBorn": 1739,
+    "yearDied": 1823
+  }
+]

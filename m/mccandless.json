@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christopher McCandless",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "McCandless",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_McCandless",
+    "occupation": "Adventurer, Writer",
+    "achievements": [
+      "Wrote extensively about his experiences in the Alaskan wilderness.",
+      "Became a cultural icon for his pursuit of self-discovery and rejection of societal norms."
+    ],
+    "yearBorn": 1968,
+    "yearDied": 1992
+  }
+]

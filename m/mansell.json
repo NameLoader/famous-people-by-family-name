@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Nigel Mansell",
+    "givenNames": [
+      "Nigel"
+    ],
+    "familyName": "Mansell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Mansell",
+    "occupation": "Race Car Driver",
+    "achievements": [
+      "1992 Formula One World Champion",
+      "Multiple British Touring Car Championship victories"
+    ],
+    "yearBorn": 1953
+  }
+]

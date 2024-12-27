@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Winthrop",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Winthrop",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Winthrop",
+    "occupation": "Governor, Puritan leader",
+    "achievements": [
+      "Founder of the Massachusetts Bay Colony",
+      "Author of 'A Model of Christian Charity'",
+      "Influential figure in early American Puritanism"
+    ],
+    "yearBorn": 1588,
+    "yearDied": 1649
+  }
+]

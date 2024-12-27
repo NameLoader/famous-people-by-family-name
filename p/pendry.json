@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Pendry",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Pendry",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Pendry",
+    "occupation": "Theoretical Physicist",
+    "achievements": [
+      "Pioneer in metamaterials research",
+      "Developed concepts like negative refraction and cloaking devices"
+    ],
+    "yearBorn": 1946
+  }
+]

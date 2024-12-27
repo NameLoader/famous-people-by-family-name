@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Lydon",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Lydon",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lydon",
+    "occupation": "musician, singer, songwriter, actor",
+    "achievements": [
+      "Lead singer of the Sex Pistols",
+      "Prolific solo music career"
+    ],
+    "yearBorn": 1956
+  }
+]

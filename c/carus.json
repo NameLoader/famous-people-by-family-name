@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Marcus Aurelius Carus",
+    "givenNames": [
+      "Marcus",
+      "Aurelius"
+    ],
+    "familyName": "Carus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius_Carus",
+    "occupation": "Roman Emperor",
+    "achievements": [
+      "Ruled as Roman Emperor from 282 to 283 AD"
+    ],
+    "yearBorn": 230,
+    "yearDied": 283
+  }
+]

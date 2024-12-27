@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Ian McKellen",
+    "givenNames": [
+      "Ian"
+    ],
+    "familyName": "McKellen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_McKellen",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actor",
+      "Tony Award for Best Featured Actor in a Play",
+      "Golden Globe Award nomination for Best Supporting Actor",
+      "Known for roles in The Lord of the Rings and X-Men film series"
+    ],
+    "yearBorn": 1939
+  }
+]

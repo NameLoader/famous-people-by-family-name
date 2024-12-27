@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Sutter",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Sutter",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sutter",
+    "occupation": "Entrepreneur, farmer, politician",
+    "achievements": [
+      "Founding Sutter's Fort in California",
+      "Discovering gold at his mill, sparking the California Gold Rush"
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1880
+  }
+]

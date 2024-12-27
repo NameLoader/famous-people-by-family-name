@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Chippendale",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Chippendale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Chippendale",
+    "occupation": "Cabinetmaker, furniture designer",
+    "achievements": [
+      "Influential English cabinetmaker and furniture designer of the Rococo Revival style",
+      "Known for his intricate designs and use of fine materials"
+    ],
+    "yearBorn": 1718,
+    "yearDied": 1779
+  }
+]

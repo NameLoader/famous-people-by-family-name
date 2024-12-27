@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jane Goodall",
+    "givenNames": [
+      "Jane"
+    ],
+    "familyName": "Goodall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Goodall",
+    "occupation": "Primatologist, anthropologist, and UN Messenger of Peace",
+    "achievements": [
+      "Pioneering research on chimpanzee behavior in Gombe Stream National Park",
+      "Advocacy for animal welfare and conservation",
+      "Founder of the Jane Goodall Institute"
+    ],
+    "yearBorn": 1934
+  }
+]

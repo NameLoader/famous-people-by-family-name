@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gertrude Stein",
+    "givenNames": [
+      "Gertrude"
+    ],
+    "familyName": "Stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Stein",
+    "occupation": "Writer, poet, art collector",
+    "achievements": [
+      "Pioneering modernism in literature",
+      "Influential figure in the Parisian arts scene",
+      "Known for her experimental writing style"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1946
+  }
+]

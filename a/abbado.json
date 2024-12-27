@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Claudio Abbado",
+    "givenNames": [
+      "Claudio"
+    ],
+    "familyName": "Abbado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Abbado",
+    "occupation": "Conductor",
+    "achievements": [
+      "Led major orchestras including the Vienna Philharmonic and the Berlin Philharmonic.",
+      "Known for his interpretations of Mahler and Verdi operas."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2014
+  }
+]

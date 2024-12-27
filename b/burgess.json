@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anthony Burgess",
+    "givenNames": [
+      "Anthony"
+    ],
+    "familyName": "Burgess",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Burgess",
+    "occupation": "Writer, Composer",
+    "achievements": [
+      "Authored the novel *A Clockwork Orange*",
+      "Known for his exploration of themes like dystopia and language."
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1993
+  }
+]

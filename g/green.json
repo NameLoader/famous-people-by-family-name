@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Green",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Green_(mathematician)",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Known for his work on mathematical physics",
+      "Developed Green's functions and Green's theorem"
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1841
+  }
+]

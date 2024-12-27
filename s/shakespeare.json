@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Shakespeare",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Shakespeare",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Shakespeare",
+    "occupation": "Playwright, Poet",
+    "achievements": [
+      "Considered the greatest writer in the English language and the world's pre-eminent dramatist.",
+      "Author of numerous plays including Hamlet, Romeo and Juliet, Macbeth, King Lear, and Othello.",
+      "Wrote 154 sonnets and two long narrative poems."
+    ],
+    "yearBorn": 1564,
+    "yearDied": 1616
+  }
+]

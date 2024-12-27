@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Allen Iverson",
+    "givenNames": [
+      "Allen"
+    ],
+    "familyName": "Iverson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Iverson",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Rookie of the Year (1997)",
+      "11-time NBA All-Star",
+      "4-time All-NBA First Team selection",
+      "NBA Scoring Champion (2000)"
+    ],
+    "yearBorn": 1975
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jonathan Franzen",
+    "givenNames": [
+      "Jonathan"
+    ],
+    "familyName": "Franzen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Franzen",
+    "occupation": "Author",
+    "achievements": [
+      "Pulitzer Prize for Fiction (2001) for *The Corrections*",
+      "National Book Award for Fiction (2001) for *The Corrections*",
+      "Bestselling author of novels such as *Freedom* and *Purity*"
+    ],
+    "yearBorn": 1959
+  }
+]

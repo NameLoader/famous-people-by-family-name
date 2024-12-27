@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Trevithick",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Trevithick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Trevithick",
+    "occupation": "Engineer, inventor",
+    "achievements": [
+      "Invented the first high-pressure steam locomotive",
+      "Developed the Cornish pumping engine"
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1833
+  }
+]

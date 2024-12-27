@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Montgomery Clift",
+    "givenNames": [
+      "Montgomery"
+    ],
+    "familyName": "Clift",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montgomery_Clift",
+    "occupation": "Actor",
+    "achievements": [
+      "Considered one of the greatest actors of American cinema.",
+      "Nominated for three Academy Awards."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1966
+  }
+]

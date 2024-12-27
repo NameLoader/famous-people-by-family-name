@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Richard Beeching",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Beeching",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Beeching",
+    "occupation": "British railway administrator and economist",
+    "achievements": [
+      "Headed the Beeching Report, which drastically restructured the British rail system in the 1960s."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1985
+  }
+]

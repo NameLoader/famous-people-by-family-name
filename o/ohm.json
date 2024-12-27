@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Friedrich Wilhelm Ohm",
+    "givenNames": [
+      "Friedrich",
+      "Wilhelm"
+    ],
+    "familyName": "Ohm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Simon_Ohm",
+    "occupation": "physicist",
+    "achievements": [
+      "Formulated Ohm's law, which describes the relationship between voltage, current and resistance in an electrical circuit."
+    ],
+    "yearBorn": 1789,
+    "yearDied": 1854
+  }
+]

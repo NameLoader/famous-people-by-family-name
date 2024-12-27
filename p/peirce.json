@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Sanders Peirce",
+    "givenNames": [
+      "Charles",
+      "Sanders"
+    ],
+    "familyName": "Peirce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce",
+    "occupation": "Philosopher, logician, mathematician",
+    "achievements": [
+      "Considered one of the founders of American pragmatism",
+      "Major contributions to logic, semiotics, and epistemology"
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1914
+  }
+]

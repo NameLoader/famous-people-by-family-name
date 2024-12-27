@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Samuel Crompton",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Crompton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Crompton",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the spinning mule in 1779."
+    ],
+    "yearBorn": 1753,
+    "yearDied": 1827
+  }
+]

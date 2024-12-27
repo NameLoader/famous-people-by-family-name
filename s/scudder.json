@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Samuel Scudder",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Scudder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Scudder",
+    "occupation": "Entomologist, paleontologist",
+    "achievements": [
+      "Known for his work on fossil insects and butterflies.",
+      "Authored numerous scientific papers on entomology."
+    ],
+    "yearBorn": 1837,
+    "yearDied": 1911
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Mason",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Mason",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Mason",
+    "occupation": "Lawyer, Founding Father",
+    "achievements": [
+      "Drafted the Virginia Declaration of Rights.",
+      "Influential figure in the American Revolution.",
+      "Principal author of the Articles of Confederation."
+    ],
+    "yearBorn": 1725,
+    "yearDied": 1792
+  }
+]

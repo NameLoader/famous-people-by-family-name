@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Frederick William I of Brandenburg",
+    "givenNames": [
+      "Frederick",
+      "William"
+    ],
+    "familyName": "Brandenburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia",
+    "occupation": "King of Prussia",
+    "achievements": [
+      "Established the Prussian army as a formidable force.",
+      "Expanded the territories of Brandenburg-Prussia."
+    ],
+    "yearBorn": 1688,
+    "yearDied": 1740
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Frank Lampard",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Lampard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Lampard",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Premier League winner (3)",
+      "UEFA Champions League runner-up",
+      "FA Cup winner (4)",
+      "England international (106 caps)"
+    ],
+    "yearBorn": 1978
+  }
+]

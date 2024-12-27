@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Stark",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Stark",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stark",
+    "occupation": "Military General",
+    "achievements": [
+      "Key figure in the American Revolutionary War",
+      "Victory at the Battle of Bennington"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1822
+  }
+]

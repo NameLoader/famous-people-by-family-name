@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Heinrich Heine",
+    "givenNames": [
+      "Heinrich"
+    ],
+    "familyName": "Heine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
+    "occupation": "Poet, Literary Critic",
+    "achievements": [
+      "One of the most important German poets of the Romantic era.",
+      "Known for his sharp wit, satire, and lyrical poetry.",
+      "Works include 'Reisebilder' (Travel Pictures), 'Die Lorelei', and 'Deutschland. Ein Wintermärchen'."
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1856
+  }
+]

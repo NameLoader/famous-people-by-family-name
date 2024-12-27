@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Geraldine Ferraro",
+    "givenNames": [
+      "Geraldine"
+    ],
+    "familyName": "Ferraro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geraldine_Ferraro",
+    "occupation": "Politician, Attorney",
+    "achievements": [
+      "First woman nominated for Vice President by a major political party in the United States.",
+      "Served as U.S. Representative for New York's 9th congressional district from 1979 to 1985."
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2011
+  }
+]

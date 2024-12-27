@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Emil Jannings",
+    "givenNames": [
+      "Emil"
+    ],
+    "familyName": "Jannings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Jannings",
+    "occupation": "Actor",
+    "achievements": [
+      "First actor to win an Academy Award for Best Actor (1929)",
+      "Starred in several silent films, including *The Way of All Flesh* and *The Last Command*"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1950
+  }
+]

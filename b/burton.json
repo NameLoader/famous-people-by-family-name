@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Burton",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Burton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Burton",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his powerful voice and charismatic stage presence.",
+      "Starred in numerous films including 'Cleopatra', 'The Robe', and 'Anne of the Thousand Days'."
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1984
+  }
+]

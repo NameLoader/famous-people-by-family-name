@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Singleton Mosby",
+    "givenNames": [
+      "John",
+      "Singleton"
+    ],
+    "familyName": "Mosby",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Singleton_Mosby",
+    "occupation": "Confederate Cavalry Commander",
+    "achievements": [
+      "Led Mosby's Rangers during the American Civil War",
+      "Known for guerilla warfare tactics"
+    ],
+    "yearBorn": 1833,
+    "yearDied": 1906
+  }
+]

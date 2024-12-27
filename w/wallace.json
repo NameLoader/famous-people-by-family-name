@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sir William Wallace",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Wallace",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wallace",
+    "occupation": "Military Leader, Patriot",
+    "achievements": [
+      "Led the Scots in resistance against English rule during the Wars of Scottish Independence.",
+      "Famous for his bravery and military tactics."
+    ],
+    "yearBorn": 1270,
+    "yearDied": 1305
+  },
+  {
+    "fullName": "Alfred Wallace",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Wallace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace",
+    "occupation": "Biologist, Naturalist",
+    "achievements": [
+      "Independently conceived the theory of evolution by natural selection.",
+      "Co-published a paper with Charles Darwin on the theory of evolution."
+    ],
+    "yearBorn": 1823,
+    "yearDied": 1913
+  }
+]

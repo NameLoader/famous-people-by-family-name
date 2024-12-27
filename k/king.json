@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Martin Luther King Jr.",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+    "occupation": "Civil rights activist, Baptist minister",
+    "achievements": [
+      "Led the Civil Rights Movement in the United States",
+      "Advanced civil rights through nonviolence and civil disobedience",
+      "Delivered his iconic 'I Have a Dream' speech"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Stephen King",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_King",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "One of the most successful horror writers of all time",
+      "Known for his prolific output and terrifying tales",
+      "Adapted numerous works into films and television series"
+    ],
+    "yearBorn": 1947
+  }
+]

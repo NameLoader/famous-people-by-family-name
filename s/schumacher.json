@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Michael Schumacher",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Schumacher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Schumacher",
+    "occupation": "Race car driver",
+    "achievements": [
+      "Seven-time Formula One World Champion",
+      "Most race wins in Formula One history (91)",
+      "Record holder for most pole positions in Formula One (68)"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Ralf Schumacher",
+    "givenNames": [
+      "Ralf"
+    ],
+    "familyName": "Schumacher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralf_Schumacher",
+    "occupation": "Former race car driver",
+    "achievements": [
+      "Won six Formula One races",
+      "Finished third in the 2001 Formula One World Championship"
+    ],
+    "yearBorn": 1975
+  }
+]

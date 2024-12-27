@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Morris",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Morris",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Morris",
+    "occupation": "Designer, socialist activist, writer",
+    "achievements": [
+      "Arts and Crafts movement founder",
+      "Poet and novelist",
+      "Textile designer"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1896
+  }
+]

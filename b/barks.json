@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Carl Barks",
+    "givenNames": [
+      "Carl"
+    ],
+    "familyName": "Barks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Barks",
+    "occupation": "Comic book writer and artist",
+    "achievements": [
+      "Created numerous famous Disney characters such as Scrooge McDuck, Gyro Gearloose, and Huey, Dewey, and Louie.",
+      "Wrote and illustrated over 300 Donald Duck comics."
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1989
+  }
+]

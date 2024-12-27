@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sir Ernest Henry Shackleton",
+    "givenNames": [
+      "Ernest",
+      "Henry"
+    ],
+    "familyName": "Shackleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+    "occupation": "Explorer, Antarctic explorer",
+    "achievements": [
+      "Led the Imperial Trans-Antarctic Expedition (1914–1917)",
+      "Survived and led his crew to safety after their ship, the Endurance, became trapped in Antarctic ice",
+      "Widely regarded as one of the greatest polar explorers of all time"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1922
+  }
+]

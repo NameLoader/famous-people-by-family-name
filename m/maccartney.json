@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sir Paul McCartney",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "MacCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Member of The Beatles",
+      "Highly successful solo career",
+      "Grammy Award winner",
+      "Nobel Peace Prize nominee"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Stella McCartney",
+    "givenNames": [
+      "Stella"
+    ],
+    "familyName": "MacCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stella_McCartney",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Founder of her own luxury fashion label",
+      "Collaborations with Adidas and H&M",
+      "Known for ethical and sustainable practices"
+    ],
+    "yearBorn": 1971
+  }
+]

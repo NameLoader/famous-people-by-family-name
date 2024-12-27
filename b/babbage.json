@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Babbage",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Babbage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Babbage",
+    "occupation": "Mathematician, mechanical engineer, and inventor",
+    "achievements": [
+      "Designed the Analytical Engine, a groundbreaking general-purpose computer.",
+      "Considered the 'father of the computer'."
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1871
+  }
+]

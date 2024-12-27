@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Grigory Rasputin",
+    "givenNames": [
+      "Grigory"
+    ],
+    "familyName": "Grigori",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
+    "occupation": "Mystic, self-proclaimed holy man",
+    "achievements": [
+      "Influenced Russian Imperial Family"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1916
+  }
+]

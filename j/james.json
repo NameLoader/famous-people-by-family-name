@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry James",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "James",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_James",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Master of psychological realism in fiction",
+      "Prolific writer known for works like 'The Portrait of a Lady' and 'The Turn of the Screw'"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1916
+  }
+]

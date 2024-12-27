@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Stewart Rolls",
+    "givenNames": [
+      "Charles",
+      "Stewart"
+    ],
+    "familyName": "Rolls",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_S._Rolls",
+    "occupation": "Engineer, co-founder of Rolls-Royce",
+    "achievements": [
+      "Co-founded Rolls-Royce with Henry Royce.",
+      "Pioneered the early days of aviation and automobile engineering."
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1908
+  }
+]

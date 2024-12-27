@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Godfrey Kneller",
+    "givenNames": [
+      "Godfrey"
+    ],
+    "familyName": "Kneller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Godfrey_Kneller",
+    "occupation": "Portrait painter",
+    "achievements": [
+      "Official portrait painter to Queen Anne of England",
+      "Painted numerous influential portraits of British nobility and royalty"
+    ],
+    "yearBorn": 1642,
+    "yearDied": 1723
+  }
+]

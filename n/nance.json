@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Nance Garner",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Nance",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Nance_Garner",
+    "occupation": "Politician",
+    "achievements": [
+      "32nd Vice President of the United States (1933-1941)",
+      "Speaker of the House of Representatives (1931-1933)"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1967
+  }
+]

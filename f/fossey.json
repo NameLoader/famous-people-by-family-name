@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dian Fossey",
+    "givenNames": [
+      "Dian"
+    ],
+    "familyName": "Fossey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dian_Fossey",
+    "occupation": "Zoologist, Primatologist",
+    "achievements": [
+      "Studied mountain gorillas in Rwanda for over two decades.",
+      "Advocated for gorilla conservation and raised awareness about threats to their habitat.",
+      "Authored the book 'Gorillas in the Mist'."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1985
+  }
+]

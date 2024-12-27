@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Christopher Isherwood",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Isherwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Isherwood",
+    "occupation": "Author, Poet, Playwright",
+    "achievements": [
+      "Best known for his semi-autobiographical novel *A Single Man*",
+      "Chronicled the lives of gay men in pre-war Berlin",
+      "Collaborated with composer Kurt Weill on musical adaptations"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1987
+  }
+]

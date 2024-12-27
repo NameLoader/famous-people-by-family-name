@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arthur Miller",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Miller",
+    "occupation": "Playwright, essayist",
+    "achievements": [
+      "Pulitzer Prize for Drama (The Crucible)",
+      "Tony Award for Best Play (Death of a Salesman)"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2005
+  }
+]

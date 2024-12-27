@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alfred Wegener",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Wegener",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+    "occupation": "Geophysicist, Meteorologist",
+    "achievements": [
+      "Proposed the theory of continental drift",
+      "Provided evidence for the movement of continents over geological time"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1930
+  }
+]

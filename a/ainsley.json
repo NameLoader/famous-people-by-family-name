@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gordon Ramsay Ainsley",
+    "givenNames": [
+      "Gordon",
+      "Ramsay"
+    ],
+    "familyName": "Ainsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Ramsay",
+    "occupation": "Chef, restaurateur, television personality",
+    "achievements": [
+      "Won multiple Michelin stars for his restaurants",
+      "Starred in numerous successful cooking shows",
+      "Known for his fiery temper and high standards"
+    ],
+    "yearBorn": 1966
+  }
+]

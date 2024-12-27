@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Roy O. Disney",
+    "givenNames": [
+      "Roy"
+    ],
+    "familyName": "Disney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_O._Disney",
+    "occupation": "Business executive, co-founder of The Walt Disney Company",
+    "achievements": [
+      "Co-founded The Walt Disney Company with his brother Walt",
+      "Instrumental in securing financing and business deals for Disney's projects",
+      "Oversaw the company's expansion and growth after Walt's death"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1971
+  }
+]

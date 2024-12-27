@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Archibald Edward Garrod",
+    "givenNames": [
+      "Archibald",
+      "Edward"
+    ],
+    "familyName": "Garrod",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archibald_Garrod",
+    "occupation": "Physician, Biochemist",
+    "achievements": [
+      "Pioneer in the field of inborn errors of metabolism.",
+      "Proposed the concept of genetic inheritance of metabolic disorders.",
+      "Identified several hereditary diseases with specific biochemical defects."
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1936
+  }
+]

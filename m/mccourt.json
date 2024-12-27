@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Frank McCourt",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "McCourt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_McCourt",
+    "occupation": "Author, Teacher",
+    "achievements": [
+      "Pulitzer Prize for Fiction (2000) for *Angela's Ashes*",
+      "Acclaimed author known for memoirs about his childhood in Limerick, Ireland"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2009
+  }
+]

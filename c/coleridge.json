@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Samuel Taylor Coleridge",
+    "givenNames": [
+      "Samuel",
+      "Taylor"
+    ],
+    "familyName": "Coleridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
+    "occupation": "Poet, Literary Critic, Philosopher",
+    "achievements": [
+      "One of the founders of English Romanticism.",
+      "Author of famous poems like 'The Rime of the Ancient Mariner' and 'Kubla Khan'.",
+      "Influential literary critic and theorist."
+    ],
+    "yearBorn": 1772,
+    "yearDied": 1834
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Stephen Douglas",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Douglas",
+    "occupation": "Politician",
+    "achievements": [
+      "United States Senator from Illinois (1847-1859)",
+      "Prominent figure in the debates leading up to the American Civil War",
+      "Challenged Abraham Lincoln to a series of debates during the 1860 presidential election"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1861
+  }
+]

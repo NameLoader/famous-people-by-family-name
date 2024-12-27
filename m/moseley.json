@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry Moseley",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Moseley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Moseley",
+    "occupation": "physicist",
+    "achievements": [
+      "Developed Moseley's Law, which established the relationship between atomic number and X-ray frequency.",
+      "Contributed to the understanding of atomic structure and the periodic table."
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1915
+  }
+]

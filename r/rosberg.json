@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Nico Rosberg",
+    "givenNames": [
+      "Nico"
+    ],
+    "familyName": "Rosberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nico_Rosberg",
+    "occupation": "Race car driver",
+    "achievements": [
+      "2016 Formula One World Champion"
+    ],
+    "yearBorn": 1985
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Ramsey",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Ramsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_William_Ramsay",
+    "occupation": "Chemist",
+    "achievements": [
+      "Discoverer of noble gases (Helium, Neon, Argon)",
+      "Nobel Prize in Chemistry (1904)"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1916
+  }
+]

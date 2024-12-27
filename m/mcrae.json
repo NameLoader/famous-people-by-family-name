@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Colin McRae",
+    "givenNames": [
+      "Colin"
+    ],
+    "familyName": "McRae",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_McRae",
+    "occupation": "Rally Driver",
+    "achievements": [
+      "1995 World Rally Champion"
+    ],
+    "yearBorn": 1968,
+    "yearDied": 2007
+  }
+]

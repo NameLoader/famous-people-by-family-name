@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Garner",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Garner",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Garner",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous films and television shows.",
+      "Known for his roles in \"Maverick\", \"The Rockford Files\", and \"Support Your Local Sheriff!\""
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2014
+  }
+]

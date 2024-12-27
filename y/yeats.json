@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Butler Yeats",
+    "givenNames": [
+      "William",
+      "Butler"
+    ],
+    "familyName": "Yeats",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._B._Yeats",
+    "occupation": "Poet, Playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1923)",
+      "Leading figure in the Irish Literary Revival",
+      "Influential poet of the 20th century"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1939
+  }
+]

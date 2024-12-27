@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ralph Fiennes",
+    "givenNames": [
+      "Ralph"
+    ],
+    "familyName": "Fiennes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Fiennes",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Academy Award nomination for Best Actor for Schindler's List",
+      "BAFTA Award winner for Best Actor for The English Patient"
+    ],
+    "yearBorn": 1962
+  }
+]

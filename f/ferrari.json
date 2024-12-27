@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Enzo Ferrari",
+    "givenNames": [
+      "Enzo"
+    ],
+    "familyName": "Ferrari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enzo_Ferrari",
+    "occupation": "Racecar driver, Entrepreneur, Founder of Ferrari S.p.A.",
+    "achievements": [
+      "Founded Scuderia Ferrari racing team",
+      "Established Ferrari S.p.A.",
+      "Developed iconic sports cars known for performance and luxury"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1988
+  }
+]

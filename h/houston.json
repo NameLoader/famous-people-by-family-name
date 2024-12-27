@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sam Houston",
+    "givenNames": [
+      "Sam"
+    ],
+    "familyName": "Houston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Houston",
+    "occupation": "Politician, General",
+    "achievements": [
+      "First and third President of the Republic of Texas",
+      "U.S. Senator from Texas"
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1863
+  },
+  {
+    "fullName": "Whitney Houston",
+    "givenNames": [
+      "Whitney"
+    ],
+    "familyName": "Houston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitney_Houston",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1963,
+    "yearDied": 2012
+  }
+]

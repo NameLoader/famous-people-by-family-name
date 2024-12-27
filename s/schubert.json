@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Franz Schubert",
+    "givenNames": [
+      "Franz"
+    ],
+    "familyName": "Schubert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered one of the most important composers of the Romantic era.",
+      "Known for his Lieder (art songs) and chamber music.",
+      "Composed iconic works like 'Ave Maria', 'Unfinished Symphony', and 'Trout Quintet'."
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1828
+  }
+]

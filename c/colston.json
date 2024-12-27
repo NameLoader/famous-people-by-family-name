@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Colston",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Colston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Colston",
+    "occupation": "Merchant, philanthropist",
+    "achievements": [
+      "Founded several charities in Bristol, England.",
+      "Instrumental in the growth of Bristol's slave trade."
+    ],
+    "yearBorn": 1636,
+    "yearDied": 1721
+  }
+]

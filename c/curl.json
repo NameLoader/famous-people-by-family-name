@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Robert Curl Jr.",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Curl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Curl",
+    "occupation": "chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1996)",
+      "Discovery of fullerenes"
+    ],
+    "yearBorn": 1934
+  }
+]

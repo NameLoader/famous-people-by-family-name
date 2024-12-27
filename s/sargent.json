@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Singer Sargent",
+    "givenNames": [
+      "John",
+      "Singer"
+    ],
+    "familyName": "Sargent",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+    "occupation": "Painter",
+    "achievements": [
+      "Portraits of prominent figures of his era",
+      "Influential figure in the American Gilded Age art scene",
+      "Master of Impressionistic painting techniques"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1925
+  }
+]

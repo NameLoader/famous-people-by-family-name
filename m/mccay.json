@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Winsor McCay",
+    "givenNames": [
+      "Winsor"
+    ],
+    "familyName": "McCay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winsor_McCay",
+    "occupation": "Cartoonist, animator, illustrator",
+    "achievements": [
+      "Created Little Nemo in Slumberland, a groundbreaking comic strip.",
+      "Developed some of the earliest animation techniques.",
+      "Directed the first full-length animated feature film, Gertie the Dinosaur."
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1934
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Baldassare Castiglione",
+    "givenNames": [
+      "Baldassare"
+    ],
+    "familyName": "Castiglione",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baldassare_Castiglione",
+    "occupation": "Diplomat, writer, and humanist",
+    "achievements": [
+      "Authored *The Book of the Courtier*, a renowned treatise on courtly manners and etiquette."
+    ],
+    "yearBorn": 1478,
+    "yearDied": 1529
+  }
+]

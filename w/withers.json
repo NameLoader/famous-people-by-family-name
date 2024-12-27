@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "William Withers",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Withers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Withers",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Known for songs like 'Ain't No Sunshine', 'Lean on Me', and 'Just Like That'.",
+      "Grammy Award-winning artist."
+    ],
+    "yearBorn": 1947
+  }
+]

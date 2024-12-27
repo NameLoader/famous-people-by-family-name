@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Adolf Eichmann",
+    "givenNames": [
+      "Adolf"
+    ],
+    "familyName": "Eichmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Eichmann",
+    "occupation": "SS officer",
+    "achievements": [
+      "Key organizer of the Holocaust"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1962
+  }
+]

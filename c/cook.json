@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Cook",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Cook",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Cook",
+    "occupation": "Explorer, navigator, cartographer",
+    "achievements": [
+      "Charted the Pacific Ocean and New Zealand",
+      "First European to reach Australia's east coast",
+      "Made significant contributions to cartography and navigation"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1779
+  }
+]

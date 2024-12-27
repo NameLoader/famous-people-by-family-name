@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Humphry Davy",
+    "givenNames": [
+      "Humphry"
+    ],
+    "familyName": "Davy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Humphry_Davy",
+    "occupation": "Chemist, Inventor",
+    "achievements": [
+      "Discovered several elements including sodium, potassium, calcium, magnesium",
+      "Invented the Davy lamp for miners",
+      "Contributed to the understanding of electrolysis"
+    ],
+    "yearBorn": 1778,
+    "yearDied": 1829
+  }
+]

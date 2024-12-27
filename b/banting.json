@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Frederick Grant Banting",
+    "givenNames": [
+      "Frederick",
+      "Grant"
+    ],
+    "familyName": "Banting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Banting",
+    "occupation": "Physician, Scientist",
+    "achievements": [
+      "Co-discovered insulin",
+      "Nobel Prize in Physiology or Medicine (1923)"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1941
+  }
+]

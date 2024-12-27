@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Elvis Aaron Presley",
+    "givenNames": [
+      "Elvis",
+      "Aaron"
+    ],
+    "familyName": "Presley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "King of Rock and Roll",
+      "One of the most significant cultural icons of the 20th century",
+      "Sold over 500 million records worldwide"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Lisa Marie Presley",
+    "givenNames": [
+      "Lisa",
+      "Marie"
+    ],
+    "familyName": "Presley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Marie_Presley",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Daughter of Elvis Presley",
+      "Released several albums and singles"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Riley Keough",
+    "givenNames": [
+      "Riley"
+    ],
+    "familyName": "Presley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riley_Keough",
+    "occupation": "Actress",
+    "achievements": [
+      "Granddaughter of Elvis Presley",
+      "Starring roles in films like 'Mad Max: Fury Road' and 'The Girlfriend Experience'"
+    ],
+    "yearBorn": 1989
+  }
+]

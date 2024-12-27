@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Sandra Bullock",
+    "givenNames": [
+      "Sandra"
+    ],
+    "familyName": "Bullock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Bullock",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Academy Award for Best Actress (2010)",
+      "Golden Globe Award for Best Actress – Motion Picture Comedy or Musical (2010)"
+    ],
+    "yearBorn": 1964
+  }
+]

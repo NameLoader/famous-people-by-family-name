@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Werner von Siemens",
+    "givenNames": [
+      "Werner"
+    ],
+    "familyName": "Siemens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Werner_von_Siemens",
+    "occupation": "Inventor, engineer, businessman",
+    "achievements": [
+      "Founded Siemens AG, a multinational conglomerate known for its electrical engineering and electronics products.",
+      "Invented the first commercially successful electric motor."
+    ],
+    "yearBorn": 1816,
+    "yearDied": 1892
+  }
+]

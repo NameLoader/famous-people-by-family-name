@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Stephen Covey",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Covey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_R._Covey",
+    "occupation": "Author, business executive, educator",
+    "achievements": [
+      "Authored *The 7 Habits of Highly Effective People*",
+      "Known for his principles-centered approach to leadership and personal effectiveness"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2012
+  }
+]

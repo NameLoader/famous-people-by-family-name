@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Anthony Trollope",
+    "givenNames": [
+      "Anthony"
+    ],
+    "familyName": "Trollope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Trollope",
+    "occupation": "Novelist",
+    "achievements": [
+      "Known for his realistic depictions of Victorian society",
+      "Wrote over 20 novels and numerous short stories",
+      "Published in serial form, contributing to the popularity of magazines"
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1883
+  }
+]

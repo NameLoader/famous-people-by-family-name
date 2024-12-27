@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Tyson Fury",
+    "givenNames": [
+      "Tyson"
+    ],
+    "familyName": "Fury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyson_Fury",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "World Heavyweight Champion (WBC)",
+      "Two-time lineal heavyweight champion",
+      "Ring magazine heavyweight champion"
+    ],
+    "yearBorn": 1988
+  }
+]

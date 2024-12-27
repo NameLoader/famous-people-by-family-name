@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Stephen Crane",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Crane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Crane",
+    "occupation": "Novelist, poet, short story writer",
+    "achievements": [
+      "Known for his naturalistic and impressionistic style.",
+      "Wrote influential works such as *The Red Badge of Courage* and *Maggie: A Girl of the Streets*.",
+      "Considered one of the most important American authors of the late 19th century."
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1900
+  }
+]

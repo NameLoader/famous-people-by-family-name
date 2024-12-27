@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Richard Milhous Nixon",
+    "givenNames": [
+      "Richard",
+      "Milhous"
+    ],
+    "familyName": "Nixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Nixon",
+    "occupation": "Politician",
+    "achievements": [
+      "37th President of the United States (1969-1974)",
+      "Opened relations with China",
+      "Signed the Strategic Arms Limitation Treaty (SALT I)"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1994
+  }
+]

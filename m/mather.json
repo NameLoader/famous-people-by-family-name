@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Cotton Mather",
+    "givenNames": [
+      "Cotton"
+    ],
+    "familyName": "Mather",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cotton_Mather",
+    "occupation": "Clergyman, Puritan writer",
+    "achievements": [
+      "Prominent figure in the Salem Witch Trials",
+      "Author of numerous theological and historical works",
+      "Influential voice in colonial American religious thought"
+    ],
+    "yearBorn": 1663,
+    "yearDied": 1728
+  }
+]

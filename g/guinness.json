@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arthur Guinness",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Guinness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Guinness",
+    "occupation": "Brewer, founder of Guinness Brewery",
+    "achievements": [
+      "Founded the Guinness Brewery in Dublin, Ireland.",
+      "Made stout beer a globally recognized and popular drink."
+    ],
+    "yearBorn": 1725,
+    "yearDied": 1803
+  }
+]

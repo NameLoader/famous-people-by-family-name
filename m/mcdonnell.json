@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John McDonnell",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McDonnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McDonnell_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Member of the UK Parliament (Labour) for Hayes and Harlington since 1997",
+      "Shadow Chancellor of the Exchequer from 2015 to 2019"
+    ],
+    "yearBorn": 1951
+  }
+]

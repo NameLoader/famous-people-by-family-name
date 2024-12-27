@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Anne Neville",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Nevill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Neville",
+    "occupation": "Royal figure, Queen of England",
+    "achievements": [
+      "Queen consort to Richard III"
+    ],
+    "yearBorn": 1456,
+    "yearDied": 1485
+  }
+]

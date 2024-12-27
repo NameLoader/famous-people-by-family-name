@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jane Seymour",
+    "givenNames": [
+      "Jane"
+    ],
+    "familyName": "Seymour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Seymour",
+    "occupation": "Queen consort of England",
+    "achievements": [
+      "Third wife of Henry VIII",
+      "Mother of Edward VI"
+    ],
+    "yearBorn": 1508,
+    "yearDied": 1537
+  }
+]

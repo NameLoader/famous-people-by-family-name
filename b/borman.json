@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Frank Borman",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Borman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Borman",
+    "occupation": "Astronaut, Aerospace Executive",
+    "achievements": [
+      "Commander of Apollo 8, the first manned mission to orbit the Moon.",
+      "Piloted Gemini 7, a record-breaking spaceflight lasting over 14 days."
+    ],
+    "yearBorn": 1928
+  }
+]

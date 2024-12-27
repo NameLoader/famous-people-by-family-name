@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Neil Diamond",
+    "givenNames": [
+      "Neil"
+    ],
+    "familyName": "Diamond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Diamond",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Rock and Roll Hall of Fame inductee",
+      "Bestselling music artist"
+    ],
+    "yearBorn": 1941
+  }
+]

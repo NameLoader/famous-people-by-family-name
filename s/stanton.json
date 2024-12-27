@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Elizabeth Cady Stanton",
+    "givenNames": [
+      "Elizabeth",
+      "Cady"
+    ],
+    "familyName": "Stanton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton",
+    "occupation": "Suffragist, writer",
+    "achievements": [
+      "Key figure in the women's suffrage movement",
+      "Co-author of the Declaration of Sentiments",
+      "Advocate for women's rights in education, property, and employment"
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1902
+  },
+  {
+    "fullName": "Edwin Stanton",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Stanton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_M._Stanton",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "United States Secretary of War during the American Civil War",
+      "Close advisor to President Abraham Lincoln",
+      "Played a key role in prosecuting the war against the Confederacy"
+    ],
+    "yearBorn": 1814,
+    "yearDied": 1869
+  }
+]

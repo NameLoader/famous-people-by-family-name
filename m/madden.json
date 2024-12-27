@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Madden",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Madden",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Madden_(American_football)",
+    "occupation": "American football coach, commentator, and video game designer",
+    "achievements": [
+      "Super Bowl XI winning head coach for the Oakland Raiders",
+      "NFL Coach of the Year (1977)",
+      "Pro Football Hall of Fame inductee (2006)"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2021
+  }
+]

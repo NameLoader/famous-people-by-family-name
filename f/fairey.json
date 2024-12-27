@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Shepard Fairey",
+    "givenNames": [
+      "Shepard"
+    ],
+    "familyName": "Fairey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shepard_Fairey",
+    "occupation": "Artist, graphic designer",
+    "achievements": [
+      "Created the iconic \"Hope\" poster for Barack Obama's 2008 presidential campaign",
+      "Known for his street art and pop-surrealist style",
+      "Founded OBEY Clothing"
+    ],
+    "yearBorn": 1970
+  }
+]

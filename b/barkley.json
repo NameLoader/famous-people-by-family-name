@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Barkley",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Barkley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Barkley",
+    "occupation": "Retired basketball player, sports analyst",
+    "achievements": [
+      "NBA Hall of Famer",
+      "11-time NBA All-Star",
+      "Former NBA MVP (1993)",
+      "Olympic gold medalist (1992)"
+    ],
+    "yearBorn": 1963
+  }
+]

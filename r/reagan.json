@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ronald Wilson Reagan",
+    "givenNames": [
+      "Ronald",
+      "Wilson"
+    ],
+    "familyName": "Reagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+    "occupation": "Politician, actor",
+    "achievements": [
+      "40th President of the United States",
+      "Led the end of the Cold War",
+      "Promoted conservative economic policies"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 2004
+  }
+]

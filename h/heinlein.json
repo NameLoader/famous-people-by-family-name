@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Robert Anson Heinlein",
+    "givenNames": [
+      "Robert",
+      "Anson"
+    ],
+    "familyName": "Heinlein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_A._Heinlein",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "Prolific science fiction writer",
+      "Influential figure in the development of modern science fiction",
+      "Author of classics such as *Starship Troopers*, *Stranger in a Strange Land*, and *The Moon Is a Harsh Mistress*",
+      "Recipient of numerous awards, including the Hugo Award and the Nebula Award"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1988
+  }
+]

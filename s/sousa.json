@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Philip Sousa",
+    "givenNames": [
+      "John",
+      "Philip"
+    ],
+    "familyName": "Sousa",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Philip_Sousa",
+    "occupation": "Composer, Conductor",
+    "achievements": [
+      "March King",
+      "Composed iconic marches like 'The Stars and Stripes Forever'",
+      "Influenced American musical culture"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1932
+  }
+]

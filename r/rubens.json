@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Peter Paul Rubens",
+    "givenNames": [
+      "Peter",
+      "Paul"
+    ],
+    "familyName": "Rubens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+    "occupation": "Painter, diplomat",
+    "achievements": [
+      "One of the most influential painters of the Flemish Baroque",
+      "Master of dynamic compositions and vibrant colors",
+      "Known for religious works, portraits, and mythological scenes"
+    ],
+    "yearBorn": 1577,
+    "yearDied": 1640
+  }
+]

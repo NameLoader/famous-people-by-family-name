@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Winston Leonard Spencer Churchill",
+    "givenNames": [
+      "Winston",
+      "Leonard",
+      "Spencer"
+    ],
+    "familyName": "Churchill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Churchill",
+    "occupation": "Politician, Writer, and Wartime Prime Minister",
+    "achievements": [
+      "Prime Minister of the United Kingdom during World War II",
+      "Nobel Prize in Literature (1953)",
+      "Masterful orator and writer",
+      "Instrumental in Allied victory in World War II"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1965
+  }
+]

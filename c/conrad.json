@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Conrad",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Conrad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Conrad",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in popular television series *The Wild Wild West* and *Baretta*",
+      "Known for his action hero roles",
+      "Won several awards for his work in film and television"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2020
+  }
+]

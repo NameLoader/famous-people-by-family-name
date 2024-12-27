@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jordan Peele",
+    "givenNames": [
+      "Jordan"
+    ],
+    "familyName": "Peele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Peele",
+    "occupation": "Film director, screenwriter, producer, actor",
+    "achievements": [
+      "Academy Award for Best Original Screenplay for *Get Out*",
+      "Directors Guild of America Award for Outstanding Directing – Feature Film for *Get Out*",
+      "Independent Spirit Award for Best Director for *Get Out*"
+    ],
+    "yearBorn": 1979
+  }
+]

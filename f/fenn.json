@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Fenn",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Fenn",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_B._Fenn",
+    "occupation": "chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (2002) for his development of electrospray ionization",
+      "Pioneered the development of analytical techniques used to study biomolecules"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2010
+  }
+]

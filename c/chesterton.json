@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Gilbert Keith Chesterton",
+    "givenNames": [
+      "Gilbert",
+      "Keith"
+    ],
+    "familyName": "Chesterton",
+    "wikipedia": "https://en.wikipedia.org/wiki/G._K._Chesterton",
+    "occupation": "Writer, philosopher, journalist",
+    "achievements": [
+      "Prolific writer of novels, essays, poems, and plays",
+      "Known for his witty and insightful defence of Christianity",
+      "Famous works include *The Man Who Was Thursday*, *Orthodoxy*, and *The Everlasting Man*"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1936
+  }
+]

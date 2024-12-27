@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "William Gibson",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Gibson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Gibson",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "Considered a pioneer of the cyberpunk genre",
+      "Known for novels like Neuromancer, Count Zero, and Mona Lisa Overdrive"
+    ],
+    "yearBorn": 1948
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Gordon Meade",
+    "givenNames": [
+      "George",
+      "Gordon"
+    ],
+    "familyName": "Meade",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_G._Meade",
+    "occupation": "Union Army General",
+    "achievements": [
+      "Commander of the Union Army of the Potomac during the Battle of Gettysburg.",
+      "Instrumental in the defeat of Confederate forces at Gettysburg."
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1872
+  }
+]

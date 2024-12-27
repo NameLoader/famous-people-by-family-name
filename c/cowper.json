@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Cowper",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Cowper",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Cowper",
+    "occupation": "Poet, Writer",
+    "achievements": [
+      "Influential Romantic poet",
+      "Known for his melancholic and introspective works",
+      "Wrote famous poems like 'The Task' and 'John Gilpin'"
+    ],
+    "yearBorn": 1731,
+    "yearDied": 1800
+  }
+]

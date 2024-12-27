@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James I of England and VI of Scotland",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Stuart",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_I_of_England",
+    "occupation": "King",
+    "achievements": [
+      "United the crowns of Scotland and England",
+      "Sponsored translations of the King James Bible"
+    ],
+    "yearBorn": 1566,
+    "yearDied": 1625
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Astrid Lindgren",
+    "givenNames": [
+      "Astrid"
+    ],
+    "familyName": "Lindgren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Astrid_Lindgren",
+    "occupation": "Author, screenwriter",
+    "achievements": [
+      "Created beloved children's characters like Pippi Longstocking and Emil of Lönneberga",
+      "Received numerous literary awards including the Hans Christian Andersen Medal"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2002
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Smeaton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Smeaton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Smeaton",
+    "occupation": "Civil Engineer",
+    "achievements": [
+      "Considered the 'Father of Modern Civil Engineering'",
+      "Designed numerous bridges and structures, including the Edystone Lighthouse",
+      "Developed innovative construction techniques and materials"
+    ],
+    "yearBorn": 1724,
+    "yearDied": 1792
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Marshall Bruce Mathers III",
+    "givenNames": [
+      "Marshall",
+      "Bruce"
+    ],
+    "familyName": "Mathers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eminem",
+    "occupation": "Rapper, songwriter, record producer",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Academy Award for Best Original Song",
+      "Grammy Awards"
+    ],
+    "yearBorn": 1972
+  }
+]

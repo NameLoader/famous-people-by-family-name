@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Grace Kelley",
+    "givenNames": [
+      "Grace"
+    ],
+    "familyName": "Kelley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Kelly",
+    "occupation": "Actress, Princess of Monaco",
+    "achievements": [
+      "Won an Academy Award for Best Actress in 1955",
+      "Married Prince Rainier III of Monaco and became Princess Grace"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1982
+  }
+]

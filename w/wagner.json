@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Wagner",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Wagner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner",
+    "occupation": "Composer, conductor, writer",
+    "achievements": [
+      "Considered one of the most influential composers of all time",
+      "Revolutionized opera with his concept of Gesamtkunstwerk (total artwork)",
+      "Notable works include *The Ring Cycle*, *Tristan und Isolde*, and *Parsifal*"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1883
+  }
+]

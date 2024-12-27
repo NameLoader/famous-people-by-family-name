@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Horatio Nelson",
+    "givenNames": [
+      "Horatio"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson",
+    "occupation": "Admiral",
+    "achievements": [
+      "Victory at the Battle of the Nile",
+      "Fame as a British naval commander during the Napoleonic Wars"
+    ],
+    "yearBorn": 1758,
+    "yearDied": 1805
+  }
+]

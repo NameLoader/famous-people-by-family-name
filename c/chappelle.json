@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Dave Chappelle",
+    "givenNames": [
+      "Dave"
+    ],
+    "familyName": "Chappelle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dave_Chappelle",
+    "occupation": "Comedian, actor, writer",
+    "achievements": [
+      "Known for his stand-up comedy and sketch comedy series 'Chappelle's Show'",
+      "Recipient of multiple Grammy Awards"
+    ],
+    "yearBorn": 1973
+  }
+]

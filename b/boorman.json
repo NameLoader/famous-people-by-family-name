@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Boorman",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Boorman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Boorman",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Directed critically acclaimed films like *Point Blank*, *Deliverance*, and *Excalibur*.",
+      "Won numerous awards, including a BAFTA Award for Best Direction."
+    ],
+    "yearBorn": 1933
+  }
+]

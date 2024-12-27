@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Roger Penrose",
+    "givenNames": [
+      "Roger"
+    ],
+    "familyName": "Penrose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Penrose",
+    "occupation": "Mathematician, physicist",
+    "achievements": [
+      "Nobel Prize in Physics (2020)",
+      "Contributions to theoretical cosmology and quantum gravity"
+    ],
+    "yearBorn": 1931
+  }
+]

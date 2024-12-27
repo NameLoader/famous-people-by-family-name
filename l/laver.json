@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rod Laver",
+    "givenNames": [
+      "Rod"
+    ],
+    "familyName": "Laver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rod_Laver",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Only male tennis player to win the calendar Grand Slam twice (1962 and 1969)",
+      "Won 11 Grand Slam singles titles",
+      "Inducted into the International Tennis Hall of Fame in 1981"
+    ],
+    "yearBorn": 1938
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Aldrich",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Aldrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Aldrich",
+    "occupation": "American film director and producer",
+    "achievements": [
+      "Directed notable films like 'Vera Cruz', 'The Dirty Dozen', and 'What Ever Happened to Baby Jane?'",
+      "Known for his gritty, suspenseful, and often violent films."
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1983
+  }
+]

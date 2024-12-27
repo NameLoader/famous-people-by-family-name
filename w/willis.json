@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Bruce Willis",
+    "givenNames": [
+      "Bruce"
+    ],
+    "familyName": "Willis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Willis",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous blockbuster films, including the 'Die Hard' franchise and 'Pulp Fiction'.",
+      "Won a Golden Globe Award for Best Actor – Motion Picture Musical or Comedy."
+    ],
+    "yearBorn": 1955
+  }
+]

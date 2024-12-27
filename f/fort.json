@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Fort",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Fort",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Fort",
+    "occupation": "Writer, researcher",
+    "achievements": [
+      "Known for his works on paranormal phenomena and unexplained events.",
+      "Collected data on Forteana (unexplained phenomena) and popularized the term."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1932
+  }
+]

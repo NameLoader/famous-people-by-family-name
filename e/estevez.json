@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Emilio Estevez",
+    "givenNames": [
+      "Emilio"
+    ],
+    "familyName": "Estevez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilio_Estevez",
+    "occupation": "Actor, Director, Screenwriter",
+    "achievements": [
+      "Starred in iconic films like The Breakfast Club and St. Elmo's Fire",
+      "Directed several films including The War at Home"
+    ],
+    "yearBorn": 1962
+  }
+]

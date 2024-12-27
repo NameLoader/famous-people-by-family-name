@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Michael Jeffrey Jordan",
+    "givenNames": [
+      "Michael",
+      "Jeffrey"
+    ],
+    "familyName": "Jordan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jordan",
+    "occupation": "Basketball player, businessman",
+    "achievements": [
+      "Six-time NBA champion with the Chicago Bulls",
+      "Five-time NBA Most Valuable Player",
+      "Ten-time scoring champion",
+      "Considered one of the greatest basketball players of all time"
+    ],
+    "yearBorn": 1963
+  }
+]

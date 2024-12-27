@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Jackie Stewart",
+    "givenNames": [
+      "Jackie"
+    ],
+    "familyName": "McLaren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Stewart",
+    "occupation": "Race car driver",
+    "achievements": [
+      "Three-time Formula One World Champion (1969, 1971, 1973)",
+      "Known for his safety advocacy and contributions to improving motorsport safety"
+    ],
+    "yearBorn": 1939
+  }
+]

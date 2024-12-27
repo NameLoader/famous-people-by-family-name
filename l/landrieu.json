@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Mary Landrieu",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Landrieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Landrieu",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Senator from Louisiana (1997-2015)",
+      "First woman to represent Louisiana in the U.S. Senate"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Mitch Landrieu",
+    "givenNames": [
+      "Mitch"
+    ],
+    "familyName": "Landrieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitch_Landrieu",
+    "occupation": "Politician",
+    "achievements": [
+      "Mayor of New Orleans (2010-2018)",
+      "Played a key role in rebuilding the city after Hurricane Katrina"
+    ],
+    "yearBorn": 1964
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mary Quant",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Quant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Quant",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Revolutionized women's fashion in the 1960s with her bold and youthful designs.",
+      "Invented the miniskirt."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2023
+  }
+]

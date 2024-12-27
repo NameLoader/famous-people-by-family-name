@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Johann Strauss I",
+    "givenNames": [
+      "Johann"
+    ],
+    "familyName": "Strauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_I",
+    "occupation": "Composer, violinist",
+    "achievements": [
+      "Known as the 'Waltz King'",
+      "Composed many popular waltzes"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1849
+  },
+  {
+    "fullName": "Johann Strauss II",
+    "givenNames": [
+      "Johann"
+    ],
+    "familyName": "Strauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+    "occupation": "Composer, violinist",
+    "achievements": [
+      "Most famous for waltzes such as 'The Blue Danube'",
+      "Known as the 'Waltz King'"
+    ],
+    "yearBorn": 1825,
+    "yearDied": 1899
+  },
+  {
+    "fullName": "Richard Strauss",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Strauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Strauss",
+    "occupation": "Composer, conductor",
+    "achievements": [
+      "Prolific composer of operas and orchestral works",
+      "Known for his tone poems"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1949
+  }
+]

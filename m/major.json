@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Major",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Major",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Major",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom from 1990 to 1997",
+      "Leader of the Conservative Party from 1989 to 2001"
+    ],
+    "yearBorn": 1943
+  }
+]

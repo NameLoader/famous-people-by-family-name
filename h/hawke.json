@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ethan Hawke",
+    "givenNames": [
+      "Ethan"
+    ],
+    "familyName": "Hawke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Hawke",
+    "occupation": "Actor, screenwriter, director",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actor",
+      "Known for roles in films like 'Before Sunrise', 'Training Day', and 'Boyhood'"
+    ],
+    "yearBorn": 1970
+  }
+]

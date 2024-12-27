@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hilton Paris",
+    "givenNames": [
+      "Hilton"
+    ],
+    "familyName": "Paris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris_Hilton",
+    "occupation": "Socialite, businesswoman, media personality",
+    "achievements": [
+      "Reality television star known for 'The Simple Life'",
+      "DJ and musician",
+      "Entrepreneur with various business ventures"
+    ],
+    "yearBorn": 1981
+  }
+]

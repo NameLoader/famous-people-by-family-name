@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Boyd Dunlop",
+    "givenNames": [
+      "John",
+      "Boyd"
+    ],
+    "familyName": "Dunlop",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Boyd_Dunlop",
+    "occupation": "Inventor, businessman",
+    "achievements": [
+      "Invented the pneumatic tyre"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1921
+  }
+]

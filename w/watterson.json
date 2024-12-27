@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Bill Watterson",
+    "givenNames": [
+      "Bill"
+    ],
+    "familyName": "Watterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Watterson",
+    "occupation": "Cartoonist, Writer",
+    "achievements": [
+      "Creator of Calvin and Hobbes",
+      "Award-winning cartoonist"
+    ],
+    "yearBorn": 1958
+  }
+]

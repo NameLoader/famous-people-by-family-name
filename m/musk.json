@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Elon Reeve Musk",
+    "givenNames": [
+      "Elon",
+      "Reeve"
+    ],
+    "familyName": "Musk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "occupation": "Entrepreneur, Engineer",
+    "achievements": [
+      "Founded SpaceX",
+      "CEO of Tesla, Inc.",
+      "Founder of The Boring Company",
+      "Co-founder of Neuralink and OpenAI",
+      "Revolutionized the electric vehicle industry"
+    ],
+    "yearBorn": 1971
+  }
+]

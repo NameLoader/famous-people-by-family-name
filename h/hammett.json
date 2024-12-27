@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dashiell Hammett",
+    "givenNames": [
+      "Dashiell"
+    ],
+    "familyName": "Hammett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dashiell_Hammett",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Influential figure in hard-boiled crime fiction",
+      "Known for novels like *The Maltese Falcon* and *The Thin Man*",
+      "Recipient of numerous awards and accolades"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1961
+  }
+]

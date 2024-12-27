@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Fielding",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Fielding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Fielding",
+    "occupation": "Novelist, playwright, magistrate",
+    "achievements": [
+      "Considered one of the founders of the English novel",
+      "Wrote classic novels like *Tom Jones* and *Joseph Andrews*",
+      "Influenced later novelists such as Jane Austen and Charles Dickens"
+    ],
+    "yearBorn": 1707,
+    "yearDied": 1754
+  }
+]

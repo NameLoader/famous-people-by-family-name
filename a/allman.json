@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Duane Allman",
+    "givenNames": [
+      "Duane"
+    ],
+    "familyName": "Allman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duane_Allman",
+    "occupation": "Musician, Guitarist",
+    "achievements": [
+      "Founding member of the Allman Brothers Band",
+      "Influential Southern rock guitarist",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Gregg Allman",
+    "givenNames": [
+      "Gregg"
+    ],
+    "familyName": "Allman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregg_Allman",
+    "occupation": "Musician, Singer-Songwriter, Keyboardist",
+    "achievements": [
+      "Founding member of the Allman Brothers Band",
+      "Singer and songwriter known for soulful vocals",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2017
+  }
+]

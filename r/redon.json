@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Odilon Redon",
+    "givenNames": [
+      "Odilon"
+    ],
+    "familyName": "Redon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Odilon_Redon",
+    "occupation": "Painter, sculptor, printmaker",
+    "achievements": [
+      "Symbolist painter known for dreamlike and fantastical imagery",
+      "Influential figure in the development of modern art",
+      "Created iconic works like 'The Cyclops' and 'The Black Panther'"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1916
+  }
+]

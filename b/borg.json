@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Björn Borg",
+    "givenNames": [
+      "Björn"
+    ],
+    "familyName": "Borg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg",
+    "occupation": "Former professional tennis player",
+    "achievements": [
+      "Won five consecutive Wimbledon titles (1976–1980)",
+      "Known for his calm demeanor and signature headband"
+    ],
+    "yearBorn": 1956
+  }
+]

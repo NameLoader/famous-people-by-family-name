@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ludwig Mies van der Rohe",
+    "givenNames": [
+      "Ludwig"
+    ],
+    "familyName": "Loos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
+    "occupation": "Architect",
+    "achievements": [
+      "Pioneer of modernist architecture",
+      "Designed iconic buildings like the Barcelona Pavilion and the Seagram Building"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1969
+  }
+]

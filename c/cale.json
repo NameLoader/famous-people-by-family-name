@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Cale",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Cale",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Cale",
+    "occupation": "musician, composer, songwriter",
+    "achievements": [
+      "Founding member of The Velvet Underground",
+      "Influential figure in experimental rock and avant-garde music",
+      "Prolific solo artist with numerous critically acclaimed albums"
+    ],
+    "yearBorn": 1942
+  }
+]

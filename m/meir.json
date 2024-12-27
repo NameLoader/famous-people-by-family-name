@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Golda Meir",
+    "givenNames": [
+      "Golda"
+    ],
+    "familyName": "Meir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golda_Meir",
+    "occupation": "Politician, Prime Minister of Israel",
+    "achievements": [
+      "Fourth Prime Minister of Israel",
+      "Led Israel during the Yom Kippur War",
+      "Pioneer in the women's suffrage movement"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1978
+  }
+]

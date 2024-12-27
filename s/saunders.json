@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "George Saunders",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Saunders",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Saunders",
+    "occupation": "Writer",
+    "achievements": [
+      "Pulitzer Prize for Fiction (2017)",
+      "National Book Award for Fiction (2013)"
+    ],
+    "yearBorn": 1958
+  }
+]

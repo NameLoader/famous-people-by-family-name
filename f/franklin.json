@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Benjamin Franklin",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Franklin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+    "occupation": "Scientist, Inventor, Politician, Writer",
+    "achievements": [
+      "Founding Father of the United States",
+      "Inventor of bifocals and lightning rod",
+      "Author of *Poor Richard's Almanack*",
+      "Diplomat to France during the American Revolution"
+    ],
+    "yearBorn": 1706,
+    "yearDied": 1790
+  },
+  {
+    "fullName": "Aretha Franklin",
+    "givenNames": [
+      "Aretha"
+    ],
+    "familyName": "Franklin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Queen of Soul",
+      "Multiple Grammy Award Winner",
+      "Influential figure in the Civil Rights Movement",
+      "Known for hits like 'Respect' and '(You Make Me Feel Like) A Natural Woman'"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2018
+  }
+]

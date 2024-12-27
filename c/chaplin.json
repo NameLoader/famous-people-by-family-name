@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Charles Spencer Chaplin",
+    "givenNames": [
+      "Charles",
+      "Spencer"
+    ],
+    "familyName": "Chaplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+    "occupation": "Actor, filmmaker, comedian",
+    "achievements": [
+      "Silent film icon",
+      "One of the most important figures in cinematic history",
+      "Known for iconic character 'The Tramp'",
+      "Academy Award for Best Actor (Honorary)",
+      "BAFTA Fellowship"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Sydney Chaplin",
+    "givenNames": [
+      "Sydney"
+    ],
+    "familyName": "Chaplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Chaplin",
+    "occupation": "Actor, singer",
+    "achievements": [
+      "Brother of Charlie Chaplin",
+      "Successful actor in his own right",
+      "Known for roles in silent films"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1965
+  }
+]

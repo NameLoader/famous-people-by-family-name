@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Toni Morrison",
+    "givenNames": [
+      "Toni"
+    ],
+    "familyName": "Morrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Morrison",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Nobel Prize in Literature (1993)",
+      "Pulitzer Prize for Fiction (1988)",
+      "National Book Critics Circle Award",
+      "Bestselling author of acclaimed novels such as 'Beloved', 'Song of Solomon', and 'The Bluest Eye'"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2019
+  }
+]

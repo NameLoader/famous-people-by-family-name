@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Owen",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Owen",
+    "occupation": "Paleontologist, Surgeon",
+    "achievements": [
+      "Coined the term 'Dinosauria'.",
+      "Significant contributions to comparative anatomy."
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1892
+  }
+]

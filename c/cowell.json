@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Simon Cowell",
+    "givenNames": [
+      "Simon"
+    ],
+    "familyName": "Cowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Cowell",
+    "occupation": "Music Executive, Television Personality",
+    "achievements": [
+      "Founded Syco Music",
+      "Judge on various talent shows like American Idol and The X Factor"
+    ],
+    "yearBorn": 1959
+  }
+]

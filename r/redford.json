@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Robert James Redford",
+    "givenNames": [
+      "Robert",
+      "James"
+    ],
+    "familyName": "Redford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Redford",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Academy Award for Best Director (Ordinary People)",
+      "Honorary Academy Award",
+      "Kennedy Center Honors",
+      "Numerous other accolades and awards"
+    ],
+    "yearBorn": 1936
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Martin Frobisher",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Frobisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Frobisher",
+    "occupation": "Explorer, navigator",
+    "achievements": [
+      "Led voyages to North America in search of the Northwest Passage.",
+      "Explored Baffin Bay and Nunavut."
+    ],
+    "yearBorn": 1535,
+    "yearDied": 1594
+  }
+]

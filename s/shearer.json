@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Alan Shearer",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Shearer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Shearer",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Record goalscorer in the Premier League and for the England national team.",
+      "Won the Premier League title with Blackburn Rovers in 1994-95."
+    ],
+    "yearBorn": 1970
+  }
+]

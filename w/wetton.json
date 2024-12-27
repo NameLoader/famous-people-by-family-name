@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Wetton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wetton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wetton",
+    "occupation": "Musician, singer, songwriter",
+    "achievements": [
+      "Bassist for bands such as King Crimson and Asia",
+      "Grammy Award nomination"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2017
+  }
+]

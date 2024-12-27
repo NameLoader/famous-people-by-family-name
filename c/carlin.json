@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Carlin",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Carlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Carlin",
+    "occupation": "Comedian, Actor, Writer",
+    "achievements": [
+      "Highly influential comedian known for his dark and cynical humor",
+      "Pushed boundaries of stand-up comedy with controversial topics",
+      "Acted in numerous films and television shows"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2008
+  }
+]

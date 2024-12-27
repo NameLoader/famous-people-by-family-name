@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Northrop Frye",
+    "givenNames": [
+      "Northrop"
+    ],
+    "familyName": "Frye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northrop_Frye",
+    "occupation": "Literary critic, professor",
+    "achievements": [
+      "Influential literary theorist and critic.",
+      "Known for his concept of archetypal criticism.",
+      "Author of numerous books on literature and myth."
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Stephen Frye",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Frye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Fry",
+    "occupation": "Actor, comedian, writer, presenter",
+    "achievements": [
+      "Known for his roles in British comedies like 'A Bit of Fry & Laurie'.",
+      "Presents the BBC's quiz show 'QI'.",
+      "Author of several novels and essays."
+    ],
+    "yearBorn": 1957
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Danny Glover",
+    "givenNames": [
+      "Danny"
+    ],
+    "familyName": "Glover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Glover",
+    "occupation": "Actor, Director, Activist",
+    "achievements": [
+      "Known for his roles in films like *Lethal Weapon*, *The Color Purple*, and *Angels in the Outfield*.",
+      "Active political activist.",
+      "Founder of the Glover Family Foundation."
+    ],
+    "yearBorn": 1946
+  }
+]

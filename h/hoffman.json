@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Dustin Hoffman",
+    "givenNames": [
+      "Dustin"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dustin_Hoffman",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (1980)",
+      "Golden Globe Award for Best Actor – Motion Picture Drama (1981)",
+      "Tony Award for Best Featured Actor in a Play (1967)"
+    ],
+    "yearBorn": 1937
+  }
+]

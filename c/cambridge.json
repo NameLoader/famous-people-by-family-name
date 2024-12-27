@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Prince William, Prince of Wales",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Cambridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_William,_Prince_of_Wales",
+    "occupation": "Royal",
+    "achievements": [
+      "Second in line to the British throne",
+      "Patron of numerous charities"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Prince Louis of Wales",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Cambridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_Louis_of_Wales",
+    "occupation": "Royal",
+    "achievements": [
+      "Youngest child of Prince William and Catherine, Princess of Wales"
+    ],
+    "yearBorn": 2018
+  }
+]

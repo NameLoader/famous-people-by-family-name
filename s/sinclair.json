@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "David Sinclair",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Sinclair",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Sinclair_(biologist)",
+    "occupation": "Geneticist, Researcher",
+    "achievements": [
+      "Leading research on aging and longevity",
+      "Known for his work on sirtuins and their role in cellular health"
+    ],
+    "yearBorn": 1967
+  }
+]

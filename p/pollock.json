@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jackson Pollock",
+    "givenNames": [
+      "Jackson"
+    ],
+    "familyName": "Pollock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackson_Pollock",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneered abstract expressionism",
+      "Known for drip painting technique",
+      "Considered one of the most influential American artists of the 20th century"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1956
+  }
+]

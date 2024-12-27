@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Kobe Bryant",
+    "givenNames": [
+      "Kobe"
+    ],
+    "familyName": "Bryant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kobe_Bryant",
+    "occupation": "Basketball player",
+    "achievements": [
+      "5x NBA champion",
+      "2x Olympic gold medalist",
+      "18x NBA All-Star",
+      "2x NBA scoring champion",
+      "Academy Award for Best Animated Short Film"
+    ],
+    "yearBorn": 1978,
+    "yearDied": 2020
+  }
+]

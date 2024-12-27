@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Elizabeth Gaskell",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Gaskell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Gaskell",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Known for novels like *North and South* and *Cranford*",
+      "Influential figure in Victorian literature"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1865
+  }
+]

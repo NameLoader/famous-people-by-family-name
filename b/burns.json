@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Burns",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Burns",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Burns",
+    "occupation": "Poet, lyricist",
+    "achievements": [
+      "National poet of Scotland",
+      "Authored famous poems like 'Auld Lang Syne', 'Tam o' Shanter', and 'To a Mouse'"
+    ],
+    "yearBorn": 1759,
+    "yearDied": 1796
+  }
+]

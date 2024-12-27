@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edith Cavell",
+    "givenNames": [
+      "Edith"
+    ],
+    "familyName": "Cavell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Cavell",
+    "occupation": "Nurse, British war hero",
+    "achievements": [
+      "Helped Allied soldiers escape from German-occupied Belgium during World War I",
+      "Executed by the Germans for espionage and treason",
+      "Became a symbol of courage and sacrifice"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1915
+  }
+]

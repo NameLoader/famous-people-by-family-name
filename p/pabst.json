@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Frederick Pabst",
+    "givenNames": [
+      "Frederick"
+    ],
+    "familyName": "Pabst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Pabst",
+    "occupation": "Brewmaster, Businessman",
+    "achievements": [
+      "Founded Pabst Brewing Company, one of the largest breweries in the US."
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1904
+  }
+]

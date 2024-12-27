@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Paul Reuter",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Reuter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Reuter",
+    "occupation": "Founder of the Reuters news agency",
+    "achievements": [
+      "Founded the Reuters news agency",
+      "Pioneered real-time financial news distribution"
+    ],
+    "yearBorn": 1816,
+    "yearDied": 1899
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "John Malone",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Malone",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_C._Malone",
+    "occupation": "Business magnate",
+    "achievements": [
+      "Founder and Chairman of Liberty Media."
+    ],
+    "yearBorn": 1941
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Sally Hemings",
+    "givenNames": [
+      "Sally"
+    ],
+    "familyName": "Jefferson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Hemings",
+    "occupation": "Enslaved woman at Monticello",
+    "achievements": [
+      "Had a long-term relationship with Thomas Jefferson, resulting in children"
+    ],
+    "yearBorn": 1773,
+    "yearDied": 1835
+  }
+]

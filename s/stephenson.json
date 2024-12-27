@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Stephenson",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Stephenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Stephenson",
+    "occupation": "Engineer, inventor, son of George Stephenson",
+    "achievements": [
+      "Continued his father's work on railways and locomotives",
+      "Designed the famous 'Locomotion No. 1'",
+      "Built bridges and other railway infrastructure"
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1859
+  }
+]

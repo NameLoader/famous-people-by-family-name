@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Barry Manilow",
+    "givenNames": [
+      "Barry"
+    ],
+    "familyName": "Manilow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Manilow",
+    "occupation": "Singer-songwriter, Composer",
+    "achievements": [
+      "Sold over 80 million records worldwide",
+      "Won numerous Grammy Awards",
+      "Broadway success with 'Copacabana'",
+      "Known for his romantic ballads and energetic stage presence"
+    ],
+    "yearBorn": 1943
+  }
+]

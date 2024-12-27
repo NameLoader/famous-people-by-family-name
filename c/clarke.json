@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arthur Clarke",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+    "occupation": "Science fiction author, futurist",
+    "achievements": [
+      "Author of *2001: A Space Odyssey*",
+      "Co-developed the Clarke Orbit for space stations",
+      "Popularized science fiction and space exploration"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2008
+  }
+]

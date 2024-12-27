@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Giuseppe Ungaretti",
+    "givenNames": [
+      "Giuseppe"
+    ],
+    "familyName": "Ungaretti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Ungaretti",
+    "occupation": "Poet, writer",
+    "achievements": [
+      "Considered one of the most important Italian poets of the 20th century",
+      "Known for his concise and evocative style",
+      "Explored themes of war, love, and human existence"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1970
+  }
+]

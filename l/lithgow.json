@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Lithgow",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Lithgow",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lithgow",
+    "occupation": "Actor, singer, writer",
+    "achievements": [
+      "Tony Award for Best Actor in a Play",
+      "Primetime Emmy Awards winner",
+      "Golden Globe Awards nominee",
+      "Known for roles in films like 'Footloose', 'The World According to Garp', and 'Interstellar'"
+    ],
+    "yearBorn": 1945
+  }
+]

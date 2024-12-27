@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Baffin",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Baffin",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Baffin",
+    "occupation": "Navigator, explorer",
+    "achievements": [
+      "Explored the Canadian Arctic and Baffin Bay",
+      "Mapped much of Baffin Island"
+    ],
+    "yearBorn": 1584,
+    "yearDied": 1622
+  }
+]

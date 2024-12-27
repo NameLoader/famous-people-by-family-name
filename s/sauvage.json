@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Jean-Pierre Sauvage",
+    "givenNames": [
+      "Jean-Pierre"
+    ],
+    "familyName": "Sauvage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Sauvage",
+    "occupation": "Chemist",
+    "achievements": [
+      "Won the Nobel Prize in Chemistry in 2016 for his work on molecular machines."
+    ],
+    "yearBorn": 1945
+  }
+]

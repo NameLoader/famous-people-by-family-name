@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Timothy Leary",
+    "givenNames": [
+      "Timothy"
+    ],
+    "familyName": "Leary",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Leary",
+    "occupation": "Psychologist, writer, counterculture icon",
+    "achievements": [
+      "Promoted psychedelic drug use for spiritual and psychological exploration",
+      "Became a leading figure in the counterculture movement"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1996
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Joseph Stilwell",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Stilwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Stilwell",
+    "occupation": "American Military Officer, General of the United States Army during World War II",
+    "achievements": [
+      "Commanded Allied forces in China and Burma.",
+      "Received numerous awards for his service, including the Distinguished Service Medal."
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1963
+  }
+]

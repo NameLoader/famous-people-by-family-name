@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Milligan",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Milligan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_A._Millikan",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1923) for his work on the elementary charge of electricity",
+      "Oils Drop Experiment",
+      "Contribution to understanding of light and matter"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1953
+  }
+]

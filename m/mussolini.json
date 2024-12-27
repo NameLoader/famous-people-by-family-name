@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Benito Mussolini",
+    "givenNames": [
+      "Benito"
+    ],
+    "familyName": "Mussolini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+    "occupation": "Politician, Dictator",
+    "achievements": [
+      "Founded the National Fascist Party in Italy.",
+      "Became Prime Minister of Italy in 1922.",
+      "Established a totalitarian fascist regime."
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1945
+  }
+]

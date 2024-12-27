@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Karl Benz",
+    "givenNames": [
+      "Karl"
+    ],
+    "familyName": "Benz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Benz",
+    "occupation": "Inventor, Engineer",
+    "achievements": [
+      "Invented the first practical automobile powered by an internal combustion engine",
+      "Founded Benz & Cie.",
+      "Pioneered the development of the modern automobile industry"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1929
+  }
+]

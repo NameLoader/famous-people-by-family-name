@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Fante",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Fante",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Fante",
+    "occupation": "Novelist",
+    "achievements": [
+      "Known for his novels about the struggles of Italian-Americans in Los Angeles",
+      "Influenced writers like Charles Bukowski and John Steinbeck"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1983
+  }
+]

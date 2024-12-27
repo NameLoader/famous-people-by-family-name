@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Keats",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Keats",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
+    "occupation": "Poet",
+    "achievements": [
+      "Romantic poet known for his odes and sonnets",
+      "Influential figure in English literature"
+    ],
+    "yearBorn": 1795,
+    "yearDied": 1821
+  }
+]

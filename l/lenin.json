@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Vladimir Ilyich Lenin",
+    "givenNames": [
+      "Vladimir",
+      "Ilyich"
+    ],
+    "familyName": "Lenin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+    "occupation": "Revolutionary, Politician",
+    "achievements": [
+      "Leader of the Bolshevik Revolution",
+      "Founder of the Soviet Union",
+      "Promulgator of Marxist-Leninist ideology"
+    ],
+    "yearBorn": 1870,
+    "yearDied": 1924
+  }
+]

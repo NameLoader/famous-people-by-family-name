@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Harper Lee Toomer",
+    "givenNames": [
+      "Harper",
+      "Lee"
+    ],
+    "familyName": "Toomer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harper_Lee",
+    "occupation": "Novelist, Lawyer",
+    "achievements": [
+      "Author of the Pulitzer Prize-winning novel *To Kill a Mockingbird*",
+      "Known for her portrayal of racial injustice in the American South"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2016
+  }
+]

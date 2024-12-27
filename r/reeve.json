@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christopher Reeve",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Reeve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Reeve",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Superman in the film series.",
+      "Activist for spinal cord injury research."
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2004
+  }
+]

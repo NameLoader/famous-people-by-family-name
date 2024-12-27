@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "David Blaine",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Blaine",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Blaine",
+    "occupation": "Magician, Illusionist",
+    "achievements": [
+      "Known for his endurance feats and street magic performances",
+      "Performed on television specials and live tours worldwide"
+    ],
+    "yearBorn": 1973
+  }
+]

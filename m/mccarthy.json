@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Cormac McCarthy",
+    "givenNames": [
+      "Cormac"
+    ],
+    "familyName": "McCarthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cormac_McCarthy",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Pulitzer Prize for Fiction (2007) for 'The Road'",
+      "National Book Award for Fiction (1992) for 'All the Pretty Horses'",
+      "Known for his bleak and powerful novels often set in the American West"
+    ],
+    "yearBorn": 1933
+  }
+]

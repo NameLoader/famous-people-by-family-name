@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sir Walter Scott",
+    "givenNames": [
+      "Sir",
+      "Walter"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Walter_Scott",
+    "occupation": "Novelist, poet, playwright, and historian",
+    "achievements": [
+      "Author of historical novels like Ivanhoe and Rob Roy",
+      "Founder of the historical novel genre",
+      "Influenced literature and popular culture"
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1832
+  }
+]

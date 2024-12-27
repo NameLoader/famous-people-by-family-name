@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Carrie Underwood",
+    "givenNames": [
+      "Carrie"
+    ],
+    "familyName": "Underwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carrie_Underwood",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "American Idol winner (2005)",
+      "Seven Grammy Awards",
+      "Numerous country music awards"
+    ],
+    "yearBorn": 1983
+  }
+]

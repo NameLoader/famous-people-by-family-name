@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Paul Simon",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Simon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Simon",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Rock and Roll Hall of Fame inductee",
+      "Known for his folk and pop music with Art Garfunkel"
+    ],
+    "yearBorn": 1941
+  }
+]

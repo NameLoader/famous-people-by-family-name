@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Madison",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Madison",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Madison",
+    "occupation": "Politician, Founding Father, 4th President of the United States",
+    "achievements": [
+      "Principal author of the U.S. Constitution",
+      "Author of the Bill of Rights",
+      "Led the Federalist Party"
+    ],
+    "yearBorn": 1751,
+    "yearDied": 1836
+  }
+]

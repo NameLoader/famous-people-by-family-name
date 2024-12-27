@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Templeton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Templeton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_John_Templeton",
+    "occupation": "Investor, Fund Manager",
+    "achievements": [
+      "Founder of Templeton Growth Fund",
+      "Nobel Peace Prize recipient (1974)",
+      "Known for value investing philosophy"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2008
+  }
+]

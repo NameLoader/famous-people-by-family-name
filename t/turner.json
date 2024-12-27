@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ted Turner",
+    "givenNames": [
+      "Ted"
+    ],
+    "familyName": "Turner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Turner",
+    "occupation": "Media Executive, Entrepreneur",
+    "achievements": [
+      "Founded Turner Broadcasting System, which created cable networks like CNN and TNT.",
+      "Activist and philanthropist."
+    ],
+    "yearBorn": 1938
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Nancy Patricia Pelosi",
+    "givenNames": [
+      "Nancy",
+      "Patricia"
+    ],
+    "familyName": "Pelosi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Pelosi",
+    "occupation": "Politician",
+    "achievements": [
+      "Speaker of the United States House of Representatives (2007-2011, 2019-2023)",
+      "First female Speaker of the House",
+      "Longtime Democratic Representative from California"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Paul Pelosi",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Pelosi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Pelosi",
+    "occupation": "Businessman",
+    "achievements": [
+      "Husband of Nancy Pelosi",
+      "Founder and CEO of Financial Leasing Services"
+    ],
+    "yearBorn": 1940
+  }
+]

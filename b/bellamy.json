@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Bellamy",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Bellamy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bellamy",
+    "occupation": "Writer, Socialist",
+    "achievements": [
+      "Authored the utopian novel 'Looking Backward', which popularized socialist ideas in America.",
+      "Influenced later thinkers and social movements with his vision of a cooperative future."
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1898
+  }
+]

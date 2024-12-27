@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Auguste Escoffier",
+    "givenNames": [
+      "Auguste"
+    ],
+    "familyName": "Escoffier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Auguste_Escoffier",
+    "occupation": "Chef, restaurateur",
+    "achievements": [
+      "Revolutionized French cuisine",
+      "Established the brigade system in kitchens",
+      "Credited with popularizing dishes like soufflé and sole Meunière"
+    ],
+    "yearBorn": 1846,
+    "yearDied": 1935
+  }
+]

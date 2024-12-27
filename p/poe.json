@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Edgar Allan Poe",
+    "givenNames": [
+      "Edgar",
+      "Allan"
+    ],
+    "familyName": "Poe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+    "occupation": "Writer, poet, editor",
+    "achievements": [
+      "Master of the macabre and gothic literature",
+      "Influential figure in American Romanticism",
+      "Known for poems like 'The Raven' and 'Annabel Lee'",
+      "Wrote short stories including 'The Tell-Tale Heart' and 'The Fall of the House of Usher'"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1849
+  }
+]

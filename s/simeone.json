@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Diego Simeone",
+    "givenNames": [
+      "Diego"
+    ],
+    "familyName": "Simeone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Simeone",
+    "occupation": "Football manager, former player",
+    "achievements": [
+      "One of the most successful managers in Atlético Madrid history.",
+      "Won La Liga (2014, 2021).",
+      "Reached the Champions League final in 2014."
+    ],
+    "yearBorn": 1970
+  }
+]

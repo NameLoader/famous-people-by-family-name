@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Martin Amis",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Amis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Amis",
+    "occupation": "Novelist, Short story writer",
+    "achievements": [
+      "Acclaimed British novelist known for his satirical and darkly humorous works.",
+      "Recipient of numerous literary awards, including the Whitbread Prize."
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Kingsley Amis",
+    "givenNames": [
+      "Kingsley"
+    ],
+    "familyName": "Amis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingsley_Amis",
+    "occupation": "Novelist, Poet, Critic",
+    "achievements": [
+      "Prolific British novelist known for his satirical and realistic portrayals of postwar Britain.",
+      "Won the Somerset Maugham Award for his debut novel *Lucky Jim*."
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2000
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Rudy Gobert",
+    "givenNames": [
+      "Rudy"
+    ],
+    "familyName": "Gobert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudy_Gobert",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "Two-time NBA Defensive Player of the Year (2018, 2019)",
+      "NBA All-Star (2020)"
+    ],
+    "yearBorn": 1992
+  }
+]

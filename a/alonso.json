@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Fernando Alonso Díaz",
+    "givenNames": [
+      "Fernando",
+      "Díaz"
+    ],
+    "familyName": "Alonso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Alonso",
+    "occupation": "Race car driver",
+    "achievements": [
+      "Two-time Formula One World Champion (2005, 2006)",
+      "Most race wins for a Spanish driver in Formula One history",
+      "Winner of the 24 Hours of Le Mans"
+    ],
+    "yearBorn": 1981
+  }
+]

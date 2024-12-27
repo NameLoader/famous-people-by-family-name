@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Abraham Lincoln",
+    "givenNames": [
+      "Abraham"
+    ],
+    "familyName": "Lincoln",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "occupation": "Politician, Lawyer, President of the United States",
+    "achievements": [
+      "Preserved the Union during the American Civil War",
+      "Emancipated enslaved people with the Emancipation Proclamation",
+      "Delivered the Gettysburg Address",
+      "Considered one of America's greatest presidents"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1865
+  },
+  {
+    "fullName": "Mary Todd Lincoln",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Lincoln",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Todd_Lincoln",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Wife of President Abraham Lincoln",
+      "Actively supported her husband's political career",
+      "Known for her social activism and advocacy for women's rights"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1882
+  }
+]

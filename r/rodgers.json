@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Richard Rodgers",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Rodgers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Rodgers",
+    "occupation": "Composer",
+    "achievements": [
+      "Academy Award winner",
+      "Tony Award winner",
+      "Pulitzer Prize winner"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Aaron Rodgers",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Rodgers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+    "occupation": "Football quarterback",
+    "achievements": [
+      "Super Bowl XLV MVP",
+      "4x NFL MVP",
+      "9x Pro Bowler"
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David Haye",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Haye",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Haye",
+    "occupation": "Boxer",
+    "achievements": [
+      "Former WBA heavyweight world champion (2009-2010)",
+      "Two-time European cruiserweight champion",
+      "Olympic bronze medalist (Athens 2004)"
+    ],
+    "yearBorn": 1980
+  }
+]

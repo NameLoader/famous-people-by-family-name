@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Paul Kennan",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Kennan",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_F._Kennan",
+    "occupation": "Diplomat, Historian",
+    "achievements": [
+      "Key figure in shaping US Cold War policy",
+      "Author of the 'Long Telegram', outlining Soviet intentions",
+      "Recipient of Pulitzer Prize for history"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 2005
+  }
+]

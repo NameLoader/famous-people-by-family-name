@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Will Keith Kellogg",
+    "givenNames": [
+      "Will",
+      "Keith"
+    ],
+    "familyName": "Kellogg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Keith_Kellogg",
+    "occupation": "Businessman, cereal magnate",
+    "achievements": [
+      "Co-founder of the Kellogg Company",
+      "Revolutionized breakfast cereal industry",
+      "Built a global brand"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1951
+  }
+]

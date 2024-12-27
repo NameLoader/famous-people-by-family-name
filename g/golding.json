@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Golding",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Golding",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Golding",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1983)",
+      "Known for novels *Lord of the Flies* and *The Inheritors*",
+      "Explores themes of human nature, civilization, and morality"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1993
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dylan Thomas",
+    "givenNames": [
+      "Dylan"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Thomas",
+    "occupation": "Poet, Playwright",
+    "achievements": [
+      "Influential poet of the 20th century",
+      "Known for his lyrical and dramatic works",
+      "Notable poems include 'Do Not Go Gentle into That Good Night'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1953
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Aleksandr Popov",
+    "givenNames": [
+      "Aleksandr"
+    ],
+    "familyName": "Popov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aleksandr_Popov_(physicist)",
+    "occupation": "Physicist",
+    "achievements": [
+      "Pioneer of radio technology",
+      "Demonstrated the first wireless transmission in 1894",
+      "Contributed to the development of electromagnetic theory"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1906
+  }
+]

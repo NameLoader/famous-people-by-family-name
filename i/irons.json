@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Robert Downey Jr.",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Irons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nomination for Best Actor",
+      "Golden Globe Award winner for Best Actor – Motion Picture Musical or Comedy",
+      "Known for his role as Iron Man in the Marvel Cinematic Universe"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Robert Downey Sr.",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Irons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Downey_Sr.",
+    "occupation": "Film director, actor",
+    "achievements": [
+      "Directed several independent films",
+      "Known for his experimental filmmaking style"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2021
+  }
+]

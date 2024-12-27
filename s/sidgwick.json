@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Henry Sidgwick",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Sidgwick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Sidgwick",
+    "occupation": "Philosopher, Economist, Moral Philosopher",
+    "achievements": [
+      "Founder of the Sidgwick Society for the Study of Ethics and Logic",
+      "Prominent figure in Utilitarianism",
+      "Influential writer on philosophy and ethics"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1900
+  },
+  {
+    "fullName": "Philippa Foot",
+    "givenNames": [
+      "Philippa"
+    ],
+    "familyName": "Sidgwick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippa_Foot",
+    "occupation": "Moral Philosopher",
+    "achievements": [
+      "Influential figure in Virtue Ethics",
+      "Known for her work on moral responsibility and the nature of action",
+      "Author of seminal works like 'Natural Goodness' and 'Virtues and Vices'"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2010
+  }
+]

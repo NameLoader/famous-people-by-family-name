@@ -1,0 +1,14 @@
+[
+  {
+    "fullName": "Jack the Ripper",
+    "givenNames": [
+      "Jack"
+    ],
+    "familyName": "Ripper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_the_Ripper",
+    "occupation": "Serial Killer",
+    "achievements": [
+      "Infamous for the unsolved murders of women in London's Whitechapel district in 1888."
+    ]
+  }
+]

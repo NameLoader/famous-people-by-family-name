@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michelle Pfeiffer",
+    "givenNames": [
+      "Michelle"
+    ],
+    "familyName": "Pfeiffer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Pfeiffer",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominee for Best Actress",
+      "Golden Globe Award winner",
+      "Starred in iconic films such as Scarface, Batman Returns, and Dangerous Liaisons"
+    ],
+    "yearBorn": 1958
+  }
+]

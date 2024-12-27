@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Roald Dahl",
+    "givenNames": [
+      "Roald"
+    ],
+    "familyName": "Dahl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roald_Dahl",
+    "occupation": "Author, Poet",
+    "achievements": [
+      "Best-selling children's author",
+      "Known for books like Charlie and the Chocolate Factory, James and the Giant Peach, Matilda"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1990
+  }
+]

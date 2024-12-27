@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Francis Galton",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Galton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Galton",
+    "occupation": "Scientist, statistician, anthropologist, eugenicist",
+    "achievements": [
+      "Pioneer in the field of statistics and psychometrics.",
+      "Developed the concept of eugenics.",
+      "Made significant contributions to the study of heredity and human variation."
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1911
+  }
+]

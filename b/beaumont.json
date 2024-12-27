@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "William Beaumont",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Beaumont",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Beaumont",
+    "occupation": "Surgeon, Physician",
+    "achievements": [
+      "Pioneer in the study of gastric digestion"
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1853
+  }
+]

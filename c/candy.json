@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Candy",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Candy",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Candy",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in popular films like *Uncle Buck* and *Planes, Trains & Automobiles*",
+      "Nominated for a Golden Globe Award"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 1994
+  }
+]

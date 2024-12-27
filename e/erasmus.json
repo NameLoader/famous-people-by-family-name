@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Desiderius Erasmus of Rotterdam",
+    "givenNames": [
+      "Desiderius"
+    ],
+    "familyName": "Erasmus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus_of_Rotterdam",
+    "occupation": "Humanist theologian, philosopher, author, and Catholic priest",
+    "achievements": [
+      "Reformer of the Church through critical scholarship",
+      "Prominent figure in the Northern Renaissance",
+      "Author of 'The Praise of Folly'",
+      "Translator of the New Testament into Greek",
+      "Advocate for Christian humanism and education"
+    ],
+    "yearBorn": 1466,
+    "yearDied": 1536
+  }
+]

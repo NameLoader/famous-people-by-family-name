@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "James Dobson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Dobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dobson",
+    "occupation": "Author, Psychologist",
+    "achievements": [
+      "Founder of Focus on the Family.",
+      "Prominent conservative Christian voice in American culture."
+    ],
+    "yearBorn": 1936
+  }
+]

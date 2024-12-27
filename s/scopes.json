@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Thomas Scopes",
+    "givenNames": [
+      "John",
+      "Thomas"
+    ],
+    "familyName": "Scopes",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_T._Scopes",
+    "occupation": "Schoolteacher, defendant in the Scopes Trial",
+    "achievements": [
+      "Central figure in the Scopes Trial of 1925",
+      "His trial focused national attention on issues of evolution and religious fundamentalism in the United States."
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1970
+  }
+]

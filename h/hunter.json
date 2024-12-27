@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Hunter",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hunter",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hunter_(surgeon)",
+    "occupation": "Surgeon, anatomist, and philanthropist",
+    "achievements": [
+      "Known for his contributions to surgical practice and anatomical studies."
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1793
+  }
+]

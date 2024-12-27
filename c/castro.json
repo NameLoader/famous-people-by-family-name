@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Fidel Castro",
+    "givenNames": [
+      "Fidel"
+    ],
+    "familyName": "Castro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fidel_Castro",
+    "occupation": "Politician, Revolutionary",
+    "achievements": [
+      "Leader of the Cuban Revolution",
+      "Prime Minister of Cuba (1959–1976)",
+      "President of Cuba (1976–2008)"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2016
+  }
+]

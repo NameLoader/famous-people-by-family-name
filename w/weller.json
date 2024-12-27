@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Paul Weller",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Weller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Weller",
+    "occupation": "musician, singer-songwriter",
+    "achievements": [
+      "Lead vocalist and guitarist of The Jam.",
+      "Successful solo career spanning multiple genres.",
+      "Widely recognized as a British music icon."
+    ],
+    "yearBorn": 1962
+  }
+]

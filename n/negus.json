@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Emperor Menelik II",
+    "givenNames": [
+      "Menelik"
+    ],
+    "familyName": "Negus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Menelik_II",
+    "occupation": "Emperor of Ethiopia",
+    "achievements": [
+      "Led Ethiopia to victory in the Battle of Adwa against Italian forces.",
+      "Modernized the Ethiopian military and government."
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1913
+  }
+]

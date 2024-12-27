@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jordan Peterson",
+    "givenNames": [
+      "Jordan"
+    ],
+    "familyName": "Peterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_B._Peterson",
+    "occupation": "Clinical Psychologist, Professor, Author",
+    "achievements": [
+      "Known for his work on personality psychology and social commentary",
+      "Author of best-selling books 'Maps of Meaning' and '12 Rules for Life'",
+      "Popular public speaker and YouTube personality"
+    ],
+    "yearBorn": 1962
+  }
+]

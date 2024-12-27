@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Horace Walpole",
+    "givenNames": [
+      "Horace"
+    ],
+    "familyName": "Walpole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace_Walpole",
+    "occupation": "Writer, politician",
+    "achievements": [
+      "Considered the father of the English Gothic novel.",
+      "First Lord of the Privy Seal and influential British statesman during the 18th century."
+    ],
+    "yearBorn": 1717,
+    "yearDied": 1797
+  },
+  {
+    "fullName": "Robert Walpole",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Walpole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Walpole,_1st_Earl_of_Orford",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Great Britain from 1721 to 1742.",
+      "Often considered the first de facto Prime Minister of Great Britain."
+    ],
+    "yearBorn": 1676,
+    "yearDied": 1745
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Ashcroft",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ashcroft",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ashcroft",
+    "occupation": "Politician",
+    "achievements": [
+      "United States Attorney General (2001-2005)",
+      "served as a U.S. Senator from Missouri (1995-2001)"
+    ],
+    "yearBorn": 1942
+  }
+]

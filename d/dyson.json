@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Dyson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Dyson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dyson",
+    "occupation": "Inventor, Engineer, Businessman",
+    "achievements": [
+      "Invented the bagless vacuum cleaner.",
+      "Founded Dyson Ltd., a global technology company.",
+      "Developed innovative products like bladeless fans and hand dryers."
+    ],
+    "yearBorn": 1947
+  }
+]

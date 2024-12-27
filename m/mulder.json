@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Fox Mulder",
+    "givenNames": [
+      "Fox"
+    ],
+    "familyName": "Mulder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fox_Mulder",
+    "occupation": "FBI Special Agent (Fictional)",
+    "achievements": [
+      "Central character in the TV series *The X-Files*",
+      "Known for investigating paranormal cases"
+    ],
+    "yearBorn": 1960
+  }
+]

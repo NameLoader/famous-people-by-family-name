@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lev Yashin",
+    "givenNames": [
+      "Lev"
+    ],
+    "familyName": "Yashin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lev_Yashin",
+    "occupation": "Footballer, goalkeeper",
+    "achievements": [
+      "Considered one of the greatest goalkeepers of all time",
+      "Only goalkeeper to win the Ballon d'Or",
+      "Soviet national team player for 17 years"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1990
+  }
+]

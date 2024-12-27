@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Virgil van Dijk",
+    "givenNames": [
+      "Virgil"
+    ],
+    "familyName": "van Dijk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
+    "occupation": "Footballer",
+    "achievements": [
+      "FIFA Men's Player of the Year (2019)",
+      "UEFA Champions League runner-up (2018, 2019)",
+      "Premier League champion (2019, 2020)"
+    ],
+    "yearBorn": 1991
+  }
+]

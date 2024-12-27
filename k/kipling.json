@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rudyard Kipling",
+    "givenNames": [
+      "Rudyard"
+    ],
+    "familyName": "Kipling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudyard_Kipling",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1907)",
+      "Author of 'The Jungle Book'",
+      "Known for his works on British imperialism and colonialism"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1936
+  }
+]

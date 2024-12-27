@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jean Chrétien",
+    "givenNames": [
+      "Jean"
+    ],
+    "familyName": "Chretien",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Chrétien",
+    "occupation": "Prime Minister of Canada",
+    "achievements": [
+      "20th Prime Minister of Canada (1993–2003)",
+      "Led the Liberal Party to victory in three consecutive federal elections",
+      "Promoted free trade and economic growth"
+    ],
+    "yearBorn": 1934
+  }
+]

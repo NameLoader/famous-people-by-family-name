@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alvin Toffler",
+    "givenNames": [
+      "Alvin"
+    ],
+    "familyName": "Toffler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alvin_Toffler",
+    "occupation": "Writer, futurist",
+    "achievements": [
+      "Author of *Future Shock* and *The Third Wave*",
+      "Influential thinker on the impact of technology on society"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2016
+  }
+]

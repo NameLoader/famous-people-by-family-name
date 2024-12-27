@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Eric Patrick Clapton",
+    "givenNames": [
+      "Eric",
+      "Patrick"
+    ],
+    "familyName": "Clapton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Clapton",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "One of the most influential guitarists of all time",
+      "Inducted into the Rock and Roll Hall of Fame three times (as a solo artist, with The Yardbirds, and with Cream)",
+      "Multiple Grammy Award winner"
+    ],
+    "yearBorn": 1945
+  }
+]

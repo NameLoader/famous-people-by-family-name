@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Carlos Fuentes",
+    "givenNames": [
+      "Carlos"
+    ],
+    "familyName": "Fuentes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Fuentes",
+    "occupation": "Novelist, essayist, diplomat",
+    "achievements": [
+      "Prolific Mexican novelist known for magical realism",
+      "Influential figure in Latin American literature",
+      "Ambassador of Mexico to France (1973-1977)"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2016
+  }
+]

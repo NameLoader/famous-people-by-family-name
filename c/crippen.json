@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dr. Hawley Harvey Crippen",
+    "givenNames": [
+      "Hawley",
+      "Harvey"
+    ],
+    "familyName": "Crippen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawley_Harvey_Crippen",
+    "occupation": "Physician, convicted murderer",
+    "achievements": [
+      "Notorious for murdering his wife and attempting to flee to Canada with his mistress.",
+      "First person to be convicted of murder using forensic evidence."
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1910
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ring Lardner",
+    "givenNames": [
+      "Ring"
+    ],
+    "familyName": "Lardner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ring_Lardner",
+    "occupation": "Sportswriter, humorist",
+    "achievements": [
+      "Known for his witty and often satirical sports writing",
+      "Created memorable characters like 'The Alibi'",
+      "Influenced generations of American humorists"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1933
+  }
+]

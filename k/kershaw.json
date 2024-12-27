@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Clayton Kershaw",
+    "givenNames": [
+      "Clayton"
+    ],
+    "familyName": "Kershaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clayton_Kershaw",
+    "occupation": "Baseball pitcher",
+    "achievements": [
+      "3-time Cy Young Award winner",
+      "World Series champion (2020)",
+      "8-time All-Star"
+    ],
+    "yearBorn": 1988
+  }
+]

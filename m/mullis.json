@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kary Mullis",
+    "givenNames": [
+      "Kary"
+    ],
+    "familyName": "Mullis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kary_Mullis",
+    "occupation": "Chemist, Nobel Laureate",
+    "achievements": [
+      "Invented the polymerase chain reaction (PCR) technique.",
+      "Awarded the Nobel Prize in Chemistry in 1993 for his work on PCR."
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2019
+  }
+]

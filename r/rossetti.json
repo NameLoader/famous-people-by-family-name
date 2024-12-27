@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Dante Gabriel Rossetti",
+    "givenNames": [
+      "Dante",
+      "Gabriel"
+    ],
+    "familyName": "Rossetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
+    "occupation": "Poet, painter, and art critic",
+    "achievements": [
+      "Leading figure of the Pre-Raphaelite Brotherhood",
+      "Influential poet and writer",
+      "Known for his romantic and symbolic paintings"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1882
+  },
+  {
+    "fullName": "Christina Rossetti",
+    "givenNames": [
+      "Christina"
+    ],
+    "familyName": "Rossetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Rossetti",
+    "occupation": "Poet",
+    "achievements": [
+      "Influential Victorian poet",
+      "Known for her religious themes and lyrical style",
+      "Notable works include 'Goblin Market' and 'Remember'"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1894
+  }
+]

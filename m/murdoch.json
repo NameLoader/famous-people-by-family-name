@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rupert Murdoch",
+    "givenNames": [
+      "Rupert"
+    ],
+    "familyName": "Murdoch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Murdoch",
+    "occupation": "Media mogul, businessman",
+    "achievements": [
+      "Founded News Corporation and its successor companies",
+      "Influence in global media landscape",
+      "Controversial figure due to media ownership concentration"
+    ],
+    "yearBorn": 1931
+  }
+]

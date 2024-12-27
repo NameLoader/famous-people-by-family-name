@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anwar Sadat",
+    "givenNames": [
+      "Anwar"
+    ],
+    "familyName": "Sadat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+    "occupation": "Politician, President of Egypt",
+    "achievements": [
+      "Negotiated the Camp David Accords with Israel",
+      "Received the Nobel Peace Prize in 1978"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1981
+  }
+]

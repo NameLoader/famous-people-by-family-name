@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Purcell",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Purcell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_M._Purcell",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1952 for his work on nuclear magnetic resonance (NMR).",
+      "His research led to major advancements in chemistry, medicine, and materials science."
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1997
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Galsworthy",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Galsworthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Galsworthy",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1932)",
+      "Known for his portrayal of Edwardian society and the 'Forsyte Saga'"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1933
+  }
+]

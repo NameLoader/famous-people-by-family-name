@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Christina Rossetti",
+    "givenNames": [
+      "Christina"
+    ],
+    "familyName": "Rosetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Rossetti",
+    "occupation": "Poet",
+    "achievements": [
+      "One of the most celebrated Victorian poets",
+      "Known for her religious themes and intense emotional expressions",
+      "Notable works include 'Goblin Market' and 'Remember'"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1894
+  }
+]

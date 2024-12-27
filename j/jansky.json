@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Karl Jansky",
+    "givenNames": [
+      "Karl"
+    ],
+    "familyName": "Jansky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Jansky",
+    "occupation": "physicist, astronomer",
+    "achievements": [
+      "Discovered radio waves from space, paving the way for radio astronomy.",
+      "Identified a cosmic radio source that was later known as the Milky Way Galaxy."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1950
+  }
+]

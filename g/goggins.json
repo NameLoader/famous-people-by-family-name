@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Goggins",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Goggins",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Goggins",
+    "occupation": "Ultramarathon runner, ultra-distance cyclist, triathlete, author, motivational speaker",
+    "achievements": [
+      "Completed over 60 ultra-marathons and races",
+      "Set world records in endurance events",
+      "Author of the bestselling book 'Can't Hurt Me'",
+      "Known for his intense motivational speeches and training programs"
+    ],
+    "yearBorn": 1975
+  }
+]

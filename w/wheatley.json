@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Phillis Wheatley",
+    "givenNames": [
+      "Phillis"
+    ],
+    "familyName": "Wheatley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phillis_Wheatley",
+    "occupation": "Poet, Christian apologist",
+    "achievements": [
+      "First published African American poet",
+      "Considered one of the most important literary figures of the 18th century in America"
+    ],
+    "yearBorn": 1753,
+    "yearDied": 1784
+  }
+]

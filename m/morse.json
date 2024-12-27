@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Samuel Finley Breese Morse",
+    "givenNames": [
+      "Samuel",
+      "Finley",
+      "Breese"
+    ],
+    "familyName": "Morse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_F._B._Morse",
+    "occupation": "Inventor, Painter",
+    "achievements": [
+      "Invented the telegraph and Morse code",
+      "Promoted the development of the electrical communication industry"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1872
+  }
+]

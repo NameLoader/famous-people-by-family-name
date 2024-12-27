@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Bunyan",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Bunyan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bunyan",
+    "occupation": "Writer, Puritan preacher",
+    "achievements": [
+      "Author of *The Pilgrim's Progress*",
+      "Influential figure in English literature and Protestant Christianity"
+    ],
+    "yearBorn": 1628,
+    "yearDied": 1688
+  }
+]

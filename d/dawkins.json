@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Dawkins",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Dawkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Dawkins",
+    "occupation": "Evolutionary biologist, author, and atheist activist",
+    "achievements": [
+      "Author of influential works on evolution such as *The Selfish Gene* and *The God Delusion*",
+      "Prominent advocate for science and reason",
+      "Recipient of numerous awards and honors"
+    ],
+    "yearBorn": 1941
+  }
+]

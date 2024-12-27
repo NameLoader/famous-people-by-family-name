@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Sevier",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Sevier",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sevier",
+    "occupation": "Politician, soldier",
+    "achievements": [
+      "First governor of the State of Tennessee",
+      "Frontier military leader during the American Revolutionary War",
+      "Advocate for statehood for Tennessee"
+    ],
+    "yearBorn": 1745,
+    "yearDied": 1815
+  }
+]

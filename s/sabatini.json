@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rafael Sabatini",
+    "givenNames": [
+      "Rafael"
+    ],
+    "familyName": "Sabatini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rafael_Sabatini",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Author of historical novels like *Captain Blood* and *Scaramouche*",
+      "Popularized the adventure genre in the early 20th century",
+      "Widely translated works enjoyed worldwide success"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1950
+  }
+]

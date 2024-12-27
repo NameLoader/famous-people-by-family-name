@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Christiaan Huygens",
+    "givenNames": [
+      "Christiaan"
+    ],
+    "familyName": "Huygens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+    "occupation": "Physicist, astronomer, mathematician",
+    "achievements": [
+      "Developed the theory of wave propagation for light",
+      "Invented the pendulum clock",
+      "Discovered Titan, Saturn's largest moon"
+    ],
+    "yearBorn": 1629,
+    "yearDied": 1695
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lucien Febvre",
+    "givenNames": [
+      "Lucien"
+    ],
+    "familyName": "Febvre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucien_Febvre",
+    "occupation": "Historian, sociologist",
+    "achievements": [
+      "Considered a leading figure in the Annales School of historiography",
+      "Authored influential works like 'The Problem of Everyday Life' and 'A New History of France'",
+      "Pioneered the study of social history and cultural history"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1956
+  }
+]

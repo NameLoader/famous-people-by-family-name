@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Michael Faraday",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Faraday",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Faraday",
+    "occupation": "Scientist, Chemist, Physicist",
+    "achievements": [
+      "Discovery of electromagnetic induction",
+      "Laws of electrolysis",
+      "Faraday cage",
+      "Contribution to the development of electromagnetism and electrical engineering"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1867
+  }
+]

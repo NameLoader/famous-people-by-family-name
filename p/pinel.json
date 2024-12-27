@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Philippe Pinel",
+    "givenNames": [
+      "Philippe"
+    ],
+    "familyName": "Pinel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_Pinel",
+    "occupation": "Physician, psychiatrist",
+    "achievements": [
+      "Pioneer of humane treatment in mental asylums",
+      "Introduced moral therapy",
+      "Coined the term 'moral insanity'"
+    ],
+    "yearBorn": 1745,
+    "yearDied": 1826
+  }
+]

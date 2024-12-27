@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Henrik Stenson",
+    "givenNames": [
+      "Henrik"
+    ],
+    "familyName": "Stenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Stenson",
+    "occupation": "Golfer",
+    "achievements": [
+      "Winner of the 2016 Open Championship",
+      "Member of the European Ryder Cup team on multiple occasions"
+    ],
+    "yearBorn": 1976
+  }
+]

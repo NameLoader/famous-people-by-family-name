@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Brinkley",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Brinkley",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Brinkley",
+    "occupation": "Journalist, news anchor",
+    "achievements": [
+      "Prominent figure in American television news",
+      "Co-anchor of the long-running program 'NBC Nightly News'",
+      "Known for his authoritative and articulate delivery"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2003
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Orderic Vitalis",
+    "givenNames": [
+      "Orderic"
+    ],
+    "familyName": "Wace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ordericus_Vitalis",
+    "occupation": "Medieval historian and chronicler",
+    "achievements": [
+      "Wrote the *Historia Ecclesiastica* - a detailed chronicle of Norman history."
+    ],
+    "yearBorn": 1075,
+    "yearDied": 1142
+  }
+]

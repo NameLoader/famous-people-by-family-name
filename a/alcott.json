@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Louisa May Alcott",
+    "givenNames": [
+      "Louisa",
+      "May"
+    ],
+    "familyName": "Alcott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+    "occupation": "Novelist, Transcendentalist",
+    "achievements": [
+      "Author of *Little Women* and *Good Wives*",
+      "Prominent figure in the American literary scene during the 19th century"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1888
+  }
+]

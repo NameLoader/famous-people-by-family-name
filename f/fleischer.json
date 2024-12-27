@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Max Fleischer",
+    "givenNames": [
+      "Max"
+    ],
+    "familyName": "Fleischer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Fleischer",
+    "occupation": "Animator, film producer",
+    "achievements": [
+      "Co-created Betty Boop",
+      "Developed Rotoscoping animation technique",
+      "Founded Fleischer Studios"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1972
+  }
+]

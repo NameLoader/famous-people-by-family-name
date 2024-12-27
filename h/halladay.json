@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Roy Halladay",
+    "givenNames": [
+      "Roy"
+    ],
+    "familyName": "Halladay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Halladay",
+    "occupation": "Professional baseball pitcher",
+    "achievements": [
+      "Two-time Cy Young Award winner",
+      "World Series Champion (with Toronto Blue Jays)",
+      "Philadelphia Phillies Hall of Fame inductee"
+    ],
+    "yearBorn": 1977,
+    "yearDied": 2017
+  }
+]

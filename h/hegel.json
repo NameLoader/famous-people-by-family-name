@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Georg Wilhelm Friedrich Hegel",
+    "givenNames": [
+      "Georg",
+      "Wilhelm",
+      "Friedrich"
+    ],
+    "familyName": "Hegel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Developed dialectical idealism as a comprehensive philosophical system.",
+      "Influenced Marxism, existentialism, and postmodern thought.",
+      "Authored influential works such as *The Phenomenology of Spirit* and *The Science of Logic*."
+    ],
+    "yearBorn": 1770,
+    "yearDied": 1831
+  }
+]

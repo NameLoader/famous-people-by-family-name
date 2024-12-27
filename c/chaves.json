@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Roberto Gómez Bolaños",
+    "givenNames": [
+      "Roberto",
+      "Gómez",
+      "Bolaños"
+    ],
+    "familyName": "Chaves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chespirito",
+    "occupation": "Comedian, actor, screenwriter, producer",
+    "achievements": [
+      "Created the iconic television character 'El Chavo del Ocho'",
+      "Wrote and starred in numerous successful comedy series",
+      "Gained international fame for his work"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2014
+  }
+]

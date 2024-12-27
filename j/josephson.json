@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Brian Josephson",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Josephson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Josephson",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1973) for his prediction of the Josephson effect",
+      "Contributions to superconductivity theory"
+    ],
+    "yearBorn": 1940
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Frederick Sanger",
+    "givenNames": [
+      "Frederick"
+    ],
+    "familyName": "Sanger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Sanger",
+    "occupation": "Biochemist",
+    "achievements": [
+      "Developed methods for sequencing DNA and proteins",
+      "Nobel Prize in Chemistry (1958 and 1980)"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Rosalind Franklin",
+    "givenNames": [
+      "Rosalind"
+    ],
+    "familyName": "Sanger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+    "occupation": "Chemist and X-ray crystallographer",
+    "achievements": [
+      "Crucial role in discovering the structure of DNA",
+      "Her X-ray diffraction images were essential to Watson and Crick's model"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1958
+  }
+]

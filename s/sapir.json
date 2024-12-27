@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edward Sapir",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Sapir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Sapir",
+    "occupation": "Linguist, anthropologist",
+    "achievements": [
+      "Pioneer in American linguistics",
+      "Influential figure in the development of structuralism",
+      "Contributed to the study of Native American languages"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1939
+  }
+]

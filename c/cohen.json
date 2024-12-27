@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Leonard Cohen",
+    "givenNames": [
+      "Leonard"
+    ],
+    "familyName": "Cohen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+    "occupation": "Singer-songwriter, poet, novelist",
+    "achievements": [
+      "Influential figure in contemporary music and literature",
+      "Known for his poetic lyrics and baritone voice",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2016
+  }
+]

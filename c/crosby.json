@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David Crosby",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Crosby",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Crosby",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Co-founder of the iconic folk rock band The Byrds",
+      "Member of Crosby, Stills & Nash and Crosby & Nash",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1941
+  }
+]

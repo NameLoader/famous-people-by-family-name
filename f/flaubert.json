@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gustave Flaubert",
+    "givenNames": [
+      "Gustave"
+    ],
+    "familyName": "Flaubert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Flaubert",
+    "occupation": "Novelist, Short story writer",
+    "achievements": [
+      "Considered one of the greatest French novelists of the 19th century.",
+      "Known for his realism and psychological depth.",
+      "Notable works include *Madame Bovary*, *Salammbô*, and *L'Éducation sentimentale*."
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1880
+  }
+]

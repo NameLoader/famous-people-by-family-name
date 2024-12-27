@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Robert Malthus",
+    "givenNames": [
+      "Thomas",
+      "Robert"
+    ],
+    "familyName": "Malthus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+    "occupation": "Clergyman, Economist",
+    "achievements": [
+      "Developed the theory of population growth and its impact on resource availability.",
+      "Authored 'An Essay on the Principle of Population', a highly influential work in economics and sociology."
+    ],
+    "yearBorn": 1766,
+    "yearDied": 1834
+  }
+]

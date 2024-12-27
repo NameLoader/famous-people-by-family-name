@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Troy Aikman",
+    "givenNames": [
+      "Troy"
+    ],
+    "familyName": "Aikman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Troy_Aikman",
+    "occupation": "American football quarterback",
+    "achievements": [
+      "Super Bowl victories (three)",
+      "Pro Bowler (six times)",
+      "NFL All-Decade Team (1990s)"
+    ],
+    "yearBorn": 1966
+  }
+]

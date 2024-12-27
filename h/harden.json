@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Harden",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Harden",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Harden",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA All-Star (10 times)",
+      "NBA Scoring Champion (2018)",
+      "Olympic Gold Medalist (2012)"
+    ],
+    "yearBorn": 1989
+  }
+]

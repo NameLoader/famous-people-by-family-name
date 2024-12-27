@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lorraine Hansberry",
+    "givenNames": [
+      "Lorraine"
+    ],
+    "familyName": "Hansberry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorraine_Hansberry",
+    "occupation": "Playwright, activist",
+    "achievements": [
+      "Wrote the groundbreaking play 'A Raisin in the Sun'",
+      "Pioneer of African American theatre",
+      "Advocate for civil rights and racial equality"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1965
+  }
+]

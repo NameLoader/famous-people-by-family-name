@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Katherine Cornell",
+    "givenNames": [
+      "Katherine"
+    ],
+    "familyName": "Cornell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Cornell",
+    "occupation": "Actress",
+    "achievements": [
+      "Broadway star known for her Shakespearean roles",
+      "Founded the Cornell Theatre Company",
+      "Recipient of multiple Tony Awards"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1974
+  }
+]

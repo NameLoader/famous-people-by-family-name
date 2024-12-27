@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Vaughn",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Vaughn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Vaughn",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Napoleon Solo in the TV series 'The Man from U.N.C.L.E'.",
+      "Won a Primetime Emmy Award for his performance in the series 'Hustling'."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2016
+  }
+]

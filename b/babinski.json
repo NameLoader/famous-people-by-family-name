@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Joseph Babinski",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Babinski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Babinski",
+    "occupation": "Neurologist, physician",
+    "achievements": [
+      "Pioneering research on neurological reflexes, especially the Babinski reflex.",
+      "Significant contributions to understanding brain disorders and motor function."
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1932
+  }
+]

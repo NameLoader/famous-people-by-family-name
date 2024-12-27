@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Noah Webster Jr.",
+    "givenNames": [
+      "Noah"
+    ],
+    "familyName": "Webster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noah_Webster",
+    "occupation": "lexicographer, educator",
+    "achievements": [
+      "compiler of the first major American dictionary,",
+      "advocate for a standardized American English"
+    ],
+    "yearBorn": 1758,
+    "yearDied": 1843
+  },
+  {
+    "fullName": "Daniel Webster",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Webster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Webster",
+    "occupation": "politician, orator",
+    "achievements": [
+      "U.S. Secretary of State,",
+      "Senator from New Hampshire,",
+      "prominent figure in the Jacksonian era"
+    ],
+    "yearBorn": 1782,
+    "yearDied": 1852
+  }
+]

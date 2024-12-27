@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Reverend Samuel Parris",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Parris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Parris",
+    "occupation": "Minister",
+    "achievements": [
+      "One of the key figures in the Salem Witch Trials"
+    ],
+    "yearBorn": 1653,
+    "yearDied": 1720
+  }
+]

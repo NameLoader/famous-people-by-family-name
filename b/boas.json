@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Franz Boas",
+    "givenNames": [
+      "Franz"
+    ],
+    "familyName": "Boas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Boas",
+    "occupation": "Anthropologist, Cultural Relativist",
+    "achievements": [
+      "Founder of American anthropology.",
+      "Pioneer in the development of cultural relativism.",
+      "Challenged Eurocentric views of culture and emphasized the importance of understanding cultures within their own contexts."
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1942
+  }
+]

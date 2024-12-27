@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michael Ventris",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Ventris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Ventris",
+    "occupation": "Archaeologist, Decipherer",
+    "achievements": [
+      "Deciphered Linear B script",
+      "Contributed to understanding Mycenaean civilization"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1956
+  }
+]

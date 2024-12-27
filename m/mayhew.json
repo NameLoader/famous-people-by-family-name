@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry Mayhew",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Mayhew",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Mayhew",
+    "occupation": "Journalist, Social Investigator",
+    "achievements": [
+      "Authored *London Labour and the London Poor* which documented the lives of working-class Londoners.",
+      "Known for his detailed social surveys and reporting on poverty."
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1887
+  }
+]

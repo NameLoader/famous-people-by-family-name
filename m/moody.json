@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Dwight Moody",
+    "givenNames": [
+      "Dwight"
+    ],
+    "familyName": "Moody",
+    "wikipedia": "https://en.wikipedia.org/wiki/D._L._Moody",
+    "occupation": "Evangelist, Educator",
+    "achievements": [
+      "Founder of the Moody Bible Institute and the Northfield School of the Bible.",
+      "Prominent figure in the American revivalist movement of the late 19th century."
+    ],
+    "yearBorn": 1837,
+    "yearDied": 1899
+  }
+]

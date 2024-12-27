@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alexander Graham Bell",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+    "occupation": "Inventor, Scientist, Engineer",
+    "achievements": [
+      "Invented the telephone",
+      "Founded the Volta Bureau for deaf people",
+      "Advanced audiology"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1922
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michael Crichton",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Crichton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Crichton",
+    "occupation": "Novelist, screenwriter, physician",
+    "achievements": [
+      "Author of bestselling novels such as *Jurassic Park*, *The Andromeda Strain*, and *Congo*.",
+      "Screenwriter for numerous successful films based on his works."
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2008
+  }
+]

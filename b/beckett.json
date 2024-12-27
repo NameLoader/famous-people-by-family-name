@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Samuel Beckett",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Beckett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Beckett",
+    "occupation": "Playwright, Novelist, Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1969)",
+      "Known for absurdist plays like 'Waiting for Godot' and 'Endgame'",
+      "Influential figure in modernist and postmodern literature"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1989
+  }
+]

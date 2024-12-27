@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Howard Taft",
+    "givenNames": [
+      "William",
+      "Howard"
+    ],
+    "familyName": "Taft",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+    "occupation": "Lawyer, Politician",
+    "achievements": [
+      "27th President of the United States (1909-1913)",
+      "Chief Justice of the United States (1921-1930)"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1930
+  }
+]

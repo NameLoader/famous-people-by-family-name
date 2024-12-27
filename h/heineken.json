@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alfred Heineken",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Heineken",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Heineken",
+    "occupation": "Industrialist, Chairman of Heineken International",
+    "achievements": [
+      "Led the expansion of the Heineken brewery into a global brand",
+      "Oversaw the company's growth and diversification during the late 20th century"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2002
+  }
+]

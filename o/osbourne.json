@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kelly Osbourne",
+    "givenNames": [
+      "Kelly"
+    ],
+    "familyName": "Osbourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelly_Osbourne",
+    "occupation": "Television Personality, Singer",
+    "achievements": [
+      "Star of 'The Osbournes'",
+      "Fashion designer",
+      "Co-host of various television shows"
+    ],
+    "yearBorn": 1984
+  }
+]

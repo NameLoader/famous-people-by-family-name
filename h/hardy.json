@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Thomas Hardy",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Hardy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hardy",
+    "occupation": "Novelist, poet",
+    "achievements": [
+      "Wrote classic novels such as *Tess of the d'Urbervilles* and *Far from the Madding Crowd*"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1928
+  }
+]

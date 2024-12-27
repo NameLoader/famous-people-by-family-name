@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "John C. Breckenridge",
+    "givenNames": [
+      "John",
+      "C"
+    ],
+    "familyName": "Breckenridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_C._Breckenridge",
+    "occupation": "Politician, Confederate States Vice President",
+    "achievements": [
+      "Vice President of the United States (under James Buchanan)",
+      "Confederate States Vice President",
+      "U.S. Representative from Kentucky",
+      "U.S. Senator from Kentucky"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1890
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Grattan",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Grattan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Grattan",
+    "occupation": "Politician, orator",
+    "achievements": [
+      "Leader of the Irish rebellion against British rule",
+      "Advocate for parliamentary reform in Ireland",
+      "Prominent figure in the Irish Volunteers"
+    ],
+    "yearBorn": 1746,
+    "yearDied": 1820
+  }
+]

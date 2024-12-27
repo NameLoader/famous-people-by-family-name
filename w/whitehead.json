@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Alfred North Whitehead",
+    "givenNames": [
+      "Alfred",
+      "North"
+    ],
+    "familyName": "Whitehead",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+    "occupation": "Philosopher, mathematician",
+    "achievements": [
+      "Developed process philosophy.",
+      "Influential figure in 20th-century philosophy.",
+      "Co-authored *Principia Mathematica* with Bertrand Russell."
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1947
+  }
+]

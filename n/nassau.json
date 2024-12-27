@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William III of England",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Nassau",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_III_of_England",
+    "occupation": "King of England, King of Scotland, King of Ireland",
+    "achievements": [
+      "Ruler during the Glorious Revolution",
+      "Defeated James II in a bloodless coup"
+    ],
+    "yearBorn": 1650,
+    "yearDied": 1702
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Messier",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Messier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Messier",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Cataloged over 100 celestial objects, known as Messier Objects",
+      "Made significant contributions to the study of comets and nebulae"
+    ],
+    "yearBorn": 1730,
+    "yearDied": 1817
+  }
+]

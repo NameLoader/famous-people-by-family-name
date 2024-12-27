@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Eduardo De Filippo",
+    "givenNames": [
+      "Eduardo"
+    ],
+    "familyName": "De Filippo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_De_Filippo",
+    "occupation": "Actor, playwright, screenwriter, director",
+    "achievements": [
+      "Pioneering figure in Italian theater and cinema",
+      "Known for his Neapolitan dialect plays",
+      "Recipient of numerous awards including the David di Donatello"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1984
+  }
+]

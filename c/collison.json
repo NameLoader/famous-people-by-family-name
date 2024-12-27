@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Patrick Collison",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Collison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Collison",
+    "occupation": "Computer programmer, entrepreneur",
+    "achievements": [
+      "Co-founder of Stripe",
+      "Ranked among Forbes' 400 richest people"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "John Collison",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Collison",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Collison",
+    "occupation": "Computer programmer, entrepreneur",
+    "achievements": [
+      "Co-founder of Stripe",
+      "Ranked among Forbes' 400 richest people"
+    ],
+    "yearBorn": 1990
+  }
+]

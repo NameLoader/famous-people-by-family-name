@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Karl Pearson",
+    "givenNames": [
+      "Karl"
+    ],
+    "familyName": "Pearson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Pearson",
+    "occupation": "Statistician, mathematician, eugenist",
+    "achievements": [
+      "Developed the Pearson correlation coefficient.",
+      "Founded the Biometric Laboratory at University College London.",
+      "Prominent figure in the early development of statistics and biometry."
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1936
+  }
+]

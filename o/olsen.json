@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ashley Olsen",
+    "givenNames": [
+      "Ashley"
+    ],
+    "familyName": "Olsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Olsen",
+    "occupation": "Actress, fashion designer",
+    "achievements": [
+      "Starred in the television series 'Full House'",
+      "Co-founded the fashion label The Row"
+    ],
+    "yearBorn": 1986
+  }
+]

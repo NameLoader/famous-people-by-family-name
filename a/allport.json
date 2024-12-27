@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Gordon Willard Allport",
+    "givenNames": [
+      "Gordon",
+      "Willard"
+    ],
+    "familyName": "Allport",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Allport",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Pioneer in personality psychology",
+      "Developed the concept of trait theory",
+      "Wrote influential books like 'Personality: A Psychological Interpretation'"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1967
+  }
+]

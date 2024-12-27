@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Alexander Ferguson",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Alex_Ferguson",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Managed Manchester United to unprecedented success.",
+      "Won 38 trophies with Manchester United.",
+      "Considered one of the greatest football managers of all time."
+    ],
+    "yearBorn": 1941
+  }
+]

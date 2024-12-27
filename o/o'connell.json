@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Daniel O'Connell",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "O'Connell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_O%27Connell",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Leader of the Irish Catholic Emancipation movement",
+      "Known as 'The Liberator'",
+      "Played a key role in securing voting rights for Catholics in Ireland"
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1847
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rory McIlroy",
+    "givenNames": [
+      "Rory"
+    ],
+    "familyName": "McIlroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rory_McIlroy",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "Four-time Major champion (US Open, PGA Championship)",
+      "Multiple European Tour and PGA Tour victories",
+      "World Number 1 golfer"
+    ],
+    "yearBorn": 1989
+  }
+]

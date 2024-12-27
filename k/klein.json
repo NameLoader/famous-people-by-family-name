@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Melanie Klein",
+    "givenNames": [
+      "Melanie"
+    ],
+    "familyName": "Klein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melanie_Klein",
+    "occupation": "Psychoanalyst",
+    "achievements": [
+      "Developed Object Relations Theory in psychoanalysis",
+      "Influenced generations of psychotherapists and researchers"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1960
+  }
+]

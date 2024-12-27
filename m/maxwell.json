@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "James Clerk Maxwell",
+    "givenNames": [
+      "James",
+      "Clerk"
+    ],
+    "familyName": "Maxwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+    "occupation": "Physicist, Mathematician",
+    "achievements": [
+      "Formulated the theory of electromagnetism",
+      "Developed Maxwell's equations",
+      "Contributed to the development of kinetic theory of gases"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1879
+  }
+]

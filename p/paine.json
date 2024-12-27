@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Paine",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Paine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine",
+    "occupation": "Writer, Political Activist",
+    "achievements": [
+      "Author of *Common Sense*, a pamphlet that influenced the American Revolution",
+      "Co-author of *The Rights of Man* which advocated for individual rights and social justice"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1809
+  }
+]

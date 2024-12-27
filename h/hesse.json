@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hermann Hesse",
+    "givenNames": [
+      "Hermann"
+    ],
+    "familyName": "Hesse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Hesse",
+    "occupation": "Novelist, poet",
+    "achievements": [
+      "Nobel Prize in Literature (1946)",
+      "Known for novels like 'Siddhartha', 'Steppenwolf', and 'The Glass Bead Game'",
+      "Exploration of themes like spirituality, self-discovery, and alienation"
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1962
+  }
+]

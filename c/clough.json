@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Brian Clough",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Clough",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Clough",
+    "occupation": "Football Manager and Player",
+    "achievements": [
+      "Led Derby County to the First Division title in 1972",
+      "Managed Nottingham Forest to back-to-back European Cup victories in 1979 and 1980"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2004
+  }
+]

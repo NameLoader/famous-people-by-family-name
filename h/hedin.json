@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sven Hedin",
+    "givenNames": [
+      "Sven"
+    ],
+    "familyName": "Hedin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sven_Hedin",
+    "occupation": "Explorer, Geographer",
+    "achievements": [
+      "Led numerous expeditions to Central Asia.",
+      "Made significant contributions to the understanding of the region's geography and culture.",
+      "Authored several influential books on his travels."
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1952
+  }
+]

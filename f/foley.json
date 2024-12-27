@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Foley",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Foley",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Foley_(journalist)",
+    "occupation": "Journalist",
+    "achievements": [
+      "Worked as a war correspondent for various news organizations",
+      "Held hostage by ISIS in Syria and later executed in 2014"
+    ],
+    "yearBorn": 1973,
+    "yearDied": 2014
+  }
+]

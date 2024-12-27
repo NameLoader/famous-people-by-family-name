@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Joaquin Phoenix",
+    "givenNames": [
+      "Joaquin"
+    ],
+    "familyName": "Phoenix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joaquin_Phoenix",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor for his role in *Joker* (2019)",
+      "Golden Globe Award for Best Actor – Motion Picture Drama for his role in *Walk the Line* (2005)",
+      "Critically acclaimed performances in films such as *Gladiator*, *The Master*, and *Her*"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "River Phoenix",
+    "givenNames": [
+      "River"
+    ],
+    "familyName": "Phoenix",
+    "wikipedia": "https://en.wikipedia.org/wiki/River_Phoenix",
+    "occupation": "Actor",
+    "achievements": [
+      "Breakout role in the film *Stand by Me* (1986)",
+      "Acclaim for his performances in films such as *Running on Empty* and *My Own Private Idaho*"
+    ],
+    "yearBorn": 1970,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Rain Phoenix",
+    "givenNames": [
+      "Rain"
+    ],
+    "familyName": "Phoenix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rain_Phoenix",
+    "occupation": "Musician, Actress",
+    "achievements": [
+      "Member of the band *The Rain Phoenix Band*",
+      "Performed in films such as *Dogfight* and *SpaceCamp*"
+    ],
+    "yearBorn": 1972
+  }
+]

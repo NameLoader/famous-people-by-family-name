@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Avril Lavigne",
+    "givenNames": [
+      "Avril"
+    ],
+    "familyName": "Lavigne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avril_Lavigne",
+    "occupation": "Singer-songwriter, Musician",
+    "achievements": [
+      "Grammy Award nominee",
+      "Bestselling music artist of the 2000s",
+      "Influential figure in pop punk and emo music"
+    ],
+    "yearBorn": 1984
+  }
+]

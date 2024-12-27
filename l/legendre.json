@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Adrien-Marie Legendre",
+    "givenNames": [
+      "Adrien-Marie"
+    ],
+    "familyName": "Legendre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrien-Marie_Legendre",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Developed Legendre polynomials",
+      "Contributions to number theory",
+      "Work on elliptic integrals"
+    ],
+    "yearBorn": 1752,
+    "yearDied": 1833
+  }
+]

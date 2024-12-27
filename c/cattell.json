@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Raymond Cattell",
+    "givenNames": [
+      "Raymond"
+    ],
+    "familyName": "Cattell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Cattell",
+    "occupation": "Psychologist and statistician.",
+    "achievements": [
+      "Developed the 16 Personality Factor Questionnaire (16PF), a widely used personality assessment tool.",
+      "Advanced factor analysis techniques in psychology.",
+      "Contributed to theories of fluid and crystallized intelligence."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1998
+  }
+]

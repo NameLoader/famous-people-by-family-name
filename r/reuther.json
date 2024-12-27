@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Walter Reuther",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Reuther",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Reuther",
+    "occupation": "Labor leader, president of the UAW",
+    "achievements": [
+      "Led the UAW to significant gains for autoworkers.",
+      "Instrumental in securing collective bargaining rights and improved wages.",
+      "Advocate for social justice and civil rights."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1972
+  }
+]

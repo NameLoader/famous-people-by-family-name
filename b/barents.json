@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Willem Barentsz",
+    "givenNames": [
+      "Willem"
+    ],
+    "familyName": "Barents",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willem_Barentsz",
+    "occupation": "Dutch explorer",
+    "achievements": [
+      "Led three voyages to the Arctic in search of a northeast passage to Asia.",
+      "Made detailed maps of the Arctic coastline and islands."
+    ],
+    "yearBorn": 1550,
+    "yearDied": 1597
+  }
+]

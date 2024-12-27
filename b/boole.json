@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Boole",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Boole",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Boole",
+    "occupation": "Mathematician, logician",
+    "achievements": [
+      "Developed Boolean algebra, the foundation of digital logic.",
+      "Contributed to symbolic logic and mathematical analysis."
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1864
+  }
+]

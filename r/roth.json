@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Philip Roth",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Roth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Roth",
+    "occupation": "Novelist",
+    "achievements": [
+      "Pulitzer Prize for Fiction (for 'American Pastoral')",
+      "National Book Award for Fiction (for 'The Plot Against America')"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2018
+  }
+]

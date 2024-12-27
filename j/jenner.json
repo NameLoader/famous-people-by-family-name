@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Bruce Jenner",
+    "givenNames": [
+      "Bruce"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caitlyn_Jenner",
+    "occupation": "Athlete, Media Personality",
+    "achievements": [
+      "Won the gold medal in the decathlon at the 1976 Summer Olympics",
+      "Transitioned to become Caitlyn Jenner"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Kendall Jenner",
+    "givenNames": [
+      "Kendall"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kendall_Jenner",
+    "occupation": "Model, Television Personality",
+    "achievements": [
+      "One of the highest-paid models in the world",
+      "Starred in the reality television series Keeping Up with the Kardashians"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Kylie Jenner",
+    "givenNames": [
+      "Kylie"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kylie_Jenner",
+    "occupation": "Model, Businesswoman",
+    "achievements": [
+      "Founder of the cosmetics company Kylie Cosmetics",
+      "One of the youngest self-made billionaires"
+    ],
+    "yearBorn": 1997
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Patrick Kane",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Kane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Kane",
+    "occupation": "Professional Ice Hockey Player",
+    "achievements": [
+      "Won the Stanley Cup with the Chicago Blackhawks in 2010, 2013, and 2015.",
+      "Three-time NHL All-Star."
+    ],
+    "yearBorn": 1988
+  }
+]

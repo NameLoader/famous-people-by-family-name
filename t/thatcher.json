@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Margaret Hilda Thatcher",
+    "givenNames": [
+      "Margaret",
+      "Hilda"
+    ],
+    "familyName": "Thatcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+    "occupation": "Politician, Prime Minister of the United Kingdom",
+    "achievements": [
+      "First female Prime Minister of the United Kingdom",
+      "Longest-serving British Prime Minister of the 20th century",
+      "Key figure in the Cold War",
+      "Implemented neoliberal economic policies"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2013
+  }
+]

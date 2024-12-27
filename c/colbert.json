@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Stephen Colbert",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Colbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Colbert",
+    "occupation": "Comedian, talk show host, political commentator",
+    "achievements": [
+      "Host of 'The Colbert Report' and 'The Late Show with Stephen Colbert'",
+      "Won numerous awards including multiple Emmy Awards and Peabody Awards"
+    ],
+    "yearBorn": 1964
+  }
+]

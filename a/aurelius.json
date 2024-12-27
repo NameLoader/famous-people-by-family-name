@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Marcus Aurelius",
+    "givenNames": [
+      "Marcus"
+    ],
+    "familyName": "Aurelius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "occupation": "Roman Emperor, Philosopher",
+    "achievements": [
+      "Philosophical writings like 'Meditations'",
+      "Ruled the Roman Empire during a period of relative peace and prosperity (Pax Romana)"
+    ],
+    "yearBorn": 121,
+    "yearDied": 180
+  }
+]

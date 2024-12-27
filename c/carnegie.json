@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Andrew Carnegie",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Carnegie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+    "occupation": "Steel industrialist, philanthropist",
+    "achievements": [
+      "Built a steel empire through innovative business practices.",
+      "Donated vast wealth to libraries, education, and peace initiatives."
+    ],
+    "yearBorn": 1835,
+    "yearDied": 1919
+  }
+]

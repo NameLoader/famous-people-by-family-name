@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Bertrand Russell",
+    "givenNames": [
+      "Bertrand"
+    ],
+    "familyName": "Russell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+    "occupation": "Mathematician, Philosopher, Activist",
+    "achievements": [
+      "Won the Nobel Prize in Literature (1950)",
+      "Pioneer of analytic philosophy",
+      "Advocate for pacifism and social justice"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1970
+  }
+]

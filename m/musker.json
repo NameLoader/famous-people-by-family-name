@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Musker",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Musker",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Musker",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Co-directed Disney animated films such as 'The Little Mermaid', 'Aladdin', and 'Hercules'",
+      "Received Academy Award nominations for his work on 'The Little Mermaid'"
+    ],
+    "yearBorn": 1953
+  }
+]

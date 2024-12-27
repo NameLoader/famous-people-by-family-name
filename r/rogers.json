@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Will Rogers",
+    "givenNames": [
+      "Will"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Rogers",
+    "occupation": "Actor, comedian, social commentator",
+    "achievements": [
+      "Famous for his folksy humor and wit",
+      "Popular radio and film star during the early 20th century",
+      "Known for his commentary on politics and social issues"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1935
+  }
+]

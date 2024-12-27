@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arthur Wellesley, 1st Duke of Wellington",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Wellington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+    "occupation": "Military leader, Statesman",
+    "achievements": [
+      "Victory at the Battle of Waterloo",
+      "Leading British forces in the Napoleonic Wars",
+      "Prime Minister of the United Kingdom"
+    ],
+    "yearBorn": 1769,
+    "yearDied": 1852
+  }
+]

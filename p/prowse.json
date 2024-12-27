@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Peter Mayhew",
+    "givenNames": [
+      "Peter",
+      "Mayhew"
+    ],
+    "familyName": "Prowse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Mayhew",
+    "occupation": "Actor",
+    "achievements": [
+      "Played the role of Chewbacca in the Star Wars franchise",
+      "Known for his distinctive physical appearance and height"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "David Prowse",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Prowse",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Prowse",
+    "occupation": "Bodybuilder, actor",
+    "achievements": [
+      "Played the physical role of Darth Vader in the original Star Wars trilogy",
+      "UK bodybuilding champion",
+      "Appeared in various films and television shows"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2021
+  }
+]

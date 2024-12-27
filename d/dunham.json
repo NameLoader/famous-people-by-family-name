@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Lena Dunham",
+    "givenNames": [
+      "Lena"
+    ],
+    "familyName": "Dunham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Dunham",
+    "occupation": "Actress, Writer, Director",
+    "achievements": [
+      "Creator and star of the HBO series 'Girls'",
+      "Author of the novel 'Not That Kind of Girl'"
+    ],
+    "yearBorn": 1986
+  }
+]

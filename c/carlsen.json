@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Magnus Carlsen",
+    "givenNames": [
+      "Magnus"
+    ],
+    "familyName": "Carlsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+    "occupation": "Chess player",
+    "achievements": [
+      "Current world chess champion",
+      "Highest ever Elo rating in chess history",
+      "Multiple-time Norwegian Chess Champion"
+    ],
+    "yearBorn": 1990
+  }
+]

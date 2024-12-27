@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Yorke",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Yorke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thom_Yorke",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Lead vocalist and guitarist for the band Radiohead.",
+      "Known for experimental and influential music.",
+      "Won numerous awards including Brit Awards and Grammy Awards."
+    ],
+    "yearBorn": 1968
+  }
+]

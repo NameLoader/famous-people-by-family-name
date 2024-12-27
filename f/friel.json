@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Brian Friel",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Friel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Friel",
+    "occupation": "Playwright, screenwriter",
+    "achievements": [
+      "One of the most celebrated Irish playwrights of the 20th century",
+      "Known for his powerful and lyrical works exploring themes of identity, memory, and history",
+      "Recipient of numerous awards, including the Tony Award for Best Play"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2015
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Chris Evert",
+    "givenNames": [
+      "Chris"
+    ],
+    "familyName": "Evert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Evert",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Won 18 Grand Slam singles titles.",
+      "Ranked No. 1 in the world for a record 260 weeks."
+    ],
+    "yearBorn": 1954
+  }
+]

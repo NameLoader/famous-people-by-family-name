@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "George Bernard Shaw",
+    "givenNames": [
+      "George",
+      "Bernard"
+    ],
+    "familyName": "Shaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+    "occupation": "Playwright, critic, political activist",
+    "achievements": [
+      "Nobel Prize in Literature (1925)",
+      "Widely regarded as one of the most influential dramatists of the 20th century",
+      "Prolific writer of plays, essays, and reviews"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1950
+  }
+]

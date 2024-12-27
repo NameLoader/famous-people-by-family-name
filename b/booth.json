@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Edwin Booth",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Booth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Booth",
+    "occupation": "Actor",
+    "achievements": [
+      "Renowned American stage actor known for his portrayal of Shakespearean roles."
+    ],
+    "yearBorn": 1833,
+    "yearDied": 1893
+  },
+  {
+    "fullName": "John Wilkes Booth",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Booth",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
+    "occupation": "Actor, Assassin",
+    "achievements": [
+      "Infamous for assassinating U.S. President Abraham Lincoln."
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1865
+  }
+]

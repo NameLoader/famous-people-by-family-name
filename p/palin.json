@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sarah Palin",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Palin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Palin",
+    "occupation": "Politician, Author, Television Personality",
+    "achievements": [
+      "Governor of Alaska (2006-2009)",
+      "Republican vice presidential nominee in the 2008 election",
+      "Conservative political commentator"
+    ],
+    "yearBorn": 1964
+  }
+]

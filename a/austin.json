@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Stephen Austin",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_F._Austin",
+    "occupation": "empresario, politician",
+    "achievements": [
+      "Remembered as the 'Father of Texas' for his role in bringing Anglo-American settlers to Texas.",
+      "Instrumental in the Texas Revolution."
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1836
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Charles Koch",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Koch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Koch",
+    "occupation": "Businessman, Political Activist",
+    "achievements": [
+      "Chairman and CEO of Koch Industries",
+      "Major political donor and advocate for free market principles"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "David Koch",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Koch",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Koch",
+    "occupation": "Businessman, Political Activist",
+    "achievements": [
+      "Executive Vice President of Koch Industries",
+      "Major political donor and advocate for libertarian causes"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2019
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John McTiernan",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McTiernan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McTiernan",
+    "occupation": "Film Director, Producer",
+    "achievements": [
+      "Directed blockbuster films like Die Hard, Predator, and The Hunt for Red October.",
+      "Won a Saturn Award for Best Director for Die Hard."
+    ],
+    "yearBorn": 1951
+  }
+]

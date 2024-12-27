@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Roger Casement",
+    "givenNames": [
+      "Roger"
+    ],
+    "familyName": "Casement",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Casement",
+    "occupation": "Irish revolutionary, diplomat, and civil servant",
+    "achievements": [
+      "Prominent figure in the Irish independence movement.",
+      "Served as an Irish nationalist ambassador to Germany during World War I.",
+      "Acted as a key intermediary in the German plot to supply arms to Ireland.",
+      "Executed for treason by British authorities."
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1916
+  }
+]

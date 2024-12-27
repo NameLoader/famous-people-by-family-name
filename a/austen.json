@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jane Austen",
+    "givenNames": [
+      "Jane"
+    ],
+    "familyName": "Austen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+    "occupation": "Novelist",
+    "achievements": [
+      "Wrote iconic novels such as *Pride and Prejudice*, *Sense and Sensibility*, and *Emma*.",
+      "Considered one of the most important figures in English literature."
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1817
+  }
+]

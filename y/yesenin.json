@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sergei Yesenin",
+    "givenNames": [
+      "Sergei"
+    ],
+    "familyName": "Yesenin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Yesenin",
+    "occupation": "Poet",
+    "achievements": [
+      "Considered one of the most prominent poets of the Russian Silver Age.",
+      "Known for his lyrical and emotionally charged verse.",
+      "His works often explored themes of love, nature, and Russian identity."
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1925
+  }
+]

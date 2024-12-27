@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ralph Waldo Emerson",
+    "givenNames": [
+      "Ralph",
+      "Waldo"
+    ],
+    "familyName": "Emerson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+    "occupation": "Writer, philosopher, essayist",
+    "achievements": [
+      "Key figure in Transcendentalism movement",
+      "Influential essayist and poet",
+      "Known for works like 'Self-Reliance' and 'Nature'"
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1882
+  }
+]

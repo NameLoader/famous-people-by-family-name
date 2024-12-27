@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert McNamara",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "McNamara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_McNamara",
+    "occupation": "Politician, Secretary of Defense",
+    "achievements": [
+      "Served as the 83rd United States Secretary of Defense (1961-1968)",
+      "Key figure in the Vietnam War",
+      "President of the World Bank (1968-1980)"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 2009
+  }
+]

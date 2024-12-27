@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Edward VI",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VI",
+    "occupation": "King of England",
+    "achievements": [
+      "Promoted Protestant reforms in England"
+    ],
+    "yearBorn": 1537,
+    "yearDied": 1553
+  },
+  {
+    "fullName": "Mary I",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+    "occupation": "Queen of England",
+    "achievements": [
+      "Re-established Catholicism in England"
+    ],
+    "yearBorn": 1516,
+    "yearDied": 1558
+  }
+]

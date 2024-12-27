@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Heath Ledger",
+    "givenNames": [
+      "Heath"
+    ],
+    "familyName": "Ledger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heath_Ledger",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor for his role as The Joker in *The Dark Knight* (2008)",
+      "Known for his intense and versatile performances in films such as *Brokeback Mountain*, *10 Things I Hate About You*, and *Casanova*"
+    ],
+    "yearBorn": 1979,
+    "yearDied": 2008
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John von Neumann",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Neumann",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_von_Neumann",
+    "occupation": "Mathematician, Physicist, Computer Scientist",
+    "achievements": [
+      "Contributed to the development of game theory and quantum mechanics.",
+      "Played a key role in the Manhattan Project.",
+      "Made significant contributions to the development of computer science."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1957
+  }
+]

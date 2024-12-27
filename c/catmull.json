@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Edwin Catmull",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Catmull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Catmull",
+    "occupation": "Computer graphics researcher and animator",
+    "achievements": [
+      "Pioneered computer graphics algorithms used in movies and video games.",
+      "Co-founder of Pixar Animation Studios."
+    ],
+    "yearBorn": 1945
+  }
+]

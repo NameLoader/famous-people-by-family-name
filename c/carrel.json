@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alexis Carrel",
+    "givenNames": [
+      "Alexis"
+    ],
+    "familyName": "Carrel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Carrel",
+    "occupation": "Surgeon, Researcher",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1912) for his work on vascular suturing and organ transplantation.",
+      "Pioneering work in microsurgery and tissue transplantation."
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1944
+  }
+]

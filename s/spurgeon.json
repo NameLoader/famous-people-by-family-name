@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Charles Haddon Spurgeon",
+    "givenNames": [
+      "Charles",
+      "Haddon"
+    ],
+    "familyName": "Spurgeon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Haddon_Spurgeon",
+    "occupation": "Baptist minister, preacher, author",
+    "achievements": [
+      "Known as the 'Prince of Preachers'",
+      "Founded the Metropolitan Tabernacle in London",
+      "Published numerous books and sermons",
+      "Influential figure in the Baptist movement"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1892
+  }
+]

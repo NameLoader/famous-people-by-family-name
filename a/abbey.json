@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Abbey",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Abbey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Abbey",
+    "occupation": "Writer, environmental activist",
+    "achievements": [
+      "Author of influential works on environmentalism and the American Southwest",
+      "Advocate for wilderness preservation"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1989
+  }
+]

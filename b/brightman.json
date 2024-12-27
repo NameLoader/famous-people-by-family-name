@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sarah Brightman",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Brightman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Brightman",
+    "occupation": "Singer, composer",
+    "achievements": [
+      "International opera singer",
+      "Successful crossover pop music career",
+      "Known for her high vocal range and powerful performances"
+    ],
+    "yearBorn": 1960
+  }
+]

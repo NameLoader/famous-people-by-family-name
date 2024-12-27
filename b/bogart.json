@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Humphrey DeForest Bogart",
+    "givenNames": [
+      "Humphrey",
+      "DeForest"
+    ],
+    "familyName": "Bogart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Bogart",
+    "occupation": "Actor",
+    "achievements": [
+      "Iconic American film actor known for his roles in classic films like 'Casablanca' and 'The Maltese Falcon'",
+      "Considered one of the greatest actors of all time",
+      "Academy Award winner for Best Actor"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1957
+  }
+]

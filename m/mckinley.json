@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William McKinley",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "McKinley",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_McKinley",
+    "occupation": "Politician, 25th President of the United States",
+    "achievements": [
+      "Led the U.S. to victory in the Spanish-American War",
+      "Implemented the gold standard",
+      "Assassinated in office"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1901
+  }
+]

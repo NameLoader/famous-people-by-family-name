@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Aneurin Bevan",
+    "givenNames": [
+      "Aneurin"
+    ],
+    "familyName": "Bevan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aneurin_Bevan",
+    "occupation": "Politician, trade unionist",
+    "achievements": [
+      "Key figure in the creation of the National Health Service (NHS) in Britain."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1960
+  }
+]

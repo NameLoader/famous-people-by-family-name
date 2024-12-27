@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Henry Wadsworth Longfellow",
+    "givenNames": [
+      "Henry",
+      "Wadsworth"
+    ],
+    "familyName": "Longfellow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow",
+    "occupation": "Poet, Professor",
+    "achievements": [
+      "One of the most popular American poets of the 19th century",
+      "Known for poems like 'The Song of Hiawatha', 'Paul Revere’s Ride', and 'Evangeline'",
+      "Translated works from other languages"
+    ],
+    "yearBorn": 1807,
+    "yearDied": 1882
+  }
+]

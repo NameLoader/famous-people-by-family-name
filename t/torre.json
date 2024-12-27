@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Torre",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Torre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Torre",
+    "occupation": "Former professional baseball player and manager",
+    "achievements": [
+      "Managed the New York Yankees to four World Series championships (1996, 1998, 1999, 2000)",
+      "Won American League Manager of the Year Award three times",
+      "Inducted into the Baseball Hall of Fame in 2014"
+    ],
+    "yearBorn": 1940
+  }
+]

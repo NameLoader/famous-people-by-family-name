@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Paul Newman",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Newman",
+    "occupation": "Actor, race car driver",
+    "achievements": [
+      "Academy Award for Best Actor (The Color of Money)",
+      "Multiple Oscar nominations",
+      "Screen Actors Guild Life Achievement Award",
+      "Known for his iconic roles in films like 'Butch Cassidy and the Sundance Kid' and 'Cool Hand Luke'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2008
+  }
+]

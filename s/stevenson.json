@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Robert Louis Stevenson",
+    "givenNames": [
+      "Robert",
+      "Louis"
+    ],
+    "familyName": "Stevenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+    "occupation": "Author, Poet",
+    "achievements": [
+      "Wrote Treasure Island and The Strange Case of Dr Jekyll and Mr Hyde"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1894
+  },
+  {
+    "fullName": "Adlai Stevenson II",
+    "givenNames": [
+      "Adlai"
+    ],
+    "familyName": "Stevenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adlai_Stevenson_II",
+    "occupation": "Politician, Governor of Illinois",
+    "achievements": [
+      "Ran for President in 1952 and 1956"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1965
+  }
+]

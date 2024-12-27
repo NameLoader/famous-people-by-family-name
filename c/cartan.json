@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Élie Cartan",
+    "givenNames": [
+      "Élie"
+    ],
+    "familyName": "Cartan",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89lie_Cartan",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Developed the theory of differential forms.",
+      "Made significant contributions to topology and geometry."
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1951
+  }
+]

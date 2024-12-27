@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Harry Morant",
+    "givenNames": [
+      "Harry"
+    ],
+    "familyName": "Morant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Morant",
+    "occupation": "Australian Army officer",
+    "achievements": [
+      "Served in the Second Boer War",
+      "Executed for war crimes"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1902
+  }
+]

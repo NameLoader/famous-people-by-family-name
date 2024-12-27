@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Christopher Nolan",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Nolan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Nolan",
+    "occupation": "Film Director, Screenwriter",
+    "achievements": [
+      "Directed critically acclaimed films like Inception, The Dark Knight trilogy, and Interstellar.",
+      "Known for his complex narratives, mind-bending plots, and practical special effects."
+    ],
+    "yearBorn": 1970
+  }
+]

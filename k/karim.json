@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mohamed Salah Karim",
+    "givenNames": [
+      "Mohamed",
+      "Salah"
+    ],
+    "familyName": "Karim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+    "occupation": "Footballer",
+    "achievements": [
+      "Premier League top scorer (2018)",
+      "UEFA Champions League top scorer (2018)",
+      "FIFA Club World Cup winner (2019)"
+    ],
+    "yearBorn": 1992
+  }
+]

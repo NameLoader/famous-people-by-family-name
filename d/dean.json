@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Dean",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dean",
+    "occupation": "Actor",
+    "achievements": [
+      "Iconic Hollywood actor of the 1950s",
+      "Known for his roles in Rebel Without a Cause, East of Eden, and Giant",
+      "Symbol of teenage rebellion and angst"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1955
+  }
+]

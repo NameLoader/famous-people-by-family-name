@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christopher Froome",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Froome",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Froome",
+    "occupation": "Professional Cyclist",
+    "achievements": [
+      "Four-time Tour de France winner (2013, 2015, 2016, 2017)",
+      "Multiple stage race victories",
+      "British National Road Race Champion"
+    ],
+    "yearBorn": 1985
+  }
+]

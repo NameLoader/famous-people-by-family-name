@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thurgood Marshall",
+    "givenNames": [
+      "Thurgood"
+    ],
+    "familyName": "Marshall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
+    "occupation": "Lawyer, Supreme Court Justice",
+    "achievements": [
+      "Lead counsel in *Brown v. Board of Education* (desegregation)",
+      "First African-American Associate Justice on the Supreme Court"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1993
+  }
+]

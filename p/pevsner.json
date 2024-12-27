@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Nikolaus Pevsner",
+    "givenNames": [
+      "Nikolaus"
+    ],
+    "familyName": "Pevsner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolaus_Pevsner",
+    "occupation": "Architect, architectural historian",
+    "achievements": [
+      "Considered one of the most important architectural historians of the 20th century.",
+      "Author of 'The Buildings of England' series.",
+      "Promoted modern architecture and design."
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1983
+  }
+]

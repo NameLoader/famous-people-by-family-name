@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Nicole Mary Kidman",
+    "givenNames": [
+      "Nicole",
+      "Mary"
+    ],
+    "familyName": "Kidman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Kidman",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Golden Globe Award for Best Actress – Motion Picture Drama",
+      "BAFTA Award for Best Actress in a Leading Role",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1967
+  }
+]

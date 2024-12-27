@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jules Gabriel Verne",
+    "givenNames": [
+      "Jules",
+      "Gabriel"
+    ],
+    "familyName": "Verne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jules_Verne",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Author of classic science fiction novels such as 'Journey to the Center of the Earth', 'Twenty Thousand Leagues Under the Sea', and 'Around the World in Eighty Days'",
+      "Influenced generations of writers and filmmakers with his imaginative stories"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1905
+  }
+]

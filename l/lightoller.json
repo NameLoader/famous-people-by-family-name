@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Lightoller",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Lightoller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lightoller",
+    "occupation": "Naval officer, Titanic survivor",
+    "achievements": [
+      "Second Officer on the RMS Titanic during its maiden voyage.",
+      "Survived the sinking of the Titanic and played a key role in the rescue effort.",
+      "Wrote about his experience aboard the Titanic."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1952
+  }
+]

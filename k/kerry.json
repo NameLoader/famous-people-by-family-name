@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Kerry",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Kerry",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Kerry",
+    "occupation": "Politician, U.S. Secretary of State",
+    "achievements": [
+      "U.S. Senator from Massachusetts (1985–2013)",
+      "68th United States Secretary of State (2013–2017)"
+    ],
+    "yearBorn": 1943
+  }
+]

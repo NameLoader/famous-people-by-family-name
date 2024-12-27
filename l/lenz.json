@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Heinrich Lenz",
+    "givenNames": [
+      "Heinrich"
+    ],
+    "familyName": "Lenz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Lenz",
+    "occupation": "Physicist",
+    "achievements": [
+      "Formulated Lenz's Law describing the direction of induced electromotive force.",
+      "Made significant contributions to electromagnetism and electrical engineering."
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1865
+  }
+]

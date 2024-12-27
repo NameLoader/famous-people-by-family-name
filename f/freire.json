@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Paulo Freire",
+    "givenNames": [
+      "Paulo"
+    ],
+    "familyName": "Freire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Freire",
+    "occupation": "Educator, Philosopher, Social Theorist",
+    "achievements": [
+      "Developed the concept of 'pedagogy of the oppressed'",
+      "Promoted critical pedagogy and transformative learning",
+      "Influenced education and social movements worldwide"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1997
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Michael Hutchence",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Hutchence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Hutchence",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Lead singer of the band INXS",
+      "Known for his charismatic stage presence and powerful vocals",
+      "International success with hit songs like 'Never Tear Us Apart' and 'Need You Tonight'"
+    ],
+    "yearBorn": 1965,
+    "yearDied": 1997
+  }
+]

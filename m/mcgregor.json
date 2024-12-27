@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Conor McGregor",
+    "givenNames": [
+      "Conor"
+    ],
+    "familyName": "McGregor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Conor_McGregor",
+    "occupation": "Mixed Martial Artist, Boxer",
+    "achievements": [
+      "Former UFC Featherweight and Lightweight Champion",
+      "First fighter to hold titles in two weight classes simultaneously in the UFC",
+      "Known for his striking skills and flamboyant personality"
+    ],
+    "yearBorn": 1988
+  }
+]

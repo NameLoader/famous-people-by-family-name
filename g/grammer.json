@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Kelsey Grammer",
+    "givenNames": [
+      "Kelsey"
+    ],
+    "familyName": "Grammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelsey_Grammer",
+    "occupation": "Actor, voice actor, comedian, producer",
+    "achievements": [
+      "Won multiple Primetime Emmy Awards for his role as Dr. Frasier Crane in *Cheers* and *Frasier*.",
+      "Known for his distinctive voice work, particularly as Sideshow Bob in *The Simpsons*."
+    ],
+    "yearBorn": 1955
+  }
+]

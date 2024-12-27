@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Wayne Rooney",
+    "givenNames": [
+      "Wayne"
+    ],
+    "familyName": "Rooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Rooney",
+    "occupation": "Footballer (Soccer)",
+    "achievements": [
+      "Premier League record goalscorer for Manchester United",
+      "England's all-time leading goalscorer",
+      "UEFA Champions League winner"
+    ],
+    "yearBorn": 1985
+  }
+]

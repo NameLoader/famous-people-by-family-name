@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir John Wisdom",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wisdom",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wisdom",
+    "occupation": "Philosopher, Logician",
+    "achievements": [
+      "Major figure in 20th-century British philosophy",
+      "Known for his work on logic and the philosophy of language"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1993
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Tavener",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Tavener",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Tavener",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed numerous choral and orchestral works.",
+      "Known for his sacred music."
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2013
+  }
+]

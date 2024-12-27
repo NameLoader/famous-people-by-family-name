@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sarah Bernhardt",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Bernhardt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+    "occupation": "Actress",
+    "achievements": [
+      "Considered one of the greatest actresses of all time.",
+      "Known for her dramatic performances and powerful stage presence.",
+      "Achieved international fame during the late 19th and early 20th centuries."
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1923
+  }
+]

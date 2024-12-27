@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Peter Rose",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Rose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Rose",
+    "occupation": "Retired Baseball Player, Manager",
+    "achievements": [
+      "MLB's all-time hits leader (4256)"
+    ],
+    "yearBorn": 1941
+  }
+]

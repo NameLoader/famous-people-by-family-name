@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Locke",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Locke",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Locke",
+    "occupation": "Philosopher, physician, and writer",
+    "achievements": [
+      "Founder of liberalism",
+      "Influential in the development of empiricism",
+      "Author of *Two Treatises of Government* and *An Essay Concerning Human Understanding*",
+      "Advocate for individual rights and limited government"
+    ],
+    "yearBorn": 1632,
+    "yearDied": 1704
+  }
+]

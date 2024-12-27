@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Smithson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Smithson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Smithson",
+    "occupation": "Scientist, Chemist",
+    "achievements": [
+      "Founded the Smithsonian Institution",
+      "Contributions to mineralogy and chemistry"
+    ],
+    "yearBorn": 1765,
+    "yearDied": 1829
+  }
+]

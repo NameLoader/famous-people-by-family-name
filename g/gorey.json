@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edward Gorey",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Gorey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Gorey",
+    "occupation": "Writer, illustrator, poet",
+    "achievements": [
+      "Known for his macabre and darkly humorous drawings and stories",
+      "Created the iconic 'Amphigorey' series of books",
+      "Illustrated numerous works by other authors"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2000
+  }
+]

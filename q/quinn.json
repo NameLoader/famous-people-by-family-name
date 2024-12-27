@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Anthony Quinn",
+    "givenNames": [
+      "Anthony"
+    ],
+    "familyName": "Quinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Quinn",
+    "occupation": "Actor",
+    "achievements": [
+      "Two-time Academy Award winner for Best Supporting Actor",
+      "Known for roles in films like 'Viva Zapata!','Zorba the Greek', and 'Lawrence of Arabia'"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Brian Quinn",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Quinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Quinn_(comedian)",
+    "occupation": "Comedian",
+    "achievements": [
+      "Member of the stand-up comedy group 'The Tenderloins'",
+      "Starred in the truTV series 'Impractical Jokers'"
+    ],
+    "yearBorn": 1976
+  }
+]

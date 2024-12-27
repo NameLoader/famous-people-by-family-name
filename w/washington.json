@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Washington",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
+    "occupation": "Politician, General",
+    "achievements": [
+      "Commander-in-Chief of the Continental Army during the American Revolutionary War",
+      "First President of the United States",
+      "Instrumental in drafting the Constitution"
+    ],
+    "yearBorn": 1732,
+    "yearDied": 1799
+  }
+]

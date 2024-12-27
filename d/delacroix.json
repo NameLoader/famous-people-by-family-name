@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Eugène Delacroix",
+    "givenNames": [
+      "Eugène"
+    ],
+    "familyName": "Delacroix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure in the Romantic movement in French painting.",
+      "Known for his vivid colors, dramatic compositions, and powerful depictions of historical events.",
+      "Notable works include 'Liberty Leading the People' and 'The Death of Sardanapalus'."
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1863
+  }
+]

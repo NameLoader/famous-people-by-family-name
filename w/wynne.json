@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Sir Arthur Wynne",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Wynne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Wynne",
+    "occupation": "Journalist",
+    "achievements": [
+      "Invented the crossword puzzle."
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1943
+  }
+]

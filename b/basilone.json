@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Gunnery Sergeant John Basilone",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Basilone",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Basilone",
+    "occupation": "Marine Corps Gunnery Sergeant",
+    "achievements": [
+      "Medal of Honor recipient for his actions at Guadalcanal",
+      "Distinguished Service Cross recipient for his actions in the Battle of Iwo Jima"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1945
+  }
+]

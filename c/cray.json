@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Seymour Cray",
+    "givenNames": [
+      "Seymour"
+    ],
+    "familyName": "Cray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seymour_Cray",
+    "occupation": "Computer Scientist, Engineer",
+    "achievements": [
+      "Pioneer in supercomputer design",
+      "Founder of Cray Research",
+      "Invented the vector processing architecture"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1996
+  }
+]

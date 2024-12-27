@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "David Foster",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Foster",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Foster",
+    "occupation": "Music producer, Composer, Singer-songwriter",
+    "achievements": [
+      "Produced numerous hit albums for artists like Celine Dion, Whitney Houston, and Madonna",
+      "Won multiple Grammy Awards"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Benjamin Foster",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Foster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Foster_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films like *X-Men: The Last Stand*, *The Mechanic*, and *Lone Survivor*"
+    ],
+    "yearBorn": 1980
+  }
+]

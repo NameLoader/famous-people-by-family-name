@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Russell Westbrook",
+    "givenNames": [
+      "Russell"
+    ],
+    "familyName": "Westbrook",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Westbrook",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA MVP (2017)",
+      "9x NBA All-Star",
+      "Olympic gold medalist (2012)"
+    ],
+    "yearBorn": 1988
+  }
+]

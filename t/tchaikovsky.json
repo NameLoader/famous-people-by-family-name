@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Pyotr Ilyich Tchaikovsky",
+    "givenNames": [
+      "Pyotr",
+      "Ilyich"
+    ],
+    "familyName": "Tchaikovsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyotr_Tchaikovsky",
+    "occupation": "Composer",
+    "achievements": [
+      "Widely recognized as one of the greatest composers of the Romantic era.",
+      "Known for his ballets like Swan Lake, The Nutcracker, and Sleeping Beauty.",
+      "Composed iconic symphonies, concertos, and operas."
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1893
+  }
+]

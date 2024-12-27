@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Natalie Portman",
+    "givenNames": [
+      "Natalie"
+    ],
+    "familyName": "Portman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Portman",
+    "occupation": "Actress, Film Producer, Activist",
+    "achievements": [
+      "Academy Award for Best Actress (2011)",
+      "Golden Globe Award for Best Actress – Motion Picture Drama (2011)",
+      "BAFTA Award for Best Actress in a Leading Role (2011)"
+    ],
+    "yearBorn": 1981
+  }
+]

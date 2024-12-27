@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Pitt the Younger",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Pitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt,_the_Younger",
+    "occupation": "Prime Minister of Great Britain",
+    "achievements": [
+      "Served as Prime Minister for over 17 years.",
+      "Led Britain during the French Revolutionary Wars and the Napoleonic Wars."
+    ],
+    "yearBorn": 1759,
+    "yearDied": 1806
+  }
+]

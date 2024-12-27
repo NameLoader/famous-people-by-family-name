@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Roberto Clemente",
+    "givenNames": [
+      "Roberto"
+    ],
+    "familyName": "Alvarado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Clemente",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Hall of Famer",
+      "World Series champion",
+      "Won 12 Gold Glove Awards",
+      "Known for his humanitarian work"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 1972
+  }
+]

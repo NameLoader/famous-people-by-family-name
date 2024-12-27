@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Sculley",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Sculley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sculley",
+    "occupation": "Business executive",
+    "achievements": [
+      "CEO of Apple Computer from 1983 to 1985",
+      "Instrumental in bringing Macintosh to market",
+      "Led PepsiCo's marketing efforts in the 1970s and 1980s"
+    ],
+    "yearBorn": 1939
+  }
+]

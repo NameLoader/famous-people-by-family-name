@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Adam Smith",
+    "givenNames": [
+      "Adam"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith",
+    "occupation": "Economist, Philosopher",
+    "achievements": [
+      "Known as the 'father of modern economics' for his book *The Wealth of Nations*.",
+      "Influenced classical liberal thought and economic policy worldwide."
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1790
+  },
+  {
+    "fullName": "Will Smith",
+    "givenNames": [
+      "Will"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Smith",
+    "occupation": "Actor, Rapper, Producer",
+    "achievements": [
+      "Academy Award-winning actor.",
+      "Successful rapper and music producer.",
+      "Starred in numerous blockbuster films."
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Kevin Smith",
+    "givenNames": [
+      "Kevin"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Smith",
+    "occupation": "Filmmaker, Writer, Actor",
+    "achievements": [
+      "Known for his independent films, often with a comedic and cult following.",
+      "Created the View Askewniverse franchise."
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Serena Smith",
+    "givenNames": [
+      "Serena"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serena_Williams",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "One of the greatest tennis players of all time.",
+      "Holds numerous Grand Slam singles titles."
+    ],
+    "yearBorn": 1981
+  }
+]

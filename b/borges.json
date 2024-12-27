@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Jorge Luis Borges",
+    "givenNames": [
+      "Jorge",
+      "Luis"
+    ],
+    "familyName": "Borges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+    "occupation": "Writer, poet, essayist",
+    "achievements": [
+      "Considered one of the most important Latin American writers of the 20th century.",
+      "Known for his short stories, poetry, essays, and philosophical works.",
+      "Master of allegory, fantasy, and metaphysical themes."
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1986
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Andrew Mellon",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Mellon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Mellon",
+    "occupation": "Financier, politician, philanthropist",
+    "achievements": [
+      "Served as U.S. Secretary of the Treasury under Presidents Harding, Coolidge, and Hoover.",
+      "Founder of Mellon National Bank and a leading figure in American industry.",
+      "Major art collector and philanthropist who donated to many museums and institutions."
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1937
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Sim",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Sim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Simmons",
+    "occupation": "Fitness Instructor, Entertainer",
+    "achievements": [
+      "Created the SWEAT exercise program",
+      "Popularized aerobics in the 1980s",
+      "Known for his energetic personality and flamboyant style"
+    ],
+    "yearBorn": 1948
+  }
+]

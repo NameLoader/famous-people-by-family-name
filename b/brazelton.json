@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "T. Berry Brazelton",
+    "givenNames": [
+      "T",
+      "Berry"
+    ],
+    "familyName": "Brazelton",
+    "wikipedia": "https://en.wikipedia.org/wiki/T._Berry_Brazelton",
+    "occupation": "Pediatrician, child development expert",
+    "achievements": [
+      "Pioneer in the field of neonatal care",
+      "Developed a widely used system for assessing infant behavior and development",
+      "Authored numerous books on child rearing",
+      "Promoted the importance of parent-child bonding"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2013
+  }
+]

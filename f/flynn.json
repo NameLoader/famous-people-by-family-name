@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Errol Flynn",
+    "givenNames": [
+      "Errol"
+    ],
+    "familyName": "Flynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Errol_Flynn",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in classic adventure films like 'Captain Blood' and 'The Adventures of Robin Hood'",
+      "Known for his charismatic persona and swashbuckling roles"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1959
+  }
+]

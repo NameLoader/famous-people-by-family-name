@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Victor Hedman",
+    "givenNames": [
+      "Victor"
+    ],
+    "familyName": "Hedman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Hedman",
+    "occupation": "Professional ice hockey player",
+    "achievements": [
+      "Stanley Cup champion (2020)",
+      "NHL All-Star (6 times)"
+    ],
+    "yearBorn": 1990
+  }
+]

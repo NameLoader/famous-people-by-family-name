@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Daly",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Daly",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Daly_(golfer)",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "Two-time Major Champion (PGA Championship, Open Championship)",
+      "Member of the PGA Tour",
+      "Known for his long drives and colorful personality"
+    ],
+    "yearBorn": 1966
+  }
+]

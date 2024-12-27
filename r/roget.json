@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Peter Mark Roget",
+    "givenNames": [
+      "Peter",
+      "Mark"
+    ],
+    "familyName": "Roget",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Mark_Roget",
+    "occupation": "Physician, Linguist, Writer",
+    "achievements": [
+      "Compiled the 'Roget's Thesaurus'",
+      "Contributed to early developments in acoustics and sound recording"
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1869
+  }
+]

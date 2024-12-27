@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Serena Williams",
+    "givenNames": [
+      "Serena"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serena_Williams",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "23 Grand Slam singles titles (most in the Open Era)",
+      "4 Olympic gold medals",
+      "319 weeks at No. 1 in singles rankings"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Venus Williams",
+    "givenNames": [
+      "Venus"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Venus_Williams",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "7 Grand Slam singles titles",
+      "4 Olympic gold medals",
+      "14 Grand Slam doubles titles (with Serena Williams)"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Shirley Williams",
+    "givenNames": [
+      "Shirley"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Williams,_Baroness_Williams_of_Crosby",
+    "occupation": "Politician, Academic",
+    "achievements": [
+      "Leader of the Social Democratic Party (SDP)",
+      "Member of the House of Lords"
+    ],
+    "yearBorn": 1930
+  }
+]

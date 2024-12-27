@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Alan Lightman",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Lightman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Lightman",
+    "occupation": "Author, Physicist",
+    "achievements": [
+      "Bestselling author of novels and works of nonfiction.",
+      "Professor emeritus at MIT."
+    ],
+    "yearBorn": 1948
+  }
+]

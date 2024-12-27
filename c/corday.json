@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Charlotte Corday",
+    "givenNames": [
+      "Charlotte"
+    ],
+    "familyName": "Corday",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Corday",
+    "occupation": "Assassin",
+    "achievements": [
+      "assassinated Maximilien Robespierre during the French Revolution"
+    ],
+    "yearBorn": 1768,
+    "yearDied": 1793
+  }
+]

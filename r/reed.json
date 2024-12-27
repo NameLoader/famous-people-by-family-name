@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Reed",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Reed",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Reed_(journalist)",
+    "occupation": "American journalist and writer",
+    "achievements": [
+      "Co-founder of The Masses magazine",
+      "Known for his socialist and anarchist views"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1920
+  }
+]

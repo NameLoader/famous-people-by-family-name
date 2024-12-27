@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Ritter",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ritter",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ritter",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the television sitcom 'Three's Company'",
+      "Nominated for multiple Emmy Awards"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2003
+  }
+]

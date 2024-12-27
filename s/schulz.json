@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Charles M. Schulz",
+    "givenNames": [
+      "Charles",
+      "M."
+    ],
+    "familyName": "Schulz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Schulz",
+    "occupation": "Cartoonist, Writer",
+    "achievements": [
+      "Created the comic strip Peanuts",
+      "Won numerous awards for his work",
+      "Considered one of the most influential cartoonists of all time"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Heidi Klum Schulz",
+    "givenNames": [
+      "Heidi",
+      "Klum"
+    ],
+    "familyName": "Schulz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heidi_Klum",
+    "occupation": "Model, Television Personality, Businesswoman",
+    "achievements": [
+      "One of the highest-paid models in the world",
+      "Host of Project Runway",
+      "Successful entrepreneur with her own fashion line"
+    ],
+    "yearBorn": 1973
+  }
+]

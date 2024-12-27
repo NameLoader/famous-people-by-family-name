@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Philip Hartman",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Hartman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Known for his roles in Saturday Night Live and films like 'Coneheads' and 'The Big Lebowski'.",
+      "Highly regarded for his comedic timing and versatility."
+    ],
+    "yearBorn": 1949,
+    "yearDied": 1998
+  }
+]

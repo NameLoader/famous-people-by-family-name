@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Isambard Kingdom Brunel",
+    "givenNames": [
+      "Isambard",
+      "Kingdom"
+    ],
+    "familyName": "Brunel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel",
+    "occupation": "Civil engineer",
+    "achievements": [
+      "Designed and built the Great Western Railway",
+      "Invented the first ironclad ship, HMS Warrior",
+      "Developed innovative suspension bridges"
+    ],
+    "yearBorn": 1806,
+    "yearDied": 1859
+  }
+]

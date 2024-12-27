@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Miles Standish",
+    "givenNames": [
+      "Miles"
+    ],
+    "familyName": "Standish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Standish",
+    "occupation": "Military leader, Pilgrim",
+    "achievements": [
+      "Co-leader of the Mayflower voyage to Plymouth Colony",
+      "First Captain in the military of Plymouth Colony",
+      "Helped negotiate treaties with Native American tribes"
+    ],
+    "yearBorn": 1584,
+    "yearDied": 1656
+  }
+]

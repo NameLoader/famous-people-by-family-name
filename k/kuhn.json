@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Kuhn",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Kuhn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kuhn",
+    "occupation": "Philosopher of science, physicist",
+    "achievements": [
+      "Developed the theory of scientific revolutions",
+      "Author of 'The Structure of Scientific Revolutions'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1996
+  }
+]

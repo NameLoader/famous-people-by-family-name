@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Stephen William Hawking",
+    "givenNames": [
+      "Stephen",
+      "William"
+    ],
+    "familyName": "Hawking",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "occupation": "Physicist, cosmologist, author",
+    "achievements": [
+      "Developed a theory of cosmology explaining the universe's beginning and evolution",
+      "Wrote best-selling book 'A Brief History of Time'",
+      "Made significant contributions to our understanding of black holes and singularity theorems",
+      "Overcame amyotrophic lateral sclerosis (ALS) to achieve international recognition"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2018
+  }
+]

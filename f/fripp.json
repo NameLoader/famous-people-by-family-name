@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Fripp",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Fripp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Fripp",
+    "occupation": "Musician, songwriter, record producer",
+    "achievements": [
+      "Guitarist for King Crimson",
+      "Influential figure in progressive rock and experimental music",
+      "Known for his unique guitar playing style and innovative use of effects"
+    ],
+    "yearBorn": 1946
+  }
+]

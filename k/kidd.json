@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jason Kidd",
+    "givenNames": [
+      "Jason"
+    ],
+    "familyName": "Kidd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jason_Kidd",
+    "occupation": "Retired NBA player and coach",
+    "achievements": [
+      "NBA Champion (2011)",
+      "10x NBA All-Star",
+      "NBA All-Rookie First Team (1994)",
+      "NBA All-Defensive First Team (1998, 2002, 2003)"
+    ],
+    "yearBorn": 1973
+  }
+]

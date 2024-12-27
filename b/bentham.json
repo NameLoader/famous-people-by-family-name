@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jeremy Bentham",
+    "givenNames": [
+      "Jeremy"
+    ],
+    "familyName": "Bentham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
+    "occupation": "Philosopher, jurist, political radical, and social theorist",
+    "achievements": [
+      "Founder of utilitarianism",
+      "Advocate for legal reform",
+      "Influential thinker on liberty and rights"
+    ],
+    "yearBorn": 1748,
+    "yearDied": 1832
+  }
+]

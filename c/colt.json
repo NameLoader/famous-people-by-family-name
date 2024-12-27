@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Samuel Colt",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Colt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Colt",
+    "occupation": "Inventor, industrialist",
+    "achievements": [
+      "Invented the revolving cylinder mechanism for firearms.",
+      "Founded Colt's Manufacturing Company."
+    ],
+    "yearBorn": 1814,
+    "yearDied": 1862
+  }
+]

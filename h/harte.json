@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Bret Harte",
+    "givenNames": [
+      "Bret"
+    ],
+    "familyName": "Harte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bret_Harte",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Prominent figure in American literature during the 19th century",
+      "Known for his stories about the California Gold Rush and frontier life",
+      "Author of popular works such as 'The Outcasts of Poker Flat' and 'Moccask Jim'"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1902
+  }
+]

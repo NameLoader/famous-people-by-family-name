@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Benjamin Nathan Cardozo",
+    "givenNames": [
+      "Benjamin",
+      "Nathan"
+    ],
+    "familyName": "Cardozo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_N._Cardozo",
+    "occupation": "Supreme Court Justice",
+    "achievements": [
+      "Associate Justice of the Supreme Court of the United States (1932-1938)",
+      "Known for his legal acumen and judicial philosophy",
+      "Authored numerous influential legal opinions"
+    ],
+    "yearBorn": 1870,
+    "yearDied": 1938
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Mayer",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Mayer",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mayer",
+    "occupation": "Singer-songwriter, Musician",
+    "achievements": [
+      "Grammy Award winner for Song of the Year",
+      "Known for his distinctive guitar playing and soulful vocals"
+    ],
+    "yearBorn": 1977
+  }
+]

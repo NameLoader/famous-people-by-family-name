@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Tove Jansson",
+    "givenNames": [
+      "Tove"
+    ],
+    "familyName": "Jansson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tove_Jansson",
+    "occupation": "Author, Illustrator",
+    "achievements": [
+      "Created the Moomins character and wrote and illustrated numerous books."
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2001
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John McGahern",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McGahern",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McGahern",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Recipient of the Irish Times International Fiction Prize",
+      "Winner of the James Tait Black Memorial Prize for fiction",
+      "Widely acclaimed for his novels exploring themes of rural Ireland, family, and loss"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2006
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir John Constable",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Constable",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Constable",
+    "occupation": "Landscape painter",
+    "achievements": [
+      "One of the most celebrated British landscape painters of the Romantic era.",
+      "Known for his depictions of Dedham Vale and other rural scenes in England.",
+      "Influenced generations of artists with his atmospheric and detailed paintings."
+    ],
+    "yearBorn": 1776,
+    "yearDied": 1837
+  }
+]

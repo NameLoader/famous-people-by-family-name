@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alain Juppé",
+    "givenNames": [
+      "Alain"
+    ],
+    "familyName": "Juppe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alain_Juppe",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Prime Minister of France (1995-1997)",
+      "Mayor of Bordeaux (2004-2020)",
+      "Minister of Foreign Affairs (1986-1988)"
+    ],
+    "yearBorn": 1945
+  }
+]

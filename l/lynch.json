@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "David Lynch",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Lynch",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Lynch",
+    "occupation": "Film director, screenwriter, producer, artist",
+    "achievements": [
+      "Known for films like 'Blue Velvet', 'Mulholland Drive', and 'Lost Highway'. Winner of the Palme d'Or at Cannes Film Festival."
+    ],
+    "yearBorn": 1946
+  }
+]

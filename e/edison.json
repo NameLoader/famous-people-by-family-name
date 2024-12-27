@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Thomas Alva Edison",
+    "givenNames": [
+      "Thomas",
+      "Alva"
+    ],
+    "familyName": "Edison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "occupation": "Inventor, businessman",
+    "achievements": [
+      "Invented the incandescent light bulb",
+      "Developed the phonograph",
+      "Founded the Edison Illuminating Company"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1931
+  }
+]

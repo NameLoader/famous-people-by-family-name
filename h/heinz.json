@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry John Heinz",
+    "givenNames": [
+      "Henry",
+      "John"
+    ],
+    "familyName": "Heinz",
+    "wikipedia": "https://en.wikipedia.org/wiki/H.J._Heinz",
+    "occupation": "Entrepreneur, industrialist",
+    "achievements": [
+      "Founded the H.J. Heinz Company",
+      "Revolutionized the food industry with mass-produced condiments"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1919
+  }
+]

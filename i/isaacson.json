@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Walter Isaacson",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Isaacson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Isaacson",
+    "occupation": "Journalist, biographer, historian, author",
+    "achievements": [
+      "Author of biographies of notable figures like Steve Jobs, Benjamin Franklin, and Leonardo da Vinci.",
+      "Former editor-in-chief of _Time_ magazine."
+    ],
+    "yearBorn": 1952
+  }
+]

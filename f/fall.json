@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Albert Fall",
+    "givenNames": [
+      "Albert"
+    ],
+    "familyName": "Fall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Fall",
+    "occupation": "Politician, Attorney General",
+    "achievements": [
+      "Served as U.S. Secretary of the Interior (1921-1923)",
+      "Involved in the Teapot Dome Scandal"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1944
+  }
+]

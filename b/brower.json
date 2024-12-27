@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "David Brower",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Brower",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Brower",
+    "occupation": "Conservationist, environmental activist",
+    "achievements": [
+      "Founder of the Sierra Club's legal defense fund",
+      "Instrumental in founding Earth Island Institute",
+      "Led national campaigns against nuclear weapons and dams",
+      "Advocated for wilderness preservation"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2000
+  }
+]

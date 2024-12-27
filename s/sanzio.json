@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Raphael Sanzio da Urbino",
+    "givenNames": [
+      "Raphael"
+    ],
+    "familyName": "Sanzio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+    "occupation": "painter, architect, and poet",
+    "achievements": [
+      "One of the three great masters of the High Renaissance",
+      "Known for his frescoes in Vatican City's Stanze della Segnatura",
+      "Created famous paintings such as 'The School of Athens', 'The Transfiguration', and 'Madonna of the Meadow'"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1520
+  }
+]

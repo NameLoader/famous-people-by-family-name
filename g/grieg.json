@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edvard Grieg",
+    "givenNames": [
+      "Edvard"
+    ],
+    "familyName": "Grieg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Grieg",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Composed famous pieces such as Peer Gynt Suite and In the Hall of the Mountain King",
+      "Considered a leading figure in Norwegian Romanticism"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1907
+  }
+]

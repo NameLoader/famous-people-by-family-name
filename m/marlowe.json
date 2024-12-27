@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christopher Marlowe",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Marlowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Marlowe",
+    "occupation": "Playwright, poet",
+    "achievements": [
+      "Wrote influential plays such as Doctor Faustus and Tamburlaine the Great",
+      "Considered one of the greatest Elizabethan playwrights"
+    ],
+    "yearBorn": 1564,
+    "yearDied": 1593
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Thomas Babington Macaulay",
+    "givenNames": [
+      "Thomas",
+      "Babington"
+    ],
+    "familyName": "Macaulay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Macaulay",
+    "occupation": "Historian, Poet, Essayist, Politician",
+    "achievements": [
+      "Wrote the 'History of England' (from James II to William III)",
+      "Authored influential essays on education and literature",
+      "Played a key role in shaping British political thought during his time"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1859
+  }
+]

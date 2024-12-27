@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Eli Whitney",
+    "givenNames": [
+      "Eli"
+    ],
+    "familyName": "Whitney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Whitney",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the cotton gin, revolutionizing the American South's cotton industry"
+    ],
+    "yearBorn": 1765,
+    "yearDied": 1825
+  },
+  {
+    "fullName": "William C. Whitney",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Whitney",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_C._Whitney",
+    "occupation": "Businessman, politician",
+    "achievements": [
+      "Prominent figure in the Gilded Age",
+      "Served as United States Secretary of the Navy"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1904
+  }
+]

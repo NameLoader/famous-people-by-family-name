@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Menachem Begin",
+    "givenNames": [
+      "Menachem"
+    ],
+    "familyName": "Begin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Menachem_Begin",
+    "occupation": "Politician, Prime Minister of Israel",
+    "achievements": [
+      "Prime Minister of Israel (1977-1983)",
+      "Nobel Peace Prize laureate (1978)"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1992
+  }
+]

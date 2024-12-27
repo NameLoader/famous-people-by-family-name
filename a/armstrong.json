@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Neil Armstrong",
+    "givenNames": [
+      "Neil"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+    "occupation": "Astronaut, aeronautical engineer",
+    "achievements": [
+      "First person to walk on the Moon",
+      "Commander of Apollo 11 mission"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Louis Armstrong",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+    "occupation": "Jazz musician, singer",
+    "achievements": [
+      "Considered one of the most influential jazz musicians of all time",
+      "Prolific trumpeter and vocalist",
+      "Popularized scat singing"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1971
+  }
+]

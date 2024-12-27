@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Ewart Gladstone",
+    "givenNames": [
+      "William",
+      "Ewart"
+    ],
+    "familyName": "Gladstone",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Gladstone",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom four times",
+      "Leading figure in the Liberal Party",
+      "Advocate for social reform and education"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1898
+  }
+]

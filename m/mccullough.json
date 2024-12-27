@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David McCullough",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "McCullough",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_McCullough",
+    "occupation": "Historian, Author",
+    "achievements": [
+      "Pulitzer Prize-winning author",
+      "Known for biographies of presidents like John Adams and Harry Truman",
+      "Presidential Medal of Freedom recipient"
+    ],
+    "yearBorn": 1933
+  }
+]

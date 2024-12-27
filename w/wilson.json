@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Woodrow Wilson",
+    "givenNames": [
+      "Woodrow"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+    "occupation": "Politician, President of the United States",
+    "achievements": [
+      "Led the US during World War I",
+      "Proposed the Fourteen Points for peace",
+      "Established the League of Nations"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1924
+  }
+]

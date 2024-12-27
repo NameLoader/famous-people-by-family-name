@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christian Bale",
+    "givenNames": [
+      "Christian"
+    ],
+    "familyName": "Bale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Bale",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Golden Globe Award for Best Supporting Actor – Motion Picture",
+      "BAFTA Award for Best Actor in a Leading Role"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Congreve",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Congreve",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Congreve",
+    "occupation": "Playwright, poet",
+    "achievements": [
+      "Known for his witty and satirical plays like 'The Way of the World' and 'Love for Love'",
+      "A significant figure in Restoration comedy"
+    ],
+    "yearBorn": 1670,
+    "yearDied": 1729
+  }
+]

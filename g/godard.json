@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jean-Luc Godard",
+    "givenNames": [
+      "Jean-Luc"
+    ],
+    "familyName": "Godard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Luc_Godard",
+    "occupation": "Film director, screenwriter, and film theorist",
+    "achievements": [
+      "Pioneer of the French New Wave cinema movement",
+      "Highly influential filmmaker known for experimental and avant-garde techniques",
+      "Won numerous awards, including a Palme d'Or at the Cannes Film Festival"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2022
+  }
+]

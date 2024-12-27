@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Khaled Sheikh Mohammed Laden",
+    "givenNames": [
+      "Khaled",
+      "Sheikh",
+      "Mohammed"
+    ],
+    "familyName": "Laden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khaled_Sheikh_Mohammed",
+    "occupation": "Terrorist leader",
+    "achievements": [
+      "Key figure in the September 11 attacks"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Osama bin Laden",
+    "givenNames": [
+      "Osama"
+    ],
+    "familyName": "Laden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osama_bin_Laden",
+    "occupation": "Terrorist leader",
+    "achievements": [
+      "Founder of al-Qaeda"
+    ],
+    "yearBorn": 1957,
+    "yearDied": 2011
+  }
+]

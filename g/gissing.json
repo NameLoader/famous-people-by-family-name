@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Gissing",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Gissing",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Gissing",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Prolific Victorian novelist known for his social realism and exploration of poverty and alienation.",
+      "Notable works include 'The Nether World', 'New Grub Street', and 'In the Year of Jubilee'."
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1903
+  }
+]

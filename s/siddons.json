@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sarah Siddons",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Siddons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Siddons",
+    "occupation": "Actress",
+    "achievements": [
+      "Considered one of the greatest Shakespearean actresses of all time.",
+      "Achieved widespread acclaim and fame during her career in London's West End."
+    ],
+    "yearBorn": 1755,
+    "yearDied": 1831
+  }
+]

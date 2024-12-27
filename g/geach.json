@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Peter Geach",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Geach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Geach",
+    "occupation": "Philosopher, academic",
+    "achievements": [
+      "Fellow of the British Academy",
+      "Known for his work on logic, philosophy of language, and metaphysics"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2013
+  }
+]

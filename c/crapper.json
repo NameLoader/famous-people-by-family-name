@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Crapper",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Crapper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Crapper",
+    "occupation": "plumber and inventor",
+    "achievements": [
+      "Innovated plumbing fixtures and systems",
+      "Made flush toilets more widely popular"
+    ],
+    "yearBorn": 1836,
+    "yearDied": 1910
+  }
+]

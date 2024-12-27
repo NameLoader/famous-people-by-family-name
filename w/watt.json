@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Watt",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Watt",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Watt",
+    "occupation": "Inventor, Mechanical Engineer",
+    "achievements": [
+      "Improved the steam engine, revolutionizing industry and transportation",
+      "Established a standard unit of power: the watt (symbol W)",
+      "Contributed significantly to the Industrial Revolution"
+    ],
+    "yearBorn": 1736,
+    "yearDied": 1819
+  }
+]

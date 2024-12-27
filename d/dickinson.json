@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Emily Dickinson",
+    "givenNames": [
+      "Emily"
+    ],
+    "familyName": "Dickinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+    "occupation": "poet",
+    "achievements": [
+      "Considered one of the most important figures in American poetry",
+      "Known for her unconventional style and themes",
+      "Her work was largely unpublished during her lifetime"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1886
+  }
+]

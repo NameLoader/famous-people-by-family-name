@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Leszek Kolakowski",
+    "givenNames": [
+      "Leszek"
+    ],
+    "familyName": "Kolakowski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leszek_Kolakowski",
+    "occupation": "Philosopher, Historian, Writer",
+    "achievements": [
+      "Prominent figure in Polish intellectual history",
+      "Critic of communism and totalitarianism",
+      "Author of influential works on philosophy, history, and culture"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2009
+  }
+]

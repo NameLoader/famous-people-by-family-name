@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Bowdler",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Bowdler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bowdler",
+    "occupation": "Editor, Writer",
+    "achievements": [
+      "Created 'The Family Shakespeare,' a censored version of Shakespeare's plays for polite audiences.",
+      "Introduced the term 'bowdlerize' to describe the act of removing offensive content from literature."
+    ],
+    "yearBorn": 1754,
+    "yearDied": 1825
+  }
+]

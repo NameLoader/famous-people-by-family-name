@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Law",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Law",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Law_(economist)",
+    "occupation": "Economist, Financier",
+    "achievements": [
+      "Developer of the Mississippi Bubble",
+      "Controversial figure in economic history known for both his successes and failures"
+    ],
+    "yearBorn": 1671,
+    "yearDied": 1729
+  }
+]

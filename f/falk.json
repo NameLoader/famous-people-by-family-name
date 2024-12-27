@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Peter Falk",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Falk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Falk",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Lieutenant Columbo in the television series *Columbo*.",
+      "Academy Award nomination for Best Actor for his role in *Murder, Inc.*.",
+      "Emmy Award winner for his portrayal of Columbo."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2011
+  }
+]

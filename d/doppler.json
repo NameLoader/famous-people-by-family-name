@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Christian Doppler",
+    "givenNames": [
+      "Christian"
+    ],
+    "familyName": "Doppler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Doppler",
+    "occupation": "Physicist",
+    "achievements": [
+      "Proposed the Doppler effect, which explains the change in frequency of waves for observers moving relative to the source of the waves."
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1853
+  }
+]

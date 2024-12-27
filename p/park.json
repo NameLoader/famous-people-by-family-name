@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Park Chung-hee",
+    "givenNames": [
+      "Chung"
+    ],
+    "familyName": "Park",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Chung-hee",
+    "occupation": "Politician, President of South Korea",
+    "achievements": [
+      "Led South Korea through rapid economic growth (the 'Miracle on the Han River')",
+      "Modernized and industrialized the country",
+      "Strengthened South Korea's military and defense capabilities"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1979
+  }
+]

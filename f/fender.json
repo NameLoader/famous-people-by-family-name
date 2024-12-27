@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Clarence Leonidas Fender",
+    "givenNames": [
+      "Clarence",
+      "Leonidas"
+    ],
+    "familyName": "Fender",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Fender",
+    "occupation": "Inventor, Entrepreneur",
+    "achievements": [
+      "Founded Fender Electric Instrument Manufacturing Company",
+      "Invented iconic electric guitars like the Telecaster and Stratocaster",
+      "Revolutionized popular music with his innovations in guitar design"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1991
+  }
+]

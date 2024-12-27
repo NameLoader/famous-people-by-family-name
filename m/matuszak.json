@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Matuszak",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Matuszak",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Matuszak",
+    "occupation": "Actor, former NFL player",
+    "achievements": [
+      "Played for the Houston Oilers and Oakland Raiders in the NFL",
+      "Known for his roles in films like 'North Dallas Forty' and 'The Gong Show'"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 1989
+  }
+]

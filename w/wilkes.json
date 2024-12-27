@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Wilkes Booth",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wilkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
+    "occupation": "Actor, Assassin",
+    "achievements": [
+      "Assassinated President Abraham Lincoln",
+      "Fought for the Confederacy during the American Civil War"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1865
+  }
+]

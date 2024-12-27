@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Francis Drake",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Drake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Francis_Drake",
+    "occupation": "Explorer, privateer, naval officer",
+    "achievements": [
+      "Circumnavigated the globe",
+      "Raided Spanish ships and settlements in the Americas",
+      "Fought against the Spanish Armada"
+    ],
+    "yearBorn": 1540,
+    "yearDied": 1596
+  }
+]

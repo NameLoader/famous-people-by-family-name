@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sam Walton",
+    "givenNames": [
+      "Sam"
+    ],
+    "familyName": "Walton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Walton",
+    "occupation": "Entrepreneur, Business magnate",
+    "achievements": [
+      "Founder of Walmart",
+      "Revolutionized retail with low prices and wide selection",
+      "Built one of the largest corporations in the world"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Alice Walton",
+    "givenNames": [
+      "Alice"
+    ],
+    "familyName": "Walton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Walton",
+    "occupation": "Heiress, Philanthropist, Art Collector",
+    "achievements": [
+      "Largest individual heiress in the world",
+      "Dedicated significant wealth to various philanthropic causes",
+      "Major collector of American art"
+    ],
+    "yearBorn": 1949
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Foreman",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Foreman",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Foreman",
+    "occupation": "Boxer, Entrepreneur",
+    "achievements": [
+      "Two-time World Heavyweight Champion",
+      "Olympic Gold Medalist (1968)",
+      "Successful businessman with the George Foreman Grill"
+    ],
+    "yearBorn": 1949
+  }
+]

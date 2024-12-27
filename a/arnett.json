@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Will Arnett",
+    "givenNames": [
+      "Will"
+    ],
+    "familyName": "Arnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Arnett",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Known for roles in Arrested Development, BoJack Horseman, and The Lego Movie",
+      "Has received multiple award nominations including Primetime Emmy Awards"
+    ],
+    "yearBorn": 1970
+  }
+]

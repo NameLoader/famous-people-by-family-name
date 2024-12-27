@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Virginia Woolf",
+    "givenNames": [
+      "Virginia"
+    ],
+    "familyName": "Woolf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Woolf",
+    "occupation": "Writer",
+    "achievements": [
+      "Modernist novelist and essayist",
+      "Known for works like *Mrs. Dalloway*, *To the Lighthouse*, and *Orlando*",
+      "Pioneered stream of consciousness writing style"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1941
+  }
+]

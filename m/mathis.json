@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Mathis",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Mathis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Mathis",
+    "occupation": "Singer, musician",
+    "achievements": [
+      "Known for his romantic ballads and smooth vocals.",
+      "Sold over 200 million records worldwide."
+    ],
+    "yearBorn": 1935
+  }
+]

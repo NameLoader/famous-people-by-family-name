@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kevin Durant",
+    "givenNames": [
+      "Kevin"
+    ],
+    "familyName": "Durant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Durant",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Two-time NBA champion.",
+      "Four-time NBA scoring champion.",
+      "Two-time Olympic gold medalist."
+    ],
+    "yearBorn": 1988
+  }
+]

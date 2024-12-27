@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anne Hathaway",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Hathaway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Hathaway",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "Primetime Emmy Award nominee",
+      "Golden Globe Award nominee"
+    ],
+    "yearBorn": 1982
+  }
+]

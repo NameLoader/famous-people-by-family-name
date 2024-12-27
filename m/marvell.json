@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Andrew Marvell",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Marvell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Marvell",
+    "occupation": "Poet, Politician",
+    "achievements": [
+      "Known for his metaphysical poetry",
+      "Served as Member of Parliament"
+    ],
+    "yearBorn": 1621,
+    "yearDied": 1678
+  }
+]

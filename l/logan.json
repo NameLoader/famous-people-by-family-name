@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hugh Jackman",
+    "givenNames": [
+      "Hugh"
+    ],
+    "familyName": "Logan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Jackman",
+    "occupation": "Actor, Singer",
+    "achievements": [
+      "Won a Tony Award for his performance in The Boy from Oz",
+      "Known for portraying Wolverine in the X-Men film series",
+      "Received numerous awards and nominations for his acting"
+    ],
+    "yearBorn": 1968
+  }
+]

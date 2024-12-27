@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Wong Kar-wai",
+    "givenNames": [
+      "Kar-wai"
+    ],
+    "familyName": "Wong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wong_Kar-wai",
+    "occupation": "Film Director, screenwriter",
+    "achievements": [
+      "Known for his visually stunning and melancholic films",
+      "Won numerous awards, including the Palme d'Or at the Cannes Film Festival",
+      "Considered one of the most influential filmmakers of Hong Kong cinema"
+    ],
+    "yearBorn": 1958
+  }
+]

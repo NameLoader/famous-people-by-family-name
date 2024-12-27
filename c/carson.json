@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Johnny Carson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Carson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Carson",
+    "occupation": "Talk Show Host, Comedian",
+    "achievements": [
+      "Hosted 'The Tonight Show' for over three decades",
+      "Known for his wit, observational humor, and celebrity interviews",
+      "Considered one of the most influential figures in late-night television history"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2005
+  }
+]

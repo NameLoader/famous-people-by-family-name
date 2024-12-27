@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arthur Griffith",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Griffith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Griffith",
+    "occupation": "Politician, writer, founder of Sinn Féin",
+    "achievements": [
+      "Founder of Sinn Féin political party",
+      "Leading figure in the Irish War of Independence"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1922
+  }
+]

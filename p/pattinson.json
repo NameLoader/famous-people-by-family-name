@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Robert Pattinson",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Pattinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Edward Cullen in the Twilight Saga",
+      "Acclaimed for his performances in films like Good Time and The Lighthouse"
+    ],
+    "yearBorn": 1986
+  }
+]

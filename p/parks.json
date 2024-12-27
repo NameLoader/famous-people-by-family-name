@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Rosa Parks",
+    "givenNames": [
+      "Rosa"
+    ],
+    "familyName": "Parks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_Parks",
+    "occupation": "Civil rights activist",
+    "achievements": [
+      "Refused to give up her seat on a bus to a white man in Montgomery, Alabama, sparking the Montgomery Bus Boycott."
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2005
+  }
+]

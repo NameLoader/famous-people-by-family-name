@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Gibbon",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Gibbon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Gibbon",
+    "occupation": "Historian, writer",
+    "achievements": [
+      "Authored 'The History of the Decline and Fall of the Roman Empire'",
+      "Considered one of the greatest historians"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1794
+  }
+]

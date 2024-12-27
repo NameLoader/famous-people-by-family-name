@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Plutarco Elías Calles",
+    "givenNames": [
+      "Plutarco",
+      "Elías"
+    ],
+    "familyName": "Calles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plutarco_El%C3%ADas_Calles",
+    "occupation": "Politician, President of Mexico",
+    "achievements": [
+      "President of Mexico from 1924 to 1928",
+      "Key figure in the Mexican Revolution",
+      "Implemented social and economic reforms"
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1945
+  }
+]

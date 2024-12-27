@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alan Shepard",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Shepard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Shepard",
+    "occupation": "Astronaut, Engineer",
+    "achievements": [
+      "First American in space",
+      "Commanded Apollo 14 mission to the Moon"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1998
+  }
+]

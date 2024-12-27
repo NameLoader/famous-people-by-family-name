@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Lena Headey",
+    "givenNames": [
+      "Lena"
+    ],
+    "familyName": "Headey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Headey",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Cersei Lannister in the HBO fantasy drama series Game of Thrones.",
+      "Received a Primetime Emmy Award nomination for Outstanding Supporting Actress in a Drama Series."
+    ],
+    "yearBorn": 1973
+  }
+]

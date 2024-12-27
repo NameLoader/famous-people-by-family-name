@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Dow",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Dow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_H._Dow",
+    "occupation": "Journalist, Financier",
+    "achievements": [
+      "Co-founder of Dow Jones & Company",
+      "Creator of the Dow Jones Industrial Average",
+      "Pioneer in financial journalism"
+    ],
+    "yearBorn": 1851,
+    "yearDied": 1902
+  }
+]

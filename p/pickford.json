@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mary Pickford",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Pickford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Pickford",
+    "occupation": "Actress, Film Producer",
+    "achievements": [
+      "Considered one of the most important figures in the history of cinema.",
+      "Pioneer of the Hollywood studio system.",
+      "Founder of United Artists film studio."
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1979
+  }
+]

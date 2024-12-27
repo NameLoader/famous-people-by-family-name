@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Thomas More",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "More",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More",
+    "occupation": "Lawyer, Politician, Philosopher",
+    "achievements": [
+      "Lord Chancellor of England",
+      "Author of Utopia",
+      "Canonized as a Saint by the Catholic Church"
+    ],
+    "yearBorn": 1478,
+    "yearDied": 1535
+  }
+]

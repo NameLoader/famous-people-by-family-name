@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Beadle",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Beadle",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Beadle",
+    "occupation": "Geneticist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1958) for discovering the role of genes in enzymes.",
+      "Pioneer in understanding how genes control metabolic processes."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1989
+  }
+]

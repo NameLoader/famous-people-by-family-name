@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Bruce Campbell",
+    "givenNames": [
+      "Bruce"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Campbell",
+    "occupation": "Actor, director, producer, author",
+    "achievements": [
+      "Known for his role as Ash Williams in the Evil Dead franchise.",
+      "Appeared in numerous films and television series."
+    ],
+    "yearBorn": 1958
+  }
+]

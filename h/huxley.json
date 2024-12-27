@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Aldous Leonard Huxley",
+    "givenNames": [
+      "Aldous",
+      "Leonard"
+    ],
+    "familyName": "Huxley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldous_Huxley",
+    "occupation": "Writer, philosopher",
+    "achievements": [
+      "Author of dystopian novel *Brave New World*",
+      "Influential figure in the modernist movement"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Julian Huxley",
+    "givenNames": [
+      "Julian"
+    ],
+    "familyName": "Huxley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Huxley",
+    "occupation": "Biologist, evolutionary theorist",
+    "achievements": [
+      "Promoted the concept of humanism and transhumanism",
+      "Co-founder of UNESCO's International Union for Conservation of Nature"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1975
+  }
+]

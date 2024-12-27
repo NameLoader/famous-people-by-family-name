@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alfred Kinsey",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Kinsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Kinsey",
+    "occupation": "Sexologist, biologist, and zoologist",
+    "achievements": [
+      "Conducted groundbreaking research on human sexuality.",
+      "Authored influential books 'Sexual Behavior in the Human Male' and 'Sexual Behavior in the Human Female'.",
+      "Challenged societal norms and taboos surrounding sex."
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1956
+  }
+]

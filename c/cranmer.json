@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Cranmer",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Cranmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cranmer",
+    "occupation": "Archbishop of Canterbury",
+    "achievements": [
+      "Played a key role in the English Reformation",
+      "Authored the Book of Common Prayer"
+    ],
+    "yearBorn": 1489,
+    "yearDied": 1556
+  }
+]

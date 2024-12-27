@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Dillinger",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Dillinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dillinger",
+    "occupation": "Bank robber, gangster",
+    "achievements": [
+      "Leader of a notorious gang during the Great Depression",
+      "Known for daring bank and prison escapes"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1934
+  }
+]

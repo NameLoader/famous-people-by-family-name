@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Stephen Curry",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Curry",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Champion (4x)",
+      "2x NBA MVP",
+      "1x Scoring Champion"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Seth Curry",
+    "givenNames": [
+      "Seth"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seth_Curry",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Champion (1x)"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Dell Curry",
+    "givenNames": [
+      "Dell"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dell_Curry",
+    "occupation": "Former Basketball Player",
+    "achievements": [
+      "NBA All-Star (1x)"
+    ],
+    "yearBorn": 1964
+  }
+]

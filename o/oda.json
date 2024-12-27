@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nobunaga Oda",
+    "givenNames": [
+      "Nobunaga"
+    ],
+    "familyName": "Oda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oda_Nobunaga",
+    "occupation": "Sengoku-era Japanese daimyo",
+    "achievements": [
+      "Unified much of Japan during the Sengoku period.",
+      "Known for his military brilliance and ruthlessness."
+    ],
+    "yearBorn": 1534,
+    "yearDied": 1582
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Clarence Birdseye",
+    "givenNames": [
+      "Clarence"
+    ],
+    "familyName": "Birdseye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Birdseye",
+    "occupation": "Inventor, Entrepreneur",
+    "achievements": [
+      "Developed the process for quick-freezing food",
+      "Founded Birdseye Foods, which revolutionized the frozen food industry"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1956
+  }
+]

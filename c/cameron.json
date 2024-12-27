@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Cameron",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Cameron",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Cameron_(filmmaker)",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Directed blockbuster films such as Titanic and Avatar",
+      "Known for groundbreaking visual effects in his movies",
+      "Recipient of multiple Academy Awards"
+    ],
+    "yearBorn": 1954
+  }
+]

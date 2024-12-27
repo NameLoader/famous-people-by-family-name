@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Olaf Scholz",
+    "givenNames": [
+      "Olaf"
+    ],
+    "familyName": "Scholz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of Germany since 2021",
+      "Federal Minister of Finance from 2018 to 2021",
+      "Member of the Bundestag since 1998"
+    ],
+    "yearBorn": 1958
+  }
+]

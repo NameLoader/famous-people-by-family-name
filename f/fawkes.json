@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Guy Fawkes",
+    "givenNames": [
+      "Guy"
+    ],
+    "familyName": "Fawkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+    "occupation": "Conspirator",
+    "achievements": [
+      "Member of the Gunpowder Plot"
+    ],
+    "yearBorn": 1570,
+    "yearDied": 1606
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Milius",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Milius",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Milius",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Known for directing films like 'Conan the Barbarian', 'Red Dawn', and 'Farewell to the King'",
+      "Wrote screenplays for films such as 'Apocalypse Now' and 'Dirty Harry'"
+    ],
+    "yearBorn": 1944
+  }
+]

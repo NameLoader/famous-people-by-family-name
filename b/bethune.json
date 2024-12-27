@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dr. Norman Bethune",
+    "givenNames": [
+      "Norman"
+    ],
+    "familyName": "Bethune",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Bethune",
+    "occupation": "Physician, surgeon, writer",
+    "achievements": [
+      "Pioneered mobile blood transfusion units in China.",
+      "Developed surgical techniques for battlefield medicine.",
+      "Active supporter of the Communist cause and medical aid during the Second Sino-Japanese War."
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1939
+  }
+]

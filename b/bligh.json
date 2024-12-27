@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Bligh",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Bligh",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Bligh",
+    "occupation": "Naval Officer",
+    "achievements": [
+      "Commanded the HMS Bounty",
+      "Survived the mutiny on the Bounty",
+      "Known for his strict discipline and leadership"
+    ],
+    "yearBorn": 1754,
+    "yearDied": 1817
+  }
+]

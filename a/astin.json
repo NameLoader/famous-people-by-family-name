@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sean Astin",
+    "givenNames": [
+      "Sean"
+    ],
+    "familyName": "Astin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Astin",
+    "occupation": "Actor, Producer, Director",
+    "achievements": [
+      "Known for his role as 'Samwise Gamgee' in the Lord of the Rings film trilogy",
+      "Starred in 'The Goonies', 'Rudy'",
+      "Has a successful career spanning decades in both film and television"
+    ],
+    "yearBorn": 1971
+  }
+]

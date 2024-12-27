@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Kevin Anderson",
+    "givenNames": [
+      "Kevin"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Anderson_(tennis)",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached world No. 5 in singles ranking",
+      "2017 US Open finalist"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Laurie Anderson",
+    "givenNames": [
+      "Laurie"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+    "occupation": "Singer-songwriter, visual artist, composer",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her experimental music and multimedia performances"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Philip Anderson",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_W._Anderson",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1977)",
+      "Contributions to condensed matter physics and theoretical solid state physics"
+    ],
+    "yearBorn": 1923
+  }
+]

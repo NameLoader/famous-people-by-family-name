@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Charles Robert Darwin",
+    "givenNames": [
+      "Charles",
+      "Robert"
+    ],
+    "familyName": "Darwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
+    "occupation": "Naturalist, Biologist",
+    "achievements": [
+      "Developed the theory of evolution by natural selection",
+      "Wrote 'On the Origin of Species'",
+      "Contributed significantly to our understanding of biodiversity and adaptation"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1882
+  }
+]

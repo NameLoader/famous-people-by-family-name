@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Michael Phelps",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Phelps",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Phelps",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Most decorated Olympian of all time",
+      "Record holder in numerous swimming events"
+    ],
+    "yearBorn": 1985
+  }
+]

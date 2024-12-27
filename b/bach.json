@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Johann Sebastian Bach",
+    "givenNames": [
+      "Johann",
+      "Sebastian"
+    ],
+    "familyName": "Bach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "occupation": "Composer, organist, harpsichordist",
+    "achievements": [
+      "Considered one of the greatest composers of all time.",
+      "Master of Baroque music.",
+      "Prolific composer of fugues, concertos, cantatas, and other works."
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1750
+  },
+  {
+    "fullName": "Carl Philipp Emanuel Bach",
+    "givenNames": [
+      "Carl",
+      "Philipp",
+      "Emanuel"
+    ],
+    "familyName": "Bach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach",
+    "occupation": "Composer, pianist, harpsichordist",
+    "achievements": [
+      "Son of Johann Sebastian Bach.",
+      "Influential figure in the development of Classical music.",
+      "Known for his innovative use of keyboard textures and ornamentation."
+    ],
+    "yearBorn": 1714,
+    "yearDied": 1788
+  }
+]

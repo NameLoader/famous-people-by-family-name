@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Spiro Agnew",
+    "givenNames": [
+      "Spiro"
+    ],
+    "familyName": "Agnew",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spiro_Agnew",
+    "occupation": "Politician",
+    "achievements": [
+      "39th Vice President of the United States (1969–1973)",
+      "Governor of Maryland (1967–1969)"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1996
+  }
+]

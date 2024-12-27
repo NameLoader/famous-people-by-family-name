@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "G. Gordon Liddy",
+    "givenNames": [
+      "Gordon"
+    ],
+    "familyName": "Liddy",
+    "wikipedia": "https://en.wikipedia.org/wiki/G._Gordon_Liddy",
+    "occupation": "Lawyer, Political Operative",
+    "achievements": [
+      "Key figure in the Watergate scandal",
+      "U.S. Assistant Special Prosecutor during the early 1970s",
+      "Author and radio talk show host"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2021
+  }
+]

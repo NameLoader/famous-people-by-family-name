@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Byron Lovelace",
+    "givenNames": [
+      "Byron"
+    ],
+    "familyName": "Lovelace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron#Byron_and_his_daughter",
+    "occupation": "Poet, politician",
+    "achievements": [
+      "One of the most famous Romantic poets",
+      "Father of Ada Lovelace"
+    ],
+    "yearBorn": 1788,
+    "yearDied": 1824
+  }
+]

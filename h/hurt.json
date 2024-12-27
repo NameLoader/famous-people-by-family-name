@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Johnny Hurt",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hurt",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hurt",
+    "occupation": "Actor",
+    "achievements": [
+      "BAFTA Award for Best Actor for his role in 'The Elephant Man'",
+      "Academy Award nomination for Best Actor for his role in 'The Field'",
+      "Known for roles in films such as 'Alien', 'Midnight Express', and 'Harry Potter and the Sorcerer's Stone'"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2017
+  }
+]

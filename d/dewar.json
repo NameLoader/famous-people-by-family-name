@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir James Dewar",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Dewar",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dewar",
+    "occupation": "Chemist, Physicist",
+    "achievements": [
+      "Invented the vacuum flask (thermos)",
+      "First to liquefy hydrogen and helium",
+      "Significant contributions to cryogenics research"
+    ],
+    "yearBorn": 1842,
+    "yearDied": 1923
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Oprah Winfrey",
+    "givenNames": [
+      "Oprah"
+    ],
+    "familyName": "Winfrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oprah_Winfrey",
+    "occupation": "Talk show host, actress, producer",
+    "achievements": [
+      "Host of 'The Oprah Winfrey Show', one of the highest-rated talk shows in history",
+      "Founder of OWN (Oprah Winfrey Network)",
+      "Philanthropist and advocate for education and women's rights"
+    ],
+    "yearBorn": 1954
+  }
+]

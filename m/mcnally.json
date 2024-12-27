@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Terrence McNally",
+    "givenNames": [
+      "Terrence"
+    ],
+    "familyName": "McNally",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrence_McNally",
+    "occupation": "Playwright, screenwriter",
+    "achievements": [
+      "Pulitzer Prize for Drama (1986)",
+      "Tony Award winner (five)",
+      "Lifetime Achievement Tony Award (2019)",
+      "Known for plays like 'Love! Valour! Compassion!', 'Master Class', and 'Frankie and Johnny in the Clair de Lune'"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2020
+  }
+]

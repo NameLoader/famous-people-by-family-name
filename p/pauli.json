@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Wolfgang Pauli",
+    "givenNames": [
+      "Wolfgang"
+    ],
+    "familyName": "Pauli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Pauli",
+    "occupation": "Physicist",
+    "achievements": [
+      "Developed the Pauli exclusion principle",
+      "Contributed to the development of quantum mechanics",
+      "Nobel Prize in Physics (1945)"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1958
+  }
+]

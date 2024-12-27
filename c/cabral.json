@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Pedro Álvares Cabral",
+    "givenNames": [
+      "Pedro",
+      "Álvares"
+    ],
+    "familyName": "Cabral",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Álvares_Cabral",
+    "occupation": "Explorer",
+    "achievements": [
+      "Led the Portuguese expedition that discovered Brazil in 1500."
+    ],
+    "yearBorn": 1467,
+    "yearDied": 1520
+  }
+]

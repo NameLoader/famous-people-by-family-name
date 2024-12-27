@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Josip Broz Tito",
+    "givenNames": [
+      "Josip"
+    ],
+    "familyName": "Broz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+    "occupation": "Politician, revolutionary, statesman",
+    "achievements": [
+      "Led Yugoslavia from 1945 to 1980 as its president.",
+      "Played a key role in the socialist movement during World War II.",
+      "Founded and led the Yugoslav Partisans against Axis powers."
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1980
+  }
+]

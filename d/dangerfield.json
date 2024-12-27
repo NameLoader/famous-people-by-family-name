@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rodney Dangerfield",
+    "givenNames": [
+      "Rodney"
+    ],
+    "familyName": "Dangerfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Dangerfield",
+    "occupation": "Comedian, Actor",
+    "achievements": [
+      "Known for his self-deprecating humor and catchphrase 'I get no respect.'",
+      "Won a Grammy Award for Best Comedy Album."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2004
+  }
+]

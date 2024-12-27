@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Marco Polo",
+    "givenNames": [
+      "Marco"
+    ],
+    "familyName": "Polo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Polo",
+    "occupation": "Merchant, explorer",
+    "achievements": [
+      "Traveled to Asia along the Silk Road",
+      "Wrote 'The Travels of Marco Polo', a detailed account of his journeys and observations in the East",
+      "Influenced European understanding of Asian cultures"
+    ],
+    "yearBorn": 1254,
+    "yearDied": 1324
+  }
+]

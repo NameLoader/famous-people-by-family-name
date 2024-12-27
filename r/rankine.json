@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William John Macquorn Rankine",
+    "givenNames": [
+      "William",
+      "John",
+      "Macquorn"
+    ],
+    "familyName": "Rankine",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_John_Macquorn_Rankine",
+    "occupation": "Physicist, Engineer",
+    "achievements": [
+      "Developed the Rankine cycle, a thermodynamic cycle used in steam power plants.",
+      "Contributed to the understanding of heat transfer and fluid mechanics."
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1872
+  }
+]

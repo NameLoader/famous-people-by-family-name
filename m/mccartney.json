@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Paul McCartney",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "McCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Co-founder of The Beatles",
+      "One of the most successful and influential musicians of all time",
+      "Grammy Awards recipient",
+      "Academy Award recipient"
+    ],
+    "yearBorn": 1942
+  }
+]

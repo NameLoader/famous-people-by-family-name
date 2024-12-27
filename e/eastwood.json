@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Scott Eastwood",
+    "givenNames": [
+      "Scott"
+    ],
+    "familyName": "Eastwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Eastwood",
+    "occupation": "Actor",
+    "achievements": [
+      "Rising star in Hollywood",
+      "Known for roles in films like The Fate of the Furious and Suicide Squad"
+    ],
+    "yearBorn": 1986
+  }
+]

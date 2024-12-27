@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Al Franken",
+    "givenNames": [
+      "Al"
+    ],
+    "familyName": "Franken",
+    "wikipedia": "https://en.wikipedia.org/wiki/Al_Franken",
+    "occupation": "Politician, Comedian, Author",
+    "achievements": [
+      "U.S. Senator from Minnesota (2009-2018)",
+      "Comedic writer and actor"
+    ],
+    "yearBorn": 1951
+  }
+]

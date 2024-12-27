@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anthony Minghella",
+    "givenNames": [
+      "Anthony"
+    ],
+    "familyName": "Minghella",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Minghella",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Academy Award for Best Adapted Screenplay (The English Patient)",
+      "BAFTA Award for Best Director (The English Patient)"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2008
+  }
+]

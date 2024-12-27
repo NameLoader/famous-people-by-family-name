@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Oliver Sacks",
+    "givenNames": [
+      "Oliver"
+    ],
+    "familyName": "Sacks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Sacks",
+    "occupation": "Neurologist, Author",
+    "achievements": [
+      "Pioneering work in neurology and the study of consciousness.",
+      "Authored numerous best-selling books on neurological disorders and the human experience.",
+      "Advocate for people with disabilities."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2015
+  }
+]

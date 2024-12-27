@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Blake",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Blake",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Blake",
+    "occupation": "Poet, painter, printmaker",
+    "achievements": [
+      "Author of influential works such as *Songs of Innocence* and *Songs of Experience*",
+      "Pioneer of Romantic art and literature",
+      "Known for his unique artistic style and visionary poetry"
+    ],
+    "yearBorn": 1757,
+    "yearDied": 1827
+  }
+]

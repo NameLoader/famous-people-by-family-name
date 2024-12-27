@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Georges Clemenceau",
+    "givenNames": [
+      "Georges"
+    ],
+    "familyName": "Clemenceau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Clemenceau",
+    "occupation": "Politician, Prime Minister of France",
+    "achievements": [
+      "Leading France during World War I",
+      "Key figure in the Paris Peace Conference",
+      "Known as 'The Tiger' for his tenacity and leadership"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1929
+  }
+]

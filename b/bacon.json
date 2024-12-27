@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Roger Bacon",
+    "givenNames": [],
+    "familyName": "Bacon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Bacon",
+    "occupation": "Philosopher, scientist",
+    "achievements": [
+      "Prominent figure in medieval science and philosophy.",
+      "Advocated for empirical observation and experimentation."
+    ],
+    "yearBorn": 1214,
+    "yearDied": 1294
+  }
+]

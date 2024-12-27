@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Aaron Copland",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Copland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Copland",
+    "occupation": "Composer",
+    "achievements": [
+      "Highly influential American composer of the 20th century.",
+      "Known for his accessible and distinctly American style.",
+      "Composed iconic works such as 'Appalachian Spring' and 'Fanfare for the Common Man'."
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1990
+  }
+]

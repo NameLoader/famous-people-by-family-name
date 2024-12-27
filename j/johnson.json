@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Samuel Johnson",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Johnson",
+    "occupation": "Writer, lexicographer",
+    "achievements": [
+      "Wrote the first comprehensive English dictionary",
+      "Influential figure in 18th-century British culture"
+    ],
+    "yearBorn": 1709,
+    "yearDied": 1784
+  }
+]

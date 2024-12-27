@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Charles Goodyear",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Goodyear",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Goodyear",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented vulcanized rubber"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1860
+  }
+]

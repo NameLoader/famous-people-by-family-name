@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sappho",
+    "givenNames": [
+      "Sappho"
+    ],
+    "familyName": "Sapp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sappho",
+    "occupation": "Poet",
+    "achievements": [
+      "One of the greatest lyric poets of ancient Greece",
+      "Known for her sensual and passionate poetry"
+    ],
+    "yearBorn": 630,
+    "yearDied": 570
+  }
+]

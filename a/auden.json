@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Wystan Hugh Auden",
+    "givenNames": [
+      "Wystan",
+      "Hugh"
+    ],
+    "familyName": "Auden",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._H._Auden",
+    "occupation": "Poet, Playwright",
+    "achievements": [
+      "One of the most important poets of the 20th century",
+      "Known for his intellectual and political engagement",
+      "Recipient of numerous awards, including the Pulitzer Prize"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1973
+  }
+]

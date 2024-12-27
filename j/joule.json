@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Prescott Joule",
+    "givenNames": [
+      "James",
+      "Prescott"
+    ],
+    "familyName": "Joule",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Prescott_Joule",
+    "occupation": "physicist",
+    "achievements": [
+      "Established the relationship between mechanical work and heat.",
+      "Defined the joule as the unit of energy."
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1889
+  }
+]

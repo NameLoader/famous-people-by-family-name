@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Eartha Kitt",
+    "givenNames": [
+      "Eartha"
+    ],
+    "familyName": "Gaines",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eartha_Kitt",
+    "occupation": "Singer, Actress, Activist",
+    "achievements": [
+      "Renowned for her sultry voice and unique stage presence",
+      "Starred in Broadway shows and films like 'Saint Louis Blues'",
+      "Known for her outspoken activism against racial injustice"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2008
+  }
+]

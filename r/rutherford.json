@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ernest Rutherford",
+    "givenNames": [
+      "Ernest"
+    ],
+    "familyName": "Rutherford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovered the atomic nucleus",
+      "Developed nuclear physics",
+      "Nobel Prize in Chemistry (1908)"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1937
+  }
+]

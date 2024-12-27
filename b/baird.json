@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Logie Baird",
+    "givenNames": [
+      "John",
+      "Logie"
+    ],
+    "familyName": "Baird",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+    "occupation": "Inventor, Television Pioneer",
+    "achievements": [
+      "Invented the first publicly demonstrated television system",
+      "Pioneered early experiments in color television"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1946
+  }
+]

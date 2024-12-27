@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Charles Grey",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Grey,_2nd_Earl_Grey",
+    "occupation": "British Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom (1830-1834)",
+      "Led the Grey administration responsible for repealing the Corn Laws",
+      "Introduced reforms in education and infrastructure"
+    ],
+    "yearBorn": 1764,
+    "yearDied": 1845
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Noyce",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Noyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Noyce",
+    "occupation": "Engineer, co-founder of Intel",
+    "achievements": [
+      "Co-invented the integrated circuit (microchip)",
+      "Co-founded Intel Corporation"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1990
+  }
+]

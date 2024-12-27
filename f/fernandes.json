@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+    "givenNames": [
+      "Cristiano",
+      "Ronaldo",
+      "dos",
+      "Santos",
+      "Aveiro"
+    ],
+    "familyName": "Fernandes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "Five-time Ballon d'Or winner",
+      "UEFA European Championship winner",
+      "One of the highest goal scorers in football history"
+    ],
+    "yearBorn": 1985
+  }
+]

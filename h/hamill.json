@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Mark Hamill",
+    "givenNames": [
+      "Mark"
+    ],
+    "familyName": "Hamill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Hamill",
+    "occupation": "Actor, voice actor",
+    "achievements": [
+      "Best known for his role as Luke Skywalker in the Star Wars franchise",
+      "Acclaimed voice actor, notably as The Joker in various Batman media"
+    ],
+    "yearBorn": 1951
+  }
+]

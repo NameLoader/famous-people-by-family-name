@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John McWhorter",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McWhorter",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McWhorter",
+    "occupation": "Linguist, writer, and professor",
+    "achievements": [
+      "Author of numerous books on language and culture",
+      "Professor of linguistics at Columbia University",
+      "Known for his expertise on African American Vernacular English (AAVE)"
+    ],
+    "yearBorn": 1965
+  }
+]

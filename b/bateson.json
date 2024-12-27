@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Bateson",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Bateson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Bateson",
+    "occupation": "Biologist, Geneticist",
+    "achievements": [
+      "Pioneer of genetics",
+      "Coined the term 'genetics'",
+      "Studied inheritance patterns in plants and animals"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1926
+  }
+]

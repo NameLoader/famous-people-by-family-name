@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Alicia Vikander Johansson",
+    "givenNames": [
+      "Alicia"
+    ],
+    "familyName": "Johansson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Vikander",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress (2016)",
+      "BAFTA Award for Best Actress in a Leading Role (2016)",
+      "Golden Globe Award for Best Actress – Motion Picture Drama (2016)"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Scarlett Ingrid Johansson",
+    "givenNames": [
+      "Scarlett",
+      "Ingrid"
+    ],
+    "familyName": "Johansson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress (2020)",
+      "BIFA Award for Best Actress (2013)",
+      "Golden Globe Award for Best Actress – Motion Picture Comedy or Musical (2016)"
+    ],
+    "yearBorn": 1984
+  }
+]

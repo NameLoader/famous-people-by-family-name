@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Usain Bolt",
+    "givenNames": [
+      "Usain"
+    ],
+    "familyName": "Bolt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Usain_Bolt",
+    "occupation": "Track and field athlete",
+    "achievements": [
+      "Fastest man in history (officially)",
+      "Eight Olympic gold medals",
+      "World record holder in the 100m and 200m sprints"
+    ],
+    "yearBorn": 1986
+  }
+]

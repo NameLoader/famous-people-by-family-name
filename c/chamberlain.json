@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Neville Chamberlain",
+    "givenNames": [
+      "Neville"
+    ],
+    "familyName": "Chamberlain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom (1937-1940)",
+      "Known for his appeasement policy towards Nazi Germany"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1940
+  }
+]

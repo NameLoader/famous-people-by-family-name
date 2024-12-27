@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Daniel Boone",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Boone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Boone",
+    "occupation": "Explorer, Pioneer",
+    "achievements": [
+      "Explored and settled the Kentucky frontier",
+      "Legend in American folklore"
+    ],
+    "yearBorn": 1734,
+    "yearDied": 1820
+  }
+]

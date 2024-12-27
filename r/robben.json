@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Arjen Robben",
+    "givenNames": [
+      "Arjen"
+    ],
+    "familyName": "Robben",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arjen_Robben",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Dutch footballer of the year (2005, 2006)",
+      "UEFA Champions League winner (2013)",
+      "Bundesliga champion (7 times)",
+      "La Liga champion",
+      "FIFA World Cup participant (2006, 2010, 2014)"
+    ],
+    "yearBorn": 1984
+  }
+]

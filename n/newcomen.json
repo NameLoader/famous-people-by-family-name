@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Newcomen",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Newcomen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Newcomen",
+    "occupation": "Inventor, Engineer",
+    "achievements": [
+      "Invented the atmospheric steam engine.",
+      "His invention revolutionized mining and industry."
+    ],
+    "yearBorn": 1664,
+    "yearDied": 1729
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Canning",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Canning",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Canning",
+    "occupation": "Politician, Prime Minister of the United Kingdom",
+    "achievements": [
+      "Prime Minister of the United Kingdom (1827)",
+      "Leader of the Tory party",
+      "Foreign Secretary"
+    ],
+    "yearBorn": 1770,
+    "yearDied": 1827
+  }
+]

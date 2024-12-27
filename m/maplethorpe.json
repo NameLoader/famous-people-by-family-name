@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Maplethorpe",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Maplethorpe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Mapplethorpe",
+    "occupation": "Photographer",
+    "achievements": [
+      "Pioneering figure in the photography movement of his time.",
+      "Known for his black-and-white portraits and still lifes.",
+      "Explored themes of sexuality, desire, and beauty."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1989
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sean Penn",
+    "givenNames": [
+      "Sean"
+    ],
+    "familyName": "Penn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Penn",
+    "occupation": "Actor, Director, Producer",
+    "achievements": [
+      "Academy Award for Best Actor (2003 & 2008)",
+      "Golden Globe Awards",
+      "Known for films like 'Dead Man Walking', 'Mystic River', and 'Milk'"
+    ],
+    "yearBorn": 1960
+  }
+]

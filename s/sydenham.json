@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Sydenham",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Sydenham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Sydenham",
+    "occupation": "Physician, Author",
+    "achievements": [
+      "Regarded as one of the greatest physicians of his time.",
+      "Known for his contributions to English medicine and pharmacology.",
+      "Wrote extensively on medical topics and established a reputation for clinical observation."
+    ],
+    "yearBorn": 1624,
+    "yearDied": 1689
+  }
+]

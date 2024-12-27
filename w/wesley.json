@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Wesley",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wesley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley",
+    "occupation": "Clergyman, theologian, and founder of Methodism",
+    "achievements": [
+      "Founded Methodism",
+      "Author of numerous theological works",
+      "Promoted social reform"
+    ],
+    "yearBorn": 1703,
+    "yearDied": 1791
+  }
+]

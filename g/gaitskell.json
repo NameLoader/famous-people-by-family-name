@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hugh Gaitskell",
+    "givenNames": [
+      "Hugh"
+    ],
+    "familyName": "Gaitskell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Gaitskell",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the Labour Party from 1955 to 1963",
+      "Prominent figure in British politics during the Cold War",
+      "Known for his strong stance against unilateral nuclear disarmament"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1963
+  }
+]

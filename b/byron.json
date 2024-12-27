@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "George Gordon Byron",
+    "givenNames": [
+      "George",
+      "Gordon"
+    ],
+    "familyName": "Byron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
+    "occupation": "Poet, politician",
+    "achievements": [
+      "Known for Romantic poetry",
+      "Wrote famous works like Don Juan and Childe Harold's Pilgrimage",
+      "Active participant in political life",
+      "Became a Lord at age 10"
+    ],
+    "yearBorn": 1788,
+    "yearDied": 1824
+  },
+  {
+    "fullName": "Augusta Ada Byron, Countess of Lovelace",
+    "givenNames": [
+      "Augusta",
+      "Ada"
+    ],
+    "familyName": "Byron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+    "occupation": "Mathematician, writer",
+    "achievements": [
+      "Considered the first computer programmer",
+      "Wrote notes on Charles Babbage's Analytical Engine",
+      "Contributed to the development of theoretical computer science"
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1852
+  }
+]

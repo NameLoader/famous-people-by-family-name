@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Francis Harry Compton Crick",
+    "givenNames": [
+      "Francis",
+      "Harry",
+      "Compton"
+    ],
+    "familyName": "Crick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Crick",
+    "occupation": "Molecular Biologist",
+    "achievements": [
+      "Co-discovered the structure of DNA (with James Watson)",
+      "Nobel Prize in Physiology or Medicine (1962)"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2004
+  }
+]

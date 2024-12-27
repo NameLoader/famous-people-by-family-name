@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Robert Henry Goddard",
+    "givenNames": [
+      "Robert",
+      "Henry"
+    ],
+    "familyName": "Goddard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
+    "occupation": "Scientist, Engineer, Inventor",
+    "achievements": [
+      "Pioneered modern rocketry",
+      "Developed liquid-fueled rockets",
+      "First person to launch a liquid-fueled rocket"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1945
+  }
+]

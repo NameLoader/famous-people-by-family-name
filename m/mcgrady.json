@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tracy McGrady",
+    "givenNames": [
+      "Tracy"
+    ],
+    "familyName": "McGrady",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracy_McGrady",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Two-time NBA scoring champion",
+      "7x NBA All-Star",
+      "NBA All-Star Game MVP (2004)",
+      "Former NBA player"
+    ],
+    "yearBorn": 1979
+  }
+]

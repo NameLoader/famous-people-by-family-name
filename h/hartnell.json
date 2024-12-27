@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Hartnell",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Hartnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Hartnell",
+    "occupation": "Actor",
+    "achievements": [
+      "Best known as the first actor to portray the Doctor in the British science fiction television series Doctor Who (1963–1966)",
+      "Nominated for a BAFTA Award for his role in Doctor Who",
+      "Featured in numerous other television and stage productions throughout his career"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1975
+  }
+]

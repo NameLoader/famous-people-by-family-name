@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Linus Carl Pauling",
+    "givenNames": [
+      "Linus",
+      "Carl"
+    ],
+    "familyName": "Pauling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linus_Pauling",
+    "occupation": "chemist, peace activist",
+    "achievements": [
+      "Two Nobel Prizes: Chemistry (1954) and Peace (1962)",
+      "Contributions to quantum chemistry and the understanding of chemical bonds",
+      "Advocacy for nuclear disarmament"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1994
+  }
+]

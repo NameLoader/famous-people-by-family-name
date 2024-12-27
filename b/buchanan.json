@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "James Buchanan",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Buchanan",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
+    "occupation": "President of the United States",
+    "achievements": [
+      "15th President of the United States",
+      "Served during the American Civil War"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1868
+  },
+  {
+    "fullName": "Patrick Buchanan",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Buchanan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pat_Buchanan",
+    "occupation": "Political commentator, author, and former political advisor",
+    "achievements": [
+      "Conservative political commentator",
+      "Author of numerous books on politics and history"
+    ],
+    "yearBorn": 1938
+  }
+]

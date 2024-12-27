@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "John Brown",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_(abolitionist)",
+    "occupation": "Abolitionist, political activist",
+    "achievements": [
+      "Led armed raids against slavery in the United States."
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1859
+  },
+  {
+    "fullName": "James Brown",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Brown_(musician)",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Considered the 'Godfather of Soul', influential in funk and R&B music."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2006
+  }
+]

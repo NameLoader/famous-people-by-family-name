@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Colin Powell",
+    "givenNames": [
+      "Colin"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Powell",
+    "occupation": "Politician, General",
+    "achievements": [
+      "Chairman of the Joint Chiefs of Staff (1989-1993)",
+      "60th United States Secretary of State (2001-2005)"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2021
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hans Rosling",
+    "givenNames": [
+      "Hans"
+    ],
+    "familyName": "Rosling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Rosling",
+    "occupation": "Statistician, global health expert, author, public speaker",
+    "achievements": [
+      "Developed the Gapminder software to visualize global trends in development.",
+      "Co-founded the Gapminder Foundation to promote data-driven understanding of world issues.",
+      "Author of numerous books on global health and development, including 'Factfulness'."
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2017
+  }
+]

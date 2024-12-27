@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Singleton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Singleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Singleton",
+    "occupation": "Film Director, Screenwriter",
+    "achievements": [
+      "Academy Award-nominated director for 'Boyz n the Hood'",
+      "Pioneering filmmaker in African American cinema"
+    ],
+    "yearBorn": 1968,
+    "yearDied": 2019
+  }
+]

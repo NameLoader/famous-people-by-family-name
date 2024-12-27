@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Naomi Judd",
+    "givenNames": [
+      "Naomi"
+    ],
+    "familyName": "Judd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naomi_Judd",
+    "occupation": "Country singer, songwriter",
+    "achievements": [
+      "Member of the country music duo The Judds.",
+      "Won five Grammy Awards and nine Country Music Association awards."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Wynonna Judd",
+    "givenNames": [
+      "Wynonna"
+    ],
+    "familyName": "Judd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wynonna_Judd",
+    "occupation": "Country singer, songwriter",
+    "achievements": [
+      "Member of the country music duo The Judds.",
+      "Successful solo career with multiple hit singles and awards."
+    ],
+    "yearBorn": 1964
+  }
+]

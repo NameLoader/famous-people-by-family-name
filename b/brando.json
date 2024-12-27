@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Marlon Brando",
+    "givenNames": [
+      "Marlon"
+    ],
+    "familyName": "Brando",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlon_Brando",
+    "occupation": "Actor, director",
+    "achievements": [
+      "Academy Award for Best Actor (On the Waterfront)",
+      "Two-time Academy Award nominee (A Streetcar Named Desire, The Godfather)",
+      "Considered one of the greatest actors of all time"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2004
+  }
+]

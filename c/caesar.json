@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Gaius Julius Caesar",
+    "givenNames": [
+      "Gaius",
+      "Julius"
+    ],
+    "familyName": "Caesar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "occupation": "Roman general and statesman",
+    "achievements": [
+      "Conquered Gaul",
+      "Expanded the Roman Republic into a vast empire",
+      "Introduced reforms in Roman law and government",
+      "Famous for his military campaigns and political strategies"
+    ],
+    "yearBorn": 100,
+    "yearDied": 44
+  }
+]

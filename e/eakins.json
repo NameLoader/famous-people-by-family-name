@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Thomas Eakins",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Eakins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Eakins",
+    "occupation": "Painter",
+    "achievements": [
+      "Considered one of the most important American Realist painters.",
+      "Known for his unflinching depictions of everyday life and anatomy.",
+      "His works often focused on the human figure and its movements.",
+      "Influenced generations of American artists."
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1916
+  }
+]

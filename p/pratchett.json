@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Sir Terry Pratchett",
+    "givenNames": [
+      "Sir",
+      "Terry"
+    ],
+    "familyName": "Pratchett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Pratchett",
+    "occupation": "Author, screenwriter",
+    "achievements": [
+      "Bestselling author of fantasy novels",
+      "Created the Discworld series",
+      "Recipient of numerous literary awards",
+      "Knighted for services to literature in 2009"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2015
+  }
+]

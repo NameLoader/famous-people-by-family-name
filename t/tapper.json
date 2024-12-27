@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jake Tapper",
+    "givenNames": [
+      "Jake"
+    ],
+    "familyName": "Tapper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jake_Tapper",
+    "occupation": "Journalist, political commentator",
+    "achievements": [
+      "Chief Washington correspondent for CNN",
+      "Author of the book 'The Devil's Horsemen: How Obama's Team and Its Allies Won the White House'",
+      "Host of 'The Lead with Jake Tapper'"
+    ],
+    "yearBorn": 1969
+  }
+]

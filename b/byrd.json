@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Richard Evelyn Byrd",
+    "givenNames": [
+      "Richard",
+      "Evelyn"
+    ],
+    "familyName": "Byrd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_E._Byrd",
+    "occupation": "Explorer, Aviator",
+    "achievements": [
+      "Led several expeditions to the Antarctic",
+      "First person to fly over the North Pole",
+      "Pioneer in aviation and polar exploration"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1957
+  }
+]

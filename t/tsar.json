@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ivan IV of Russia",
+    "givenNames": [
+      "Ivan"
+    ],
+    "familyName": "Tsar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_IV_of_Russia",
+    "occupation": "Grand Prince of Moscow, Tsar of All Rus'",
+    "achievements": [
+      "Known as Ivan the Terrible for his ruthless policies.",
+      "Expanded the Russian Empire significantly."
+    ],
+    "yearBorn": 1530,
+    "yearDied": 1584
+  }
+]

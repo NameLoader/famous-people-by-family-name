@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Terry Gilliam",
+    "givenNames": [
+      "Terry"
+    ],
+    "familyName": "Gilliam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Gilliam",
+    "occupation": "Film Director, Animator, Actor",
+    "achievements": [
+      "Known for surreal and visually stunning films like 'Brazil', 'Fear and Loathing in Las Vegas', and 'Monty Python and the Holy Grail'",
+      "Co-founder of Monty Python's Flying Circus",
+      "Recipient of numerous awards and accolades, including BAFTA Awards and a Palme d'Or nomination"
+    ],
+    "yearBorn": 1940
+  }
+]

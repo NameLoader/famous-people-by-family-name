@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rick Riordan",
+    "givenNames": [
+      "Rick"
+    ],
+    "familyName": "Riordan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rick_Riordan",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of fantasy novels for young adults",
+      "Creator of the Percy Jackson & the Olympians series",
+      "Founder of Camp Half-Blood (fictional)",
+      "Recipient of numerous awards, including the Edgar Award"
+    ],
+    "yearBorn": 1964
+  }
+]

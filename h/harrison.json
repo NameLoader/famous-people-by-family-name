@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Benjamin Harrison",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Harrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+    "occupation": "Politician, 23rd President of the United States",
+    "achievements": [
+      "Served as President of the United States from 1889 to 1893",
+      "Grandson of William Henry Harrison, the 9th President"
+    ],
+    "yearBorn": 1833,
+    "yearDied": 1901
+  },
+  {
+    "fullName": "William Henry Harrison",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Harrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+    "occupation": "Politician, 9th President of the United States",
+    "achievements": [
+      "Served as President of the United States for less than a month before his death",
+      "First President to die in office"
+    ],
+    "yearBorn": 1773,
+    "yearDied": 1841
+  }
+]

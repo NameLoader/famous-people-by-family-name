@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Jon Gosselin",
+    "givenNames": [
+      "Jon"
+    ],
+    "familyName": "Gosselin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Gosselin",
+    "occupation": "Reality television personality",
+    "achievements": [
+      "Starred in the reality show 'Jon & Kate Plus 8'"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Kate Gosselin",
+    "givenNames": [
+      "Kate"
+    ],
+    "familyName": "Gosselin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kate_Gosselin",
+    "occupation": "Reality television personality",
+    "achievements": [
+      "Starred in the reality show 'Jon & Kate Plus 8'"
+    ],
+    "yearBorn": 1975
+  }
+]

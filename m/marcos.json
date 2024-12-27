@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ferdinand Romualdez Marcos",
+    "givenNames": [
+      "Ferdinand",
+      "Romualdez"
+    ],
+    "familyName": "Marcos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Marcos",
+    "occupation": "Politician, President of the Philippines",
+    "achievements": [
+      "President of the Philippines (1965-1986)",
+      "Controversial figure due to human rights abuses and corruption"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Imelda Romualdez Marcos",
+    "givenNames": [
+      "Imelda",
+      "Romualdez"
+    ],
+    "familyName": "Marcos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imelda_Marcos",
+    "occupation": "Politician, First Lady of the Philippines",
+    "achievements": [
+      "Known for her extravagant spending and shoe collection",
+      "Controversial figure due to involvement in her husband's regime"
+    ],
+    "yearBorn": 1929
+  }
+]

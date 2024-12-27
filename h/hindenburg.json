@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Paul von Hindenburg",
+    "givenNames": [
+      "Paul",
+      "von"
+    ],
+    "familyName": "Hindenburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg",
+    "occupation": "Military leader, politician",
+    "achievements": [
+      "Commander of German forces during World War I",
+      "Second President of Germany (1925-1934)"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1934
+  }
+]

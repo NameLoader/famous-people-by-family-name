@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ezra Pound",
+    "givenNames": [
+      "Ezra"
+    ],
+    "familyName": "Pound",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Pound",
+    "occupation": "Poet, Critic, Editor",
+    "achievements": [
+      "Modernist poet",
+      "Influential literary critic",
+      "Controversial figure for fascist views"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1972
+  }
+]

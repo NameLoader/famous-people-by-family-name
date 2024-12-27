@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anna Wintour",
+    "givenNames": [
+      "Anna"
+    ],
+    "familyName": "Wintour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Wintour",
+    "occupation": "Fashion Editor",
+    "achievements": [
+      "Editor-in-Chief of Vogue since 1988",
+      "Influential figure in the fashion industry",
+      "Known for her distinctive style and icy demeanor"
+    ],
+    "yearBorn": 1949
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Max Beckmann",
+    "givenNames": [
+      "Max"
+    ],
+    "familyName": "Beckmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Beckmann",
+    "occupation": "Painter, printmaker",
+    "achievements": [
+      "Expressionist painter known for his works reflecting the horrors of war and human suffering.",
+      "Prolific creator of paintings, prints, and drawings."
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1950
+  }
+]

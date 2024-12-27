@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hans Christian Andersen",
+    "givenNames": [
+      "Hans",
+      "Christian"
+    ],
+    "familyName": "Andersen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+    "occupation": "author, poet, playwright",
+    "achievements": [
+      "Author of fairy tales such as 'The Little Mermaid', 'The Emperor's New Clothes', and 'The Ugly Duckling'",
+      "Influential figure in children's literature"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1875
+  }
+]

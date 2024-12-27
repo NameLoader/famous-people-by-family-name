@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Westmoreland",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Westmoreland",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Westmoreland",
+    "occupation": "General, US Army",
+    "achievements": [
+      "Commander of U.S. forces in the Vietnam War",
+      "Known for his leadership during the Tet Offensive"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2005
+  }
+]

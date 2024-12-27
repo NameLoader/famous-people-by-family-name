@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Dalton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Dalton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dalton",
+    "occupation": "chemist, physicist, and meteorologist",
+    "achievements": [
+      "Developed atomic theory",
+      "Proposed the law of partial pressures"
+    ],
+    "yearBorn": 1766,
+    "yearDied": 1844
+  }
+]

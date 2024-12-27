@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Matthew Flinders",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Flinders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Flinders",
+    "occupation": "Explorer, Surveyor",
+    "achievements": [
+      "First to circumnavigate Australia under sail.",
+      "Coined the name 'Australia' for the continent."
+    ],
+    "yearBorn": 1774,
+    "yearDied": 1814
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Aaron Burr",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Burr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Burr",
+    "occupation": "Politician, Vice President of the United States",
+    "achievements": [
+      "Served as the third Vice President of the United States (1801-1805)",
+      "Drafted the Kentucky Resolutions",
+      "Involved in a famous duel with Alexander Hamilton"
+    ],
+    "yearBorn": 1756,
+    "yearDied": 1836
+  }
+]

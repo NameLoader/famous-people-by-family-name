@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "John Winston Lennon",
+    "givenNames": [
+      "John",
+      "Winston"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lennon",
+    "occupation": "Singer-songwriter, musician, peace activist",
+    "achievements": [
+      "Member of The Beatles",
+      "Influential figure in the counterculture movement",
+      "Advocate for peace and nonviolence"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Cynthia Powell Lennon",
+    "givenNames": [
+      "Cynthia",
+      "Powell"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Lennon",
+    "occupation": "Artist, Author",
+    "achievements": [
+      "Wife of John Lennon",
+      "Mother of Julian Lennon"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Julian Lennon",
+    "givenNames": [
+      "Julian"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Lennon",
+    "occupation": "Singer-songwriter, musician, photographer",
+    "achievements": [
+      "Son of John and Cynthia Lennon",
+      "Successful music career",
+      "Philanthropic work"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Yoko Ono Lennon",
+    "givenNames": [
+      "Yoko",
+      "Ono"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Ono",
+    "occupation": "Artist, musician, activist",
+    "achievements": [
+      "Wife of John Lennon",
+      "Collaborated with John Lennon on music and art",
+      "Activist for peace and women's rights"
+    ],
+    "yearBorn": 1933
+  }
+]

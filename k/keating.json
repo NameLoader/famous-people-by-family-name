@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Paul Keating",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Keating",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Keating",
+    "occupation": "Politician",
+    "achievements": [
+      "24th Prime Minister of Australia (1991-1996)",
+      "Key figure in the Australian Labor Party",
+      "Prominent role in economic reforms during his tenure"
+    ],
+    "yearBorn": 1947
+  }
+]

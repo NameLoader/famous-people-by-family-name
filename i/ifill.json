@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gwen Ifill",
+    "givenNames": [
+      "Gwen"
+    ],
+    "familyName": "Ifill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gwen_Ifill",
+    "occupation": "Journalist, Political Analyst",
+    "achievements": [
+      "PBS NewsHour correspondent and moderator",
+      "Award-winning journalist covering politics and social issues",
+      "First African American woman to moderate a nationally televised presidential debate"
+    ],
+    "yearBorn": 1955,
+    "yearDied": 2016
+  }
+]

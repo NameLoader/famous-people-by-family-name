@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Temple Grandin",
+    "givenNames": [
+      "Temple"
+    ],
+    "familyName": "Grandin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Temple_Grandin",
+    "occupation": "Animal scientist, author, and speaker",
+    "achievements": [
+      "Developed humane livestock handling systems",
+      "Advocate for autism awareness and acceptance",
+      "Author of numerous books on autism and animal behavior"
+    ],
+    "yearBorn": 1947
+  }
+]

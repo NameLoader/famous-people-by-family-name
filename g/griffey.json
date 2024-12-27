@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Kenneth Griffey Jr.",
+    "givenNames": [
+      "Kenneth",
+      "Jr."
+    ],
+    "familyName": "Griffey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr.",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "13-time All-Star",
+      "10 Gold Glove Awards",
+      "Rookie of the Year (1990)",
+      "American League MVP (1997)"
+    ],
+    "yearBorn": 1969
+  }
+]

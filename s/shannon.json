@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Claude Shannon",
+    "givenNames": [
+      "Claude"
+    ],
+    "familyName": "Shannon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Shannon",
+    "occupation": "Mathematician, electrical engineer",
+    "achievements": [
+      "Father of information theory",
+      "Developed the mathematical theory of communication",
+      "Contributed to cryptography and computer science"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2001
+  }
+]

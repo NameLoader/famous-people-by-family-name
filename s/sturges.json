@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Preston Sturges",
+    "givenNames": [
+      "Preston"
+    ],
+    "familyName": "Sturges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Preston_Sturges",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Known for his witty and fast-paced comedies",
+      "Won an Academy Award for Best Original Screenplay for \"Sullivan's Travels\""
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1959
+  }
+]

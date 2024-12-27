@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Burn",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Burn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Burns",
+    "occupation": "Poet, lyricist",
+    "achievements": [
+      "Considered the national poet of Scotland",
+      "Author of iconic poems like 'Auld Lang Syne' and 'Tam o' Shanter'",
+      "Influenced numerous poets and songwriters"
+    ],
+    "yearBorn": 1759,
+    "yearDied": 1796
+  }
+]

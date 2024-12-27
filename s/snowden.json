@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Edward Snowden",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Snowden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Snowden",
+    "occupation": "Computer Intelligence Analyst, whistleblower",
+    "achievements": [
+      "Leaked classified information from the National Security Agency (NSA) in 2013.",
+      "Revealed widespread government surveillance programs."
+    ],
+    "yearBorn": 1983
+  }
+]

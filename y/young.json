@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Neil Young",
+    "givenNames": [
+      "Neil"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Young",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "Grammy Award winner",
+      "Canadian Music Hall of Fame inductee",
+      "Known for his distinctive voice and songwriting about social and political issues"
+    ],
+    "yearBorn": 1945
+  }
+]

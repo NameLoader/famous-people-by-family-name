@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Shirley Chisholm",
+    "givenNames": [
+      "Shirley"
+    ],
+    "familyName": "Chisholm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+    "occupation": "Politician, Activist",
+    "achievements": [
+      "First African-American woman elected to the United States Congress",
+      "Advocate for civil rights and women's equality"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2005
+  }
+]

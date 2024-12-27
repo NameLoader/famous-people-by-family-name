@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mayer Amschel Rothschild",
+    "givenNames": [
+      "Mayer",
+      "Amschel"
+    ],
+    "familyName": "Rothschild",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
+    "occupation": "Finance, Banker",
+    "achievements": [
+      "Founded the Rothschild banking dynasty",
+      "Established branches of the bank in major European cities"
+    ],
+    "yearBorn": 1744,
+    "yearDied": 1812
+  }
+]

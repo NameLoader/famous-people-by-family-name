@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "David Hume",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Hume",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Hume",
+    "occupation": "Philosopher, Economist, Historian",
+    "achievements": [
+      "Key figure in the Scottish Enlightenment",
+      "Influential empiricist philosopher",
+      "Author of 'A Treatise of Human Nature'",
+      "Prominent skeptic and critic of religious dogma"
+    ],
+    "yearBorn": 1711,
+    "yearDied": 1776
+  },
+  {
+    "fullName": "John Hume",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hume",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hume",
+    "occupation": "Politician, Nobel Peace Prize laureate",
+    "achievements": [
+      "Key figure in the Northern Ireland peace process",
+      "Leader of the Social Democratic and Labour Party (SDLP)",
+      "Nobel Peace Prize recipient in 1998 for his role in the Good Friday Agreement"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2020
+  }
+]

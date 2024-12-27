@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Crowley",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Crowley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Crowley_(author)",
+    "occupation": "Novelist, poet",
+    "achievements": [
+      "Published novels such as *Little, Big* and *Engine Summer*.",
+      "Received numerous awards for his work."
+    ],
+    "yearBorn": 1942
+  }
+]

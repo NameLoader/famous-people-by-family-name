@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Archie Manning",
+    "givenNames": [
+      "Archie"
+    ],
+    "familyName": "Manning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archie_Manning",
+    "occupation": "American Football Player, Quarterback",
+    "achievements": [
+      "Inducted into the College Football Hall of Fame (2018)",
+      "Two-time NFL passing leader",
+      "Led the New Orleans Saints to a division title"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Peyton Manning",
+    "givenNames": [
+      "Peyton"
+    ],
+    "familyName": "Manning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peyton_Manning",
+    "occupation": "American Football Player, Quarterback",
+    "achievements": [
+      "Two-time Super Bowl champion (XLI & XLVIII)",
+      "Five-time NFL MVP",
+      "Nineteen consecutive Pro Bowls selections",
+      "College Football Hall of Fame inductee (2017)"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Eli Manning",
+    "givenNames": [
+      "Eli"
+    ],
+    "familyName": "Manning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Manning",
+    "occupation": "American Football Player, Quarterback",
+    "achievements": [
+      "Two-time Super Bowl champion (XLII & XLVI)",
+      "Four-time Pro Bowler",
+      "NFL passing yards leader"
+    ],
+    "yearBorn": 1981
+  }
+]

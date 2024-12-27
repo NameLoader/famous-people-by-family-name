@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Geoffrey Chaucer",
+    "givenNames": [
+      "Geoffrey"
+    ],
+    "familyName": "Chaucer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer",
+    "occupation": "Poet, author",
+    "achievements": [
+      "Considered the father of English literature",
+      "Authored The Canterbury Tales",
+      "Wrote in Middle English"
+    ],
+    "yearBorn": 1340,
+    "yearDied": 1400
+  }
+]

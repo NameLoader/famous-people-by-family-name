@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Malcolm Gladwell",
+    "givenNames": [
+      "Malcolm"
+    ],
+    "familyName": "Gladwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Gladwell",
+    "occupation": "Writer, journalist, podcaster",
+    "achievements": [
+      "Author of bestselling books like *The Tipping Point*, *Outliers*, and *Talking to Strangers*",
+      "Popular science writer known for exploring social trends and cultural phenomena."
+    ],
+    "yearBorn": 1963
+  }
+]

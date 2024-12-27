@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Novak Djokovic",
+    "givenNames": [
+      "Novak"
+    ],
+    "familyName": "Djokovic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Novak_Djokovic",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "24 Grand Slam singles titles (most in men's tennis history)",
+      "39 ATP Masters 1000 titles (second most in men's tennis history)",
+      "World No. 1 ranking for a record 387 weeks",
+      "Olympic gold medal winner in mixed doubles (2008)"
+    ],
+    "yearBorn": 1987
+  }
+]

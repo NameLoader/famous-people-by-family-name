@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Edgar Allan Snow",
+    "givenNames": [
+      "Edgar"
+    ],
+    "familyName": "Snow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Snow",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Known for his reporting from communist China during the early 20th century.",
+      "Author of 'Red Star Over China', a seminal work on Mao Zedong and the Chinese Communist Party."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1972
+  },
+  {
+    "fullName": "John Snow",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Snow",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Snow_(physician)",
+    "occupation": "Physician, Anesthesiologist",
+    "achievements": [
+      "Considered the father of modern epidemiology.",
+      "Identified contaminated water as the source of a cholera outbreak in London in 1854."
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1858
+  }
+]

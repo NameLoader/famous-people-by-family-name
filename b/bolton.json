@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Bolton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Bolton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bolton_(diplomat)",
+    "occupation": "Diplomat, Politician",
+    "achievements": [
+      "United States Ambassador to the United Nations (2005-2006)",
+      "National Security Advisor to President Donald Trump (2018-2019)"
+    ],
+    "yearBorn": 1948
+  }
+]

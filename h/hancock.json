@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Hancock",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hancock",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hancock",
+    "occupation": "Politician, Founding Father",
+    "achievements": [
+      "President of the Second Continental Congress",
+      "Signed the United States Declaration of Independence",
+      "Governor of Massachusetts"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1793
+  }
+]

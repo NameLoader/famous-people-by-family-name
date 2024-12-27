@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Paul Romer",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Romer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Romer",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (2018)",
+      "Contribution to growth theory"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Christina Romer",
+    "givenNames": [
+      "Christina"
+    ],
+    "familyName": "Romer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Romer",
+    "occupation": "Economist, Professor",
+    "achievements": [
+      "Chair of the Council of Economic Advisers (2009-2010)",
+      "Research on business cycles and recessions"
+    ],
+    "yearBorn": 1958
+  }
+]

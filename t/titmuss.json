@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Titmuss",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Titmuss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Titmuss",
+    "occupation": "Social Scientist, Economist",
+    "achievements": [
+      "Known for his work on blood donation and the welfare state.",
+      "Authored influential books like 'The Gift Relationship' and 'Social Security and Social Welfare'."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1972
+  }
+]

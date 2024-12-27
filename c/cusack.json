@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Cusack",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Cusack",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Cusack",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for roles in films like 'Say Anything...', 'High Fidelity', and 'Being John Malkovich'",
+      "Recipient of numerous awards and nominations"
+    ],
+    "yearBorn": 1966
+  }
+]

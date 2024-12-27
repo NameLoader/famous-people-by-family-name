@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Rawls",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Rawls",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Rawls",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Developed the theory of justice as fairness.",
+      "Influential figure in contemporary political philosophy."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2002
+  }
+]

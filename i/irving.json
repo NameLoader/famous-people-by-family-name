@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Washington Irving",
+    "givenNames": [
+      "Washington"
+    ],
+    "familyName": "Irving",
+    "wikipedia": "https://en.wikipedia.org/wiki/Washington_Irving",
+    "occupation": "Author, essayist, diplomat",
+    "achievements": [
+      "Known for works like 'The Legend of Sleepy Hollow' and 'Rip Van Winkle'",
+      "Considered one of the founding fathers of American literature",
+      "Served as U.S. Minister to Spain"
+    ],
+    "yearBorn": 1783,
+    "yearDied": 1862
+  }
+]

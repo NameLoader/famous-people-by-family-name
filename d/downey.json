@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Downey Sr.",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Downey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Downey_Sr.",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Directed and starred in underground films",
+      "Influential figure in independent cinema"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2021
+  }
+]

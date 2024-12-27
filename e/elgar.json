@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Edward William Elgar",
+    "givenNames": [
+      "Edward",
+      "William"
+    ],
+    "familyName": "Elgar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Elgar",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered one of the most important composers of English classical music.",
+      "Known for works like 'Pomp and Circumstance Marches' and 'Enigma Variations'.",
+      "Composed orchestral, chamber, choral, and solo works."
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1934
+  }
+]

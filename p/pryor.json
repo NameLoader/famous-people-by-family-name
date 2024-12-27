@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Pryor",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Pryor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Pryor",
+    "occupation": "Stand-up comedian, actor, writer",
+    "achievements": [
+      "One of the most influential stand-up comedians of all time",
+      "Known for his raw and honest comedy about race, relationships, and social issues",
+      "Won numerous awards, including Grammy Awards and Emmy Awards"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2005
+  }
+]

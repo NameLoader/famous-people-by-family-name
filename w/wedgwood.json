@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Josiah Wedgwood",
+    "givenNames": [
+      "Josiah"
+    ],
+    "familyName": "Wedgwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Wedgwood",
+    "occupation": "Potter, Industrialist",
+    "achievements": [
+      "Pioneered mass production of pottery",
+      "Invented the famous 'Jasper ware'",
+      "Influenced British industrial revolution"
+    ],
+    "yearBorn": 1730,
+    "yearDied": 1795
+  }
+]

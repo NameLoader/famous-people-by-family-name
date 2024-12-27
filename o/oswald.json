@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lee Harvey Oswald",
+    "givenNames": [
+      "Lee",
+      "Harvey"
+    ],
+    "familyName": "Oswald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald",
+    "occupation": "Marine, alleged assassin",
+    "achievements": [
+      "Infamous for assassinating President John F. Kennedy"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 1963
+  }
+]

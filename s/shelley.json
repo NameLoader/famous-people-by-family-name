@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Percy Bysshe Shelley",
+    "givenNames": [
+      "Percy",
+      "Bysshe"
+    ],
+    "familyName": "Shelley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley",
+    "occupation": "Poet, writer",
+    "achievements": [
+      "Known for Romantic poetry",
+      "Influential figure in the English Romantic movement",
+      "Wrote famous works like 'Ozymandias', 'Ode to the West Wind'",
+      "Advocated for social justice and individual freedom"
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1822
+  },
+  {
+    "fullName": "Mary Wollstonecraft Shelley",
+    "givenNames": [
+      "Mary",
+      "Wollstonecraft"
+    ],
+    "familyName": "Shelley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Shelley",
+    "occupation": "Novelist, author",
+    "achievements": [
+      "Author of 'Frankenstein', a groundbreaking science fiction novel",
+      "Daughter of Mary Wollstonecraft and William Godwin",
+      "Prominent figure in the literary scene of the Romantic era"
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1851
+  }
+]

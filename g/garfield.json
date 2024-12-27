@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Garfield Garfield",
+    "givenNames": [
+      "Garfield"
+    ],
+    "familyName": "Garfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_A._Garfield",
+    "occupation": "20th President of the United States",
+    "achievements": [
+      "Served as the 20th President of the United States",
+      "Assassinated in office"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1881
+  }
+]

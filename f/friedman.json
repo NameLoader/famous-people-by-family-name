@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Milton Friedman",
+    "givenNames": [
+      "Milton"
+    ],
+    "familyName": "Friedman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milton_Friedman",
+    "occupation": "Economist, Professor",
+    "achievements": [
+      "Nobel Prize in Economics (1976)",
+      "Key figure in monetarism",
+      "Influence on free-market capitalism"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Thomas Friedman",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Friedman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Friedman",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Three Pulitzer Prize Awards",
+      "New York Times foreign correspondent",
+      "Bestselling author on globalization and economics"
+    ],
+    "yearBorn": 1953
+  }
+]

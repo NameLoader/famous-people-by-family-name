@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Alice Oseman",
+    "givenNames": [
+      "Alice"
+    ],
+    "familyName": "Oseman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Oseman",
+    "occupation": "Author, screenwriter",
+    "achievements": [
+      "Known for writing graphic novels and novels aimed at young adults.",
+      "Created the Netflix series Heartstopper."
+    ],
+    "yearBorn": 1994
+  }
+]

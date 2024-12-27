@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Oskar Schindler",
+    "givenNames": [
+      "Oskar"
+    ],
+    "familyName": "Schindler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oskar_Schindler",
+    "occupation": "Businessman, philanthropist",
+    "achievements": [
+      "Saved the lives of over 1,200 Jewish refugees during the Holocaust by employing them in his factories.",
+      "Recognized as a Righteous Among the Nations by Yad Vashem."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1974
+  }
+]

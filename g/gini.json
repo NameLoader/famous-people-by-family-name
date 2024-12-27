@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Corrado Gini",
+    "givenNames": [
+      "Corrado"
+    ],
+    "familyName": "Gini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corrado_Gini",
+    "occupation": "Economist, Statistician, Sociologist",
+    "achievements": [
+      "Developed the Gini coefficient to measure income inequality",
+      "Contributed to demographic and social studies"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1965
+  }
+]

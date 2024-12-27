@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Gordon Ramsay",
+    "givenNames": [
+      "Gordon"
+    ],
+    "familyName": "Ramsay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Ramsay",
+    "occupation": "Chef, restaurateur, television personality",
+    "achievements": [
+      "Won multiple Michelin stars for his restaurants",
+      "Successful television chef with numerous shows",
+      "Recognized as one of the world's most influential chefs"
+    ],
+    "yearBorn": 1966
+  }
+]

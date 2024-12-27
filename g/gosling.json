@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ryan Gosling",
+    "givenNames": [
+      "Ryan"
+    ],
+    "familyName": "Gosling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Gosling",
+    "occupation": "Actor, Musician",
+    "achievements": [
+      "Academy Award nomination for Best Actor (La La Land)",
+      "Golden Globe Award for Best Actor – Motion Picture Musical or Comedy (La La Land)",
+      "Widely acclaimed performances in films such as Drive, The Notebook, and Blade Runner 2049"
+    ],
+    "yearBorn": 1980
+  }
+]

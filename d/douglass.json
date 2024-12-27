@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Frederick Douglass",
+    "givenNames": [
+      "Frederick"
+    ],
+    "familyName": "Douglass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Douglass",
+    "occupation": "Abolitionist, Writer, orator",
+    "achievements": [
+      "Escaped slavery and became a prominent voice in the abolition movement.",
+      "Wrote influential autobiographies that exposed the horrors of slavery.",
+      "Served as an advisor to Presidents Abraham Lincoln and Andrew Johnson."
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1895
+  },
+  {
+    "fullName": "Harriet Tubman Douglass",
+    "givenNames": [
+      "Harriet"
+    ],
+    "familyName": "Douglass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Tubman#Marriage_and_life_after_the_Civil_War",
+    "occupation": "Abolitionist, Conductor on the Underground Railroad",
+    "achievements": [
+      "Escaped slavery and led hundreds of slaves to freedom through the Underground Railroad.",
+      "Served as a spy for the Union Army during the Civil War."
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1913
+  }
+]

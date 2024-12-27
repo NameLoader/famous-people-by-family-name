@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Pemberton",
+    "givenNames": [
+      "John",
+      "Pemberton"
+    ],
+    "familyName": "Coke",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Pemberton",
+    "occupation": "Pharmacist, inventor",
+    "achievements": [
+      "Invented Coca-Cola"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1888
+  }
+]

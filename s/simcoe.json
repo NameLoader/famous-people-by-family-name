@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Graves Simcoe",
+    "givenNames": [
+      "John",
+      "Graves"
+    ],
+    "familyName": "Simcoe",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Graves_Simcoe",
+    "occupation": "Politician, Lawyer, Military Officer",
+    "achievements": [
+      "First Lieutenant Governor of Upper Canada (present-day Ontario)",
+      "Instrumental in establishing York (Toronto) as the capital of Upper Canada",
+      "Established legal and educational institutions in Upper Canada"
+    ],
+    "yearBorn": 1752,
+    "yearDied": 1806
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Friedrich August Wohler",
+    "givenNames": [
+      "Friedrich",
+      "August"
+    ],
+    "familyName": "Wohler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_W%C3%B6hler",
+    "occupation": "chemist",
+    "achievements": [
+      "Synthesized urea (1828)",
+      "Pioneering work in organic chemistry"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1882
+  }
+]

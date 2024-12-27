@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Prine",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Prine",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Prine",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Inducted into the Songwriters Hall of Fame"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2020
+  }
+]

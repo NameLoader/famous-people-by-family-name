@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Louis XV of France",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Bourbon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XV_of_France",
+    "occupation": "King of France",
+    "achievements": [
+      "Reigned during the Age of Enlightenment",
+      "Oversaw significant cultural and artistic developments",
+      "Established a centralized government system"
+    ],
+    "yearBorn": 1710,
+    "yearDied": 1774
+  },
+  {
+    "fullName": "Henri IV of France",
+    "givenNames": [
+      "Henri"
+    ],
+    "familyName": "Bourbon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_IV_of_France",
+    "occupation": "King of France",
+    "achievements": [
+      "Established the Bourbon dynasty in France",
+      "Promoted religious tolerance with the Edict of Nantes",
+      "Unified France after years of civil war"
+    ],
+    "yearBorn": 1553,
+    "yearDied": 1610
+  }
+]

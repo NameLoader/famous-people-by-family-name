@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Philip Kitcher",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Kitcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Kitcher",
+    "occupation": "Philosopher, Author",
+    "achievements": [
+      "Prominent philosopher known for his work on the philosophy of science and ethics.",
+      "Author of numerous influential books including *Abusing Science* and *The Advancement of Science*.",
+      "Professor emeritus at Columbia University."
+    ],
+    "yearBorn": 1947
+  }
+]

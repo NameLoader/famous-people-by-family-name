@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Ives",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Ives",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ives",
+    "occupation": "Composer",
+    "achievements": [
+      "Pioneered American modernism in classical music",
+      "Known for his complex and innovative harmonies",
+      "Incorporated sounds of everyday life into his compositions"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1954
+  }
+]

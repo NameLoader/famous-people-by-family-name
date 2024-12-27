@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Nancy Mitford",
+    "givenNames": [
+      "Nancy"
+    ],
+    "familyName": "Mitford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Mitford",
+    "occupation": "Author, Journalist",
+    "achievements": [
+      "Known for her witty novels and essays",
+      "Helped popularize the concept of 'U' and 'Non-U' language"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Unity Mitford",
+    "givenNames": [
+      "Unity"
+    ],
+    "familyName": "Mitford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unity_Mitford",
+    "occupation": "Writer, Artist",
+    "achievements": [
+      "Known for her strong pro-Nazi sympathies",
+      "Attempted suicide after the outbreak of World War II"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1948
+  }
+]

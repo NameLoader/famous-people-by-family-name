@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "George W. Bush",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Bush",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_W._Bush",
+    "occupation": "Politician, President of the United States",
+    "achievements": [
+      "43rd President of the United States",
+      "Governor of Texas"
+    ],
+    "yearBorn": 1946
+  }
+]

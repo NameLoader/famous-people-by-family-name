@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Charles Lutwidge Dodgson",
+    "givenNames": [
+      "Charles",
+      "Lutwidge"
+    ],
+    "familyName": "Dodgson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Carroll",
+    "occupation": "Author, mathematician",
+    "achievements": [
+      "Wrote the classic children's books Alice's Adventures in Wonderland and Through the Looking-Glass",
+      "Known for his playful use of language and logic",
+      "Made significant contributions to mathematical theory"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1898
+  }
+]

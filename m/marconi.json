@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Guglielmo Marconi",
+    "givenNames": [
+      "Guglielmo"
+    ],
+    "familyName": "Marconi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+    "occupation": "Inventor, electrical engineer",
+    "achievements": [
+      "Invented the first practical wireless telegraph system",
+      "Won the Nobel Prize in Physics (1909) for his work on long-distance radio transmission"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1937
+  }
+]

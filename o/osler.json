@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sir William Osler",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Osler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_William_Osler",
+    "occupation": "Physician, medical researcher",
+    "achievements": [
+      "Pioneer in the field of modern medicine",
+      "Founder of Johns Hopkins Hospital's Department of Clinical Medicine",
+      "Authored influential medical textbook 'The Principles and Practice of Medicine'",
+      "Considered one of the founding fathers of internal medicine"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1919
+  }
+]

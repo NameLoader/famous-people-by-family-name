@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "John Hinckley Jr.",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hinckley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hinckley_Jr.",
+    "occupation": "Notorious for attempting to assassinate President Ronald Reagan",
+    "achievements": [],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Gordon Hinckley",
+    "givenNames": [
+      "Gordon"
+    ],
+    "familyName": "Hinckley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_B._Hinckley",
+    "occupation": "President of The Church of Jesus Christ of Latter-day Saints",
+    "achievements": [
+      "Led the LDS Church for over two decades.",
+      "Oversaw significant growth and global expansion of the church."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 2008
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Jack Dorsey",
+    "givenNames": [
+      "Jack"
+    ],
+    "familyName": "Dorsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Dorsey",
+    "occupation": "entrepreneur, technology executive",
+    "achievements": [
+      "Co-founder of Twitter and Square",
+      "Prominent figure in the tech industry"
+    ],
+    "yearBorn": 1976
+  }
+]

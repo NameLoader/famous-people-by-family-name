@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Oswald Mosley",
+    "givenNames": [
+      "Oswald"
+    ],
+    "familyName": "Mosley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oswald_Mosley",
+    "occupation": "Politician, Fascist Leader",
+    "achievements": [
+      "Leader of the British Union of Fascists (BUF)",
+      "Prominent figure in British politics during the interwar period",
+      "Controversial figure due to his fascist beliefs and actions"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1980
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Howard Stern",
+    "givenNames": [
+      "Howard"
+    ],
+    "familyName": "Stern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Stern",
+    "occupation": "Radio personality, comedian, television host",
+    "achievements": [
+      "One of the most influential radio personalities in American history",
+      "Known for his controversial and often humorous approach to interviewing"
+    ],
+    "yearBorn": 1954
+  }
+]

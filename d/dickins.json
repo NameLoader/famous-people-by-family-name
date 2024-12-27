@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Dickins",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Dickins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
+    "occupation": "Author, Social Critic",
+    "achievements": [
+      "Considered one of the greatest novelists of all time.",
+      "Known for works like Oliver Twist, A Tale of Two Cities, and Great Expectations."
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1870
+  }
+]

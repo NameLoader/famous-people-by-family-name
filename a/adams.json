@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "John Adams",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Adams",
+    "occupation": "Politician, Founding Father",
+    "achievements": [
+      "Second President of the United States",
+      "Key figure in American Revolution",
+      "Author of influential political writings"
+    ],
+    "yearBorn": 1735,
+    "yearDied": 1826
+  },
+  {
+    "fullName": "John Quincy Adams",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "Sixth President of the United States",
+      "Son of John Adams",
+      "Successful diplomat and advocate for abolition"
+    ],
+    "yearBorn": 1767,
+    "yearDied": 1848
+  },
+  {
+    "fullName": "Douglas Adams",
+    "givenNames": [
+      "Douglas"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Adams",
+    "occupation": "Author, Comedian, Screenwriter",
+    "achievements": [
+      "Creator of the iconic science fiction series 'The Hitchhiker's Guide to the Galaxy'",
+      "Known for his witty and humorous writing style",
+      "Impactful contribution to popular culture"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Samuel Adams",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Adams",
+    "occupation": "Politician, Activist",
+    "achievements": [
+      "Leader of the Sons of Liberty",
+      "Advocate for American independence",
+      "Influential figure in the Boston Tea Party"
+    ],
+    "yearBorn": 1722,
+    "yearDied": 1803
+  }
+]

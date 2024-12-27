@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Milton Fried",
+    "givenNames": [
+      "Milton"
+    ],
+    "familyName": "Fried",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milton_Friedman",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Prize in Economics (1976)",
+      "Monetarism",
+      "Free-market Capitalism"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2006
+  }
+]

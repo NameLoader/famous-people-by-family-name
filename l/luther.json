@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Martin Luther",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Luther",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
+    "occupation": "theologian, priest, and composer",
+    "achievements": [
+      "Initiated the Protestant Reformation",
+      "Translated the Bible into German",
+      "Authored many influential theological works"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1546
+  }
+]

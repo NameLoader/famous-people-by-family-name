@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Stokoe",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Stokoe",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Stokoe",
+    "occupation": "Linguist, Professor",
+    "achievements": [
+      "Developed the first scientific method for analyzing American Sign Language (ASL)",
+      "Proved ASL to be a full-fledged language with its own grammar and syntax",
+      "Pioneered deaf education through his research and advocacy"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2009
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Fritz Lang",
+    "givenNames": [
+      "Fritz"
+    ],
+    "familyName": "Lang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Lang",
+    "occupation": "Film Director, Screenwriter",
+    "achievements": [
+      "Pioneering German Expressionist filmmaker",
+      "Directed iconic films like Metropolis and M",
+      "Influenced generations of directors"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1976
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Mcleese",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Mcleese",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Cleese",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Member of the comedy group Monty Python",
+      "Starred in British sitcoms Fawlty Towers and A Fish Called Wanda",
+      "Recipient of multiple awards including BAFTA and Emmy Awards"
+    ],
+    "yearBorn": 1939
+  }
+]

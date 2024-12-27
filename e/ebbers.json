@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Bernard Ebbers",
+    "givenNames": [
+      "Bernard"
+    ],
+    "familyName": "Ebbers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Ebbers",
+    "occupation": "Business executive, former CEO of WorldCom",
+    "achievements": [
+      "Led WorldCom to become one of the largest telecommunications companies in the world",
+      "Convicted of fraud and conspiracy for accounting irregularities at WorldCom"
+    ],
+    "yearBorn": 1941
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Anders Ericsson",
+    "givenNames": [
+      "Anders"
+    ],
+    "familyName": "Ericsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anders_Ericsson",
+    "occupation": "Psychologist, researcher",
+    "achievements": [
+      "Pioneer in the field of expertise performance.",
+      "Known for his work on deliberate practice and its impact on skill development."
+    ],
+    "yearBorn": 1947
+  }
+]

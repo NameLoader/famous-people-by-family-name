@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Finnis",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Finnis",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Finnis",
+    "occupation": "Philosopher, Legal theorist",
+    "achievements": [
+      "Prominent figure in natural law theory",
+      "Author of numerous influential books on legal and moral philosophy",
+      "Professor Emeritus at the University of Oxford"
+    ],
+    "yearBorn": 1940
+  }
+]

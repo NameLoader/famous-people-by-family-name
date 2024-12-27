@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Strutt",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Strutt",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Strutt,_3rd_Baron_ Rayleigh",
+    "occupation": "Physicist, Nobel laureate",
+    "achievements": [
+      "Nobel Prize in Physics (1904) for his discovery of argon and its influence on other properties of electric light",
+      "Pioneer in the study of sound waves and their propagation"
+    ],
+    "yearBorn": 1842,
+    "yearDied": 1919
+  }
+]

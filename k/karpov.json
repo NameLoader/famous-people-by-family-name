@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Garry Kasparov",
+    "givenNames": [
+      "Garry"
+    ],
+    "familyName": "Karpov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+    "occupation": "Chess Grandmaster, political activist",
+    "achievements": [
+      "Former World Chess Champion (1985-2000)",
+      "Considered one of the greatest chess players of all time"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Anatoly Karpov",
+    "givenNames": [
+      "Anatoly"
+    ],
+    "familyName": "Karpov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anatoly_Karpov",
+    "occupation": "Chess Grandmaster, former World Chess Champion",
+    "achievements": [
+      "Former World Chess Champion (1975-1985)",
+      "One of the most successful chess players in history"
+    ],
+    "yearBorn": 1951
+  }
+]

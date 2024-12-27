@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Chapman",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Chapman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Appleseed",
+    "occupation": "Pioneer, Nurseryman",
+    "achievements": [
+      "Planted apple trees across the American frontier",
+      "Became a legendary figure known for his kindness and generosity"
+    ],
+    "yearBorn": 1774,
+    "yearDied": 1845
+  }
+]

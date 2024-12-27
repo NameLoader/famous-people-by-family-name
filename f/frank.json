@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Anne Frank",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Frank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Frank",
+    "occupation": "Diarist",
+    "achievements": [
+      "Wrote the diary that became a famous account of life during World War II in hiding."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Barney Frank",
+    "givenNames": [
+      "Barney"
+    ],
+    "familyName": "Frank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barney_Frank",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Massachusetts, known for his advocacy for LGBTQ+ rights and financial reform."
+    ],
+    "yearBorn": 1940
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Henry Segrave",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Segrave",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Segrave",
+    "occupation": "Racing Driver, Speed Record Holder",
+    "achievements": [
+      "World Land Speed Record holder (1927-1930).",
+      "Broke numerous speed records during his career.",
+      "Pioneered advancements in motorsports technology."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1930
+  }
+]

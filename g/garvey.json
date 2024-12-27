@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Marcus Mosiah Garvey",
+    "givenNames": [
+      "Marcus",
+      "Mosiah"
+    ],
+    "familyName": "Garvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Garvey",
+    "occupation": "Activist, Journalist, Founder of the UNIA",
+    "achievements": [
+      "Founded the Universal Negro Improvement Association (UNIA) and African Communities League.",
+      "Advocate for Pan-Africanism and Black self-reliance.",
+      "Promoted Black pride and economic independence."
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1940
+  }
+]

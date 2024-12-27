@@ -1,0 +1,54 @@
+[
+  {
+    "fullName": "William Jefferson Clinton",
+    "givenNames": [
+      "William",
+      "Jefferson"
+    ],
+    "familyName": "Clinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Clinton",
+    "occupation": "Politician, 42nd President of the United States",
+    "achievements": [
+      "Governor of Arkansas (1979-1981, 1983-1992)",
+      "President of the United States (1993-2001)",
+      "Nobel Peace Prize nominee",
+      "Author"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Hillary Diane Rodham Clinton",
+    "givenNames": [
+      "Hillary",
+      "Diane",
+      "Rodham"
+    ],
+    "familyName": "Clinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hillary_Clinton",
+    "occupation": "Politician, diplomat, lawyer, and former First Lady",
+    "achievements": [
+      "First Lady of the United States (1993-2001)",
+      "U.S. Senator from New York (2001-2009)",
+      "67th U.S. Secretary of State (2009-2013)",
+      "Democratic Party nominee for President of the United States in 2016",
+      "Author"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Chelsea Victoria Clinton",
+    "givenNames": [
+      "Chelsea",
+      "Victoria"
+    ],
+    "familyName": "Clinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chelsea_Clinton",
+    "occupation": "Author, diplomat, and television personality",
+    "achievements": [
+      "Daughter of former President Bill Clinton and Secretary of State Hillary Clinton",
+      "Philanthropist",
+      "Board member of the Clinton Foundation"
+    ],
+    "yearBorn": 1980
+  }
+]

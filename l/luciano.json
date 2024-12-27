@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Luciano",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Luciano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Luciano",
+    "occupation": "Gangster, Mafia boss",
+    "achievements": [
+      "Head of the Luciano crime family",
+      "Instrumental in establishing the modern American Mafia structure"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1962
+  }
+]
