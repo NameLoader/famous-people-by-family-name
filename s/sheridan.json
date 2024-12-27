@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Brinsley Sheridan",
+    "givenNames": [
+      "Richard",
+      "Brinsley"
+    ],
+    "familyName": "Sheridan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan",
+    "occupation": "Playwright, Politician",
+    "achievements": [
+      "Famous for plays like *The Rivals* and *The School for Scandal*",
+      "Influential figure in 18th-century British theatre"
+    ],
+    "yearBorn": 1751,
+    "yearDied": 1816
+  }
+]

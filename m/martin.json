@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dean Martin",
+    "givenNames": [
+      "Dean"
+    ],
+    "familyName": "Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dean_Martin",
+    "occupation": "Singer, actor, comedian",
+    "achievements": [
+      "One of the most popular entertainers of the 20th century.",
+      "Known for his smooth vocals and comedic timing.",
+      "Starred in numerous films and television shows."
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1995
+  }
+]

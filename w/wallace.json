@@ -1,23 +1,9 @@
 [
   {
-    "fullName": "Sir William Wallace",
-    "givenNames": [
-      "William"
-    ],
-    "familyName": "Wallace",
-    "wikipedia": "https://en.wikipedia.org/wiki/William_Wallace",
-    "occupation": "Military Leader, Patriot",
-    "achievements": [
-      "Led the Scots in resistance against English rule during the Wars of Scottish Independence.",
-      "Famous for his bravery and military tactics."
-    ],
-    "yearBorn": 1270,
-    "yearDied": 1305
-  },
-  {
     "fullName": "Alfred Wallace",
     "givenNames": [
-      "Alfred"
+      "Alfred",
+      "Russel"
     ],
     "familyName": "Wallace",
     "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace",
@@ -28,5 +14,20 @@
     ],
     "yearBorn": 1823,
     "yearDied": 1913
+  },
+  {
+    "fullName": "Sir William Wallace",
+    "givenNames": [
+      "Sir William"
+    ],
+    "familyName": "Wallace",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wallace",
+    "occupation": "Scottish Knight, Leader of the Wars of Scottish Independence",
+    "achievements": [
+      "Led the Scots to victory against the English at the Battle of Stirling Bridge.",
+      "Became a national hero in Scotland."
+    ],
+    "yearBorn": 1270,
+    "yearDied": 1305
   }
 ]

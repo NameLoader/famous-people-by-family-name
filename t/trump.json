@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ivanka Trump",
+    "givenNames": [
+      "Ivanka",
+      "Marie"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivanka_Trump",
+    "occupation": "Businesswoman, former advisor to the President",
+    "achievements": [
+      "Executive Vice President of Development and Acquisitions at The Trump Organization",
+      "Advisor to her father during his presidency",
+      "Advocate for women's rights"
+    ],
+    "yearBorn": 1981
+  }
+]

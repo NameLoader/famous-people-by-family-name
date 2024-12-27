@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christian Slater",
+    "givenNames": [
+      "Christian",
+      "Michael",
+      "Leonard"
+    ],
+    "familyName": "Slater",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Slater",
+    "occupation": "Actor",
+    "achievements": [
+      "Notable roles in films like *Heathers*, *True Romance*, and *Interview with the Vampire*"
+    ],
+    "yearBorn": 1969
+  }
+]

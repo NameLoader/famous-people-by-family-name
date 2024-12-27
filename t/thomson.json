@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir William Thomson",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Thomson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Kelvin",
+    "occupation": "Physicist, Mathematician, Engineer",
+    "achievements": [
+      "Established the absolute temperature scale (Kelvin)",
+      "Made significant contributions to thermodynamics and electromagnetism",
+      "Nobel Prize in Physics (1906)"
+    ],
+    "yearBorn": 1824,
+    "yearDied": 1907
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Owen Jones",
+    "givenNames": [
+      "Owen"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Jones",
+    "occupation": "Journalist, political commentator",
+    "achievements": [
+      "Columnist for The Independent and The Guardian",
+      "Author of several books on politics and social issues"
+    ],
+    "yearBorn": 1984
+  }
+]

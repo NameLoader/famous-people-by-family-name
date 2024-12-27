@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Carrie Fisher",
+    "givenNames": [
+      "Carrie",
+      "Frances"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carrie_Fisher",
+    "occupation": "Actress, screenwriter, author",
+    "achievements": [
+      "Known for her role as Princess Leia in the Star Wars franchise",
+      "Successful author of semi-autobiographical novels and memoirs",
+      "Advocate for mental health awareness"
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2016
+  }
+]

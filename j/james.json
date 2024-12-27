@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1843,
     "yearDied": 1916
+  },
+  {
+    "fullName": "Jesse James",
+    "givenNames": [
+      "Jesse",
+      "Woodson"
+    ],
+    "familyName": "James",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_James",
+    "occupation": "Outlaw, Bandit",
+    "achievements": [
+      "Notorious leader of a gang that robbed banks and trains in the American Midwest during Reconstruction."
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1882
   }
 ]

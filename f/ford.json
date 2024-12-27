@@ -8,10 +8,26 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Harrison_Ford",
     "occupation": "Actor",
     "achievements": [
-      "Starred in blockbuster franchises like 'Star Wars' and 'Indiana Jones'",
-      "Known for his charismatic performances and rugged looks",
-      "Received numerous accolades for his work, including a Golden Globe Award"
+      "Starred in iconic film franchises like Star Wars and Indiana Jones.",
+      "Known for his rugged persona and action-hero roles.",
+      "Widely considered one of the most successful actors of all time."
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "John Ford",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ford_(director)",
+    "occupation": "Film Director",
+    "achievements": [
+      "One of the most influential and acclaimed directors in American cinema.",
+      "Known for his Westerns and historical epics.",
+      "Won four Academy Awards for Best Director."
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1973
   }
 ]

@@ -2,7 +2,8 @@
   {
     "fullName": "Sam Walton",
     "givenNames": [
-      "Sam"
+      "Samuel",
+      "Moore"
     ],
     "familyName": "Walton",
     "wikipedia": "https://en.wikipedia.org/wiki/Sam_Walton",
@@ -18,7 +19,8 @@
   {
     "fullName": "Alice Walton",
     "givenNames": [
-      "Alice"
+      "Alice",
+      "Louise"
     ],
     "familyName": "Walton",
     "wikipedia": "https://en.wikipedia.org/wiki/Alice_Walton",

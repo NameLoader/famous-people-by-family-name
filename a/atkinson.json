@@ -2,14 +2,16 @@
   {
     "fullName": "Rowan Atkinson",
     "givenNames": [
-      "Rowan"
+      "Rowan",
+      "Sebastian"
     ],
     "familyName": "Atkinson",
     "wikipedia": "https://en.wikipedia.org/wiki/Rowan_Atkinson",
-    "occupation": "Actor, comedian",
+    "occupation": "Actor, Comedian, Writer",
     "achievements": [
       "Known for his role as Mr. Bean",
-      "Starred in films like 'Bean' and 'Johnny English'"
+      "Successful career in British comedy and film",
+      "Won numerous awards for his performances"
     ],
     "yearBorn": 1955
   }

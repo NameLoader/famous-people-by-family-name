@@ -2,7 +2,9 @@
   {
     "fullName": "Martin Luther King Jr.",
     "givenNames": [
-      "Martin"
+      "Martin",
+      "Luther",
+      "Jr."
     ],
     "familyName": "King",
     "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
@@ -18,7 +20,8 @@
   {
     "fullName": "Stephen King",
     "givenNames": [
-      "Stephen"
+      "Stephen",
+      "Edwin"
     ],
     "familyName": "King",
     "wikipedia": "https://en.wikipedia.org/wiki/Stephen_King",

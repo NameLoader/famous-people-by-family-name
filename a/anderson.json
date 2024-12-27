@@ -2,7 +2,8 @@
   {
     "fullName": "Kevin Anderson",
     "givenNames": [
-      "Kevin"
+      "Kevin",
+      "Michael"
     ],
     "familyName": "Anderson",
     "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Anderson_(tennis)",
@@ -16,6 +17,7 @@
   {
     "fullName": "Laurie Anderson",
     "givenNames": [
+      "Laura",
       "Laurie"
     ],
     "familyName": "Anderson",
@@ -30,7 +32,8 @@
   {
     "fullName": "Philip Anderson",
     "givenNames": [
-      "Philip"
+      "Philip",
+      "Warren"
     ],
     "familyName": "Anderson",
     "wikipedia": "https://en.wikipedia.org/wiki/Philip_W._Anderson",

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Julia Roberts",
+    "givenNames": [
+      "Julia",
+      "Fiona"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Roberts",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for 'Erin Brockovich', known for roles in films like 'Pretty Woman' and 'Steel Magnolias'."
+    ],
+    "yearBorn": 1967
+  }
+]

@@ -2,7 +2,8 @@
   {
     "fullName": "John Lewis",
     "givenNames": [
-      "John"
+      "John",
+      "Robert"
     ],
     "familyName": "Lewis",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Lewis",
@@ -14,5 +15,34 @@
     ],
     "yearBorn": 1940,
     "yearDied": 2020
+  },
+  {
+    "fullName": "Meriwether Lewis",
+    "givenNames": [
+      "Meriwether"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meriwether_Lewis",
+    "occupation": "Explorer, Lieutenant in the U.S. Army",
+    "achievements": [
+      "Co-led the Lewis and Clark Expedition"
+    ],
+    "yearBorn": 1774,
+    "yearDied": 1809
+  },
+  {
+    "fullName": "Carl Lewis",
+    "givenNames": [
+      "Frederick",
+      "Carlton"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Lewis",
+    "occupation": "Athlete, Olympic gold medalist",
+    "achievements": [
+      "Nine-time Olympic gold medalist in track and field",
+      "World record holder"
+    ],
+    "yearBorn": 1961
   }
 ]

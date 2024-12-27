@@ -2,7 +2,8 @@
   {
     "fullName": "Roy O. Disney",
     "givenNames": [
-      "Roy"
+      "Roy",
+      "Oliver"
     ],
     "familyName": "Disney",
     "wikipedia": "https://en.wikipedia.org/wiki/Roy_O._Disney",
@@ -14,5 +15,23 @@
     ],
     "yearBorn": 1893,
     "yearDied": 1971
+  },
+  {
+    "fullName": "Walter Elias Disney",
+    "givenNames": [
+      "Walter",
+      "Elias"
+    ],
+    "familyName": "Disney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney",
+    "occupation": "Film producer, animator, voice actor",
+    "achievements": [
+      "Co-founded The Walt Disney Company",
+      "Created iconic characters like Mickey Mouse",
+      "Revolutionized animation",
+      "Won 26 Academy Awards"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1966
   }
 ]

@@ -1,23 +1,9 @@
 [
   {
-    "fullName": "Oliver Stone",
-    "givenNames": [
-      "Oliver"
-    ],
-    "familyName": "Stone",
-    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Stone",
-    "occupation": "Film director, screenwriter, and producer",
-    "achievements": [
-      "Academy Award for Best Director (for Platoon)",
-      "Two Academy Awards for Best Original Screenplay (for Salvador and JFK)",
-      "Known for films such as Platoon, Born on the Fourth of July, Natural Born Killers, and Wall Street"
-    ],
-    "yearBorn": 1946
-  },
-  {
     "fullName": "Sharon Stone",
     "givenNames": [
-      "Sharon"
+      "Sharon",
+      "Vonne"
     ],
     "familyName": "Stone",
     "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Stone",
@@ -27,5 +13,21 @@
       "Known for films such as Basic Instinct, Casino, and The Quick and the Dead"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Oliver Stone",
+    "givenNames": [
+      "William",
+      "Oliver"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Stone",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Academy Award for Best Director (Platoon)",
+      "Academy Award for Best Original Screenplay (JFK)",
+      "Known for films like Platoon, Born on the Fourth of July, Natural Born Killers, and JFK"
+    ],
+    "yearBorn": 1946
   }
 ]

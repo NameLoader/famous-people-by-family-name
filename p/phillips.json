@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Phillips",
+    "givenNames": [
+      "John",
+      "Edmund",
+      "Andrew"
+    ],
+    "familyName": "Phillips",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Phillips_(musician)",
+    "occupation": "Musician",
+    "achievements": [
+      "Founding member of The Mamas & the Papas"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2001
+  }
+]

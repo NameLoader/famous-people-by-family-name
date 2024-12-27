@@ -18,7 +18,8 @@
   {
     "fullName": "John Quincy Adams",
     "givenNames": [
-      "John"
+      "John",
+      "Quincy"
     ],
     "familyName": "Adams",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
@@ -30,22 +31,6 @@
     ],
     "yearBorn": 1767,
     "yearDied": 1848
-  },
-  {
-    "fullName": "Douglas Adams",
-    "givenNames": [
-      "Douglas"
-    ],
-    "familyName": "Adams",
-    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Adams",
-    "occupation": "Author, Comedian, Screenwriter",
-    "achievements": [
-      "Creator of the iconic science fiction series 'The Hitchhiker's Guide to the Galaxy'",
-      "Known for his witty and humorous writing style",
-      "Impactful contribution to popular culture"
-    ],
-    "yearBorn": 1952,
-    "yearDied": 2001
   },
   {
     "fullName": "Samuel Adams",
@@ -62,5 +47,37 @@
     ],
     "yearBorn": 1722,
     "yearDied": 1803
+  },
+  {
+    "fullName": "Henry Adams",
+    "givenNames": [
+      "Henry",
+      "Brooks"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Adams",
+    "occupation": "Historian, Writer",
+    "achievements": [
+      "Author of *The Education of Henry Adams*",
+      "Great-grandson of John Adams"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Douglas Adams",
+    "givenNames": [
+      "Douglas",
+      "Noel"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Adams",
+    "occupation": "Author, Comedian",
+    "achievements": [
+      "Author of *The Hitchhiker's Guide to the Galaxy*",
+      "Known for his humorous science fiction"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2001
   }
 ]

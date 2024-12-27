@@ -2,13 +2,30 @@
   {
     "fullName": "James Corbett",
     "givenNames": [
-      "James"
+      "James",
+      "John"
     ],
     "familyName": "Corbett",
     "wikipedia": "https://en.wikipedia.org/wiki/James_J._Corbett",
     "occupation": "Boxer",
     "achievements": [
       "First world heavyweight boxing champion from the United States."
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1933
+  },
+  {
+    "fullName": "James Corbett",
+    "givenNames": [
+      "James",
+      "John"
+    ],
+    "familyName": "Corbett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Corbett_(boxer)",
+    "occupation": "Boxer, World Heavyweight Champion",
+    "achievements": [
+      "First world heavyweight boxing champion to be officially recognized by the International Boxing Association",
+      "Known for his speed and agility in the ring"
     ],
     "yearBorn": 1866,
     "yearDied": 1933

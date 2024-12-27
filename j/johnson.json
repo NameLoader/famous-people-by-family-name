@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1709,
     "yearDied": 1784
+  },
+  {
+    "fullName": "Lyndon B. Johnson",
+    "givenNames": [
+      "Lyndon",
+      "Baines"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+    "occupation": "Politician, 36th President of the United States",
+    "achievements": [
+      "Civil Rights Act of 1964",
+      "Voting Rights Act of 1965"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1973
   }
 ]

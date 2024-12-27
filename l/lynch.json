@@ -2,13 +2,15 @@
   {
     "fullName": "David Lynch",
     "givenNames": [
-      "David"
+      "David",
+      "Keith"
     ],
     "familyName": "Lynch",
     "wikipedia": "https://en.wikipedia.org/wiki/David_Lynch",
-    "occupation": "Film director, screenwriter, producer, artist",
+    "occupation": "Film Director, Screenwriter, Artist",
     "achievements": [
-      "Known for films like 'Blue Velvet', 'Mulholland Drive', and 'Lost Highway'. Winner of the Palme d'Or at Cannes Film Festival."
+      "Known for his surreal and iconic films like 'Eraserhead', 'Blue Velvet', and 'Mulholland Drive'.",
+      "Won the Palme d'Or at the Cannes Film Festival for 'Wild at Heart'."
     ],
     "yearBorn": 1946
   }

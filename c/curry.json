@@ -17,7 +17,8 @@
   {
     "fullName": "Seth Curry",
     "givenNames": [
-      "Seth"
+      "Seth",
+      "Adham"
     ],
     "familyName": "Curry",
     "wikipedia": "https://en.wikipedia.org/wiki/Seth_Curry",
@@ -26,18 +27,5 @@
       "NBA Champion (1x)"
     ],
     "yearBorn": 1990
-  },
-  {
-    "fullName": "Dell Curry",
-    "givenNames": [
-      "Dell"
-    ],
-    "familyName": "Curry",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dell_Curry",
-    "occupation": "Former Basketball Player",
-    "achievements": [
-      "NBA All-Star (1x)"
-    ],
-    "yearBorn": 1964
   }
 ]

@@ -2,7 +2,8 @@
   {
     "fullName": "Edgar Allan Snow",
     "givenNames": [
-      "Edgar"
+      "Edgar",
+      "Parks"
     ],
     "familyName": "Snow",
     "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Snow",
@@ -15,16 +16,15 @@
     "yearDied": 1972
   },
   {
-    "fullName": "John Snow",
+    "fullName": "John Snow Jr.",
     "givenNames": [
       "John"
     ],
     "familyName": "Snow",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Snow_(physician)",
-    "occupation": "Physician, Anesthesiologist",
+    "occupation": "Physician, pioneer of modern epidemiology",
     "achievements": [
-      "Considered the father of modern epidemiology.",
-      "Identified contaminated water as the source of a cholera outbreak in London in 1854."
+      "Identified the link between cholera outbreaks and contaminated water."
     ],
     "yearBorn": 1813,
     "yearDied": 1858

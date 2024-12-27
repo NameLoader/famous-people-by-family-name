@@ -2,15 +2,16 @@
   {
     "fullName": "John Conway",
     "givenNames": [
-      "John"
+      "John",
+      "Horton"
     ],
     "familyName": "Conway",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Conway_(mathematician)",
     "occupation": "Mathematician",
     "achievements": [
       "Developed the Game of Life",
-      "Created group theory and combinatorics concepts",
-      "Contributed to number theory and computer science"
+      "Contributed to group theory and knot theory",
+      "Won numerous awards for his mathematical contributions"
     ],
     "yearBorn": 1937,
     "yearDied": 2020

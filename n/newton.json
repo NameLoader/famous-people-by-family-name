@@ -2,7 +2,7 @@
   {
     "fullName": "Sir Isaac Newton",
     "givenNames": [
-      "Isaac"
+      "Sir Isaac"
     ],
     "familyName": "Newton",
     "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
@@ -25,8 +25,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/John_Newton",
     "occupation": "Clergyman, abolitionist",
     "achievements": [
-      "Wrote the hymn 'Amazing Grace'",
-      "Played a key role in the abolition of the slave trade"
+      "Converted to Christianity and became a vocal opponent of slavery.",
+      "Wrote the lyrics for the hymn 'Amazing Grace'."
     ],
     "yearBorn": 1725,
     "yearDied": 1807

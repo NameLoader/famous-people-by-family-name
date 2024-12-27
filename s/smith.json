@@ -17,7 +17,8 @@
   {
     "fullName": "Will Smith",
     "givenNames": [
-      "Will"
+      "Willard",
+      "Carroll"
     ],
     "familyName": "Smith",
     "wikipedia": "https://en.wikipedia.org/wiki/Will_Smith",
@@ -32,7 +33,8 @@
   {
     "fullName": "Kevin Smith",
     "givenNames": [
-      "Kevin"
+      "Kevin",
+      "Patrick"
     ],
     "familyName": "Smith",
     "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Smith",
@@ -44,17 +46,19 @@
     "yearBorn": 1970
   },
   {
-    "fullName": "Serena Smith",
+    "fullName": "Will Smith",
     "givenNames": [
-      "Serena"
+      "Willard",
+      "Carroll"
     ],
     "familyName": "Smith",
-    "wikipedia": "https://en.wikipedia.org/wiki/Serena_Williams",
-    "occupation": "Tennis Player",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Smith_(actor)",
+    "occupation": "Actor, Rapper, Producer",
     "achievements": [
-      "One of the greatest tennis players of all time.",
-      "Holds numerous Grand Slam singles titles."
+      "Academy Award for Best Actor",
+      "Grammy Awards for Rap",
+      "Starred in numerous blockbuster films"
     ],
-    "yearBorn": 1981
+    "yearBorn": 1968
   }
 ]

@@ -1,23 +1,9 @@
 [
   {
-    "fullName": "Andrew Jackson",
-    "givenNames": [
-      "Andrew"
-    ],
-    "familyName": "Jackson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
-    "occupation": "Politician, 7th President of the United States",
-    "achievements": [
-      "Led the US to victory in the War of 1812",
-      "Championed Jacksonian Democracy"
-    ],
-    "yearBorn": 1567,
-    "yearDied": 1845
-  },
-  {
     "fullName": "Michael Jackson",
     "givenNames": [
-      "Michael"
+      "Michael",
+      "Joseph"
     ],
     "familyName": "Jackson",
     "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jackson",
@@ -32,7 +18,9 @@
   {
     "fullName": "Janet Jackson",
     "givenNames": [
-      "Janet"
+      "Janet",
+      "Damita",
+      "Jo"
     ],
     "familyName": "Jackson",
     "wikipedia": "https://en.wikipedia.org/wiki/Janet_Jackson",
@@ -46,7 +34,8 @@
   {
     "fullName": "Jesse Jackson",
     "givenNames": [
-      "Jesse"
+      "Jesse",
+      "Louis"
     ],
     "familyName": "Jackson",
     "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Jackson",

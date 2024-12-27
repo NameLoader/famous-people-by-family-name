@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1847,
     "yearDied": 1922
+  },
+  {
+    "fullName": "Daniel Bell",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Bell",
+    "occupation": "Sociologist, Author",
+    "achievements": [
+      "Influential works on postmodernism and the culture industry",
+      "Authored 'The End of Ideology' which explored the decline of traditional belief systems"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2011
   }
 ]

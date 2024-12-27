@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Ellen White",
+    "givenNames": [
+      "Ellen",
+      "Gould"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellen_G._White",
+    "occupation": "Religious leader, Author",
+    "achievements": [
+      "Co-founder of the Seventh-day Adventist Church",
+      "Wrote influential books on religion and health"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1915
+  },
+  {
+    "fullName": "Richard White",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_White_(historian)",
+    "occupation": "Historian",
+    "achievements": [
+      "Known for his work on the history of the American West and Native Americans"
+    ],
+    "yearBorn": 1947
+  }
+]

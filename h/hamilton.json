@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alexander Hamilton",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
+    "occupation": "Politician, Founding Father, First Secretary of the Treasury",
+    "achievements": [
+      "Key figure in the American Revolutionary War",
+      "Author of many Federalist Papers",
+      "Established the first national bank of the United States"
+    ],
+    "yearBorn": 1755,
+    "yearDied": 1804
+  }
+]

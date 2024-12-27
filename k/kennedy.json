@@ -15,21 +15,5 @@
     ],
     "yearBorn": 1917,
     "yearDied": 1963
-  },
-  {
-    "fullName": "Eunice Kennedy Shriver",
-    "givenNames": [
-      "Eunice"
-    ],
-    "familyName": "Kennedy",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eunice_Kennedy_Shriver",
-    "occupation": "Activist, Special Olympics founder",
-    "achievements": [
-      "Sister of President John F. Kennedy and Senator Robert F. Kennedy",
-      "Founded the Special Olympics for athletes with intellectual disabilities",
-      "Dedicated her life to promoting inclusion and equality for people with disabilities"
-    ],
-    "yearBorn": 1921,
-    "yearDied": 2009
   }
 ]

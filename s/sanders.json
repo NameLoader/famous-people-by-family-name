@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Colonel Harland Sanders",
+    "givenNames": [
+      "Harland",
+      "David"
+    ],
+    "familyName": "Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colonel_Harland_Sanders",
+    "occupation": "Entrepreneur, restaurateur",
+    "achievements": [
+      "Founder of Kentucky Fried Chicken (KFC)",
+      "Made fried chicken a globally popular dish"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1980
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Wallace Stevens",
+    "givenNames": [
+      "Wallace"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace_Stevens",
+    "occupation": "Poet, Essayist",
+    "achievements": [
+      "Considered one of the most important American poets of the 20th century",
+      "Won the Pulitzer Prize for Poetry in 1955"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1955
+  }
+]

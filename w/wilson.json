@@ -2,6 +2,7 @@
   {
     "fullName": "Woodrow Wilson",
     "givenNames": [
+      "Thomas",
       "Woodrow"
     ],
     "familyName": "Wilson",
@@ -14,5 +15,22 @@
     ],
     "yearBorn": 1856,
     "yearDied": 1924
+  },
+  {
+    "fullName": "Harold Wilson",
+    "givenNames": [
+      "James",
+      "Harold"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Wilson",
+    "occupation": "Politician, Prime Minister of the United Kingdom",
+    "achievements": [
+      "Served as Prime Minister twice (1964-1970 and 1974-1976)",
+      "Led Britain during a period of social and economic change",
+      "Introduced the concept of 'the mixed economy'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1995
   }
 ]

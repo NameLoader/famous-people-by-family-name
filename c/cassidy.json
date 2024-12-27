@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Cassidy",
+    "givenNames": [
+      "David",
+      "Bruce"
+    ],
+    "familyName": "Cassidy",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Cassidy",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "Lead role in the television series 'The Partridge Family'.",
+      "Successful music career with hits like 'I Think I Love You'."
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2017
+  }
+]

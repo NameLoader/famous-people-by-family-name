@@ -2,7 +2,8 @@
   {
     "fullName": "Neil Armstrong",
     "givenNames": [
-      "Neil"
+      "Neil",
+      "Alden"
     ],
     "familyName": "Armstrong",
     "wikipedia": "https://en.wikipedia.org/wiki/Neil_Armstrong",
@@ -17,7 +18,8 @@
   {
     "fullName": "Louis Armstrong",
     "givenNames": [
-      "Louis"
+      "Louis",
+      "Daniel"
     ],
     "familyName": "Armstrong",
     "wikipedia": "https://en.wikipedia.org/wiki/Louis_Armstrong",
@@ -29,5 +31,20 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1971
+  },
+  {
+    "fullName": "Lance Armstrong",
+    "givenNames": [
+      "Lance",
+      "Edward"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lance_Armstrong",
+    "occupation": "Retired professional cyclist",
+    "achievements": [
+      "Seven-time Tour de France winner (later stripped)",
+      "Cancer survivor and advocate"
+    ],
+    "yearBorn": 1971
   }
 ]

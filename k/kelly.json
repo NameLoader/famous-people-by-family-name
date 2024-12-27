@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Grace Kelly",
+    "givenNames": [
+      "Grace",
+      "Patricia"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Kelly",
+    "occupation": "Actress, Princess of Monaco",
+    "achievements": [
+      "Academy Award for Best Actress (1955)",
+      "Iconic film roles in 'Rear Window', 'High Noon', and 'Dial M for Murder'",
+      "Marriage to Prince Rainier III of Monaco"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1982
+  }
+]

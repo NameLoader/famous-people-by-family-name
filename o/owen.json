@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1804,
     "yearDied": 1892
+  },
+  {
+    "fullName": "Robert Owen",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Owen",
+    "occupation": "Social reformer, industrialist, socialist",
+    "achievements": [
+      "Pioneer of cooperative communities",
+      "Advocate for workers' rights and social justice",
+      "Influential figure in the development of socialism"
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1858
+  },
+  {
+    "fullName": "Mark Owen",
+    "givenNames": [
+      "Mark"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Owen",
+    "occupation": "Singer, songwriter (Take That)",
+    "achievements": [
+      "Chart-topping musician with international success",
+      "Collaborator on numerous hit songs and albums"
+    ],
+    "yearBorn": 1972
   }
 ]

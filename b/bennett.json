@@ -1,16 +1,32 @@
 [
   {
+    "fullName": "Arnold Bennett",
+    "givenNames": [
+      "Enoch",
+      "Arnold"
+    ],
+    "familyName": "Bennett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Bennett",
+    "occupation": "Novelist, Playwright",
+    "achievements": [
+      "Popular novelist in the Edwardian era",
+      "Known for his realism and social commentary"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1931
+  },
+  {
     "fullName": "William Bennett",
     "givenNames": [
-      "William"
+      "William",
+      "John"
     ],
     "familyName": "Bennett",
     "wikipedia": "https://en.wikipedia.org/wiki/William_J._Bennett",
     "occupation": "Politician, Author",
     "achievements": [
-      "United States Secretary of Education (1985-1988).",
-      "Conservative political commentator.",
-      "Author of several books on education and American values."
+      "U.S. Secretary of Education under President Ronald Reagan",
+      "Conservative commentator and author"
     ],
     "yearBorn": 1943
   }

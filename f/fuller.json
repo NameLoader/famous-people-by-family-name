@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Margaret Fuller",
+    "givenNames": [
+      "Sarah",
+      "Margaret"
+    ],
+    "familyName": "Fuller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Fuller",
+    "occupation": "Writer, Critic, Transcendentalist",
+    "achievements": [
+      "Edited the influential literary and feminist magazine 'The Dial'",
+      "Known for her book 'Woman in the Nineteenth Century' which advocated for women's rights",
+      "Close associate of Ralph Waldo Emerson and other Transcendentalists"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1850
+  }
+]

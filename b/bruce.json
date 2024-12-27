@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Bruce",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Bruce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_the_Bruce",
+    "occupation": "King of Scots",
+    "achievements": [
+      "Led Scotland to victory in the First War of Scottish Independence",
+      "Established the Bruce dynasty as rulers of Scotland"
+    ],
+    "yearBorn": 1274,
+    "yearDied": 1329
+  }
+]

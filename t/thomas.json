@@ -2,7 +2,8 @@
   {
     "fullName": "Dylan Thomas",
     "givenNames": [
-      "Dylan"
+      "Dylan",
+      "Marlais"
     ],
     "familyName": "Thomas",
     "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Thomas",
@@ -14,5 +15,19 @@
     ],
     "yearBorn": 1914,
     "yearDied": 1953
+  },
+  {
+    "fullName": "Clarence Thomas",
+    "givenNames": [
+      "Clarence"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Thomas",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "Second African-American to serve on the Supreme Court",
+      "Conservative jurist known for his originalist legal philosophy"
+    ],
+    "yearBorn": 1948
   }
 ]

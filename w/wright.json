@@ -1,23 +1,9 @@
 [
   {
-    "fullName": "Orville Wright",
-    "givenNames": [
-      "Orville"
-    ],
-    "familyName": "Wright",
-    "wikipedia": "https://en.wikipedia.org/wiki/Orville_Wright",
-    "occupation": "Inventor, Aviator",
-    "achievements": [
-      "Co-invented and built the world's first successful airplane",
-      "Made the first controlled, powered and sustained heavier-than-air human flight"
-    ],
-    "yearBorn": 1871,
-    "yearDied": 1948
-  },
-  {
     "fullName": "Frank Lloyd Wright",
     "givenNames": [
-      "Frank"
+      "Frank",
+      "Lloyd"
     ],
     "familyName": "Wright",
     "wikipedia": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
@@ -29,5 +15,22 @@
     ],
     "yearBorn": 1867,
     "yearDied": 1959
+  },
+  {
+    "fullName": "Richard Wright",
+    "givenNames": [
+      "Richard",
+      "Nathaniel"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wright_(author)",
+    "occupation": "Novelist, short story writer, essayist, social critic",
+    "achievements": [
+      "Considered one of the most important African American writers of the 20th century",
+      "Author of seminal works like 'Native Son', 'Black Boy'",
+      "Contributed to the Harlem Renaissance movement"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1960
   }
 ]

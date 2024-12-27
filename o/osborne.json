@@ -2,14 +2,15 @@
   {
     "fullName": "John Osborne",
     "givenNames": [
-      "John"
+      "John",
+      "James"
     ],
     "familyName": "Osborne",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Osborne_(playwright)",
     "occupation": "Playwright",
     "achievements": [
-      "Won the Tony Award for Best Play for 'Look Back in Anger'",
-      "Considered one of the most important British playwrights of the 20th century"
+      "Won the Evening Standard Award for his play 'Look Back in Anger'",
+      "Considered one of the leading figures of British New Wave Theatre"
     ],
     "yearBorn": 1929,
     "yearDied": 1994

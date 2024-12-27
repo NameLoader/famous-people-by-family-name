@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Atkins",
+    "givenNames": [
+      "Robert",
+      "Coleman"
+    ],
+    "familyName": "Atkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Atkins_(physician)",
+    "occupation": "Physician, author",
+    "achievements": [
+      "Developed the Atkins Diet",
+      "Promoted low-carbohydrate diets"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2003
+  }
+]

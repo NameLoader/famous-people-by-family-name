@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Brady",
+    "givenNames": [
+      "James",
+      "Scott"
+    ],
+    "familyName": "Brady",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_S._Brady",
+    "occupation": "White House Press Secretary",
+    "achievements": [
+      "Survived an assassination attempt on President Ronald Reagan",
+      "Advocate for gun control legislation"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2014
+  }
+]

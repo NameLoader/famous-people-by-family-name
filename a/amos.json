@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Amos",
+    "givenNames": [
+      "John",
+      "Allen"
+    ],
+    "familyName": "Amos",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Amos",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as James Evans in the television series 'Good Times'",
+      "Active in stage and film"
+    ],
+    "yearBorn": 1950
+  }
+]

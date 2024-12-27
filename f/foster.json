@@ -2,7 +2,8 @@
   {
     "fullName": "David Foster",
     "givenNames": [
-      "David"
+      "David",
+      "Walter"
     ],
     "familyName": "Foster",
     "wikipedia": "https://en.wikipedia.org/wiki/David_Foster",
@@ -14,16 +15,19 @@
     "yearBorn": 1949
   },
   {
-    "fullName": "Benjamin Foster",
+    "fullName": "Stephen Foster",
     "givenNames": [
-      "Benjamin"
+      "Stephen",
+      "Collins"
     ],
     "familyName": "Foster",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Foster_(actor)",
-    "occupation": "Actor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Foster",
+    "occupation": "Composer",
     "achievements": [
-      "Known for his roles in films like *X-Men: The Last Stand*, *The Mechanic*, and *Lone Survivor*"
+      "Considered the 'father of American music'",
+      "Composed popular songs like 'Oh! Susanna', 'Camptown Races', and 'Beautiful Dreamer'"
     ],
-    "yearBorn": 1980
+    "yearBorn": 1826,
+    "yearDied": 1864
   }
 ]

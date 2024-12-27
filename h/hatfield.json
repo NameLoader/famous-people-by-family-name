@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mark Hatfield",
+    "givenNames": [
+      "Mark",
+      "Odom"
+    ],
+    "familyName": "Hatfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Hatfield",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Governor of Oregon and US Senator"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2011
+  }
+]

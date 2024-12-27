@@ -1,7 +1,9 @@
 [
   {
     "fullName": "Roger Bacon",
-    "givenNames": [],
+    "givenNames": [
+      "Roger"
+    ],
     "familyName": "Bacon",
     "wikipedia": "https://en.wikipedia.org/wiki/Roger_Bacon",
     "occupation": "Philosopher, scientist",
@@ -11,5 +13,21 @@
     ],
     "yearBorn": 1214,
     "yearDied": 1294
+  },
+  {
+    "fullName": "Francis Bacon",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Bacon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon_(philosopher)",
+    "occupation": "Philosopher, Statesman, Scientist",
+    "achievements": [
+      "Emphasized the importance of empiricism in knowledge acquisition.",
+      "Proposed a system of inductive reasoning.",
+      "Considered one of the founders of modern philosophy."
+    ],
+    "yearBorn": 1561,
+    "yearDied": 1626
   }
 ]

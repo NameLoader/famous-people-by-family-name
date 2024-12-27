@@ -2,7 +2,8 @@
   {
     "fullName": "Arthur Miller",
     "givenNames": [
-      "Arthur"
+      "Arthur",
+      "Asher"
     ],
     "familyName": "Miller",
     "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Miller",
@@ -13,5 +14,18 @@
     ],
     "yearBorn": 1915,
     "yearDied": 2005
+  },
+  {
+    "fullName": "George Miller",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Miller_(filmmaker)",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Academy Award for Best Original Screenplay (Mad Max: Fury Road)"
+    ],
+    "yearBorn": 1945
   }
 ]

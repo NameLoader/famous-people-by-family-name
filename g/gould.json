@@ -2,7 +2,7 @@
   {
     "fullName": "Jay Gould",
     "givenNames": [
-      "Jay"
+      "Jason"
     ],
     "familyName": "Gould",
     "wikipedia": "https://en.wikipedia.org/wiki/Jay_Gould",
@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1836,
     "yearDied": 1892
+  },
+  {
+    "fullName": "John Gould",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Gould",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gould_(ornithologist)",
+    "occupation": "Ornithologist, naturalist",
+    "achievements": [
+      "Made significant contributions to the study of birds",
+      "Identified and named numerous new bird species"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1881
   }
 ]

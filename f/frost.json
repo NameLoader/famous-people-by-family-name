@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Frost",
+    "givenNames": [
+      "Robert",
+      "Lee"
+    ],
+    "familyName": "Frost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Frost",
+    "occupation": "Poet",
+    "achievements": [
+      "Four-time Pulitzer Prize winner for Poetry",
+      "One of the most celebrated American poets"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1963
+  }
+]

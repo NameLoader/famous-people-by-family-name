@@ -1,5 +1,20 @@
 [
   {
+    "fullName": "James Blake",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Blake",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Blake_(musician)",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award nominations",
+      "Mercury Prize nomination",
+      "Critical acclaim for his electronic music"
+    ],
+    "yearBorn": 1988
+  },
+  {
     "fullName": "William Blake",
     "givenNames": [
       "William"
@@ -8,11 +23,25 @@
     "wikipedia": "https://en.wikipedia.org/wiki/William_Blake",
     "occupation": "Poet, painter, printmaker",
     "achievements": [
-      "Author of influential works such as *Songs of Innocence* and *Songs of Experience*",
-      "Pioneer of Romantic art and literature",
-      "Known for his unique artistic style and visionary poetry"
+      "Romantic poet and artist",
+      "Prolific creator of illuminated manuscripts",
+      "Influential figure in British art and literature"
     ],
     "yearBorn": 1757,
     "yearDied": 1827
+  },
+  {
+    "fullName": "Robert Blake",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Blake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Blake_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Golden Globe Award winner",
+      "Known for roles in 'Baretta' and 'In Cold Blood'"
+    ],
+    "yearBorn": 1933
   }
 ]

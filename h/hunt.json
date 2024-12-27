@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Hunt",
+    "givenNames": [
+      "James",
+      "Simon",
+      "Wallis"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Hunt",
+    "occupation": "Race car driver",
+    "achievements": [
+      "1976 Formula One World Champion"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 1993
+  }
+]
