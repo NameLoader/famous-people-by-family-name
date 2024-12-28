@@ -20,7 +20,7 @@
       "Francis"
     ],
     "familyName": "Bacon",
-    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon_(philosopher)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
     "occupation": "Philosopher, Statesman, Scientist",
     "achievements": [
       "Emphasized the importance of empiricism in knowledge acquisition.",
@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1561,
     "yearDied": 1626
+  },
+  {
+    "fullName": "Kevin Bacon",
+    "givenNames": [
+      "Kevin",
+      "Norwood"
+    ],
+    "familyName": "Bacon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Bacon",
+    "occupation": "Actor and musician",
+    "achievements": [
+      "Starred in iconic films like Footloose and Apollo 13",
+      "Originator of the 'Six Degrees of Kevin Bacon' game"
+    ],
+    "yearBorn": 1958
   }
 ]

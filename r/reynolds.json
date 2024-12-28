@@ -2,7 +2,8 @@
   {
     "fullName": "Ryan Reynolds",
     "givenNames": [
-      "Ryan"
+      "Ryan",
+      "Rodney"
     ],
     "familyName": "Reynolds",
     "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Reynolds",
@@ -12,5 +13,20 @@
       "Founder of Aviation Gin."
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Joshua, Reynolds",
+    "givenNames": [
+      "Joshua"
+    ],
+    "familyName": "Reynolds",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Reynolds",
+    "occupation": "Painter",
+    "achievements": [
+      "Founded the Royal Academy of Arts",
+      "Known for his portraits of prominent figures in 18th-century England"
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1792
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Thomas Gray",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray_(poet)",
+    "occupation": "Poet",
+    "achievements": [
+      "Wrote the famous elegy 'Elegy Written in a Country Churchyard'."
+    ],
+    "yearBorn": 1716,
+    "yearDied": 1771
+  }
+]

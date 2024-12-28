@@ -33,5 +33,21 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1966
+  },
+  {
+    "fullName": "Roy Edward Disney",
+    "givenNames": [
+      "Roy",
+      "Edward"
+    ],
+    "familyName": "Disney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_E._Disney",
+    "occupation": "Film Producer, Executive",
+    "achievements": [
+      "Led a successful campaign to oust Michael Eisner as CEO of The Walt Disney Company",
+      "Instrumental in the company's revival in the late 20th and early 21st centuries"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2009
   }
 ]

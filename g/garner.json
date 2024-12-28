@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1928,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Jennifer Garner",
+    "givenNames": [
+      "Jennifer",
+      "Anne"
+    ],
+    "familyName": "Garner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Garner",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Golden Globe Award winner for 'Alias'",
+      "Known for roles in '13 Going on 30', 'Juno'"
+    ],
+    "yearBorn": 1972
   }
 ]

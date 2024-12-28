@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Barry",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Barry",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Barry_(composer)",
+    "occupation": "Composer",
+    "achievements": [
+      "Won five Academy Awards for Best Original Score.",
+      "Scored eleven James Bond films."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2011
+  }
+]

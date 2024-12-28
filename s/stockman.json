@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David Stockman",
+    "givenNames": [
+      "David",
+      "Alan"
+    ],
+    "familyName": "Stockman",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_A._Stockman",
+    "occupation": "Author, businessman, former politician",
+    "achievements": [
+      "Served as a U.S. Representative from Michigan",
+      "Became Director of the Office of Management and Budget under President Ronald Reagan"
+    ],
+    "yearBorn": 1946
+  }
+]

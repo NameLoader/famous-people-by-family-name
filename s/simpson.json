@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jessica Simpson",
+    "givenNames": [
+      "Jessica",
+      "Ann"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Simpson",
+    "occupation": "Singer, Actress, Fashion Designer",
+    "achievements": [
+      "Sold over 40 million records worldwide",
+      "Starred in films and television shows like 'Dukes of Hazzard'",
+      "Launched successful fashion lines"
+    ],
+    "yearBorn": 1980
+  }
+]

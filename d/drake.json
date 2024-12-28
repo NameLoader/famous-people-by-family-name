@@ -2,11 +2,10 @@
   {
     "fullName": "Sir Francis Drake",
     "givenNames": [
-      "Sir",
       "Francis"
     ],
     "familyName": "Drake",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Francis_Drake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Drake",
     "occupation": "Explorer, privateer, naval officer",
     "achievements": [
       "Circumnavigated the globe",

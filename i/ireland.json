@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Ireland",
+    "givenNames": [
+      "John",
+      "Benjamin"
+    ],
+    "familyName": "Ireland",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ireland_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actor for his role in 'All the King's Men'",
+      "Known for roles in films like 'The Lost Weekend', 'The Quiet Man', and 'The Great Escape'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1992
+  }
+]

@@ -44,21 +44,5 @@
       "Created the View Askewniverse franchise."
     ],
     "yearBorn": 1970
-  },
-  {
-    "fullName": "Will Smith",
-    "givenNames": [
-      "Willard",
-      "Carroll"
-    ],
-    "familyName": "Smith",
-    "wikipedia": "https://en.wikipedia.org/wiki/Will_Smith_(actor)",
-    "occupation": "Actor, Rapper, Producer",
-    "achievements": [
-      "Academy Award for Best Actor",
-      "Grammy Awards for Rap",
-      "Starred in numerous blockbuster films"
-    ],
-    "yearBorn": 1968
   }
 ]

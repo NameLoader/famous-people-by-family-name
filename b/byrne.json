@@ -13,5 +13,20 @@
       "Known for his experimental and avant-garde music"
     ],
     "yearBorn": 1952
+  },
+  {
+    "fullName": "Gabriel Byrne",
+    "givenNames": [
+      "Gabriel",
+      "James"
+    ],
+    "familyName": "Byrne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Byrne",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like Miller's Crossing and The Usual Suspects.",
+      "Known for his role in the HBO series In Treatment."
+    ],
+    "yearBorn": 1950
   }
 ]

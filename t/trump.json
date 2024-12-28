@@ -1,8 +1,24 @@
 [
   {
+    "fullName": "Donald John Trump",
+    "givenNames": [
+      "Donald",
+      "John"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "occupation": "Businessman, Politician, Media Personality",
+    "achievements": [
+      "Chairman and President of The Trump Organization",
+      "45th President of the United States",
+      "Star of the reality television show 'The Apprentice'"
+    ],
+    "yearBorn": 1946
+  },
+  {
     "fullName": "Ivanka Trump",
     "givenNames": [
-      "Ivanka",
+      "Ivana",
       "Marie"
     ],
     "familyName": "Trump",
@@ -14,5 +30,53 @@
       "Advocate for women's rights"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Frederick Trump",
+    "givenNames": [
+      "Frederick",
+      "Friedrich"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Trump",
+    "occupation": "Businessman",
+    "achievements": [
+      "Immigrated from Germany to the United States",
+      "Established a successful real estate business in New York City"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Elizabeth Christ Trump",
+    "givenNames": [
+      "Elizabeth",
+      "Christ"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Trump",
+    "occupation": "Philanthropist",
+    "achievements": [
+      "Wife of Frederick Trump",
+      "Mother of Fred Trump Sr."
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "Fred Trump",
+    "givenNames": [
+      "Frederick",
+      "Christ"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Trump",
+    "occupation": "Real Estate Developer",
+    "achievements": [
+      "Expanded the family real estate business",
+      "Built and managed thousands of housing units in New York City"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1999
   }
 ]

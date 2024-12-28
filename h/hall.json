@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Gary Hall Jr.",
+    "givenNames": [
+      "Gary",
+      "Jr."
+    ],
+    "familyName": "Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Hall_Jr.",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Won 10 Olympic medals, including 5 gold",
+      "Held world records in freestyle and butterfly events"
+    ],
+    "yearBorn": 1974
+  }
+]

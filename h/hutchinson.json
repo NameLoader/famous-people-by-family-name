@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Anne Hutchinson",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Hutchinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Hutchinson",
+    "occupation": "Religious leader, dissenter",
+    "achievements": [
+      "Prominent figure in the Antinomian Controversy",
+      "Expelled from the Massachusetts Bay Colony for her theological views"
+    ],
+    "yearBorn": 1591,
+    "yearDied": 1643
+  },
+  {
+    "fullName": "John Hutchinson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hutchinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hutchinson_(botanist)",
+    "occupation": "Botanist",
+    "achievements": [
+      "Director of the Royal Botanic Gardens, Kew",
+      "Authored numerous botanical works and led expeditions to explore plant diversity"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1972
+  }
+]

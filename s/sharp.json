@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alan Sharp",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Sharp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Sharp",
+    "occupation": "Screenwriter, Novelist",
+    "achievements": [
+      "Wrote the screenplay for 'Night Moves'",
+      "Authored several novels, including 'The Ballad of a Soldier'"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2013
+  }
+]

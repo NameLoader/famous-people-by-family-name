@@ -6,7 +6,7 @@
       "Horton"
     ],
     "familyName": "Conway",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Conway_(mathematician)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Conway",
     "occupation": "Mathematician",
     "achievements": [
       "Developed the Game of Life",
@@ -15,5 +15,35 @@
     ],
     "yearBorn": 1937,
     "yearDied": 2020
+  },
+  {
+    "fullName": "Anne Conway",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Conway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Conway_(philosopher)",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Pioneer of feminist philosophy",
+      "Developed ideas on the nature of reality and the relationship between mind and body"
+    ],
+    "yearBorn": 1631,
+    "yearDied": 1679
+  },
+  {
+    "fullName": "Kellyanne Conway",
+    "givenNames": [
+      "Kellyanne",
+      "Elizabeth"
+    ],
+    "familyName": "Conway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kellyanne_Conway",
+    "occupation": "Political strategist, commentator",
+    "achievements": [
+      "First woman to successfully manage a U.S. presidential campaign (Donald Trump)",
+      "Senior Advisor to President Donald Trump"
+    ],
+    "yearBorn": 1967
   }
 ]

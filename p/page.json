@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lawrence Page",
+    "givenNames": [
+      "Lawrence",
+      "Edward"
+    ],
+    "familyName": "Page",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Page",
+    "occupation": "Computer scientist, internet entrepreneur",
+    "achievements": [
+      "Co-founder of Google",
+      "Pioneer in search engine technology and web indexing"
+    ],
+    "yearBorn": 1973
+  }
+]

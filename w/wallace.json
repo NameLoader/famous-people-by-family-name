@@ -1,6 +1,6 @@
 [
   {
-    "fullName": "Alfred Wallace",
+    "fullName": "Alfred Russel Wallace",
     "givenNames": [
       "Alfred",
       "Russel"
@@ -18,7 +18,7 @@
   {
     "fullName": "Sir William Wallace",
     "givenNames": [
-      "Sir William"
+      "William"
     ],
     "familyName": "Wallace",
     "wikipedia": "https://en.wikipedia.org/wiki/William_Wallace",
@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1270,
     "yearDied": 1305
+  },
+  {
+    "fullName": "Lew Wallace",
+    "givenNames": [
+      "Lewis"
+    ],
+    "familyName": "Wallace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lew_Wallace",
+    "occupation": "General, Novelist, Lawyer, Politician",
+    "achievements": [
+      "Author of the bestselling historical novel 'Ben-Hur: A Tale of the Christ'",
+      "Union general during the American Civil War",
+      "Served as Governor of the Territory of New Mexico and U.S. Minister to the Ottoman Empire"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1905
   }
 ]

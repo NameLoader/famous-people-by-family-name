@@ -27,5 +27,21 @@
       "Academy Award for Best Original Screenplay (Mad Max: Fury Road)"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Glenn Miller",
+    "givenNames": [
+      "Glenn",
+      "Alton"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Miller",
+    "occupation": "Big Band Musician, Composer, Arranger",
+    "achievements": [
+      "Led one of the most popular big bands in history",
+      "Wrote classic songs like 'In the Mood' and 'Moonlight Serenade'"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1944
   }
 ]

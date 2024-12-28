@@ -64,5 +64,33 @@
     ],
     "yearBorn": 1951,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Rowan Williams",
+    "givenNames": [
+      "Rowan",
+      "Douglas"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowan_Williams",
+    "occupation": "Archbishop of Canterbury",
+    "achievements": [
+      "Served as Archbishop of Canterbury from 2002 to 2012",
+      "Prominent theologian and writer"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Chad Williams",
+    "givenNames": [
+      "Chad"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chad_Williams_(wide_receiver)",
+    "occupation": "Former American football wide receiver",
+    "achievements": [
+      "Played in the NFL for the Arizona Cardinals and Indianapolis Colts"
+    ],
+    "yearBorn": 1994
   }
 ]

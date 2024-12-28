@@ -12,5 +12,66 @@
       "Appeared in numerous films and television series."
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Malcolm Campbell",
+    "givenNames": [
+      "Malcolm"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Campbell",
+    "occupation": "Motor racing driver, Engineer",
+    "achievements": [
+      "Held numerous land speed records",
+      "Designed and built his own cars"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Sir Colin Campbell",
+    "givenNames": [
+      "Colin"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Campbell,_1st_Baron_Clyde",
+    "occupation": "British Army General",
+    "achievements": [
+      "Led British troops to victory in the Crimean War (Battle of Alma)",
+      "Known for his military prowess and strategic thinking"
+    ],
+    "yearBorn": 1799,
+    "yearDied": 1863
+  },
+  {
+    "fullName": "Donald Campbell",
+    "givenNames": [
+      "Donald",
+      "Malcolm"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Campbell",
+    "occupation": "Speed record breaker, racing driver",
+    "achievements": [
+      "Set multiple world speed records on land and water",
+      "Tragically died attempting to break the water speed record"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Alastair Campbell",
+    "givenNames": [
+      "Alastair",
+      "John"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alastair_Campbell",
+    "occupation": "Journalist, Political Advisor",
+    "achievements": [
+      "Served as Director of Communications and Strategy for Prime Minister Tony Blair",
+      "Known for his controversial political style and media appearances"
+    ],
+    "yearBorn": 1957
   }
 ]

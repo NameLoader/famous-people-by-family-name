@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Conroy",
+    "givenNames": [
+      "John",
+      "Ponsonby"
+    ],
+    "familyName": "Conroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Conroy",
+    "occupation": "British Army officer",
+    "achievements": [
+      "Served as equerry to the Prince Regent and later King George IV",
+      "Known for his involvement in the Kensington System"
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1854
+  }
+]

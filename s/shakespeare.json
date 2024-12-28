@@ -28,5 +28,18 @@
     ],
     "yearBorn": 1585,
     "yearDied": 1596
+  },
+  {
+    "fullName": "Judith Quiney Shakespeare",
+    "givenNames": [
+      "Judith",
+      "Quiney"
+    ],
+    "familyName": "Shakespeare",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Quiney",
+    "occupation": "Daughter of William Shakespeare",
+    "achievements": [],
+    "yearBorn": 1606,
+    "yearDied": 1662
   }
 ]

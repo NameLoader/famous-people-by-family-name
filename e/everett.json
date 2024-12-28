@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edward Everett",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Everett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Everett",
+    "occupation": "Politician, orator",
+    "achievements": [
+      "Governor of Massachusetts",
+      "U.S. Secretary of State",
+      "Delivered the famous Gettysburg Address dedication speech"
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1865
+  }
+]

@@ -28,5 +28,22 @@
     ],
     "yearBorn": 1838,
     "yearDied": 1865
+  },
+  {
+    "fullName": "Richard Booth",
+    "givenNames": [
+      "Richard",
+      "George",
+      "William",
+      "Pitt"
+    ],
+    "familyName": "Booth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Booth",
+    "occupation": "Bookseller, Entrepreneur",
+    "achievements": [
+      "Founded the Hay-on-Wye book festival and transformed the town into a 'book town'",
+      "Known for his eccentric personality and innovative approach to bookselling"
+    ],
+    "yearBorn": 1938
   }
 ]

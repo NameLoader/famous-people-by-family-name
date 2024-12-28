@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1925,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Rachel Carson",
+    "givenNames": [
+      "Rachel",
+      "Louise"
+    ],
+    "familyName": "Carson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_Carson",
+    "occupation": "Marine Biologist, Conservationist, Writer",
+    "achievements": [
+      "Authored the influential book Silent Spring, which raised awareness about the dangers of pesticides",
+      "Considered a founder of the modern environmental movement"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1964
   }
 ]

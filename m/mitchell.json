@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Margaret Mitchell",
+    "givenNames": [
+      "Margaret",
+      "Munnerlyn"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mitchell",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of the Pulitzer Prize-winning novel 'Gone with the Wind'",
+      "One of the best-selling novelists of all time"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1949
+  }
+]

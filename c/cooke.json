@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Samuel Cooke",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Cooke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Cooke",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Pioneer of soul music",
+      "Known for hits like 'A Change Is Gonna Come' and 'You Send Me'"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1964
+  }
+]

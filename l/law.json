@@ -13,5 +13,36 @@
     ],
     "yearBorn": 1671,
     "yearDied": 1729
+  },
+  {
+    "fullName": "William Law",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Law",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Law",
+    "occupation": "Theologian and Writer",
+    "achievements": [
+      "Influential Christian mystic and theologian",
+      "Known for his works on spirituality and social reform",
+      "Author of 'A Serious Call to a Devout and Holy Life'"
+    ],
+    "yearBorn": 1686,
+    "yearDied": 1761
+  },
+  {
+    "fullName": "David Law",
+    "givenNames": [
+      "David",
+      "Connor",
+      "James"
+    ],
+    "familyName": "Law",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Law_(golfer)",
+    "occupation": "Golfer",
+    "achievements": [
+      "Won the 2019 ISPS Handa Vic Open on the European Tour",
+      "Represented Scotland in international golf competitions"
+    ]
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Josiah Willard Gibbs",
+    "givenNames": [
+      "Josiah",
+      "Willard"
+    ],
+    "familyName": "Gibbs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs",
+    "occupation": "Physicist, Chemist",
+    "achievements": [
+      "Pioneering work in thermodynamics",
+      "Development of the Gibbs free energy",
+      "Fundamental contributions to statistical mechanics"
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1903
+  }
+]

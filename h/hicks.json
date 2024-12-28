@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Hicks",
+    "givenNames": [
+      "William",
+      "Melvin"
+    ],
+    "familyName": "Hicks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Hicks",
+    "occupation": "Comedian, social critic",
+    "achievements": [
+      "Known for his dark humor and thought-provoking routines",
+      "Challenged societal norms and hypocrisy"
+    ],
+    "yearBorn": 1961,
+    "yearDied": 1994
+  }
+]

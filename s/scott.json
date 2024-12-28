@@ -14,5 +14,34 @@
     ],
     "yearBorn": 1771,
     "yearDied": 1832
+  },
+  {
+    "fullName": "Sir Walter Scott",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
+    "occupation": "Novelist, Poet",
+    "achievements": [
+      "Considered one of the founders of the historical novel genre",
+      "Authored renowned works like 'Ivanhoe' and 'Rob Roy'"
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1832
+  },
+  {
+    "fullName": "Kathryn Scott",
+    "givenNames": [
+      "Kathryn",
+      "Sarah"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Scott_(singer)",
+    "occupation": "Singer-Songwriter, Worship Leader",
+    "achievements": [
+      "Known for her contemporary Christian music",
+      "Led worship at Hillsong Church and released several acclaimed albums"
+    ]
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kevin Hart",
+    "givenNames": [
+      "Kevin",
+      "Darnell"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Hart",
+    "occupation": "Comedian, Actor",
+    "achievements": [
+      "One of the highest-paid comedians in the world",
+      "Starred in films like 'Ride Along', 'Jumanji: Welcome to the Jungle', and 'Central Intelligence'"
+    ],
+    "yearBorn": 1979
+  }
+]

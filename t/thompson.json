@@ -11,5 +11,37 @@
       "Folk-rock singer and songwriter"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Hunter S. Thompson",
+    "givenNames": [
+      "Hunter",
+      "Stockton"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hunter_S._Thompson",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Pioneer of Gonzo journalism",
+      "Author of 'Fear and Loathing in Las Vegas'",
+      "Known for his distinctive writing style and counterculture views"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Emma Thompson",
+    "givenNames": [
+      "Emma"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Thompson",
+    "occupation": "Actress, Screenwriter",
+    "achievements": [
+      "Academy Award winner for Best Actress in 'Howards End'",
+      "Known for her roles in films such as 'Sense and Sensibility', 'Love Actually', and 'Harry Potter' series",
+      "Prominent advocate for women's rights and social justice"
+    ],
+    "yearBorn": 1959
   }
 ]

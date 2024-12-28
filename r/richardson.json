@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Samuel Richardson",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Richardson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Richardson",
+    "occupation": "Novelist, Printer",
+    "achievements": [
+      "Considered a pioneer of the epistolary novel",
+      "Best known for his works 'Pamela' and 'Clarissa'"
+    ],
+    "yearBorn": 1689,
+    "yearDied": 1761
+  }
+]

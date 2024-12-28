@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Lamont",
+    "givenNames": [
+      "John",
+      "Robert"
+    ],
+    "familyName": "Lamont",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lamont_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Member of Parliament (MP) for Berwickshire, Roxburgh and Selkirk",
+      "Scottish Conservative Party member"
+    ],
+    "yearBorn": 1976
+  }
+]

@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1758,
     "yearDied": 1805
+  },
+  {
+    "fullName": "Willie Nelson",
+    "givenNames": [
+      "Willie",
+      "Hugh"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Nelson",
+    "occupation": "Singer, Songwriter, Actor",
+    "achievements": [
+      "Country music legend",
+      "Grammy Award winner (10 times)",
+      "Kennedy Center Honors recipient (1998)"
+    ],
+    "yearBorn": 1933
   }
 ]

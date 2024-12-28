@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Charlie Bird",
+    "givenNames": [
+      "Charles",
+      "Brown"
+    ],
+    "familyName": "Bird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Bird",
+    "occupation": "Irish broadcaster and journalist",
+    "achievements": [
+      "Long career with RTÉ as a reporter and presenter.",
+      "Known for his coverage of major events in Ireland and abroad."
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Andrew Bird",
+    "givenNames": [
+      "Andrew",
+      "Wegman"
+    ],
+    "familyName": "Bird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bird",
+    "occupation": "American multi-instrumentalist, singer-songwriter and whistler",
+    "achievements": [
+      "Known for his distinctive whistling style.",
+      "Released critically acclaimed albums like 'Armchair Apocrypha' and 'Noble Beast'.",
+      "Collaborated with various artists including Fiona Apple and the Decemberists."
+    ],
+    "yearBorn": 1973
+  }
+]

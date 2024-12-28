@@ -12,5 +12,36 @@
       "Co-discovered the double helix structure of DNA with Francis Crick."
     ],
     "yearBorn": 1928
+  },
+  {
+    "fullName": "Thomas Watson Sr.",
+    "givenNames": [
+      "Thomas",
+      "John"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Watson",
+    "occupation": "Businessman",
+    "achievements": [
+      "Founder and first CEO of IBM"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1956
+  },
+  {
+    "fullName": "Emma Watson",
+    "givenNames": [
+      "Emma",
+      "Charlotte",
+      "Duerre"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Watson",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Known for her role as Hermione Granger in the Harry Potter film series",
+      "UN Women Goodwill Ambassador"
+    ],
+    "yearBorn": 1990
   }
 ]

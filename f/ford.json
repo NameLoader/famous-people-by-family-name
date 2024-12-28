@@ -29,5 +29,38 @@
     ],
     "yearBorn": 1894,
     "yearDied": 1973
+  },
+  {
+    "fullName": "Henry Ford",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Ford",
+    "occupation": "Industrialist, Business Magnate",
+    "achievements": [
+      "Revolutionized automobile manufacturing with the assembly line.",
+      "Founded Ford Motor Company.",
+      "Made automobiles affordable for the average person."
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Gerald Rudolph Ford Jr.",
+    "givenNames": [
+      "Gerald",
+      "Rudolph"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Ford",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 38th President of the United States.",
+      "First person to assume the presidency without being elected president or vice-president.",
+      "Granted pardons to Vietnam War protesters and Richard Nixon."
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2006
   }
 ]

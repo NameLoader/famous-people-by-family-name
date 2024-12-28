@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Bruce Lee",
+    "givenNames": [
+      "Bruce"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Lee",
+    "occupation": "Martial artist, actor, director, philosopher",
+    "achievements": [
+      "Pioneer of Hong Kong action cinema",
+      "Developed Jeet Kune Do martial arts style",
+      "Iconic action movie star"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1973
+  }
+]

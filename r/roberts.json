@@ -9,8 +9,49 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Julia_Roberts",
     "occupation": "Actress",
     "achievements": [
-      "Academy Award winner for 'Erin Brockovich', known for roles in films like 'Pretty Woman' and 'Steel Magnolias'."
+      "Academy Award winner for 'Erin Brockovich'",
+      "Known for roles in films like 'Pretty Woman' and 'Steel Magnolias'"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Eric Roberts",
+    "givenNames": [
+      "Eric",
+      "Anthony"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Roberts",
+    "occupation": "Actor",
+    "achievements": [
+      "Golden Globe nomination for Best Supporting Actor"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Emma Roberts",
+    "givenNames": [
+      "Emma",
+      "Rose"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Roberts",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Unfabulous', 'American Horror Story'"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Roberts, John",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Roberts_(judge)",
+    "occupation": "Chief Justice of the United States",
+    "achievements": [
+      "Nominated by President George W. Bush in 2005"
+    ]
   }
 ]

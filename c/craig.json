@@ -11,5 +11,20 @@
       "Known for his work in Christian apologetics and philosophical arguments for the existence of God"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Daniel Craig",
+    "givenNames": [
+      "Daniel",
+      "Wroughton"
+    ],
+    "familyName": "Craig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Craig",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for playing James Bond in five films",
+      "Award-winning actor with roles in films like 'Munich', 'The Girl with the Dragon Tattoo', and 'Knives Out'"
+    ],
+    "yearBorn": 1968
   }
 ]

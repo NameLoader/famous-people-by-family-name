@@ -13,5 +13,23 @@
       "Activist and philanthropist."
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "Joseph Mallord William Turner",
+    "givenNames": [
+      "Joseph",
+      "Mallord",
+      "William"
+    ],
+    "familyName": "Turner",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._M._W._Turner",
+    "occupation": "Painter",
+    "achievements": [
+      "Considered one of the greatest landscape painters of all time.",
+      "Pioneer of Impressionism",
+      "Known for his dramatic use of light and color"
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1851
   }
 ]

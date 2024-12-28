@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John French",
+    "givenNames": [
+      "John",
+      "Denton",
+      "Pinkstone"
+    ],
+    "familyName": "French",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_French,_1st_Earl_of_Ypres",
+    "occupation": "Military Officer",
+    "achievements": [
+      "Commanded British forces during World War I on the Western Front",
+      "Known for his strategic planning and leadership skills"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1925
+  }
+]

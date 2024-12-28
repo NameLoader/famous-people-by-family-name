@@ -45,5 +45,35 @@
       "Founded the Rainbow PUSH Coalition"
     ],
     "yearBorn": 1941
+  },
+  {
+    "fullName": "Andrew Jackson",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+    "occupation": "7th President of the United States",
+    "achievements": [
+      "Led American forces in the War of 1812",
+      "Signed the Indian Removal Act"
+    ],
+    "yearBorn": 1767,
+    "yearDied": 1845
+  },
+  {
+    "fullName": "Samuel L. Jackson",
+    "givenNames": [
+      "Samuel",
+      "Leroy"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_L._Jackson",
+    "occupation": "Actor and film producer",
+    "achievements": [
+      "Highest-grossing actor of all time",
+      "Academy Award nominee for Pulp Fiction"
+    ],
+    "yearBorn": 1948
   }
 ]

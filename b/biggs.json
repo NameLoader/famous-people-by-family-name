@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ronald Biggs",
+    "givenNames": [
+      "Ronald",
+      "Arthur"
+    ],
+    "familyName": "Biggs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronnie_Biggs",
+    "occupation": "Criminal",
+    "achievements": [
+      "Member of the Great Train Robbery gang in 1963",
+      "Escaped from prison and lived in exile for decades"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2013
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Diego Sanchez",
+    "givenNames": [
+      "Diego"
+    ],
+    "familyName": "Sanchez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Sanchez",
+    "occupation": "Mixed Martial Artist",
+    "achievements": [
+      "UFC veteran with over 30 fights",
+      "Former The Ultimate Fighter winner"
+    ],
+    "yearBorn": 1982
+  }
+]

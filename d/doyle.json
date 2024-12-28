@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Arthur Conan Doyle",
+    "givenNames": [
+      "Arthur",
+      "Conan"
+    ],
+    "familyName": "Doyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+    "occupation": "Writer, physician",
+    "achievements": [
+      "Creator of Sherlock Holmes",
+      "Prolific writer of fiction and non-fiction"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Richard Doyle",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Doyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Doyle_(illustrator)",
+    "occupation": "Illustrator",
+    "achievements": [
+      "Known for his whimsical illustrations",
+      "Contributed to Punch magazine"
+    ],
+    "yearBorn": 1824,
+    "yearDied": 1883
+  }
+]

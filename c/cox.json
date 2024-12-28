@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Cox Orange Pippin",
+    "givenNames": [
+      "Orange"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cox's_Orange_Pippin",
+    "occupation": "Apple Cultivar",
+    "achievements": [
+      "Heritage apple variety renowned for its flavour and unique appearance"
+    ]
+  },
+  {
+    "fullName": "Brian Cox",
+    "givenNames": [
+      "Brian",
+      "Denis"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Cox_(actor)",
+    "occupation": "Actor, professor",
+    "achievements": [
+      "Known for roles in films like 'X-Men' and television series like 'Succession'."
+    ],
+    "yearBorn": 1946
+  }
+]

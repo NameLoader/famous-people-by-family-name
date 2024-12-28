@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Mulholland",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Mulholland",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Mulholland",
+    "occupation": "Civil Engineer",
+    "achievements": [
+      "Chief engineer of the Los Angeles Department of Water and Power",
+      "Oversaw the construction of the Los Angeles Aqueduct, bringing water to the growing city"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1935
+  }
+]

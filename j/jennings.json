@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Waylon Jennings",
+    "givenNames": [
+      "Waylon",
+      "Arnold"
+    ],
+    "familyName": "Jennings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waylon_Jennings",
+    "occupation": "Singer-songwriter, Musician",
+    "achievements": [
+      "Pioneer of the Outlaw Country movement",
+      "Known for hits such as 'Good Hearted Woman', 'Luckenbach, Texas (Back to the Basics of Love)', and 'Mammas Don't Let Your Babies Grow Up to Be Cowboys'",
+      "Inducted into the Country Music Hall of Fame"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2002
+  }
+]

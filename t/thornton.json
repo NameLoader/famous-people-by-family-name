@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Thornton",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Thornton",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Thornton",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed the United States Capitol Building",
+      "Pioneer in the field of American architecture"
+    ],
+    "yearBorn": 1759,
+    "yearDied": 1828
+  }
+]

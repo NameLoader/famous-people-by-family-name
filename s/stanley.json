@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Morton Stanley",
+    "givenNames": [
+      "Henry",
+      "Morton"
+    ],
+    "familyName": "Stanley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Morton_Stanley",
+    "occupation": "Explorer, journalist",
+    "achievements": [
+      "Found David Livingstone in Africa",
+      "Explored the Congo Basin"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1904
+  }
+]

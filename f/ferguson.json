@@ -14,5 +14,34 @@
       "Considered one of the greatest football managers of all time."
     ],
     "yearBorn": 1941
+  },
+  {
+    "fullName": "Andrew Ferguson",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Ferguson_(journalist)",
+    "occupation": "Journalist and writer",
+    "achievements": [
+      "Staff writer for The Weekly Standard",
+      "Contributes to publications like The New York Times and The Wall Street Journal",
+      "Author of several books, including 'Land of Lincoln'"
+    ]
+  },
+  {
+    "fullName": "Craig Ferguson",
+    "givenNames": [
+      "Craig"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_Ferguson",
+    "occupation": "Comedian, actor, writer, and television host",
+    "achievements": [
+      "Hosted 'The Late Late Show with Craig Ferguson' on CBS",
+      "Known for his stand-up comedy and improvisational style",
+      "Starred in films like 'The Drew Carey Show' and 'Saving Grace'"
+    ],
+    "yearBorn": 1962
   }
 ]

@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1987,
     "yearDied": 2022
+  },
+  {
+    "fullName": "Robert Carter",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Carter_I",
+    "occupation": "Colonial planter, politician",
+    "achievements": [
+      "One of the wealthiest men in colonial Virginia"
+    ],
+    "yearBorn": 1696,
+    "yearDied": 1732
   }
 ]

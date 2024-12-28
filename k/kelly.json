@@ -15,5 +15,17 @@
     ],
     "yearBorn": 1929,
     "yearDied": 1982
+  },
+  {
+    "fullName": "Brian Kelly",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)",
+    "occupation": "College Football Coach",
+    "achievements": [
+      "Head coach of the Notre Dame Fighting Irish football team"
+    ]
   }
 ]

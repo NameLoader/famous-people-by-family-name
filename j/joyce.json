@@ -16,5 +16,20 @@
     ],
     "yearBorn": 1882,
     "yearDied": 1941
+  },
+  {
+    "fullName": "Brenda Joyce",
+    "givenNames": [
+      "Brenda"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Joyce_(actress)",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous films during the Golden Age of Hollywood",
+      "Known for roles in Westerns and adventure serials"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2009
   }
 ]

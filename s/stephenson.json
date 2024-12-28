@@ -14,5 +14,37 @@
     ],
     "yearBorn": 1803,
     "yearDied": 1859
+  },
+  {
+    "fullName": "George Stephenson",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Stephenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Stephenson",
+    "occupation": "Engineer",
+    "achievements": [
+      "Known as the 'Father of Railways'",
+      "Developed the first public inter-city railway line in the world",
+      "Built the Rocket locomotive"
+    ],
+    "yearBorn": 1781,
+    "yearDied": 1848
+  },
+  {
+    "fullName": "William Stephenson",
+    "givenNames": [
+      "William",
+      "Samuel"
+    ],
+    "familyName": "Stephenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Stephenson",
+    "occupation": "Intelligence officer",
+    "achievements": [
+      "Headed the British Security Coordination during World War II",
+      "Instrumental in coordinating Allied intelligence efforts with the United States"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1966
   }
 ]

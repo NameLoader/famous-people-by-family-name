@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "John Gough",
+    "givenNames": [
+      "John",
+      "Bartholomew"
+    ],
+    "familyName": "Gough",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bartholomew_Gough",
+    "occupation": "Temperance advocate",
+    "achievements": [
+      "Known as the 'Father of Prohibition'",
+      "Traveled extensively delivering lectures on temperance"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1886
+  },
+  {
+    "fullName": "Michael Gough",
+    "givenNames": [
+      "Francis",
+      "Michael"
+    ],
+    "familyName": "Gough",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Gough",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in horror films and Shakespearean theater",
+      "Played Alfred Pennyworth in the Batman film series (1989-1997)"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2011
+  }
+]

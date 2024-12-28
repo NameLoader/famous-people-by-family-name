@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Baxter",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Baxter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Baxter",
+    "occupation": "Puritan theologian and writer",
+    "achievements": [
+      "Known for his influential work 'The Saints' Everlasting Rest'.",
+      "Contributed significantly to Puritan thought and spirituality."
+    ],
+    "yearBorn": 1615,
+    "yearDied": 1691
+  }
+]

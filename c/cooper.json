@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1961
+  },
+  {
+    "fullName": "James Fenimore Cooper",
+    "givenNames": [
+      "James",
+      "Fenimore"
+    ],
+    "familyName": "Cooper",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Fenimore_Cooper",
+    "occupation": "Novelist",
+    "achievements": [
+      "Authored The Last of the Mohicans and other popular historical novels"
+    ],
+    "yearBorn": 1789,
+    "yearDied": 1851
   }
 ]

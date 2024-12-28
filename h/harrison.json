@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1773,
     "yearDied": 1841
+  },
+  {
+    "fullName": "George Harrison",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Harrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Harrison",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Lead guitarist of The Beatles",
+      "Successful solo career"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2001
   }
 ]

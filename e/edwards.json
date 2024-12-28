@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Jonathan Edwards",
+    "givenNames": [
+      "Jonathan"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+    "occupation": "Theologian, Preacher",
+    "achievements": [
+      "Key figure in the First Great Awakening",
+      "Influential theologian and philosopher",
+      "Known for his sermons on sin and salvation"
+    ],
+    "yearBorn": 1703,
+    "yearDied": 1758
+  },
+  {
+    "fullName": "Hugh Edwards",
+    "givenNames": [
+      "Huw"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Huw_Edwards",
+    "occupation": "Broadcast journalist",
+    "achievements": [
+      "Lead presenter of BBC News at Ten",
+      "Presented major news events including elections and royal weddings"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "John Edwards",
+    "givenNames": [
+      "Johnny",
+      "Reid"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Edwards_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as United States Senator from North Carolina",
+      "Ran for President of the United States in 2004 and 2008"
+    ],
+    "yearBorn": 1953
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Terry Bradshaw",
+    "givenNames": [
+      "Terry",
+      "Paxton"
+    ],
+    "familyName": "Bradshaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Bradshaw",
+    "occupation": "NFL Quarterback, Sports Analyst",
+    "achievements": [
+      "Four-time Super Bowl champion with the Pittsburgh Steelers",
+      "Two-time Super Bowl MVP"
+    ],
+    "yearBorn": 1948
+  }
+]

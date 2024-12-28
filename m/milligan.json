@@ -14,5 +14,23 @@
     ],
     "yearBorn": 1868,
     "yearDied": 1953
+  },
+  {
+    "fullName": "Spike Milligan",
+    "givenNames": [
+      "Terence",
+      "Alan",
+      "Spike"
+    ],
+    "familyName": "Milligan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spike_Milligan",
+    "occupation": "Comedian, Writer, Actor",
+    "achievements": [
+      "Pioneer of alternative comedy",
+      "Member of The Goon Show",
+      "Prolific writer of poetry and prose"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2002
   }
 ]

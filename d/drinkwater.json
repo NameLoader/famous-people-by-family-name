@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Drinkwater",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Drinkwater",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Drinkwater_(playwright)",
+    "occupation": "Playwright, Poet",
+    "achievements": [
+      "Won the James Tait Black Memorial Prize for his play 'Abraham Lincoln'",
+      "Known for his contributions to the English theatre revival of the early 20th century"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1937
+  }
+]

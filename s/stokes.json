@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "George Gabriel Stokes",
+    "givenNames": [
+      "George",
+      "Gabriel"
+    ],
+    "familyName": "Stokes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet",
+    "occupation": "Mathematician, Physicist",
+    "achievements": [
+      "Stokes' theorem in vector calculus",
+      "Contributions to fluid dynamics (Stokes' law)",
+      "President of the Royal Society"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1903
+  }
+]

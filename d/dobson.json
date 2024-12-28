@@ -12,5 +12,22 @@
       "Prominent conservative Christian voice in American culture."
     ],
     "yearBorn": 1936
+  },
+  {
+    "fullName": "John Dobson",
+    "givenNames": [
+      "John",
+      "Lowry"
+    ],
+    "familyName": "Dobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dobson_(astronomer)",
+    "occupation": "Amateur astronomer and telescope maker",
+    "achievements": [
+      "Designed and built the Dobsonian telescope",
+      "Popularized amateur astronomy",
+      "Founded the San Francisco Sidewalk Astronomers"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2014
   }
 ]

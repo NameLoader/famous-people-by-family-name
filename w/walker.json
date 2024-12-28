@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "David Walker",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Walker_(abolitionist)",
+    "occupation": "Abolitionist, writer",
+    "achievements": [
+      "Published 'An Appeal to the Coloured Citizens of the World'",
+      "Promoted immediate emancipation and Black self-defense"
+    ],
+    "yearBorn": 1796,
+    "yearDied": 1830
+  },
+  {
+    "fullName": "Alice Walker",
+    "givenNames": [
+      "Alice",
+      "Malsenior",
+      "Tallulah-Kate"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Walker",
+    "occupation": "Writer, poet, activist",
+    "achievements": [
+      "Pulitzer Prize winner for 'The Color Purple'",
+      "Known for her exploration of race, gender, and class in literature"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Paul Walker",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Walker",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in the 'Fast & Furious' franchise and other action films"
+    ],
+    "yearBorn": 1973,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Robert Walker",
+    "givenNames": [
+      "Robert",
+      "Hudson"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Walker_(actor,_born_1918)",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'Strangers on a Train' and 'The Clock'",
+      "Known for his distinctive voice and intense performances"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1951
+  }
+]

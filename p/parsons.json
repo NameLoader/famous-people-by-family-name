@@ -12,5 +12,36 @@
     ],
     "yearBorn": 1800,
     "yearDied": 1867
+  },
+  {
+    "fullName": "Graham Parsons",
+    "givenNames": [
+      "Gram"
+    ],
+    "familyName": "Parsons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gram_Parsons",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Pioneered the country rock genre",
+      "Influential figure in alternative country music"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Charles Parsons",
+    "givenNames": [
+      "Charles",
+      "Algernon"
+    ],
+    "familyName": "Parsons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Parsons_(engineer)",
+    "occupation": "Engineer, Inventor",
+    "achievements": [
+      "Invented the steam turbine",
+      "Made significant contributions to naval engineering"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1931
   }
 ]

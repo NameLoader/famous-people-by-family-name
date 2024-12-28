@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Langston Hughes",
+    "givenNames": [
+      "Langston",
+      "James Mercer"
+    ],
+    "familyName": "Hughes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Langston_Hughes",
+    "occupation": "Poet, novelist, playwright, and columnist",
+    "achievements": [
+      "Key figure in the Harlem Renaissance",
+      "Celebrated African American experience through his writing",
+      "Prolific writer with numerous poems, plays, novels, and essays"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Howard Hughes",
+    "givenNames": [
+      "Howard",
+      "Robard"
+    ],
+    "familyName": "Hughes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Hughes",
+    "occupation": "Aviator, engineer, film director, and businessman",
+    "achievements": [
+      "Pioneering aviator who set multiple world airspeed records",
+      "Filmmaker known for movies like 'Hell's Angels' and 'Scarface'",
+      "Industrialist and founder of Hughes Aircraft Company"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1976
+  }
+]

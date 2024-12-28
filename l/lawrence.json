@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jennifer Lawrence",
+    "givenNames": [
+      "Jennifer",
+      "Shrader"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for 'Silver Linings Playbook'",
+      "Starred in 'The Hunger Games' franchise"
+    ],
+    "yearBorn": 1990
+  }
+]

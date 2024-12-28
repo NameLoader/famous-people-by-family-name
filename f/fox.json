@@ -12,5 +12,37 @@
       "Known for roles in films such as 'Transformers', 'Jennifer's Body', and 'Teenage Mutant Ninja Turtles'"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Charles James Fox",
+    "givenNames": [
+      "Charles",
+      "James"
+    ],
+    "familyName": "Fox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_James_Fox",
+    "occupation": "Politician",
+    "achievements": [
+      "Whig statesman",
+      "Leader of the Whig Party in the late 18th century",
+      "Advocate for parliamentary reform and Catholic emancipation"
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1806
+  },
+  {
+    "fullName": "Michael J. Fox",
+    "givenNames": [
+      "Michael",
+      "J."
+    ],
+    "familyName": "Fox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Fox",
+    "occupation": "Actor, Activist",
+    "achievements": [
+      "Starred in iconic films like Back to the Future and Teen Wolf",
+      "Advocate for Parkinson's disease research after his diagnosis in 1991"
+    ],
+    "yearBorn": 1961
   }
 ]

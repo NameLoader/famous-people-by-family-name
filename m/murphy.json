@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arthur Murphy",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Murphy_(writer)",
+    "occupation": "Playwright, Critic",
+    "achievements": [
+      "Wrote successful comedies and tragedies in the 18th century.",
+      "Known for his literary criticism."
+    ],
+    "yearBorn": 1727,
+    "yearDied": 1805
+  }
+]

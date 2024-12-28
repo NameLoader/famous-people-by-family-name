@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "William Talbot",
+    "givenNames": [
+      "William",
+      "Henry",
+      "Fox"
+    ],
+    "familyName": "Talbot",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Fox_Talbot",
+    "occupation": "Inventor, Scientist",
+    "achievements": [
+      "Pioneer of photography",
+      "Developed the calotype process"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1877
+  },
+  {
+    "fullName": "John Talbot",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Talbot",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Talbot,_1st_Earl_of_Shrewsbury",
+    "occupation": "Nobleman, Military Leader",
+    "achievements": [
+      "Hero of the Hundred Years' War",
+      "Lord High Steward of England"
+    ],
+    "yearBorn": 1387,
+    "yearDied": 1453
+  }
+]

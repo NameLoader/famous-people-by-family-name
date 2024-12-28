@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1508,
     "yearDied": 1537
+  },
+  {
+    "fullName": "Edward Seymour, 1st Duke of Somerset",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Seymour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Seymour,_1st_Duke_of_Somerset",
+    "occupation": "Lord Protector of England",
+    "achievements": [
+      "Brother of Jane Seymour",
+      "Regent of England during the minority of King Edward VI"
+    ],
+    "yearBorn": 1500,
+    "yearDied": 1552
+  },
+  {
+    "fullName": "Thomas Seymour, Baron Seymour of Sudeley",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Seymour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Seymour,_Baron_Seymour_of_Sudeley",
+    "occupation": "Courtier and military leader",
+    "achievements": [
+      "Brother of Jane Seymour and Edward Seymour, Duke of Somerset",
+      "Implicated in the alleged plot to marry Princess Elizabeth I"
+    ],
+    "yearBorn": 1508,
+    "yearDied": 1549
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "fullName": "Stephen Austin",
+    "fullName": "Stephen F. Austin",
     "givenNames": [
       "Stephen",
       "Fuller"
@@ -14,5 +14,36 @@
     ],
     "yearBorn": 1793,
     "yearDied": 1836
+  },
+  {
+    "fullName": "Steven Austin",
+    "givenNames": [
+      "Steven"
+    ],
+    "familyName": "Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Austin",
+    "occupation": "Professional wrestler, actor",
+    "achievements": [
+      "Six-time WWF Champion, headlined WrestleMania XIX",
+      "Starred in films like The Condemned and The Longest Yard"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Mary Austin",
+    "givenNames": [
+      "Mary",
+      "Hunter"
+    ],
+    "familyName": "Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Hunter_Austin",
+    "occupation": "Writer",
+    "achievements": [
+      "Known for her novels and essays about the American Southwest",
+      "Wrote 'The Land of Little Rain'",
+      "Her work explored themes of nature, solitude, and the human condition"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1934
   }
 ]

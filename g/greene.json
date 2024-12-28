@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Graham Greene",
+    "givenNames": [
+      "Graham",
+      "Henry"
+    ],
+    "familyName": "Greene",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Greene",
+    "occupation": "Novelist, screenwriter, essayist",
+    "achievements": [
+      "Known for novels such as 'The Power and the Glory', 'Brighton Rock', and 'The Quiet American'",
+      "Considered one of the most influential British writers of the 20th century"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1991
+  }
+]

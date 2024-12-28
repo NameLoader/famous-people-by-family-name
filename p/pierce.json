@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Franklin Pierce",
+    "givenNames": [
+      "Franklin"
+    ],
+    "familyName": "Pierce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+    "occupation": "Politician",
+    "achievements": [
+      "Fourteenth President of the United States"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1869
+  }
+]

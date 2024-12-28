@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Catherine Middleton",
+    "givenNames": [
+      "Catherine",
+      "Elizabeth"
+    ],
+    "familyName": "Middleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine,_Princess_of_Wales",
+    "occupation": "Royal Family Member",
+    "achievements": [
+      "Married to Prince William, heir to the British throne",
+      "Patron of several charities and organizations"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Thomas Middleton",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Middleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Middleton",
+    "occupation": "Playwright and Poet",
+    "achievements": [
+      "Jacobean era playwright known for works like 'The Changeling' and 'Women Beware Women'",
+      "Collaborated with other prominent playwrights like William Shakespeare"
+    ],
+    "yearBorn": 1580,
+    "yearDied": 1627
+  }
+]

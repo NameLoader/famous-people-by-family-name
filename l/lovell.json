@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Lovell",
+    "givenNames": [
+      "James",
+      "Arthur"
+    ],
+    "familyName": "Lovell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Lovell",
+    "occupation": "Astronaut, Engineer",
+    "achievements": [
+      "Commanded Apollo 13 mission",
+      "Recipient of the Congressional Space Medal of Honor"
+    ],
+    "yearBorn": 1928
+  }
+]

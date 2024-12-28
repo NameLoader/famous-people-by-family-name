@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1186,
     "yearDied": 1241
+  },
+  {
+    "fullName": "Shah Rukh Khan",
+    "givenNames": [
+      "Shah",
+      "Rukh"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+    "occupation": "Actor, producer, television personality",
+    "achievements": [
+      "One of the most popular and successful actors in Indian cinema",
+      "Known for his romantic roles and charismatic personality"
+    ],
+    "yearBorn": 1965
   }
 ]

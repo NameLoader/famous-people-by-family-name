@@ -12,5 +12,19 @@
     ],
     "yearBorn": 1578,
     "yearDied": 1657
+  },
+  {
+    "fullName": "Brian Harvey",
+    "givenNames": [
+      "Brian",
+      "Lee"
+    ],
+    "familyName": "Harvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Harvey_(singer)",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Former member of the pop group East 17"
+    ],
+    "yearBorn": 1974
   }
 ]

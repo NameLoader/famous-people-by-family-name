@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Thomas Browne",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Browne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Thomas_Browne",
+    "occupation": "Physician, Author",
+    "achievements": [
+      "Known for his philosophical and religious writings like 'Religio Medici'",
+      "Considered one of the founders of English prose"
+    ],
+    "yearBorn": 1605,
+    "yearDied": 1682
+  }
+]

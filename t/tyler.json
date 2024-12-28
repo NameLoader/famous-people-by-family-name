@@ -13,5 +13,34 @@
     ],
     "yearBorn": 1790,
     "yearDied": 1862
+  },
+  {
+    "fullName": "Steven Tyler",
+    "givenNames": [
+      "Steven"
+    ],
+    "familyName": "Tyler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Tyler",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead singer of the rock band Aerosmith",
+      "Multi-platinum selling artist",
+      "Rock and Roll Hall of Fame inductee"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Liv Tyler",
+    "givenNames": [
+      "Liv"
+    ],
+    "familyName": "Tyler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liv_Tyler",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Starred in films like 'Armageddon' and 'The Lord of the Rings'",
+      "Successful modeling career"
+    ],
+    "yearBorn": 1977
   }
 ]

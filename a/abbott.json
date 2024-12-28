@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Edwin Abbott Abbott",
+    "givenNames": [
+      "Edwin",
+      "Abbott"
+    ],
+    "familyName": "Abbott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott",
+    "occupation": "Writer, Mathematician",
+    "achievements": [
+      "Author of the novel *Flatland: A Romance of Many Dimensions*",
+      "Headmaster of City of London School"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Grace Abbott",
+    "givenNames": [
+      "Grace"
+    ],
+    "familyName": "Abbott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Abbott",
+    "occupation": "Social Worker,  Government Official",
+    "achievements": [
+      "Pioneer in social work",
+      "Helped establish the Children's Bureau",
+      "Advocate for child labor laws and immigration reform"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1939
+  }
+]

@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1801,
     "yearDied": 1872
+  },
+  {
+    "fullName": "Anna Seward",
+    "givenNames": [
+      "Anna"
+    ],
+    "familyName": "Seward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Seward",
+    "occupation": "Poet",
+    "achievements": [
+      "Prolific writer of poems and essays",
+      "Friend and correspondent to many notable literary figures"
+    ],
+    "yearBorn": 1742,
+    "yearDied": 1809
   }
 ]

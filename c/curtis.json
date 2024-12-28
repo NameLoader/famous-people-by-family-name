@@ -12,5 +12,20 @@
     ],
     "yearBorn": 1860,
     "yearDied": 1932
+  },
+  {
+    "fullName": "Jamie Lee Curtis",
+    "givenNames": [
+      "Jamie",
+      "Lee"
+    ],
+    "familyName": "Curtis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Lee_Curtis",
+    "occupation": "Actress, author",
+    "achievements": [
+      "Known for roles in horror films such as 'Halloween'",
+      "Won a Golden Globe Award for Best Actress – Motion Picture Musical or Comedy for 'True Lies'"
+    ],
+    "yearBorn": 1958
   }
 ]

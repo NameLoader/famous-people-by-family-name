@@ -15,5 +15,35 @@
     ],
     "yearBorn": 1925,
     "yearDied": 2008
+  },
+  {
+    "fullName": "Alfred Newman",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Newman",
+    "occupation": "Composer",
+    "achievements": [
+      "Won nine Academy Awards for Best Original Score",
+      "Composed scores for over 200 films"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "John Newman",
+    "givenNames": [
+      "John",
+      "William",
+      "Peter"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Newman_(singer)",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "UK number-one singles with 'Love Me Again' and 'Jealous'"
+    ],
+    "yearBorn": 1990
   }
 ]

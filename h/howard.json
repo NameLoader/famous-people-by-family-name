@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Leslie Howard",
+    "givenNames": [
+      "Leslie"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Howard",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in classic films like 'Gone with the Wind'",
+      "Known for his sophisticated and charming roles"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1943
+  }
+]

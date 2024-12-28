@@ -12,5 +12,19 @@
       "Considered one of the most influential photographers of the 20th century"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "John Bailey",
+    "givenNames": [
+      "John",
+      "Ira"
+    ],
+    "familyName": "Bailey",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bailey_(cinematographer)",
+    "occupation": "Cinematographer",
+    "achievements": [
+      "Academy Award for Best Cinematography (The Accidental Tourist)"
+    ],
+    "yearBorn": 1942
   }
 ]

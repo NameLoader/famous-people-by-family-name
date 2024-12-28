@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sarah Vaughan",
+    "givenNames": [
+      "Sarah",
+      "Lois"
+    ],
+    "familyName": "Vaughan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Vaughan",
+    "occupation": "Jazz singer",
+    "achievements": [
+      "Considered one of the greatest jazz vocalists of all time.",
+      "Won four Grammy Awards."
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1990
+  }
+]

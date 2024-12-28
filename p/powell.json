@@ -2,7 +2,8 @@
   {
     "fullName": "Colin Powell",
     "givenNames": [
-      "Colin"
+      "Colin",
+      "Luther"
     ],
     "familyName": "Powell",
     "wikipedia": "https://en.wikipedia.org/wiki/Colin_Powell",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1937,
     "yearDied": 2021
+  },
+  {
+    "fullName": "John Powell",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Powell_(composer)",
+    "occupation": "Film composer and conductor",
+    "achievements": [
+      "Academy Award nominee for Best Original Score",
+      "Known for composing music for films such as 'How to Train Your Dragon', 'Kung Fu Panda'",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1963
   }
 ]

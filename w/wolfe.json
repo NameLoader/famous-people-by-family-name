@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Wolfe",
+    "givenNames": [
+      "Thomas",
+      "Clayton"
+    ],
+    "familyName": "Wolfe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Wolfe",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Known for his sprawling novels like 'Look Homeward, Angel' and 'Of Time and the River'",
+      "Considered a key figure in Southern literature"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1938
+  }
+]

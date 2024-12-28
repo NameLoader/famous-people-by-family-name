@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1801,
     "yearDied": 1882
+  },
+  {
+    "fullName": "Stephen Perkins",
+    "givenNames": [
+      "Stephen",
+      "Andrew"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Perkins",
+    "occupation": "Drummer",
+    "achievements": [
+      "Known for his work with the band Jane's Addiction and other musical projects",
+      "Recognized for his powerful drumming style and eclectic musical influences"
+    ]
   }
 ]

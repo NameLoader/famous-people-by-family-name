@@ -43,5 +43,32 @@
       "Collaborator on numerous hit songs and albums"
     ],
     "yearBorn": 1972
+  },
+  {
+    "fullName": "Clive Owen",
+    "givenNames": [
+      "Clive"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clive_Owen",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for his role in 'Closer'.",
+      "Known for roles in films like 'Children of Men', 'King Arthur', and 'The Bourne Identity'."
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Gary Owen",
+    "givenNames": [
+      "Gary"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Owen_(comedian)",
+    "occupation": "Stand-up comedian, actor",
+    "achievements": [
+      "Known for his observational humor and relatable stories.",
+      "Appeared in films like 'Think Like a Man' and 'Ride Along'."
+    ]
   }
 ]

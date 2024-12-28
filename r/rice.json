@@ -13,5 +13,20 @@
       "First female African-American to hold the position of Secretary of State"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Jerry Rice",
+    "givenNames": [
+      "Jerry",
+      "Lee"
+    ],
+    "familyName": "Rice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Rice",
+    "occupation": "Former professional American football player",
+    "achievements": [
+      "Widely regarded as the greatest wide receiver in NFL history",
+      "Holds numerous NFL records, including most career receptions, receiving yards, and touchdowns"
+    ],
+    "yearBorn": 1962
   }
 ]

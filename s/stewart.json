@@ -1,0 +1,75 @@
+[
+  {
+    "fullName": "James Stewart",
+    "givenNames": [
+      "James",
+      "Maitland"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Known for roles in films like 'It's a Wonderful Life', 'Rear Window', and 'Vertigo'"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Rod Stewart",
+    "givenNames": [
+      "Rod",
+      "Roderick",
+      "David"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rod_Stewart",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for hits like 'Maggie May', 'Sailing', and 'Da Ya Think I'm Sexy?'"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Patrick Stewart",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles as Captain Jean-Luc Picard in 'Star Trek: The Next Generation' and Professor Charles Xavier in the 'X-Men' films"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "John Stewart",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Stewart",
+    "occupation": "Comedian, political commentator, television host",
+    "achievements": [
+      "Hosted 'The Daily Show' from 1999 to 2015"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Martha Stewart",
+    "givenNames": [
+      "Martha",
+      "Helen"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Stewart",
+    "occupation": "Businesswoman, television personality",
+    "achievements": [
+      "Founder of Martha Stewart Living Omnimedia",
+      "Known for her expertise in cooking, entertaining, and homemaking"
+    ],
+    "yearBorn": 1941
+  }
+]

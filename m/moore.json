@@ -1,6 +1,6 @@
 [
   {
-    "fullName": "Moore,  Michael",
+    "fullName": "Michael Moore",
     "givenNames": [
       "Michael",
       "Francis"
@@ -13,5 +13,34 @@
       "Awards include an Academy Award for 'Bowling for Columbine'."
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Alan Moore",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Moore",
+    "occupation": "Comic book writer",
+    "achievements": [
+      "Created Watchmen and V for Vendetta",
+      "Influential figure in the comic book industry"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Gordon Moore",
+    "givenNames": [
+      "Gordon",
+      "Earle"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Moore",
+    "occupation": "Engineer, Entrepreneur",
+    "achievements": [
+      "Co-founder of Intel",
+      "Formulated Moore's Law"
+    ],
+    "yearBorn": 1929
   }
 ]

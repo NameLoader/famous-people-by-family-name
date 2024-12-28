@@ -28,5 +28,37 @@
     ],
     "yearBorn": 1804,
     "yearDied": 1881
+  },
+  {
+    "fullName": "Glenn Gould",
+    "givenNames": [
+      "Glenn",
+      "Herbert"
+    ],
+    "familyName": "Gould",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Gould",
+    "occupation": "Pianist and Composer",
+    "achievements": [
+      "Renowned for his unique interpretations of Bach's music",
+      "Known for his eccentric personality and reclusiveness"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Stephen Jay Gould",
+    "givenNames": [
+      "Stephen",
+      "Jay"
+    ],
+    "familyName": "Gould",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Jay_Gould",
+    "occupation": "Paleontologist, Evolutionary Biologist and Science Writer",
+    "achievements": [
+      "Prominent advocate for evolutionary theory and punctuated equilibria",
+      "Author of popular science books like 'Wonderful Life'"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2002
   }
 ]

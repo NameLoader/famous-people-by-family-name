@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Frances Hodgson Burnett",
+    "givenNames": [
+      "Frances",
+      "Eliza",
+      "Hodgson"
+    ],
+    "familyName": "Burnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Author of classic children's novels such as 'A Little Princess' and 'The Secret Garden'",
+      "Prolific writer of novels, short stories, and plays"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1924
+  },
+  {
+    "fullName": "Mark Burnett",
+    "givenNames": [
+      "James",
+      "Mark"
+    ],
+    "familyName": "Burnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Burnett",
+    "occupation": "Television producer",
+    "achievements": [
+      "Created reality television shows like 'Survivor', 'The Apprentice', and 'Shark Tank'",
+      "Won multiple Emmy Awards for his work"
+    ],
+    "yearBorn": 1960
+  }
+]

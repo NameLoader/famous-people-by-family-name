@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Swan",
+    "givenNames": [
+      "John",
+      "William",
+      "David"
+    ],
+    "familyName": "Swan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Swan_(Bermudian_politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Premier of Bermuda from 1986 to 1995.",
+      "Led the Progressive Labour Party to its first electoral victory."
+    ],
+    "yearBorn": 1942
+  }
+]

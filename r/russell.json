@@ -16,5 +16,22 @@
     ],
     "yearBorn": 1872,
     "yearDied": 1970
+  },
+  {
+    "fullName": "George Russell",
+    "givenNames": [
+      "George",
+      "William"
+    ],
+    "familyName": "Russell",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_William_Russell",
+    "occupation": "Poet, painter, writer",
+    "achievements": [
+      "Key figure in the Irish Literary Revival",
+      "Known for his mystical and symbolic poetry",
+      "Influential art critic and promoter of Irish art"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1935
   }
 ]

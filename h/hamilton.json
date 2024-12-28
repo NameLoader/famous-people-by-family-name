@@ -14,5 +14,39 @@
     ],
     "yearBorn": 1755,
     "yearDied": 1804
+  },
+  {
+    "fullName": "Richard Hamilton",
+    "givenNames": [
+      "Richard",
+      "William"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Hamilton_(artist)",
+    "occupation": "Artist, Painter",
+    "achievements": [
+      "Pioneer of Pop Art",
+      "Known for his iconic painting 'Just What Is It That Makes Today's Homes So Different, So Appealing?'",
+      "Influenced generations of artists"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Lewis Hamilton",
+    "givenNames": [
+      "Lewis",
+      "Carl",
+      "Davidson"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
+    "occupation": "Formula One Racing Driver",
+    "achievements": [
+      "Seven-time Formula One World Champion",
+      "Most race wins in Formula One history",
+      "Known for his speed, skill, and activism"
+    ],
+    "yearBorn": 1985
   }
 ]

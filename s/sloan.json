@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Alfred P. Sloan Jr.",
+    "givenNames": [
+      "Alfred",
+      "Pritchard"
+    ],
+    "familyName": "Sloan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_P._Sloan_Jr.",
+    "occupation": "Business executive, engineer",
+    "achievements": [
+      "President of General Motors (1923-1946)",
+      "Developed the modern system of corporate management",
+      "Established Sloan Foundation"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1966
+  }
+]

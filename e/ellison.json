@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ralph Ellison",
+    "givenNames": [
+      "Ralph",
+      "Waldo"
+    ],
+    "familyName": "Ellison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Ellison",
+    "occupation": "Writer",
+    "achievements": [
+      "Author of the acclaimed novel Invisible Man",
+      "National Book Award winner",
+      "Pulitzer Prize nominee"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1994
+  }
+]

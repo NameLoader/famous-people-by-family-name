@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jerry Lawler",
+    "givenNames": [
+      "Jerry",
+      "O'Neil"
+    ],
+    "familyName": "Lawler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Lawler",
+    "occupation": "Professional wrestler, color commentator",
+    "achievements": [
+      "WWE Hall of Famer",
+      "Multiple-time world champion in various promotions",
+      "Known for his entertaining commentary and rivalry with Andy Kaufman"
+    ],
+    "yearBorn": 1949
+  }
+]

@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1728,
     "yearDied": 1779
+  },
+  {
+    "fullName": "Timothy Cook",
+    "givenNames": [
+      "Timothy",
+      "Donald"
+    ],
+    "familyName": "Cook",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Cook",
+    "occupation": "Business Executive",
+    "achievements": [
+      "CEO of Apple Inc.",
+      "Led Apple to become the world's most valuable company."
+    ],
+    "yearBorn": 1960
   }
 ]

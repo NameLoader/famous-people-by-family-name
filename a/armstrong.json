@@ -7,10 +7,12 @@
     ],
     "familyName": "Armstrong",
     "wikipedia": "https://en.wikipedia.org/wiki/Neil_Armstrong",
-    "occupation": "Astronaut, aeronautical engineer",
+    "occupation": "Astronaut, Engineer, Professor",
     "achievements": [
       "First person to walk on the Moon",
-      "Commander of Apollo 11 mission"
+      "Commander of Apollo 11 mission",
+      "Navy test pilot, Korean War veteran",
+      "Professor of Aerospace Engineering at University of Cincinnati"
     ],
     "yearBorn": 1930,
     "yearDied": 2012
@@ -23,7 +25,7 @@
     ],
     "familyName": "Armstrong",
     "wikipedia": "https://en.wikipedia.org/wiki/Louis_Armstrong",
-    "occupation": "Jazz musician, singer",
+    "occupation": "Jazz musician, Singer, Trumpeter",
     "achievements": [
       "Considered one of the most influential jazz musicians of all time",
       "Prolific trumpeter and vocalist",
@@ -43,8 +45,23 @@
     "occupation": "Retired professional cyclist",
     "achievements": [
       "Seven-time Tour de France winner (later stripped)",
-      "Cancer survivor and advocate"
+      "Cancer survivor and advocate",
+      "Later stripped of his titles due to doping violations"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Karen Armstrong",
+    "givenNames": [
+      "Karen"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Armstrong",
+    "occupation": "Author, Theologian, Philosopher",
+    "achievements": [
+      "Prolific writer on comparative religion and religious experience",
+      "Bestselling author of 'A History of God'"
+    ],
+    "yearBorn": 1944
   }
 ]

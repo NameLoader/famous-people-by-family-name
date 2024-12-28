@@ -2,7 +2,8 @@
   {
     "fullName": "Alexander Graham Bell",
     "givenNames": [
-      "Alexander"
+      "Alexander",
+      "Graham"
     ],
     "familyName": "Bell",
     "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
@@ -29,5 +30,36 @@
     ],
     "yearBorn": 1919,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Clive Bell",
+    "givenNames": [
+      "Clive",
+      "Arthur"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clive_Bell",
+    "occupation": "Art Critic, Writer",
+    "achievements": [
+      "Development of aesthetic theories",
+      "Influence on Modernist art movement"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Vanessa Bell",
+    "givenNames": [
+      "Vanessa"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanessa_Bell",
+    "occupation": "Painter, Interior Designer",
+    "achievements": [
+      "Member of the Bloomsbury Group",
+      "Known for her Post-Impressionist style"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1961
   }
 ]

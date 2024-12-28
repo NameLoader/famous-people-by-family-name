@@ -29,5 +29,35 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1973
+  },
+  {
+    "fullName": "Andrew Johnson",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Johnson",
+    "occupation": "Politician",
+    "achievements": [
+      "17th President of the United States",
+      "Vice President under Abraham Lincoln"
+    ],
+    "yearBorn": 1808,
+    "yearDied": 1875
+  },
+  {
+    "fullName": "Dwayne Johnson",
+    "givenNames": [
+      "Dwayne",
+      "Douglas"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+    "occupation": "Actor, Producer, Former Professional Wrestler",
+    "achievements": [
+      "Highest-paid actor in the world",
+      "Known for roles in Fast & Furious franchise, Jumanji, and Moana"
+    ],
+    "yearBorn": 1972
   }
 ]

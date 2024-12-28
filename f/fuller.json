@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1810,
     "yearDied": 1850
+  },
+  {
+    "fullName": "Andrew Fuller",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Fuller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fuller",
+    "occupation": "Baptist theologian",
+    "achievements": [
+      "Pioneer of the Particular Baptist movement",
+      "Authored influential theological works"
+    ],
+    "yearBorn": 1754,
+    "yearDied": 1815
   }
 ]

@@ -43,5 +43,51 @@
       "Contributions to condensed matter physics and theoretical solid state physics"
     ],
     "yearBorn": 1923
+  },
+  {
+    "fullName": "Mary Anderson",
+    "givenNames": [
+      "Mary",
+      "Elizabeth"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Anderson_(inventor)",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the first windshield wiper"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "Pamela Anderson",
+    "givenNames": [
+      "Pamela",
+      "Denise"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pamela_Anderson",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Starred in Baywatch",
+      "Known for her activism for animal rights and environmental causes"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Carl Anderson",
+    "givenNames": [
+      "Carl",
+      "David"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_David_Anderson",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1936 for his discovery of the positron",
+      "Made significant contributions to cosmic ray research"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1991
   }
 ]

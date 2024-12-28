@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1793,
     "yearDied": 1841
+  },
+  {
+    "fullName": "Peter Green",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Green_(musician)",
+    "occupation": "Guitarist, singer-songwriter",
+    "achievements": [
+      "Founder and lead guitarist of Fleetwood Mac during their early blues period",
+      "Influential figure in British blues rock"
+    ],
+    "yearBorn": 1946
   }
 ]

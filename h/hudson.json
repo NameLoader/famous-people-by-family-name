@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry Hudson",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Hudson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Hudson",
+    "occupation": "Explorer, navigator",
+    "achievements": [
+      "Explored the Arctic Ocean for England.",
+      "Discovered the Hudson River and Hudson Bay."
+    ],
+    "yearBorn": 1565,
+    "yearDied": 1611
+  }
+]

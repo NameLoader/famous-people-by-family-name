@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Morton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Morton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Morton_(cardinal)",
+    "occupation": "Cardinal",
+    "achievements": [
+      "Archbishop of Canterbury",
+      "Lord Chancellor of England",
+      "Key figure in the Wars of the Roses"
+    ],
+    "yearBorn": 1420,
+    "yearDied": 1500
+  }
+]

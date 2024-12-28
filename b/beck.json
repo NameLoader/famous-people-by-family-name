@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Glenn Beck",
+    "givenNames": [
+      "Glenn",
+      "Lee"
+    ],
+    "familyName": "Beck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Beck",
+    "occupation": "Conservative political commentator, radio host, television producer",
+    "achievements": [
+      "Hosted the nationally syndicated radio show 'The Glenn Beck Program'.",
+      "Founded the multimedia network TheBlaze."
+    ],
+    "yearBorn": 1964
+  }
+]

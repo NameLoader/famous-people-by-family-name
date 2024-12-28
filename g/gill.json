@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Gill",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Gill",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Gill_(astronomer)",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Royal Astronomer of Scotland",
+      "Director of the Royal Observatory, Edinburgh",
+      "Created the Cape Photographic Durchmusterung star catalogue"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1914
+  }
+]

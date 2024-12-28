@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jeffrey Archer",
+    "givenNames": [
+      "Jeffrey",
+      "Howard"
+    ],
+    "familyName": "Archer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
+    "occupation": "Novelist, politician",
+    "achievements": [
+      "Bestselling author of novels such as Kane and Abel and The First Lady",
+      "Former Member of Parliament in the United Kingdom"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "William Archer",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Archer",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Archer_(critic)",
+    "occupation": "Critic, playwright, translator",
+    "achievements": [
+      "Pioneer of dramatic criticism in England",
+      "Translated works by Henrik Ibsen and other Scandinavian playwrights"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1924
+  }
+]

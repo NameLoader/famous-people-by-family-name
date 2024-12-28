@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Clark",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Clark",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Clark",
+    "occupation": "Explorer, Soldier, Politician",
+    "achievements": [
+      "Co-leader of the Lewis and Clark Expedition",
+      "Governor of the Missouri Territory"
+    ],
+    "yearBorn": 1770,
+    "yearDied": 1838
+  }
+]

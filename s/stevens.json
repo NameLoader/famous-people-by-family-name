@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1879,
     "yearDied": 1955
+  },
+  {
+    "fullName": "John Stevens",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stevens_(inventor,_born_1749)",
+    "occupation": "Inventor, Engineer",
+    "achievements": [
+      "Designed and built the first commercially successful steam locomotive in the United States.",
+      "Helped develop the Hoboken waterfront."
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1838
   }
 ]

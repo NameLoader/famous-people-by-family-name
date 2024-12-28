@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1815,
     "yearDied": 1872
+  },
+  {
+    "fullName": "George Gordon Meade",
+    "givenNames": [
+      "George",
+      "Gordon"
+    ],
+    "familyName": "Meade",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Meade",
+    "occupation": "Union general during the American Civil War",
+    "achievements": [
+      "Victorious commander at the Battle of Gettysburg",
+      "Known for his cautious and methodical approach to warfare"
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1872
   }
 ]

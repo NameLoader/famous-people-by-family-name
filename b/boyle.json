@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1627,
     "yearDied": 1691
+  },
+  {
+    "fullName": "Susan Boyle",
+    "givenNames": [
+      "Susan",
+      "Magdalane"
+    ],
+    "familyName": "Boyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Boyle",
+    "occupation": "Singer",
+    "achievements": [
+      "Rose to fame after appearing on Britain's Got Talent in 2009",
+      "Known for her powerful voice and inspiring story",
+      "Released multiple successful albums"
+    ],
+    "yearBorn": 1961
   }
 ]

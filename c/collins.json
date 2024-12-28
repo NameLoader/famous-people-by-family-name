@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Michael Collins",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Collins_(astronaut)",
+    "occupation": "Astronaut",
+    "achievements": [
+      "Apollo 11 astronaut",
+      "First person to orbit the Moon alone"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Judith Collins",
+    "givenNames": [
+      "Judith",
+      "Anne"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Collins",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Leader of the New Zealand National Party"
+    ],
+    "yearBorn": 1959
+  }
+]

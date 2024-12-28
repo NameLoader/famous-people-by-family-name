@@ -14,5 +14,34 @@
     ],
     "yearBorn": 1729,
     "yearDied": 1797
+  },
+  {
+    "fullName": "Brian Burke",
+    "givenNames": [
+      "Brian",
+      "P"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Burke_(ice_hockey)",
+    "occupation": "Ice hockey executive",
+    "achievements": [
+      "Former general manager of several NHL teams.",
+      "Known for his shrewd drafting and trades."
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "William Burke",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Burke_(Burke_and_Hare_murders)",
+    "occupation": "Murderer (historical figure)",
+    "achievements": [
+      "Infamous for his involvement in the Burke and Hare murders in Edinburgh."
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1829
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Malcolm Forbes",
+    "givenNames": [
+      "Malcolm",
+      "Stevenson"
+    ],
+    "familyName": "Forbes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Forbes",
+    "occupation": "Publisher, businessman",
+    "achievements": [
+      "Chairman and Editor-in-Chief of Forbes magazine",
+      "Known for his lavish lifestyle and political activism"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1990
+  }
+]

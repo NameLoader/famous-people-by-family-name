@@ -15,5 +15,21 @@
       "White House Chief of Staff (1970-1973)"
     ],
     "yearBorn": 1930
+  },
+  {
+    "fullName": "Ella Baker",
+    "givenNames": [
+      "Ella",
+      "Josephine"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ella_Baker",
+    "occupation": "Civil Rights Activist",
+    "achievements": [
+      "Key figure in the Civil Rights Movement",
+      "Organized grassroots movements and mentored activists like Martin Luther King Jr. and Stokely Carmichael"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1986
   }
 ]

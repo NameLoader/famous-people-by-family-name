@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Steele",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Steele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Steele",
+    "occupation": "Writer, essayist, politician",
+    "achievements": [
+      "Co-founded the Spectator magazine",
+      "Wrote influential essays on morality and society",
+      "Served as a Member of Parliament"
+    ],
+    "yearBorn": 1672,
+    "yearDied": 1729
+  }
+]

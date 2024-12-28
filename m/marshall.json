@@ -2,8 +2,7 @@
   {
     "fullName": "Thurgood Marshall",
     "givenNames": [
-      "Thoroughgood",
-      "Thurgood"
+      "Thoroughgood"
     ],
     "familyName": "Marshall",
     "wikipedia": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
@@ -14,5 +13,22 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1993
+  },
+  {
+    "fullName": "George Marshall",
+    "givenNames": [
+      "George",
+      "Catlett"
+    ],
+    "familyName": "Marshall",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_C._Marshall",
+    "occupation": "Military leader, statesman",
+    "achievements": [
+      "Chief of Staff of the U.S. Army during World War II",
+      "Secretary of State and Secretary of Defense",
+      "Creator of the Marshall Plan to rebuild Europe after World War II"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1959
   }
 ]

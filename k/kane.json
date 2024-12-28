@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sarah Kane",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Kane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Kane",
+    "occupation": "Playwright",
+    "achievements": [
+      "Known for her controversial and experimental plays exploring themes of sexuality, violence, and despair.",
+      "Influential figure in the British theatre scene."
+    ],
+    "yearBorn": 1971,
+    "yearDied": 1999
+  }
+]

@@ -15,5 +15,36 @@
       "Known for his distinctive voice and songwriting about social and political issues"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Brigham Young",
+    "givenNames": [
+      "Brigham"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brigham_Young",
+    "occupation": "Religious leader, pioneer",
+    "achievements": [
+      "Second President of the Church of Jesus Christ of Latter-day Saints",
+      "Led the Mormon pioneers to Utah"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1877
+  },
+  {
+    "fullName": "Andrew Young",
+    "givenNames": [
+      "Andrew",
+      "Jackson"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Young",
+    "occupation": "Politician, diplomat, civil rights activist",
+    "achievements": [
+      "U.S. Ambassador to the United Nations",
+      "Mayor of Atlanta, Georgia",
+      "Key figure in the Civil Rights Movement"
+    ],
+    "yearBorn": 1932
   }
 ]

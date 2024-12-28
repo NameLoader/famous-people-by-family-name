@@ -28,5 +28,22 @@
     ],
     "yearBorn": 1847,
     "yearDied": 1882
+  },
+  {
+    "fullName": "LeBron James",
+    "givenNames": [
+      "LeBron",
+      "Raymone"
+    ],
+    "familyName": "James",
+    "wikipedia": "https://en.wikipedia.org/wiki/LeBron_James",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "4x NBA Champion",
+      "4x NBA MVP",
+      "4x NBA Finals MVP",
+      "19x NBA All-Star"
+    ],
+    "yearBorn": 1984
   }
 ]

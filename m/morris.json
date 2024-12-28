@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1834,
     "yearDied": 1896
+  },
+  {
+    "fullName": "Terence Morris",
+    "givenNames": [
+      "Terence",
+      "Darea"
+    ],
+    "familyName": "Morris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_Morris",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Played college basketball at the University of Maryland",
+      "Drafted by the NBA's Houston Rockets in 2001"
+    ],
+    "yearBorn": 1979
   }
 ]

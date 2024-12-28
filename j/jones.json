@@ -12,5 +12,53 @@
       "Author of several books on politics and social issues"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Sir Tom Jones",
+    "givenNames": [
+      "Tom",
+      "Thomas"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Jones_(singer)",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "Grammy Award winner",
+      "Brit Award winner",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "James Earl Jones",
+    "givenNames": [
+      "James",
+      "Earl"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Earl_Jones",
+    "occupation": "Actor, Voice Actor",
+    "achievements": [
+      "Tony Award winner",
+      "Grammy Award winner",
+      "Academy Honorary Award recipient"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Quincy Jones",
+    "givenNames": [
+      "Quincy",
+      "Delight"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quincy_Jones",
+    "occupation": "Musician, Composer, Producer",
+    "achievements": [
+      "28 Grammy Awards",
+      "Emmy Award winner",
+      "Academy Honorary Award recipient"
+    ],
+    "yearBorn": 1933
   }
 ]

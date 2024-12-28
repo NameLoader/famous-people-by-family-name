@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Charles Parker",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Parker",
+    "occupation": "Jazz saxophonist and composer",
+    "achievements": [
+      "Considered one of the founders of bebop jazz.",
+      "Innovative improvisational style influenced generations of musicians."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Sarah Jessica Parker",
+    "givenNames": [
+      "Sarah",
+      "Jessica"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Jessica_Parker",
+    "occupation": "Actress and producer",
+    "achievements": [
+      "Known for her role as Carrie Bradshaw in the HBO series \"Sex and the City.\"",
+      "Won four Golden Globe Awards and three Emmy Awards."
+    ],
+    "yearBorn": 1965
+  }
+]

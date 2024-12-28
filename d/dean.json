@@ -15,5 +15,36 @@
     ],
     "yearBorn": 1931,
     "yearDied": 1955
+  },
+  {
+    "fullName": "Howard Dean",
+    "givenNames": [
+      "Howard",
+      "Brush"
+    ],
+    "familyName": "Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Dean",
+    "occupation": "Physician, Politician",
+    "achievements": [
+      "Governor of Vermont (1991-2003)",
+      "Chair of the Democratic National Committee (2005-2009)",
+      "Ran for President in 2004"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "John Dean",
+    "givenNames": [
+      "John",
+      "Wesley"
+    ],
+    "familyName": "Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_W._Dean",
+    "occupation": "Lawyer",
+    "achievements": [
+      "White House Counsel during the Nixon administration",
+      "Key witness in the Watergate scandal"
+    ],
+    "yearBorn": 1938
   }
 ]

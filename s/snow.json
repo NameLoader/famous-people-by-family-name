@@ -28,5 +28,18 @@
     ],
     "yearBorn": 1813,
     "yearDied": 1858
+  },
+  {
+    "fullName": "Jon Snow",
+    "givenNames": [
+      "Jon"
+    ],
+    "familyName": "Snow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Snow_(character)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the fantasy novel series 'A Song of Ice and Fire' by George R.R. Martin.",
+      "Known for his heroism, honor, and resilience."
+    ]
   }
 ]

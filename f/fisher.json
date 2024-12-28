@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1956,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Irving Fisher",
+    "givenNames": [
+      "Irving"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Fisher",
+    "occupation": "Economist",
+    "achievements": [
+      "Developed the Fisher equation relating nominal interest rates to real interest rates and inflation",
+      "Contributed significantly to econometrics and monetary theory"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1947
   }
 ]

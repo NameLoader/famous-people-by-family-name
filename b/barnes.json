@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Barnes",
+    "givenNames": [
+      "John",
+      "Charles",
+      "Bryan"
+    ],
+    "familyName": "Barnes",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Barnes_(footballer)",
+    "occupation": "Footballer (soccer player)",
+    "achievements": [
+      "Played for Liverpool FC and the England national team",
+      "Known for his technical skills and passing ability"
+    ],
+    "yearBorn": 1963
+  }
+]

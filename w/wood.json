@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Grant Wood",
+    "givenNames": [
+      "Grant",
+      "DeVolson"
+    ],
+    "familyName": "Wood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grant_Wood",
+    "occupation": "Painter",
+    "achievements": [
+      "Best known for his painting 'American Gothic'",
+      "Pioneer of Regionalism in American art"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1942
+  }
+]

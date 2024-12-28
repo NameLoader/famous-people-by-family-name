@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "James Leach",
+    "givenNames": [
+      "James",
+      "Albert",
+      "Smith"
+    ],
+    "familyName": "Leach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Leach",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a U.S. Representative from Iowa for 30 years (1977-2007)",
+      "Chairman of the House Committee on Banking and Financial Services",
+      "Known for his bipartisan approach and expertise in financial policy"
+    ],
+    "yearBorn": 1942
+  }
+]

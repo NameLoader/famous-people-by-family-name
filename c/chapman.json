@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1774,
     "yearDied": 1845
+  },
+  {
+    "fullName": "Graham Chapman",
+    "givenNames": [
+      "Graham"
+    ],
+    "familyName": "Chapman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Chapman",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Member of the Monty Python comedy troupe",
+      "Starred in films like 'Monty Python and the Holy Grail' and 'Life of Brian'"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1989
   }
 ]

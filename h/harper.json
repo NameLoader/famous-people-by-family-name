@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Stephen Harper",
+    "givenNames": [
+      "Stephen",
+      "Joseph"
+    ],
+    "familyName": "Harper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Harper",
+    "occupation": "Politician",
+    "achievements": [
+      "22nd Prime Minister of Canada (2006-2015)",
+      "Leader of the Conservative Party of Canada"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Keith Harper",
+    "givenNames": [
+      "Keith",
+      "Michael"
+    ],
+    "familyName": "Harper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Harper_(lawyer)",
+    "occupation": "Lawyer, diplomat",
+    "achievements": [
+      "United States Ambassador to the United Nations Human Rights Council (2013-2017)",
+      "Advocate for indigenous rights and environmental justice"
+    ],
+    "yearBorn": 1965
+  }
+]

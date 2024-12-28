@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Alex Ross",
+    "givenNames": [
+      "Nelson",
+      "Alexander"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Ross_(comics)",
+    "occupation": "Comic Book Artist",
+    "achievements": [
+      "Known for his hyper-realistic painting style in comics.",
+      "Worked on iconic titles like 'Kingdom Come', 'Marvels' and 'Superman: Peacemaker'."
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Diana Ross",
+    "givenNames": [
+      "Diana"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana_Ross",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Lead singer of The Supremes, one of the most successful Motown groups.",
+      "Highly successful solo career with hits like 'Ain't No Mountain High Enough' and 'Upside Down'."
+    ],
+    "yearBorn": 1944
+  }
+]

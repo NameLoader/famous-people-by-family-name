@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "John Ball",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ball_(priest)",
+    "occupation": "Religious reformer, Lollard priest",
+    "achievements": [
+      "Key figure in the Peasants' Revolt of 1381.",
+      "Advocate for social and religious equality."
+    ],
+    "yearBorn": 1338,
+    "yearDied": 1361
+  },
+  {
+    "fullName": "Michael Ball",
+    "givenNames": [
+      "Michael",
+      "Ashley"
+    ],
+    "familyName": "Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Ball",
+    "occupation": "Actor, singer, presenter",
+    "achievements": [
+      "Starred in numerous West End musicals.",
+      "Hosted popular television shows like 'The National Lottery'."
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Lucy Ball",
+    "givenNames": [
+      "Lucille",
+      "Désirée"
+    ],
+    "familyName": "Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Ball",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Pioneer of television comedy with 'I Love Lucy'.",
+      "Recipient of numerous awards including Emmy Awards and Golden Globe Awards."
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1989
+  }
+]

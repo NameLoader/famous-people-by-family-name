@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Charles Beard",
+    "givenNames": [
+      "Charles",
+      "Austin"
+    ],
+    "familyName": "Beard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_A._Beard",
+    "occupation": "Historian, political scientist",
+    "achievements": [
+      "Prominent Progressive Era historian",
+      "Known for his influential works on American constitutional history and the role of economic interests in shaping politics."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Mary Beard",
+    "givenNames": [
+      "Winifred",
+      "Mary"
+    ],
+    "familyName": "Beard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Beard_(classicist)",
+    "occupation": "Classicist, historian, television presenter",
+    "achievements": [
+      "Professor of Classics at the University of Cambridge",
+      "Highly regarded for her accessible and engaging scholarship on Roman history and culture",
+      "Frequent contributor to radio and television programs, popularizing classical studies for a wider audience."
+    ],
+    "yearBorn": 1955
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Arnold Palmer",
+    "givenNames": [
+      "Arnold",
+      "Daniel"
+    ],
+    "familyName": "Palmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Palmer",
+    "occupation": "Golfer",
+    "achievements": [
+      "Won 7 Major championships",
+      "Considered one of the greatest golfers of all time",
+      "Popularized and modernized the game of golf"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2016
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Richard Montgomery",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Montgomery",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Montgomery",
+    "occupation": "Military Officer",
+    "achievements": [
+      "Major General in the Continental Army during the American Revolutionary War",
+      "Led the failed invasion of Quebec in 1775"
+    ],
+    "yearBorn": 1738,
+    "yearDied": 1775
+  },
+  {
+    "fullName": "Elizabeth Montgomery",
+    "givenNames": [
+      "Elizabeth",
+      "Victoria"
+    ],
+    "familyName": "Montgomery",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Montgomery",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Samantha Stephens in the television sitcom 'Bewitched'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1995
+  }
+]

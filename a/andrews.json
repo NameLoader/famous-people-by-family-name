@@ -14,5 +14,19 @@
       "Star on the Hollywood Walk of Fame"
     ],
     "yearBorn": 1935
+  },
+  {
+    "fullName": "Thomas Andrews",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Andrews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Andrews_(shipbuilder)",
+    "occupation": "Shipbuilder",
+    "achievements": [
+      "Designed the RMS Titanic"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1912
   }
 ]

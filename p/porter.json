@@ -1,8 +1,9 @@
 [
   {
-    "fullName": "Katharine Porter",
+    "fullName": "Katherine Anne Porter",
     "givenNames": [
-      "Katharine"
+      "Katherine",
+      "Anne"
     ],
     "familyName": "Porter",
     "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Anne_Porter",
@@ -14,5 +15,21 @@
     ],
     "yearBorn": 1890,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Cole Porter",
+    "givenNames": [
+      "Cole",
+      "Albert"
+    ],
+    "familyName": "Porter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cole_Porter",
+    "occupation": "Composer, songwriter",
+    "achievements": [
+      "Wrote iconic musicals such as Anything Goes and Kiss Me, Kate.",
+      "Known for his sophisticated lyrics and memorable melodies."
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1964
   }
 ]

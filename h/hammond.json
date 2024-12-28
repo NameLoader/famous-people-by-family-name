@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "John Hammond",
+    "givenNames": [
+      "John",
+      "Henry"
+    ],
+    "familyName": "Hammond",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hammond_(record_producer)",
+    "occupation": "Record producer, A&R executive",
+    "achievements": [
+      "Discovered and promoted artists like Aretha Franklin, Bruce Springsteen, and Bob Dylan",
+      "Influential figure in the development of rhythm and blues and rock music"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Richard Hammond",
+    "givenNames": [
+      "Richard",
+      "Mark"
+    ],
+    "familyName": "Hammond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Hammond",
+    "occupation": "Television presenter, journalist",
+    "achievements": [
+      "Co-host of the popular car show 'Top Gear'",
+      "Known for his humor and daredevil stunts"
+    ],
+    "yearBorn": 1969
+  }
+]

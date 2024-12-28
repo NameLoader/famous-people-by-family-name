@@ -13,5 +13,19 @@
       "Recipient of numerous awards including MTV Movie Award nominations"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "George Reeves",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Reeves",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Reeves",
+    "occupation": "Actor",
+    "achievements": [
+      "Best known for portraying Superman in the television series 'Adventures of Superman' (1952-1958)."
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1959
   }
 ]

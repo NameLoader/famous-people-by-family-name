@@ -13,5 +13,36 @@
       "Known for his bleak and powerful novels often set in the American West"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Joseph McCarthy",
+    "givenNames": [
+      "Joseph",
+      "Raymond"
+    ],
+    "familyName": "McCarthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_McCarthy",
+    "occupation": "Politician",
+    "achievements": [
+      "Wisconsin Senator known for his anti-communist crusade in the 1950s"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1957
+  },
+  {
+    "fullName": "Mary McCarthy",
+    "givenNames": [
+      "Mary",
+      "Therese"
+    ],
+    "familyName": "McCarthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_McCarthy_(author)",
+    "occupation": "Novelist, Critic, Essayist",
+    "achievements": [
+      "Known for novels like 'The Group' and 'Birds of America'",
+      "Prominent literary critic and essayist"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1989
   }
 ]

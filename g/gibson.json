@@ -13,5 +13,49 @@
       "Known for novels like Neuromancer, Count Zero, and Mona Lisa Overdrive"
     ],
     "yearBorn": 1948
+  },
+  {
+    "fullName": "Mel Gibson",
+    "givenNames": [
+      "Mel",
+      "Columcille",
+      "Gerard"
+    ],
+    "familyName": "Gibson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Gibson",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Academy Award for Best Director (Braveheart)",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Henry Gibson",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Gibson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Gibson",
+    "occupation": "Actor, Comedian",
+    "achievements": [
+      "Known for his work on Rowan & Martin's Laugh-In"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Thomas Gibson",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Gibson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gibson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Greg Montgomery in the sitcom Dharma & Greg",
+      "Starred in Criminal Minds"
+    ],
+    "yearBorn": 1962
   }
 ]

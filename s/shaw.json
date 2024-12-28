@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1856,
     "yearDied": 1950
+  },
+  {
+    "fullName": "Robert Shaw",
+    "givenNames": [
+      "Robert",
+      "Archibald"
+    ],
+    "familyName": "Shaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Shaw_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Jaws, The Sting, and From Russia with Love"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1978
   }
 ]

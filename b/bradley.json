@@ -12,5 +12,21 @@
       "Played in the MLS and UEFA Champions League"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Owen Bradley",
+    "givenNames": [
+      "Owen",
+      "William"
+    ],
+    "familyName": "Bradley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Bradley",
+    "occupation": "Record producer",
+    "achievements": [
+      "Inducted into the Country Music Hall of Fame (1983)",
+      "Produced records for Patsy Cline, Loretta Lynn, and other country music legends"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1997
   }
 ]

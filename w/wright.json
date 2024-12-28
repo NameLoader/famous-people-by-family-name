@@ -32,5 +32,35 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1960
+  },
+  {
+    "fullName": "Orville Wright",
+    "givenNames": [
+      "Orville"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orville_Wright",
+    "occupation": "Aviator, Inventor",
+    "achievements": [
+      "Along with his brother Wilbur, credited with inventing and building the world's first successful airplane and making the first controlled, powered and sustained heavier-than-air human flight",
+      "Pioneer in aeronautics and aviation"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Wilbur Wright",
+    "givenNames": [
+      "Wilbur"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilbur_Wright",
+    "occupation": "Aviator, Inventor",
+    "achievements": [
+      "Along with his brother Orville, credited with inventing and building the world's first successful airplane and making the first controlled, powered and sustained heavier-than-air human flight",
+      "Pioneer in aeronautics and aviation"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1912
   }
 ]

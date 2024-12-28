@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Alcock",
+    "givenNames": [
+      "John",
+      "William"
+    ],
+    "familyName": "Alcock",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Alcock_(RAF_officer)",
+    "occupation": "Aviator",
+    "achievements": [
+      "First non-stop transatlantic flight (with Arthur Whitten Brown)"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1919
+  }
+]

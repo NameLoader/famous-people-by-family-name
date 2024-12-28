@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Mel Brooks",
+    "givenNames": [
+      "Melvin",
+      "James"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Brooks",
+    "occupation": "Filmmaker, comedian, actor",
+    "achievements": [
+      "Won an Academy Award for Best Original Screenplay for The Producers (1967)",
+      "Directed and produced numerous iconic comedy films like Blazing Saddles, Young Frankenstein, and Spaceballs",
+      "A recipient of the Kennedy Center Honors and Presidential Medal of Freedom"
+    ],
+    "yearBorn": 1926
+  },
+  {
+    "fullName": "David Brooks",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Brooks_(columnist)",
+    "occupation": "Columnist, author",
+    "achievements": [
+      "Op-Ed columnist for The New York Times",
+      "Author of several best-selling books on social and political issues, including 'The Road to Character'",
+      "Frequent commentator on current affairs and public policy"
+    ],
+    "yearBorn": 1961
+  }
+]

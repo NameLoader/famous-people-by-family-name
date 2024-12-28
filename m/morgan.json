@@ -2,6 +2,7 @@
   {
     "fullName": "Dean Morgan",
     "givenNames": [
+      "Jeffrey",
       "Dean"
     ],
     "familyName": "Morgan",
@@ -11,5 +12,20 @@
       "Known for roles in films such as The Watchmen and Supernatural."
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Henry Morgan",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Morgan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Morgan",
+    "occupation": "Privateer and pirate",
+    "achievements": [
+      "Raided Spanish colonies in the Caribbean",
+      "Became a governor of Jamaica"
+    ],
+    "yearBorn": 1635,
+    "yearDied": 1688
   }
 ]

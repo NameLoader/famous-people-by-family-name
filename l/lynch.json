@@ -13,5 +13,21 @@
       "Won the Palme d'Or at the Cannes Film Festival for 'Wild at Heart'."
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Kevin Lynch",
+    "givenNames": [
+      "Kevin",
+      "Andrew"
+    ],
+    "familyName": "Lynch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_A._Lynch",
+    "occupation": "Urban planner, architect",
+    "achievements": [
+      "Developed the concept of imageability in urban design",
+      "Authored influential books on city planning"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1984
   }
 ]

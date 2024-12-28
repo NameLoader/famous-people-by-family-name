@@ -13,5 +13,21 @@
       "Recipient of numerous awards including the Presidential Medal of Freedom."
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Miles Copeland III",
+    "givenNames": [
+      "Miles",
+      "Axe",
+      "III"
+    ],
+    "familyName": "Copeland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Copeland_III",
+    "occupation": "Music Manager, Record Producer",
+    "achievements": [
+      "Managed bands like The Police and Sting",
+      "Founded the record label IRS Records"
+    ],
+    "yearBorn": 1944
   }
 ]

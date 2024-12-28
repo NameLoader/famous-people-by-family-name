@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Elizabeth Bishop",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Bishop",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Bishop",
+    "occupation": "Poet",
+    "achievements": [
+      "Pulitzer Prize for Poetry",
+      "National Book Award"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "John Bishop",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Bishop",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bishop_(comedian)",
+    "occupation": "Comedian, Actor, Presenter",
+    "achievements": [
+      "Multiple British Comedy Awards nominations",
+      "Successful stand-up tours and television shows"
+    ],
+    "yearBorn": 1966
+  }
+]

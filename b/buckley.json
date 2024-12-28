@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William F. Buckley Jr.",
+    "givenNames": [
+      "William",
+      "Frank"
+    ],
+    "familyName": "Buckley",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_F._Buckley_Jr.",
+    "occupation": "Writer, commentator, political activist",
+    "achievements": [
+      "Founder of National Review magazine",
+      "Hosted Firing Line, a long-running television debate program",
+      "Authored numerous books on politics and culture"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2008
+  }
+]

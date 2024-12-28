@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Blount",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Blount",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Blount",
+    "occupation": "Politician",
+    "achievements": [
+      "Signer of the United States Constitution",
+      "United States Senator from North Carolina"
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1800
+  }
+]

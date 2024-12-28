@@ -12,5 +12,22 @@
       "Activist for social justice, known for her work on prison abolition and anti-racism."
     ],
     "yearBorn": 1944
+  },
+  {
+    "fullName": "Miles Davis",
+    "givenNames": [
+      "Miles",
+      "Dewey"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Davis",
+    "occupation": "Jazz musician, composer, bandleader",
+    "achievements": [
+      "Influential jazz trumpeter and bandleader",
+      "Pioneer of bebop, cool jazz, modal jazz, and fusion",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1991
   }
 ]

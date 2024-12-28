@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "John Lawson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Lawson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lawson_(explorer)",
+    "occupation": "Explorer, cartographer, surveyor",
+    "achievements": [
+      "Explored and mapped the Carolina colonies",
+      "Author of 'A New Voyage to Carolina'"
+    ],
+    "yearBorn": 1674,
+    "yearDied": 1711
+  },
+  {
+    "fullName": "Thomas Lawson",
+    "givenNames": [
+      "Thomas",
+      "William"
+    ],
+    "familyName": "Lawson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_W._Lawson_(businessman)",
+    "occupation": "Financier, writer",
+    "achievements": [
+      "Known for his controversial and risky financial dealings",
+      "Author of 'Frenzied Finance'"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1933
+  }
+]

@@ -2,7 +2,7 @@
   {
     "fullName": "Sir Isaac Newton",
     "givenNames": [
-      "Sir Isaac"
+      "Isaac"
     ],
     "familyName": "Newton",
     "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
@@ -30,5 +30,19 @@
     ],
     "yearBorn": 1725,
     "yearDied": 1807
+  },
+  {
+    "fullName": "Alfred Newton",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Newton",
+    "occupation": "Zoologist",
+    "achievements": [
+      "Studies on Birds and Reptiles"
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1907
   }
 ]

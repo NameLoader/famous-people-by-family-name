@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Tobin",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Tobin",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Tobin",
+    "occupation": "Economist",
+    "achievements": [
+      "Won the Nobel Memorial Prize in Economic Sciences in 1981",
+      "Known for his work on macroeconomic theory and policy, particularly the Tobin tax"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2002
+  }
+]

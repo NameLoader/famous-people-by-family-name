@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Billy Graham",
+    "givenNames": [
+      "William",
+      "Franklin"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Graham",
+    "occupation": "Evangelist",
+    "achievements": [
+      "Preached to millions worldwide",
+      "Spiritual advisor to US presidents"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Martha Graham",
+    "givenNames": [
+      "Martha"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Graham",
+    "occupation": "Dancer, choreographer",
+    "achievements": [
+      "Pioneer of modern dance",
+      "Founded the Martha Graham Dance Company"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Benjamin Graham",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Graham",
+    "occupation": "Investor, economist, professor",
+    "achievements": [
+      "Considered the 'Father of Value Investing'",
+      "Authored influential books like 'The Intelligent Investor'"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1976
+  }
+]

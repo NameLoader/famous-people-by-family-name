@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Iain Banks",
+    "givenNames": [
+      "Iain"
+    ],
+    "familyName": "Banks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iain_Banks",
+    "occupation": "Author",
+    "achievements": [
+      "Science fiction and mainstream novelist",
+      "Known for the Culture series of novels"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2013
+  }
+]

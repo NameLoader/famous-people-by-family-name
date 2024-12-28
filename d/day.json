@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Doris Day",
+    "givenNames": [
+      "Doris"
+    ],
+    "familyName": "Day",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doris_Day",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "One of the biggest box-office draws of the 1950s and 1960s.",
+      "Starred in classic films like 'Calamity Jane' and 'Pillow Talk'.",
+      "Recorded numerous hit songs."
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Dorothy Day",
+    "givenNames": [
+      "Dorothy"
+    ],
+    "familyName": "Day",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Day",
+    "occupation": "Journalist, social activist, Catholic Worker Movement founder",
+    "achievements": [
+      "Founded the Catholic Worker Movement, a pacifist and social justice organization",
+      "Advocate for the poor and marginalized",
+      "Nominated for the Nobel Peace Prize"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1980
+  }
+]

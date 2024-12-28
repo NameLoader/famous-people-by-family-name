@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Mario Lopez",
+    "givenNames": [
+      "Mario"
+    ],
+    "familyName": "Lopez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Lopez",
+    "occupation": "Actor, Television Host",
+    "achievements": [
+      "Known for roles in 'Saved by the Bell' and 'Extra'",
+      "Successful author and entrepreneur"
+    ],
+    "yearBorn": 1973
+  }
+]

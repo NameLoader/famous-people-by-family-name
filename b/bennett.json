@@ -29,5 +29,21 @@
       "Conservative commentator and author"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Joan Bennett",
+    "givenNames": [
+      "Joan",
+      "Geraldine"
+    ],
+    "familyName": "Bennett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Bennett",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films such as 'Little Women' and 'Black Dahlia'",
+      "Appeared on Broadway and television"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1990
   }
 ]

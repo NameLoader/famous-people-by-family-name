@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Brooke Shields",
+    "givenNames": [
+      "Brooke",
+      "Christa"
+    ],
+    "familyName": "Shields",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooke_Shields",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Started modeling at 11 months old",
+      "Starred in films like 'The Blue Lagoon' and 'Pretty Baby'",
+      "Appeared in numerous television shows and Broadway productions"
+    ],
+    "yearBorn": 1965
+  }
+]

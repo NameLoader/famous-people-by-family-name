@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Winona Ryder",
+    "givenNames": [
+      "Winona",
+      "Laura"
+    ],
+    "familyName": "Ryder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winona_Ryder",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress in 'Little Women'",
+      "Golden Globe Award win for Best Supporting Actress in 'Girl, Interrupted'"
+    ],
+    "yearBorn": 1971
+  }
+]

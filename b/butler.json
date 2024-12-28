@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Joseph Butler",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Butler",
+    "occupation": "Philosopher, theologian",
+    "achievements": [
+      "Developed the theory of moral sense",
+      "Wrote influential works on ethics and religion"
+    ],
+    "yearBorn": 1692,
+    "yearDied": 1752
+  }
+]

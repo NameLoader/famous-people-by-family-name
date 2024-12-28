@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "James Dolan",
+    "givenNames": [
+      "James",
+      "Lawrence"
+    ],
+    "familyName": "Dolan",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_L._Dolan",
+    "occupation": "Businessman",
+    "achievements": [
+      "Executive Chairman and CEO of Madison Square Garden Sports",
+      "Owner of the New York Knicks and New York Rangers"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Charles Dolan",
+    "givenNames": [
+      "Charles",
+      "Francis"
+    ],
+    "familyName": "Dolan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_F._Dolan",
+    "occupation": "Businessman, Media executive",
+    "achievements": [
+      "Founder of Cablevision",
+      "Pioneer in the cable television industry"
+    ],
+    "yearBorn": 1932
+  }
+]

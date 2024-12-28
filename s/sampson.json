@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Sampson",
+    "givenNames": [
+      "John",
+      "L"
+    ],
+    "familyName": "Sampson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_L._Sampson",
+    "occupation": "Politician",
+    "achievements": [
+      "Served in the New York State Senate from 1996 to 2015",
+      "Convicted of corruption charges"
+    ],
+    "yearBorn": 1965
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Mahoney",
+    "givenNames": [
+      "John",
+      "Charles"
+    ],
+    "familyName": "Mahoney",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mahoney",
+    "occupation": "Actor",
+    "achievements": [
+      "Best known for his role as Martin Crane's father on the sitcom 'Frasier'.",
+      "Won a Tony Award for his performance in the play 'The House of Blue Leaves'."
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2018
+  }
+]

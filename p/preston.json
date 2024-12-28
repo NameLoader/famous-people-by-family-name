@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Douglas Preston",
+    "givenNames": [
+      "Douglas",
+      "Jerome"
+    ],
+    "familyName": "Preston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Preston",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of thriller novels and non-fiction books",
+      "Known for collaborations with Lincoln Child"
+    ],
+    "yearBorn": 1956
+  }
+]

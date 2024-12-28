@@ -17,5 +17,21 @@
     ],
     "yearBorn": 1978,
     "yearDied": 2020
+  },
+  {
+    "fullName": "William Cullen Bryant",
+    "givenNames": [
+      "William",
+      "Cullen"
+    ],
+    "familyName": "Bryant",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Cullen_Bryant",
+    "occupation": "Poet, journalist, and editor",
+    "achievements": [
+      "Considered one of the leading American poets of his time.",
+      "Founder and editor of the New York Evening Post."
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1878
   }
 ]

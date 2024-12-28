@@ -14,5 +14,17 @@
     ],
     "yearBorn": 1914,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Robert Townsend",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Townsend",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Townsend_(actor)",
+    "occupation": "Actor, director, writer",
+    "achievements": [
+      "Known for his work in comedy and film"
+    ]
   }
 ]

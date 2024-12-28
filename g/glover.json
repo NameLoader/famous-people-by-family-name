@@ -13,5 +13,38 @@
       "Founder of the Glover Family Foundation."
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Donald Glover",
+    "givenNames": [
+      "Donald",
+      "McKinley"
+    ],
+    "familyName": "Glover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Glover",
+    "occupation": "Actor, Musician, Writer, Comedian",
+    "achievements": [
+      "Grammy Award winner for Best Traditional R&B Performance",
+      "Emmy Award winner for Outstanding Lead Actor in a Comedy Series",
+      "Starred in the television series 'Community' and 'Atlanta'",
+      "Released critically acclaimed music under the stage name Childish Gambino"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Julian Glover",
+    "givenNames": [
+      "Julian",
+      "Wyatt"
+    ],
+    "familyName": "Glover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Glover",
+    "occupation": "Actor",
+    "achievements": [
+      "Distinguished stage and screen actor with a career spanning over six decades",
+      "Notable roles in films like 'For Your Eyes Only', 'Indiana Jones and the Last Crusade' and 'The Empire Strikes Back'",
+      "Awarded the Commander of the Order of the British Empire (CBE) for services to drama"
+    ],
+    "yearBorn": 1935
   }
 ]

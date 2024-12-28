@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1751,
     "yearDied": 1816
+  },
+  {
+    "fullName": "Philip Sheridan",
+    "givenNames": [
+      "Philip",
+      "Henry"
+    ],
+    "familyName": "Sheridan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Sheridan",
+    "occupation": "General",
+    "achievements": [
+      "Union Army general during the American Civil War",
+      "Known for his decisive victories in the Shenandoah Valley and against the Plains Indians"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1888
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "David Carr",
+    "givenNames": [
+      "David",
+      "Duke"
+    ],
+    "familyName": "Carr",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Carr_(American_football)",
+    "occupation": "American football quarterback",
+    "achievements": [
+      "First overall pick in the 2002 NFL Draft",
+      "Played for the Houston Texans, Carolina Panthers, and San Francisco 49ers"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Derek Carr",
+    "givenNames": [
+      "Derek",
+      "Dallas"
+    ],
+    "familyName": "Carr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Carr",
+    "occupation": "American football quarterback",
+    "achievements": [
+      "Selected by the Oakland Raiders in the second round of the 2014 NFL Draft",
+      "Three-time Pro Bowl selection"
+    ],
+    "yearBorn": 1991
+  }
+]

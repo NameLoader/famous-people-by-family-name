@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Timothy Egan",
+    "givenNames": [
+      "Timothy",
+      "P"
+    ],
+    "familyName": "Egan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Egan",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "Pulitzer Prize for Feature Writing (2001)",
+      "Author of several best-selling books on American history and culture"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Jennifer Egan",
+    "givenNames": [
+      "Jennifer"
+    ],
+    "familyName": "Egan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Egan",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Pulitzer Prize for Fiction (2011) for 'A Visit from the Goon Squad'",
+      "National Book Award finalist for 'Look at Me'"
+    ],
+    "yearBorn": 1962
+  }
+]

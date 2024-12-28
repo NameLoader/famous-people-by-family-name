@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Matthew Arnold",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Arnold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Arnold",
+    "occupation": "Poet, Cultural Critic",
+    "achievements": [
+      "Considered one of the most important Victorian poets",
+      "Known for his essays on culture and education like 'Culture and Anarchy'"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1888
+  },
+  {
+    "fullName": "Edwin Arnold",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Arnold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Arnold",
+    "occupation": "Poet, Journalist",
+    "achievements": [
+      "Best known for his poem 'The Light of Asia'",
+      "Wrote extensively on travel and Asian culture"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1904
+  }
+]

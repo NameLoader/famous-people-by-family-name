@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Harry Warner",
+    "givenNames": [
+      "Harry",
+      "Morris"
+    ],
+    "familyName": "Warner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Warner",
+    "occupation": "Film Producer",
+    "achievements": [
+      "Co-founder of Warner Bros. Pictures",
+      "Helped revolutionize the film industry with sound and color films"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1958
+  },
+  {
+    "fullName": "Albert Warner",
+    "givenNames": [
+      "Albert"
+    ],
+    "familyName": "Warner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Warner",
+    "occupation": "Film Producer",
+    "achievements": [
+      "Co-founder of Warner Bros. Pictures",
+      "Key figure in the studio's early success"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1967
+  }
+]

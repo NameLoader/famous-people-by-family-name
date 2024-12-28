@@ -13,5 +13,18 @@
     ],
     "yearBorn": 1931,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Paul Cronin",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Cronin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Cronin",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Australian television and film"
+    ],
+    "yearBorn": 1936
   }
 ]

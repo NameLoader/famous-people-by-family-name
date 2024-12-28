@@ -1,6 +1,6 @@
 [
   {
-    "fullName": "Elizabeth York",
+    "fullName": "Elizabeth of York",
     "givenNames": [
       "Elizabeth"
     ],
@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1466,
     "yearDied": 1503
+  },
+  {
+    "fullName": "Richard of York",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "York",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+    "occupation": "Duke, Military Leader",
+    "achievements": [
+      "Key figure in the Wars of the Roses",
+      "Father of Kings Edward IV and Richard III"
+    ],
+    "yearBorn": 1411,
+    "yearDied": 1460
+  },
+  {
+    "fullName": "Edward of York",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "York",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_IV",
+    "occupation": "King",
+    "achievements": [
+      "King of England during the Wars of the Roses",
+      "Established the Yorkist dynasty"
+    ],
+    "yearBorn": 1442,
+    "yearDied": 1483
   }
 ]

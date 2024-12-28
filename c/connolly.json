@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "James Connolly",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Connolly",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Connolly",
+    "occupation": "Socialist, trade union leader, and Irish Republican",
+    "achievements": [
+      "Key figure in the Irish labour movement",
+      "Led the Irish Citizen Army during the Easter Rising of 1916"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "John Connolly",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Connolly",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Connolly_(author)",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of horror and thriller novels",
+      "Known for his Charlie Parker series featuring a private investigator with supernatural abilities"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "James Connolly",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Connolly",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Connolly_(socialist)",
+    "occupation": "Socialist, Trade Unionist, Politician",
+    "achievements": [
+      "Key figure in the Irish labour movement",
+      "Leader of the Irish Citizen Army during the Easter Rising",
+      "Executed by the British for his role in the rebellion"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1916
+  }
+]

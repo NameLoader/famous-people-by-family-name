@@ -12,5 +12,17 @@
     ],
     "yearBorn": 1506,
     "yearDied": 1534
+  },
+  {
+    "fullName": "Anne Barton",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Barton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Barton_(Shakespearean_scholar)",
+    "occupation": "Scholar, Translator",
+    "achievements": [
+      "Specialized in Renaissance literature and culture"
+    ]
   }
 ]
