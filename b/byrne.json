@@ -28,5 +28,35 @@
       "Known for his role in the HBO series In Treatment."
     ],
     "yearBorn": 1950
+  },
+  {
+    "fullName": "Emma Byrne",
+    "givenNames": [
+      "Emma",
+      "Anne"
+    ],
+    "familyName": "Byrne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Byrne",
+    "occupation": "Footballer (goalkeeper)",
+    "achievements": [
+      "Represented the Republic of Ireland national team.",
+      "Played professionally for Arsenal Ladies and other clubs."
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Brendan Byrne",
+    "givenNames": [
+      "Brendan",
+      "Thomas"
+    ],
+    "familyName": "Byrne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Byrne",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 47th Governor of New Jersey (1974-1982)."
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2018
   }
 ]

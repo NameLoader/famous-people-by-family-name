@@ -16,21 +16,6 @@
     "yearDied": 1907
   },
   {
-    "fullName": "William Thomson, 1st Baron Kelvin",
-    "givenNames": [
-      "William"
-    ],
-    "familyName": "Thomson",
-    "wikipedia": "https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin",
-    "occupation": "Physicist",
-    "achievements": [
-      "Developed the Kelvin temperature scale.",
-      "Made significant contributions to thermodynamics and electromagnetism."
-    ],
-    "yearBorn": 1824,
-    "yearDied": 1907
-  },
-  {
     "fullName": "George Paget Thomson",
     "givenNames": [
       "George",
@@ -45,5 +30,22 @@
     ],
     "yearBorn": 1892,
     "yearDied": 1975
+  },
+  {
+    "fullName": "J. J. Thomson",
+    "givenNames": [
+      "Joseph",
+      "John"
+    ],
+    "familyName": "Thomson",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._J._Thomson",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovery of the electron",
+      "Development of the plum pudding model of the atom",
+      "Nobel Prize in Physics (1906)"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1940
   }
 ]

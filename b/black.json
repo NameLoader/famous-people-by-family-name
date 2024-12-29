@@ -12,5 +12,63 @@
     ],
     "yearBorn": 1947,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Hugo Black",
+    "givenNames": [
+      "Hugo",
+      "Lafayette"
+    ],
+    "familyName": "Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Black",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "Served on the Supreme Court for over 34 years"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Jacob Black",
+    "givenNames": [
+      "Jacob"
+    ],
+    "familyName": "Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Black",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Popular character in the Twilight Saga book and film series"
+    ]
+  },
+  {
+    "fullName": "James Black",
+    "givenNames": [
+      "James",
+      "Whyte"
+    ],
+    "familyName": "Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Black_(pharmacologist)",
+    "occupation": "Physician and Pharmacologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1988)",
+      "Developed beta blockers and cimetidine"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "William Black",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Black_(novelist)",
+    "occupation": "Novelist and Short Story Writer",
+    "achievements": [
+      "Authored popular Victorian novels like 'A Daughter of Heth' and 'The Strange Adventure of a Phaeton'",
+      "Contributed to magazines and periodicals"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1898
   }
 ]

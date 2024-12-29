@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1826,
     "yearDied": 1864
+  },
+  {
+    "fullName": "Jodie Foster",
+    "givenNames": [
+      "Jodie",
+      "Alicia",
+      "Christian"
+    ],
+    "familyName": "Foster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jodie_Foster",
+    "occupation": "Actress, Director, Producer",
+    "achievements": [
+      "Academy Award for Best Actress (The Silence of the Lambs)",
+      "Golden Globe Awards for her roles in 'Taxi Driver' and 'Nell'"
+    ],
+    "yearBorn": 1962
   }
 ]

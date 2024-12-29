@@ -13,5 +13,21 @@
       "Two-time Super Bowl MVP"
     ],
     "yearBorn": 1948
+  },
+  {
+    "fullName": "John Bradshaw",
+    "givenNames": [
+      "John",
+      "Elliot"
+    ],
+    "familyName": "Bradshaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bradshaw_(author)",
+    "occupation": "Psychotherapist, Author, Speaker",
+    "achievements": [
+      "Pioneer in the field of transactional analysis",
+      "Author of bestselling books on relationships and personal growth",
+      "Known for his work on shame and vulnerability"
+    ],
+    "yearBorn": 1933
   }
 ]

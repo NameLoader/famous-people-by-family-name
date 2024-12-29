@@ -21,7 +21,7 @@
       "John"
     ],
     "familyName": "Powell",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Powell_(composer)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Powell_(film_composer)",
     "occupation": "Film composer and conductor",
     "achievements": [
       "Academy Award nominee for Best Original Score",
@@ -29,5 +29,21 @@
       "Grammy Award winner"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "John Wesley Powell",
+    "givenNames": [
+      "John",
+      "Wesley"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley_Powell",
+    "occupation": "Soldier, Geologist, Explorer",
+    "achievements": [
+      "Explored the Colorado River and Grand Canyon",
+      "Founded the U.S. Geological Survey"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1902
   }
 ]

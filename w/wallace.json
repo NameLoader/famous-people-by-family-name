@@ -33,6 +33,7 @@
   {
     "fullName": "Lew Wallace",
     "givenNames": [
+      "Lew",
       "Lewis"
     ],
     "familyName": "Wallace",
@@ -45,5 +46,21 @@
     ],
     "yearBorn": 1827,
     "yearDied": 1905
+  },
+  {
+    "fullName": "George Wallace",
+    "givenNames": [
+      "George",
+      "Corley"
+    ],
+    "familyName": "Wallace",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Wallace",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 45th governor of Alabama (1963–1967, 1971–1979, 1983–1987)",
+      "Known for his segregationist views and later his political transformation towards advocating for civil rights"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1998
   }
 ]

@@ -29,5 +29,37 @@
     ],
     "yearBorn": 1883,
     "yearDied": 1967
+  },
+  {
+    "fullName": "Jack Warner",
+    "givenNames": [
+      "Jack",
+      "Leonard"
+    ],
+    "familyName": "Warner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_L._Warner",
+    "occupation": "Film producer, studio executive",
+    "achievements": [
+      "Co-founder of Warner Bros. Pictures",
+      "Helped shape the Golden Age of Hollywood"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1978
+  },
+  {
+    "fullName": "Sam Warner",
+    "givenNames": [
+      "Samuel",
+      "Louis"
+    ],
+    "familyName": "Warner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Warner",
+    "occupation": "Film producer, studio executive",
+    "achievements": [
+      "Co-founder of Warner Bros. Pictures",
+      "Pioneered the use of sound in films (Vitaphone)"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1927
   }
 ]

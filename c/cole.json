@@ -12,5 +12,52 @@
       "Played for Arsenal, Chelsea, and England national team"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Natalie Cole",
+    "givenNames": [
+      "Natalie",
+      "Maria"
+    ],
+    "familyName": "Cole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Cole",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Won nine Grammy Awards",
+      "Known for jazz and soul music"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Nat King Cole",
+    "givenNames": [
+      "Nathaniel",
+      "Adams"
+    ],
+    "familyName": "Cole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nat_King_Cole",
+    "occupation": "Singer, Pianist, Actor",
+    "achievements": [
+      "One of the most popular and influential singers of the 20th century",
+      "Pioneering figure in African American music"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "George Cole",
+    "givenNames": [
+      "George",
+      "Edward"
+    ],
+    "familyName": "Cole",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Cole_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in British television series like 'Minder'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2015
   }
 ]

@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1925,
     "yearDied": 2008
+  },
+  {
+    "fullName": "James Buckley",
+    "givenNames": [
+      "James",
+      "Patrick"
+    ],
+    "familyName": "Buckley",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Buckley_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Jay Cartwright in the British sitcom The Inbetweeners",
+      "Appeared in other television shows and films"
+    ],
+    "yearBorn": 1987
   }
 ]

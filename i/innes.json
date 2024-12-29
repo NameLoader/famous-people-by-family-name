@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Robert Innes",
+    "givenNames": [
+      "Robert",
+      "Thorburn",
+      "Ayton"
+    ],
+    "familyName": "Innes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_T._A._Innes",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovery of several comets and asteroids",
+      "Director of the Transvaal Observatory in Pretoria"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1933
+  }
+]

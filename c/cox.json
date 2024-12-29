@@ -1,17 +1,5 @@
 [
   {
-    "fullName": "Cox Orange Pippin",
-    "givenNames": [
-      "Orange"
-    ],
-    "familyName": "Cox",
-    "wikipedia": "https://en.wikipedia.org/wiki/Cox's_Orange_Pippin",
-    "occupation": "Apple Cultivar",
-    "achievements": [
-      "Heritage apple variety renowned for its flavour and unique appearance"
-    ]
-  },
-  {
     "fullName": "Brian Cox",
     "givenNames": [
       "Brian",
@@ -24,5 +12,35 @@
       "Known for roles in films like 'X-Men' and television series like 'Succession'."
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Brian Cox",
+    "givenNames": [
+      "Brian",
+      "Edward"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Cox_(physicist)",
+    "occupation": "Physicist, Professor, Science Communicator",
+    "achievements": [
+      "Worked on the ATLAS experiment at CERN",
+      "Presented popular science documentaries like 'Wonders of the Solar System'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Courtney Cox",
+    "givenNames": [
+      "Courteney",
+      "Bass"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Courteney_Cox",
+    "occupation": "Actress, Producer, Director",
+    "achievements": [
+      "Known for her role as Monica Geller in the sitcom 'Friends'",
+      "Starred in the 'Scream' horror film franchise"
+    ],
+    "yearBorn": 1964
   }
 ]

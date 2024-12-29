@@ -2,7 +2,8 @@
   {
     "fullName": "Bruce Campbell",
     "givenNames": [
-      "Bruce"
+      "Bruce",
+      "Lorne"
     ],
     "familyName": "Campbell",
     "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Campbell",
@@ -73,5 +74,36 @@
       "Known for his controversial political style and media appearances"
     ],
     "yearBorn": 1957
+  },
+  {
+    "fullName": "Alexander Campbell",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Campbell_(minister)",
+    "occupation": "Religious leader, writer",
+    "achievements": [
+      "Founded the Disciples of Christ movement",
+      "Advocate for religious unity and simplicity"
+    ],
+    "yearBorn": 1788,
+    "yearDied": 1866
+  },
+  {
+    "fullName": "Joseph Campbell",
+    "givenNames": [
+      "Joseph",
+      "John"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Campbell",
+    "occupation": "Mythologist, writer",
+    "achievements": [
+      "Authored 'The Hero with a Thousand Faces'",
+      "Popularized the concept of the monomyth"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1987
   }
 ]

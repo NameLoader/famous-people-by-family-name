@@ -43,5 +43,20 @@
       "Prominent advocate for women's rights and social justice"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "John Thompson",
+    "givenNames": [
+      "John",
+      "Robert"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Thompson_(basketball)",
+    "occupation": "Basketball Coach",
+    "achievements": [
+      "Legendary coach of Georgetown University's men's basketball team",
+      "Won the NCAA championship in 1984"
+    ],
+    "yearBorn": 1941
   }
 ]

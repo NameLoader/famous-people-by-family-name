@@ -45,5 +45,20 @@
     ],
     "yearBorn": 1868,
     "yearDied": 1934
+  },
+  {
+    "fullName": "Steve Austin",
+    "givenNames": [
+      "Steve"
+    ],
+    "familyName": "Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stone_Cold_Steve_Austin",
+    "occupation": "Professional wrestler, actor",
+    "achievements": [
+      "Six-time WWF Champion",
+      "Three-time WCW World Heavyweight Champion",
+      "Helped usher in the 'Attitude Era' of professional wrestling"
+    ],
+    "yearBorn": 1964
   }
 ]

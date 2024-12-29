@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1914,
     "yearDied": 1994
+  },
+  {
+    "fullName": "Larry Ellison",
+    "givenNames": [
+      "Lawrence",
+      "Joseph"
+    ],
+    "familyName": "Ellison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Ellison",
+    "occupation": "Businessman, Programmer",
+    "achievements": [
+      "Co-founder and chairman of Oracle Corporation",
+      "One of the world's wealthiest individuals"
+    ],
+    "yearBorn": 1944
   }
 ]

@@ -14,5 +14,37 @@
     ],
     "yearBorn": 1874,
     "yearDied": 1963
+  },
+  {
+    "fullName": "David Frost",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Frost",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Frost",
+    "occupation": "Broadcaster, Journalist",
+    "achievements": [
+      "Known for his interviews with political figures like Richard Nixon and Harold Wilson",
+      "Hosted popular talk shows like 'The David Frost Show'"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Terry Frost",
+    "givenNames": [
+      "Terence",
+      "Ernest",
+      "Manitou"
+    ],
+    "familyName": "Frost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Frost",
+    "occupation": "Painter",
+    "achievements": [
+      "Prominent British abstract artist associated with the St Ives School",
+      "Known for his vibrant colors and geometric compositions"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2003
   }
 ]

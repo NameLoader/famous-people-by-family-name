@@ -31,5 +31,20 @@
     ],
     "yearBorn": 1914,
     "yearDied": 2009
+  },
+  {
+    "fullName": "William Joyce",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Haw-Haw",
+    "occupation": "Nazi propagandist",
+    "achievements": [
+      "Known for his wartime broadcasts from Germany under the pseudonym 'Lord Haw-Haw'",
+      "Convicted of treason against Britain after the war"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1946
   }
 ]

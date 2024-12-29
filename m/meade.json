@@ -6,7 +6,7 @@
       "Gordon"
     ],
     "familyName": "Meade",
-    "wikipedia": "https://en.wikipedia.org/wiki/George_G._Meade",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Meade",
     "occupation": "Union Army General",
     "achievements": [
       "Led the Union Army to victory at the Battle of Gettysburg"
@@ -15,19 +15,18 @@
     "yearDied": 1872
   },
   {
-    "fullName": "George Gordon Meade",
+    "fullName": "Richard Meade",
     "givenNames": [
-      "George",
-      "Gordon"
+      "Richard",
+      "John",
+      "Hannay"
     ],
     "familyName": "Meade",
-    "wikipedia": "https://en.wikipedia.org/wiki/George_Meade",
-    "occupation": "Union general during the American Civil War",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Meade",
+    "occupation": "Equestrian",
     "achievements": [
-      "Victorious commander at the Battle of Gettysburg",
-      "Known for his cautious and methodical approach to warfare"
+      "Won two Olympic gold medals in eventing (1972 and 1980)"
     ],
-    "yearBorn": 1815,
-    "yearDied": 1872
+    "yearBorn": 1937
   }
 ]

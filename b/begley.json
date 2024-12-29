@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ed Begley Jr.",
+    "givenNames": [
+      "Ed",
+      "Edward",
+      "James"
+    ],
+    "familyName": "Begley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_Begley_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'St. Elsewhere' and 'Pineapple Express'",
+      "Environmental activist"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Ed Begley Sr.",
+    "givenNames": [
+      "Edward",
+      "James"
+    ],
+    "familyName": "Begley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_Begley",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award winner for Best Supporting Actor in 'Sweet Bird of Youth'",
+      "Known for roles in films like 'Twelve Angry Men' and 'To Kill a Mockingbird'"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1977
+  }
+]

@@ -27,5 +27,20 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1964
+  },
+  {
+    "fullName": "Sir Sandford Fleming",
+    "givenNames": [
+      "Sandford"
+    ],
+    "familyName": "Fleming",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandford_Fleming",
+    "occupation": "Engineer and Inventor",
+    "achievements": [
+      "Proposed the idea of standardized time zones",
+      "Designed Canada's first postage stamp"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1915
   }
 ]

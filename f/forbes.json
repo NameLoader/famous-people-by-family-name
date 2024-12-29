@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1919,
     "yearDied": 1990
+  },
+  {
+    "fullName": "Steve Forbes",
+    "givenNames": [
+      "Malcolm",
+      "Stevenson"
+    ],
+    "familyName": "Forbes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Forbes",
+    "occupation": "Businessman, Writer, Politician",
+    "achievements": [
+      "Chairman and Editor-in-Chief of Forbes Media",
+      "Two-time Republican presidential candidate",
+      "Author of several books on economics and politics"
+    ],
+    "yearBorn": 1947
   }
 ]

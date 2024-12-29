@@ -13,5 +13,49 @@
     ],
     "yearBorn": 1727,
     "yearDied": 1805
+  },
+  {
+    "fullName": "Eddie Murphy",
+    "givenNames": [
+      "Edward",
+      "Regan"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Murphy",
+    "occupation": "Actor, comedian, writer, producer",
+    "achievements": [
+      "One of the most successful comedic actors of all time.",
+      "Won a Golden Globe Award for his performance in 'Dreamgirls'."
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Cillian Murphy",
+    "givenNames": [
+      "Cillian"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cillian_Murphy",
+    "occupation": "Irish actor",
+    "achievements": [
+      "Known for roles in films like '28 Days Later', 'Inception', and 'Peaky Blinders'."
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Brian Murphy",
+    "givenNames": [
+      "Brian",
+      "Trevor",
+      "John"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Murphy_(actor)",
+    "occupation": "English actor",
+    "achievements": [
+      "Known for roles in British sitcoms like 'George and Mildred' and 'Love Thy Neighbour'."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2023
   }
 ]

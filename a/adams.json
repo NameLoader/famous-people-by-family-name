@@ -79,5 +79,21 @@
     ],
     "yearBorn": 1952,
     "yearDied": 2001
+  },
+  {
+    "fullName": "Bryan Adams",
+    "givenNames": [
+      "Bryan",
+      "Guy"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Adams",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Multiple Grammy Award nominations",
+      "Hit songs include *Summer of '69*, *Heaven*",
+      "(Everything I Do) I Do It For You*"
+    ],
+    "yearBorn": 1959
   }
 ]

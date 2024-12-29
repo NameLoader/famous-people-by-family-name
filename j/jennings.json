@@ -15,5 +15,23 @@
     ],
     "yearBorn": 1937,
     "yearDied": 2002
+  },
+  {
+    "fullName": "Peter Jennings",
+    "givenNames": [
+      "Peter",
+      "Charles",
+      "Archibald",
+      "Ewart"
+    ],
+    "familyName": "Jennings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Jennings",
+    "occupation": "Journalist, News Anchor",
+    "achievements": [
+      "Long-time anchor of ABC World News Tonight",
+      "Won numerous awards for his journalism"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2005
   }
 ]

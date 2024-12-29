@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1925,
     "yearDied": 1984
+  },
+  {
+    "fullName": "Tim Burton",
+    "givenNames": [
+      "Timothy",
+      "Walter"
+    ],
+    "familyName": "Burton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Burton",
+    "occupation": "Film director, producer, writer, artist",
+    "achievements": [
+      "Known for his distinctive dark and whimsical style",
+      "Directed films like 'Beetlejuice', 'Edward Scissorhands', 'Batman' (1989), and 'The Nightmare Before Christmas'"
+    ],
+    "yearBorn": 1958
   }
 ]

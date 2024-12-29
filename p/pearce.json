@@ -6,12 +6,25 @@
       "Wayne"
     ],
     "familyName": "Pearce",
-    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Pearce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Pearce_(baseball)",
     "occupation": "Baseball player",
     "achievements": [
       "Played Major League Baseball for the Toronto Blue Jays and other teams",
       "World Series champion with the Toronto Blue Jays in 2015"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "David Pearce",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Pearce",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Pearce_(philosopher)",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Developed the concept of hedonistic imperative",
+      "Advocate for transhumanism and technological solutions to human suffering"
+    ]
   }
 ]

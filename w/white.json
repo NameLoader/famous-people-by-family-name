@@ -27,5 +27,38 @@
       "Known for his work on the history of the American West and Native Americans"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "E.B. White",
+    "givenNames": [
+      "Elwyn",
+      "Brooks"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/E._B._White",
+    "occupation": "Author",
+    "achievements": [
+      "Charlotte's Web",
+      "Stuart Little",
+      "The Elements of Style"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Jack White",
+    "givenNames": [
+      "John",
+      "Anthony"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_White",
+    "occupation": "Musician, Singer-Songwriter, Producer",
+    "achievements": [
+      "The White Stripes",
+      "Raconteurs",
+      "Solo Career"
+    ],
+    "yearBorn": 1975
   }
 ]

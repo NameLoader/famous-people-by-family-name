@@ -14,5 +14,33 @@
       "Known for his technical skills and passing ability"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Julian Barnes",
+    "givenNames": [
+      "Julian",
+      "Patrick"
+    ],
+    "familyName": "Barnes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Barnes",
+    "occupation": "Novelist, short story writer, essayist",
+    "achievements": [
+      "Won the Man Booker Prize in 2011 for his novel 'The Sense of an Ending'",
+      "Known for his witty and intelligent prose, exploring themes of love, loss, memory, and identity"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Chris Barnes",
+    "givenNames": [
+      "Chris"
+    ],
+    "familyName": "Barnes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Barnes_(musician)",
+    "occupation": "Musician",
+    "achievements": [
+      "Former vocalist for the death metal band Six Feet Under",
+      "Known for his guttural vocals and stage presence"
+    ]
   }
 ]

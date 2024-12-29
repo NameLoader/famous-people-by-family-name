@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Tiger Woods",
+    "givenNames": [
+      "Eldrick",
+      "Tont",
+      "Tiger"
+    ],
+    "familyName": "Woods",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiger_Woods",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "15 major golf championships",
+      "82 PGA Tour wins",
+      "World Golf Hall of Fame inductee"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Earl Woods",
+    "givenNames": [
+      "Earl",
+      "Dennison"
+    ],
+    "familyName": "Woods",
+    "wikipedia": "https://en.wikipedia.org/wiki/Earl_Woods",
+    "occupation": "Golfer, Vietnam War veteran",
+    "achievements": [
+      "Introduced Tiger Woods to golf",
+      "Served in the U.S. Army"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2002
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Chuck Norris",
+    "givenNames": [
+      "Chuck",
+      "Carlos",
+      "Ray"
+    ],
+    "familyName": "Norris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chuck_Norris",
+    "occupation": "Actor, Martial Artist",
+    "achievements": [
+      "Martial arts champion",
+      "Action movie star",
+      "Subject of numerous internet memes"
+    ],
+    "yearBorn": 1940
+  }
+]

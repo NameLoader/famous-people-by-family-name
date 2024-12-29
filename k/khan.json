@@ -1,25 +1,8 @@
 [
   {
-    "fullName": "Ögedei Khan",
-    "givenNames": [
-      "Ögedei"
-    ],
-    "familyName": "Khan",
-    "wikipedia": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan",
-    "occupation": "Great Khan of the Mongol Empire",
-    "achievements": [
-      "Expanded the Mongol Empire further west into Europe",
-      "Led the Mongol armies in several major campaigns",
-      "Established a legal code for the Mongol Empire"
-    ],
-    "yearBorn": 1186,
-    "yearDied": 1241
-  },
-  {
     "fullName": "Shah Rukh Khan",
     "givenNames": [
-      "Shah",
-      "Rukh"
+      "Shah Rukh"
     ],
     "familyName": "Khan",
     "wikipedia": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
@@ -27,6 +10,67 @@
     "achievements": [
       "One of the most popular and successful actors in Indian cinema",
       "Known for his romantic roles and charismatic personality"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Genghis Khan",
+    "givenNames": [
+      "Genghis",
+      "Temüjin"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan",
+    "occupation": "Founder and Great Khan of the Mongol Empire",
+    "achievements": [
+      "United the nomadic tribes of Mongolia.",
+      "Conquered vast territories across Asia and Eastern Europe.",
+      "Established one of the largest contiguous empires in history."
+    ],
+    "yearBorn": 1162,
+    "yearDied": 1227
+  },
+  {
+    "fullName": "Imran Khan",
+    "givenNames": [
+      "Imran",
+      "Ahmed"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imran_Khan",
+    "occupation": "Former Cricketer, Politician, Prime Minister of Pakistan",
+    "achievements": [
+      "Captained the Pakistani cricket team to victory in the 1992 Cricket World Cup.",
+      "Founded the Pakistan Tehreek-e-Insaf political party."
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Aamir Khan",
+    "givenNames": [
+      "Aamir",
+      "Husain"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aamir_Khan",
+    "occupation": "Actor, Film Director, Producer",
+    "achievements": [
+      "Known for his versatile acting and socially conscious films.",
+      "Won numerous awards including the National Film Award and Filmfare Awards."
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Salman Khan",
+    "givenNames": [
+      "Salman"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salman_Khan",
+    "occupation": "Actor, Film Producer",
+    "achievements": [
+      "One of the highest-paid actors in Bollywood.",
+      "Known for his action and romance roles."
     ],
     "yearBorn": 1965
   }

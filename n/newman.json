@@ -45,5 +45,36 @@
       "UK number-one singles with 'Love Me Again' and 'Jealous'"
     ],
     "yearBorn": 1990
+  },
+  {
+    "fullName": "Randy Newman",
+    "givenNames": [
+      "Randall",
+      "Stuart"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randy_Newman",
+    "occupation": "Singer-Songwriter, Composer",
+    "achievements": [
+      "Won two Academy Awards for Best Original Song",
+      "Nominated for twenty Academy Awards"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "John Henry Newman",
+    "givenNames": [
+      "John",
+      "Henry"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Henry_Newman",
+    "occupation": "Theologian, Philosopher, Poet, Writer",
+    "achievements": [
+      "One of the most influential figures in the history of the Catholic Church in England",
+      "Canonized as a saint by Pope Benedict XVI in 2019"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1890
   }
 ]

@@ -28,5 +28,22 @@
     ],
     "yearBorn": 1723,
     "yearDied": 1792
+  },
+  {
+    "fullName": "Burt Reynolds",
+    "givenNames": [
+      "Burt",
+      "Burton",
+      "Leon"
+    ],
+    "familyName": "Reynolds",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burt_Reynolds",
+    "occupation": "Actor, director",
+    "achievements": [
+      "Nominated for an Academy Award for Best Actor",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2018
   }
 ]

@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1635,
     "yearDied": 1702
+  },
+  {
+    "fullName": "Mary Gordon",
+    "givenNames": [
+      "Mary",
+      "Catherine"
+    ],
+    "familyName": "Gordon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Gordon_(writer)",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Author of acclaimed novels like 'Final Passion' and 'The Company of Women'."
+    ],
+    "yearBorn": 1949
   }
 ]

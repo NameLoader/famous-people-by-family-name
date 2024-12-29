@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Chris Evans",
+    "givenNames": [
+      "Christopher",
+      "Robert"
+    ],
+    "familyName": "Evans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Known for his role as Captain America in the Marvel Cinematic Universe",
+      "Starred in films such as 'Fantastic Four' and 'Knives Out'"
+    ],
+    "yearBorn": 1981
+  }
+]

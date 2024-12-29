@@ -6,7 +6,7 @@
       "James"
     ],
     "familyName": "Balfour",
-    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_James_Balfour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Balfour",
     "occupation": "Politician, Prime Minister of the United Kingdom",
     "achievements": [
       "Prime Minister of the United Kingdom (1902-1905)",
@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1848,
     "yearDied": 1930
+  },
+  {
+    "fullName": "Gerald Balfour",
+    "givenNames": [
+      "Gerald",
+      "William"
+    ],
+    "familyName": "Balfour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Balfour,_2nd_Earl_of_Balfour",
+    "occupation": "Politician",
+    "achievements": [
+      "Chief Secretary for Ireland (1891-1892)",
+      "Minister of Education (1902-1905)"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1945
   }
 ]

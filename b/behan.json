@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Brendan Behan",
+    "givenNames": [
+      "Brendan",
+      "Francis",
+      "Aidan"
+    ],
+    "familyName": "Behan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Behan",
+    "occupation": "Writer, Poet, Playwright",
+    "achievements": [
+      "Known for his darkly humorous plays and autobiographical writings.",
+      "Famous works include 'Borstal Boy' and 'The Hostage'."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1964
+  }
+]

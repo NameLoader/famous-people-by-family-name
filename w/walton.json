@@ -31,5 +31,52 @@
       "Major collector of American art"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Jim Walton",
+    "givenNames": [
+      "James",
+      "Carr"
+    ],
+    "familyName": "Walton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Walton",
+    "occupation": "Businessman, Investor",
+    "achievements": [
+      "Inherited Walmart stake from father Sam Walton",
+      "Active in philanthropic endeavors"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Rob Walton",
+    "givenNames": [
+      "Samuel",
+      "Robson",
+      "Rob"
+    ],
+    "familyName": "Walton",
+    "wikipedia": "https://en.wikipedia.org/wiki/S._Robson_Walton",
+    "occupation": "Businessman",
+    "achievements": [
+      "Inherited Walmart stake from father Sam Walton",
+      "Served as chairman of Walmart"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "John Walton",
+    "givenNames": [
+      "John",
+      "Thomas"
+    ],
+    "familyName": "Walton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_T._Walton",
+    "occupation": "Businessman, Philanthropist",
+    "achievements": [
+      "Inherited Walmart stake from father Sam Walton",
+      "Known for his philanthropy and environmental activism"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2005
   }
 ]

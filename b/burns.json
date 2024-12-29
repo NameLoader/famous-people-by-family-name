@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1759,
     "yearDied": 1796
+  },
+  {
+    "fullName": "George Burns",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Burns",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Burns",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Long and successful career in vaudeville, film, and television",
+      "Won an Academy Award for Best Supporting Actor for his role in 'The Sunshine Boys'"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1996
   }
 ]

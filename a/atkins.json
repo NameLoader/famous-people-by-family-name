@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1930,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Peter Atkins",
+    "givenNames": [
+      "Peter",
+      "William"
+    ],
+    "familyName": "Atkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Atkins",
+    "occupation": "Chemist",
+    "achievements": [
+      "Professor of Chemistry at the University of Oxford",
+      "Author of numerous textbooks on chemistry"
+    ]
   }
 ]

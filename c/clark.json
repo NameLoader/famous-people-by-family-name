@@ -13,5 +13,36 @@
     ],
     "yearBorn": 1770,
     "yearDied": 1838
+  },
+  {
+    "fullName": "Judith Clark",
+    "givenNames": [
+      "Judith",
+      "Alice"
+    ],
+    "familyName": "Clark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Alice_Clark",
+    "occupation": "Political Activist",
+    "achievements": [
+      "Member of the Black Liberation Army",
+      "Convicted for her role in a 1973 bank robbery and murder"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Roy Clark",
+    "givenNames": [
+      "Roy",
+      "Linwood"
+    ],
+    "familyName": "Clark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Clark",
+    "occupation": "Country Music Singer, Guitarist",
+    "achievements": [
+      "Host of the television show 'Hee Haw'",
+      "Won numerous Grammy Awards and Country Music Association awards"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2018
   }
 ]

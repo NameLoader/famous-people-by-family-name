@@ -6,7 +6,7 @@
       "Alexander"
     ],
     "familyName": "Ross",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Ross_(comics)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Ross",
     "occupation": "Comic Book Artist",
     "achievements": [
       "Known for his hyper-realistic painting style in comics.",
@@ -27,5 +27,36 @@
       "Highly successful solo career with hits like 'Ain't No Mountain High Enough' and 'Upside Down'."
     ],
     "yearBorn": 1944
+  },
+  {
+    "fullName": "John Ross",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ross_(Cherokee_chief)",
+    "occupation": "Principal Chief of the Cherokee Nation",
+    "achievements": [
+      "Led the Cherokee Nation during the Trail of Tears.",
+      "Advocate for Cherokee sovereignty and rights."
+    ],
+    "yearBorn": 1790,
+    "yearDied": 1866
+  },
+  {
+    "fullName": "James Clark Ross",
+    "givenNames": [
+      "James",
+      "Clark"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Clark_Ross",
+    "occupation": "Royal Navy officer and Antarctic explorer",
+    "achievements": [
+      "Discovered the Ross Sea and Ross Ice Shelf in Antarctica.",
+      "Led expeditions to explore the Arctic and Pacific Oceans."
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1862
   }
 ]

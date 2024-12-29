@@ -27,5 +27,20 @@
       "Won a Golden Globe Award for Best Actress – Motion Picture Musical or Comedy for 'True Lies'"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Tony Curtis",
+    "givenNames": [
+      "Tony"
+    ],
+    "familyName": "Curtis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Curtis",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nomination for Best Actor (The Defiant Ones)",
+      "Known for roles in Some Like It Hot, Spartacus, The Sweet Smell of Success"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2010
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John McHugh",
+    "givenNames": [
+      "John",
+      "Michael"
+    ],
+    "familyName": "McHugh",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_M._McHugh",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 21st Secretary of the Army from 2009 to 2015.",
+      "Represented New York's 23rd congressional district in the U.S. House of Representatives from 1995 to 2009."
+    ],
+    "yearBorn": 1949
+  }
+]

@@ -6,12 +6,24 @@
       "Martin"
     ],
     "familyName": "McDonnell",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_McDonnell_(politician)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McDonnell",
     "occupation": "Politician",
     "achievements": [
       "Member of the UK Parliament (Labour) for Hayes and Harlington since 1997",
       "Shadow Chancellor of the Exchequer from 2015 to 2019"
     ],
     "yearBorn": 1951
+  },
+  {
+    "fullName": "Patrick McDonnell",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "McDonnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_McDonnell",
+    "occupation": "Cartoonist, Illustrator",
+    "achievements": [
+      "Creator of the comic strip 'Mutts'"
+    ]
   }
 ]

@@ -3,7 +3,7 @@
     "fullName": "Gary Hall Jr.",
     "givenNames": [
       "Gary",
-      "Jr."
+      "Wayne"
     ],
     "familyName": "Hall",
     "wikipedia": "https://en.wikipedia.org/wiki/Gary_Hall_Jr.",
@@ -13,5 +13,19 @@
       "Held world records in freestyle and butterfly events"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Robert Hall",
+    "givenNames": [
+      "Robert",
+      "Ernest"
+    ],
+    "familyName": "Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hall_(economist)",
+    "occupation": "Economist",
+    "achievements": [
+      "Known for his contributions to econometrics and macroeconomics.",
+      "Recipient of the 2011 Nobel Memorial Prize in Economic Sciences."
+    ]
   }
 ]

@@ -13,5 +13,19 @@
       "Nominated for a Primetime Emmy Award"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Katy Perry",
+    "givenNames": [
+      "Katy"
+    ],
+    "familyName": "Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katy_Perry",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Nineteen number-one singles on Billboard Hot 100 chart"
+    ],
+    "yearBorn": 1984
   }
 ]

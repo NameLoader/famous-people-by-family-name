@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ray Bradbury",
+    "givenNames": [
+      "Ray",
+      "Douglas"
+    ],
+    "familyName": "Bradbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Bradbury",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote influential science fiction and fantasy novels",
+      "Known for works like 'Fahrenheit 451' and 'The Martian Chronicles'",
+      "Won numerous awards including the Pulitzer Prize Special Citation"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Steven Bradbury",
+    "givenNames": [
+      "Steven",
+      "John"
+    ],
+    "familyName": "Bradbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Bradbury",
+    "occupation": "Speed skater",
+    "achievements": [
+      "Won gold in the 1000m short track speed skating at the 2002 Winter Olympics",
+      "Known for his dramatic last-minute victory after other skaters collided"
+    ],
+    "yearBorn": 1973
+  }
+]

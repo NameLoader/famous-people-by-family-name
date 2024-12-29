@@ -33,5 +33,22 @@
     ],
     "yearBorn": 1867,
     "yearDied": 1935
+  },
+  {
+    "fullName": "Ken Russell",
+    "givenNames": [
+      "Ken",
+      "Henry",
+      "Kenneth",
+      "Alfred"
+    ],
+    "familyName": "Russell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ken_Russell",
+    "occupation": "Film director",
+    "achievements": [
+      "Known for his experimental and controversial films such as Women in Love, The Devils, and Tommy"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2011
   }
 ]

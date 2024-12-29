@@ -14,5 +14,35 @@
     ],
     "yearBorn": 1917,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Steve Martin",
+    "givenNames": [
+      "Stephen",
+      "Glenn"
+    ],
+    "familyName": "Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Martin",
+    "occupation": "Actor, comedian, writer, musician",
+    "achievements": [
+      "Stand-up comedy legend",
+      "Award-winning actor and screenwriter"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "George R. R. Martin",
+    "givenNames": [
+      "George",
+      "Raymond",
+      "Richard"
+    ],
+    "familyName": "Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_R._R._Martin",
+    "occupation": "Novelist, screenwriter",
+    "achievements": [
+      "Author of the 'A Song of Ice and Fire' series (adapted into 'Game of Thrones')"
+    ],
+    "yearBorn": 1948
   }
 ]

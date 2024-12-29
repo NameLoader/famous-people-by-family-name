@@ -15,5 +15,73 @@
     ],
     "yearBorn": 1917,
     "yearDied": 1963
+  },
+  {
+    "fullName": "Robert F. Kennedy",
+    "givenNames": [
+      "Robert",
+      "Francis"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Attorney General under his brother, President John F. Kennedy",
+      "U.S. Senator from New York",
+      "Civil rights activist"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Edward M. Kennedy",
+    "givenNames": [
+      "Edward",
+      "Moore"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Kennedy",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Senator from Massachusetts for over 46 years",
+      "Known for his legislative accomplishments on healthcare and education",
+      "Advocate for social justice"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Joseph P. Kennedy Sr.",
+    "givenNames": [
+      "Joseph",
+      "Patrick"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_P._Kennedy_Sr.",
+    "occupation": "Businessman, Politician, Diplomat",
+    "achievements": [
+      "Served as the U.S. Ambassador to Great Britain",
+      "Head of the Securities and Exchange Commission",
+      "Built a successful investment banking career"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1969
+  },
+  {
+    "fullName": "Rose Fitzgerald Kennedy",
+    "givenNames": [
+      "Rose",
+      "Elizabeth",
+      "Fitzgerald"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rose_Kennedy",
+    "occupation": "Philanthropist, Matriarch of the Kennedy family",
+    "achievements": [
+      "Known for her strong Catholic faith and unwavering support for her family",
+      "Active in charitable work throughout her life"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1995
   }
 ]

@@ -6,7 +6,7 @@
       "Manley"
     ],
     "familyName": "Hopkins",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Hopkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
     "occupation": "Poet, Jesuit priest",
     "achievements": [
       "Considered one of the major Victorian poets",
@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1844,
     "yearDied": 1889
+  },
+  {
+    "fullName": "Anthony Hopkins",
+    "givenNames": [
+      "Philip",
+      "Anthony"
+    ],
+    "familyName": "Hopkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Hopkins",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (The Silence of the Lambs)",
+      "BAFTA Awards for Best Actor",
+      "Knighted by Queen Elizabeth II in 1993"
+    ],
+    "yearBorn": 1937
   }
 ]

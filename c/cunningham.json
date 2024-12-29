@@ -27,5 +27,20 @@
       "Known for exploring themes of love, loss and identity."
     ],
     "yearBorn": 1952
+  },
+  {
+    "fullName": "Allan Cunningham",
+    "givenNames": [
+      "Allan"
+    ],
+    "familyName": "Cunningham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Cunningham_(botanist)",
+    "occupation": "Botanist, Explorer",
+    "achievements": [
+      "Explored and documented the flora of Australia",
+      "Collected over 6000 plant specimens"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1839
   }
 ]

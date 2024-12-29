@@ -3,8 +3,7 @@
     "fullName": "James Baker III",
     "givenNames": [
       "James",
-      "Addison",
-      "III"
+      "Addison"
     ],
     "familyName": "Baker",
     "wikipedia": "https://en.wikipedia.org/wiki/James_A._Baker_III",
@@ -31,5 +30,63 @@
     ],
     "yearBorn": 1903,
     "yearDied": 1986
+  },
+  {
+    "fullName": "Cheryl Baker",
+    "givenNames": [
+      "Cheryl"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheryl_Baker",
+    "occupation": "Singer, Television Personality",
+    "achievements": [
+      "Member of the pop group Bucks Fizz",
+      "Winner of the Eurovision Song Contest in 1981"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "James Baker III",
+    "givenNames": [
+      "James",
+      "Addison"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Baker_III",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "61st United States Secretary of State (1989-1992)",
+      "67th United States Secretary of the Treasury (1985-1988)",
+      "White House Chief of Staff under President Ronald Reagan (1981)"
+    ],
+    "yearBorn": 1930
+  },
+  {
+    "fullName": "Joseph Baker",
+    "givenNames": [
+      "Joseph",
+      "N.",
+      "Joby"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joby_Baker",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in the films 'The Deer Hunter' (1978) and 'Platoon' (1986)"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Shirley Baker",
+    "givenNames": [
+      "Shirley"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Baker",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for her documentary photography of working-class life in Britain in the 1960s and 1970s"
+    ],
+    "yearBorn": 1932
   }
 ]

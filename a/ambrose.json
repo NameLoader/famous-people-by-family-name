@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "St. Ambrose",
+    "givenNames": [
+      "Aurelius Ambrosius"
+    ],
+    "familyName": "Ambrose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ambrose",
+    "occupation": "Bishop of Milan, Theologian",
+    "achievements": [
+      "Defender of the Nicene Creed",
+      "Influential figure in the development of Western Christianity"
+    ],
+    "yearBorn": 340,
+    "yearDied": 397
+  }
+]

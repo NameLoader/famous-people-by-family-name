@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1615,
     "yearDied": 1691
+  },
+  {
+    "fullName": "Stephen Baxter",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Baxter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Baxter_(author)",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "Known for his novels such as 'The Time Ships' and the Xeelee Sequence.",
+      "Winner of numerous science fiction awards."
+    ],
+    "yearBorn": 1957
   }
 ]

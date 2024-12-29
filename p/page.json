@@ -13,5 +13,20 @@
       "Pioneer in search engine technology and web indexing"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Jimmy Page",
+    "givenNames": [
+      "James",
+      "Patrick"
+    ],
+    "familyName": "Page",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Page",
+    "occupation": "Musician, songwriter, record producer",
+    "achievements": [
+      "Guitarist for Led Zeppelin",
+      "Highly influential guitarist and composer in rock music"
+    ],
+    "yearBorn": 1944
   }
 ]

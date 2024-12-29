@@ -12,5 +12,21 @@
     ],
     "yearBorn": 1840,
     "yearDied": 1928
+  },
+  {
+    "fullName": "Oliver Hardy",
+    "givenNames": [
+      "Oliver",
+      "Norvell"
+    ],
+    "familyName": "Hardy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Hardy",
+    "occupation": "Actor and comedian",
+    "achievements": [
+      "One half of the famous comedy duo Laurel and Hardy",
+      "Known for his slapstick humor and lovable personality"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1957
   }
 ]

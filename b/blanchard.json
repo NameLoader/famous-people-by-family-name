@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jean-Pierre Blanchard",
+    "givenNames": [
+      "Jean-Pierre",
+      "François"
+    ],
+    "familyName": "Blanchard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard",
+    "occupation": "French aeronaut and inventor",
+    "achievements": [
+      "Made the first manned balloon flight across the English Channel in 1785"
+    ],
+    "yearBorn": 1753,
+    "yearDied": 1809
+  }
+]

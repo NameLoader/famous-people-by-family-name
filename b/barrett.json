@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Chris Barrett",
+    "givenNames": [
+      "Chris"
+    ],
+    "familyName": "Barrett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Barrett_(Gaelic_footballer)",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for the Mayo county team in Gaelic football"
+    ]
+  },
+  {
+    "fullName": "Stephen Barrett",
+    "givenNames": [
+      "Stephen",
+      "Joel"
+    ],
+    "familyName": "Barrett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Barrett",
+    "occupation": "Physician, consumer advocate",
+    "achievements": [
+      "Founder and chairman of the National Council Against Health Fraud",
+      "Prominent critic of alternative medicine and quackery"
+    ]
+  }
+]

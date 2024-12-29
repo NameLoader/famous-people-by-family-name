@@ -15,5 +15,19 @@
     ],
     "yearBorn": 1929,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Gary Palmer",
+    "givenNames": [
+      "Gary",
+      "James"
+    ],
+    "familyName": "Palmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Palmer_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Alabama's 6th congressional district since 2015"
+    ],
+    "yearBorn": 1953
   }
 ]

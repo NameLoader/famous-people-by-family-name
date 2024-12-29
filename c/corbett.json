@@ -13,5 +13,22 @@
     ],
     "yearBorn": 1866,
     "yearDied": 1933
+  },
+  {
+    "fullName": "Jim Corbett",
+    "givenNames": [
+      "Edward",
+      "James"
+    ],
+    "familyName": "Corbett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Corbett",
+    "occupation": "Hunter, conservationist, author",
+    "achievements": [
+      "Known for hunting man-eating tigers and leopards in India.",
+      "Pioneer of wildlife conservation in India.",
+      "Author of several books on his experiences."
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1955
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nick Cannon",
+    "givenNames": [
+      "Nicholas",
+      "Scott"
+    ],
+    "familyName": "Cannon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Cannon",
+    "occupation": "Actor, comedian, rapper, television host",
+    "achievements": [
+      "Host of 'America's Got Talent'",
+      "Starred in films such as 'Drumline' and 'Love Don't Cost a Thing'"
+    ],
+    "yearBorn": 1980
+  }
+]

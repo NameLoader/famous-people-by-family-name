@@ -5,12 +5,40 @@
       "Thomas"
     ],
     "familyName": "Gray",
-    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray_(poet)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray",
     "occupation": "Poet",
     "achievements": [
       "Wrote the famous elegy 'Elegy Written in a Country Churchyard'."
     ],
     "yearBorn": 1716,
     "yearDied": 1771
+  },
+  {
+    "fullName": "John Gray",
+    "givenNames": [
+      "John",
+      "Nicholas"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gray_(philosopher)",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Known for his work on the nature of consciousness and morality"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Henry Gray",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Gray",
+    "occupation": "Anatomist",
+    "achievements": [
+      "Co-author of 'Gray's Anatomy', a seminal textbook on human anatomy"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1861
   }
 ]

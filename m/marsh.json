@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Perkins Marsh",
+    "givenNames": [
+      "George",
+      "Perkins"
+    ],
+    "familyName": "Marsh",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Perkins_Marsh",
+    "occupation": "American-Vermont lawyer, linguist, diplomat and scholar",
+    "achievements": [
+      "Considered the father of environmentalism for his influential book 'Man and Nature'",
+      "Served as U.S. Minister to Italy and Turkey"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1882
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sam Elliott",
+    "givenNames": [
+      "Samuel",
+      "Pack"
+    ],
+    "familyName": "Elliott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Elliott",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his distinctive voice and rugged appearance",
+      "Starred in films like The Big Lebowski, Tombstone, and A Star Is Born"
+    ],
+    "yearBorn": 1944
+  }
+]

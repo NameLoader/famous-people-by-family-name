@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Cindy Crawford",
+    "givenNames": [
+      "Cynthia",
+      "Ann"
+    ],
+    "familyName": "Crawford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cindy_Crawford",
+    "occupation": "Supermodel, Actress",
+    "achievements": [
+      "One of the original supermodels of the 1990s",
+      "Appeared on countless magazine covers and fashion runways",
+      "Successful acting career in films and television"
+    ],
+    "yearBorn": 1966
+  }
+]

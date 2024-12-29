@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "William Gilbert",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Gilbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Gilbert_(physicist)",
+    "occupation": "Physician, natural philosopher",
+    "achievements": [
+      "Pioneering work in magnetism and electricity",
+      "Coined the term 'electricus'"
+    ],
+    "yearBorn": 1540,
+    "yearDied": 1603
+  },
+  {
+    "fullName": "W. S. Gilbert",
+    "givenNames": [
+      "William",
+      "Schwenck"
+    ],
+    "familyName": "Gilbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._S._Gilbert",
+    "occupation": "Playwright, librettist",
+    "achievements": [
+      "Collaborated with Arthur Sullivan on popular comic operas like 'The Mikado' and 'H.M.S. Pinafore'",
+      "Known for his witty lyrics and satirical themes"
+    ],
+    "yearBorn": 1836,
+    "yearDied": 1911
+  },
+  {
+    "fullName": "Sandra Gilbert",
+    "givenNames": [
+      "Sandra",
+      "Mortola"
+    ],
+    "familyName": "Gilbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Gilbert",
+    "occupation": "Literary critic, feminist scholar",
+    "achievements": [
+      "Co-authored influential works on women's literature with Susan Gubar",
+      "Known for her contributions to feminist literary theory and criticism"
+    ],
+    "yearBorn": 1936
+  }
+]

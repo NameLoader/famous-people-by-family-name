@@ -13,5 +13,19 @@
       "Active in stage and film"
     ],
     "yearBorn": 1950
+  },
+  {
+    "fullName": "William Amos",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Amos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Amos",
+    "occupation": "Politician",
+    "achievements": [
+      "Member of Parliament for Pontiac in the Canadian House of Commons.",
+      "Served as Parliamentary Secretary to the Minister of Innovation, Science and Industry."
+    ],
+    "yearBorn": 1974
   }
 ]

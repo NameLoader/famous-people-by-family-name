@@ -14,5 +14,22 @@
       "Gold Glove Award winner (2011)"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Jack Kemp",
+    "givenNames": [
+      "Jack",
+      "French"
+    ],
+    "familyName": "Kemp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Kemp",
+    "occupation": "Politician, Football Player",
+    "achievements": [
+      "Quarterback for the Buffalo Bills and San Diego Chargers.",
+      "U.S. Representative from New York (1971-1989)",
+      "Secretary of Housing and Urban Development (1989-1993)"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2009
   }
 ]

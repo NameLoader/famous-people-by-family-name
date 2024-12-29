@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Tom Petty",
+    "givenNames": [
+      "Thomas",
+      "Earl"
+    ],
+    "familyName": "Petty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Petty",
+    "occupation": "Singer-songwriter, musician, record producer",
+    "achievements": [
+      "Inducted into the Rock and Roll Hall of Fame",
+      "Sold over 80 million records worldwide",
+      "Known for hits like 'American Girl', 'Free Fallin'', and 'Refugee'"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2017
+  }
+]

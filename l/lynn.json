@@ -13,5 +13,19 @@
       "Known for songs like 'Coal Miner's Daughter'"
     ],
     "yearBorn": 1932
+  },
+  {
+    "fullName": "Richard Lynn",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Lynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Lynn",
+    "occupation": "Psychologist and controversial author",
+    "achievements": [
+      "Known for his work on intelligence and genetics",
+      "His views on race and intelligence have been widely criticized as racist and scientifically unsound"
+    ],
+    "yearBorn": 1930
   }
 ]

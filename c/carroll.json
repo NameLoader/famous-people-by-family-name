@@ -6,11 +6,43 @@
       "Michael"
     ],
     "familyName": "Carroll",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Carroll_(physicist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_M._Carroll",
     "occupation": "Theoretical physicist",
     "achievements": [
       "Known for his work on cosmology and quantum mechanics"
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Lewis Carroll",
+    "givenNames": [
+      "Lewis"
+    ],
+    "familyName": "Carroll",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Carroll",
+    "occupation": "Author, Mathematician, Logician",
+    "achievements": [
+      "Author of 'Alice's Adventures in Wonderland' and 'Through the Looking-Glass'",
+      "Pioneer in logic and mathematics"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1898
+  },
+  {
+    "fullName": "Jim Carroll",
+    "givenNames": [
+      "Jim",
+      "James",
+      "Dennis"
+    ],
+    "familyName": "Carroll",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Carroll",
+    "occupation": "Writer, Poet, Punk Rocker",
+    "achievements": [
+      "Authored the autobiographical novel 'The Basketball Diaries'",
+      "Led the punk rock band The Jim Carroll Band"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2009
   }
 ]

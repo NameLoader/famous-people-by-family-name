@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1865,
     "yearDied": 1923
+  },
+  {
+    "fullName": "Florence Harding",
+    "givenNames": [
+      "Florence",
+      "Mabel"
+    ],
+    "familyName": "Harding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Harding",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Wife of Warren G. Harding",
+      "Advocated for women's suffrage"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1924
   }
 ]

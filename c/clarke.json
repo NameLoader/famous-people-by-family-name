@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1917,
     "yearDied": 2008
+  },
+  {
+    "fullName": "Kenneth Clarke",
+    "givenNames": [
+      "Kenneth",
+      "Harry"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Clarke",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Chancellor of the Exchequer from 1993 to 1997",
+      "Held various cabinet positions in the Conservative government",
+      "Known for his dry wit and intellectualism"
+    ],
+    "yearBorn": 1939
   }
 ]

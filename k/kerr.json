@@ -6,12 +6,41 @@
       "Ezekiel"
     ],
     "familyName": "Kerr",
-    "wikipedia": "https://en.wikipedia.org/wiki/George_Kerr_(athlete)",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Kerr_(runner)",
     "occupation": "Athlete",
     "achievements": [
       "Jamaican Olympian who competed in the 400 meters and 800 meters",
       "Won a bronze medal at the 1960 Rome Olympics"
     ],
     "yearBorn": 1937
+  },
+  {
+    "fullName": "Jean Kerr",
+    "givenNames": [
+      "Jean"
+    ],
+    "familyName": "Kerr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Kerr",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote popular humorous novels and plays such as 'Please Don't Eat the Daisies'"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Steven Kerr",
+    "givenNames": [
+      "Stephen",
+      "Douglas"
+    ],
+    "familyName": "Kerr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Kerr",
+    "occupation": "Basketball Coach, Former Player",
+    "achievements": [
+      "Head coach of the Golden State Warriors",
+      "Won multiple NBA championships as both a player and coach"
+    ],
+    "yearBorn": 1965
   }
 ]

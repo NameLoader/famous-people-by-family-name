@@ -14,5 +14,21 @@
       "UEFA Champions League winner"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Mickey Rooney",
+    "givenNames": [
+      "Mickey"
+    ],
+    "familyName": "Rooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mickey_Rooney",
+    "occupation": "Actor",
+    "achievements": [
+      "One of the most popular film stars of the 1930s and 1940s",
+      "Nominated for four Academy Awards",
+      "Received an honorary Oscar in 1938"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2014
   }
 ]

@@ -2,7 +2,8 @@
   {
     "fullName": "Michael Bradley",
     "givenNames": [
-      "Michael"
+      "Michael",
+      "Sheehan"
     ],
     "familyName": "Bradley",
     "wikipedia": "https://en.wikipedia.org/wiki/Michael_Bradley_(soccer_player)",
@@ -16,8 +17,7 @@
   {
     "fullName": "Owen Bradley",
     "givenNames": [
-      "Owen",
-      "William"
+      "Owen"
     ],
     "familyName": "Bradley",
     "wikipedia": "https://en.wikipedia.org/wiki/Owen_Bradley",
@@ -28,5 +28,36 @@
     ],
     "yearBorn": 1915,
     "yearDied": 1997
+  },
+  {
+    "fullName": "Bill Bradley",
+    "givenNames": [
+      "William",
+      "Warren"
+    ],
+    "familyName": "Bradley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Bradley",
+    "occupation": "Politician, Athlete",
+    "achievements": [
+      "U.S. Senator from New Jersey (1979-1997)",
+      "NBA All-Star and Hall of Famer",
+      "Rhodes Scholar"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Marion Bradley",
+    "givenNames": [
+      "Marion",
+      "Eleanor"
+    ],
+    "familyName": "Bradley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marion_Zimmer_Bradley",
+    "occupation": "Fantasy Author",
+    "achievements": [
+      "Known for the Darkover series of science fiction novels"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1995
   }
 ]

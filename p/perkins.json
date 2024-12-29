@@ -1,21 +1,5 @@
 [
   {
-    "fullName": "George Perkins Marsh",
-    "givenNames": [
-      "George"
-    ],
-    "familyName": "Perkins",
-    "wikipedia": "https://en.wikipedia.org/wiki/George_P._Marsh",
-    "occupation": "Lawyer, Writer, Diplomat, Environmentalist",
-    "achievements": [
-      "Author of 'Man and Nature'",
-      "Considered the father of modern environmentalism",
-      "U.S. Minister to Turkey and Italy"
-    ],
-    "yearBorn": 1801,
-    "yearDied": 1882
-  },
-  {
     "fullName": "Stephen Perkins",
     "givenNames": [
       "Stephen",
@@ -28,5 +12,21 @@
       "Known for his work with the band Jane's Addiction and other musical projects",
       "Recognized for his powerful drumming style and eclectic musical influences"
     ]
+  },
+  {
+    "fullName": "Charles Perkins",
+    "givenNames": [
+      "Charles",
+      "Nelson"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Perkins_(Aboriginal_activist)",
+    "occupation": "Aboriginal activist",
+    "achievements": [
+      "Played a key role in the 1967 referendum that granted Aboriginal Australians citizenship rights.",
+      "Founded the Aboriginal Tent Embassy in Canberra."
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2000
   }
 ]

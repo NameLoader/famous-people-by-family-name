@@ -13,5 +13,21 @@
       "Founded the multimedia network TheBlaze."
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Jeff Beck",
+    "givenNames": [
+      "Geoffrey",
+      "Arnold"
+    ],
+    "familyName": "Beck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Beck",
+    "occupation": "Guitarist",
+    "achievements": [
+      "Considered one of the greatest guitarists of all time.",
+      "Eight Grammy Awards winner."
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2023
   }
 ]

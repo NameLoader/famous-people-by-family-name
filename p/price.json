@@ -12,5 +12,36 @@
       "Wrote screenplays for films like 'Raging Bull' and 'The Color of Money'"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Vince Price",
+    "givenNames": [
+      "Vincent",
+      "Leonard"
+    ],
+    "familyName": "Price",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Price",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his distinctive voice and roles in horror films such as 'House of Wax' and 'The Pit and the Pendulum'",
+      "Also starred in dramatic and comedic roles throughout his career"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Mark Price (basketball)",
+    "givenNames": [
+      "Mark",
+      "William"
+    ],
+    "familyName": "Price",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Price",
+    "occupation": "Basketball player, Coach",
+    "achievements": [
+      "Four-time NBA All-Star",
+      "Known for his exceptional shooting skills and ball handling"
+    ],
+    "yearBorn": 1964
   }
 ]

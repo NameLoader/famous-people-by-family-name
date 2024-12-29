@@ -6,7 +6,7 @@
       "Pritchard"
     ],
     "familyName": "Sloan",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_P._Sloan_Jr.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_P._Sloan",
     "occupation": "Business executive, engineer",
     "achievements": [
       "President of General Motors (1923-1946)",
@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1875,
     "yearDied": 1966
+  },
+  {
+    "fullName": "John Sloan",
+    "givenNames": [
+      "John",
+      "French"
+    ],
+    "familyName": "Sloan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sloan",
+    "occupation": "Painter, printmaker",
+    "achievements": [
+      "Member of the Ashcan School of American art",
+      "Known for his depictions of New York City life"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1951
   }
 ]

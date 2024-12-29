@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Harold Lloyd",
+    "givenNames": [
+      "Harold",
+      "Clayton"
+    ],
+    "familyName": "Lloyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Lloyd",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Silent film comedian known for his 'glasses character'",
+      "Starred in classics like 'Safety Last!' and 'The Freshman'"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1971
+  }
+]

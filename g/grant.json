@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Ulysses S. Grant",
+    "givenNames": [
+      "Ulysses",
+      "S."
+    ],
+    "familyName": "Grant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+    "occupation": "General, President of the United States",
+    "achievements": [
+      "Led the Union Army to victory in the American Civil War",
+      "18th President of the United States"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1885
+  },
+  {
+    "fullName": "Cary Grant",
+    "givenNames": [
+      "Cary"
+    ],
+    "familyName": "Grant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cary_Grant",
+    "occupation": "Actor",
+    "achievements": [
+      "Hollywood icon known for his comedic timing and debonair style",
+      "Starred in films such as 'Bringing Up Baby', 'His Girl Friday' and 'North by Northwest'"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Hugh Grant",
+    "givenNames": [
+      "Hugh",
+      "John",
+      "Mungo"
+    ],
+    "familyName": "Grant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Grant",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in romantic comedies such as 'Four Weddings and a Funeral', 'Notting Hill' and 'Bridget Jones's Diary'",
+      "Has also appeared in dramatic films such as 'Cloud Atlas'"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Lee Grant",
+    "givenNames": [
+      "Lee"
+    ],
+    "familyName": "Grant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Grant",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Academy Award winner for Best Supporting Actress in 'Shampoo'",
+      "Directed several notable films and television episodes"
+    ],
+    "yearBorn": 1927
+  }
+]

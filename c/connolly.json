@@ -29,19 +29,19 @@
     "yearBorn": 1968
   },
   {
-    "fullName": "James Connolly",
+    "fullName": "Billy Connolly",
     "givenNames": [
-      "James"
+      "William",
+      "Billy"
     ],
     "familyName": "Connolly",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_Connolly_(socialist)",
-    "occupation": "Socialist, Trade Unionist, Politician",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Connolly",
+    "occupation": "Comedian, musician, actor, writer",
     "achievements": [
-      "Key figure in the Irish labour movement",
-      "Leader of the Irish Citizen Army during the Easter Rising",
-      "Executed by the British for his role in the rebellion"
+      "One of the most successful stand-up comedians of all time.",
+      "Known for his observational humor and storytelling.",
+      "Acted in numerous films and television shows."
     ],
-    "yearBorn": 1868,
-    "yearDied": 1916
+    "yearBorn": 1942
   }
 ]

@@ -33,6 +33,7 @@
   {
     "fullName": "Carl Lewis",
     "givenNames": [
+      "Carl",
       "Frederick",
       "Carlton"
     ],
@@ -44,5 +45,53 @@
       "World record holder"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "C.S. Lewis",
+    "givenNames": [
+      "Clive",
+      "Staples"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/C._S._Lewis",
+    "occupation": "Writer, academic",
+    "achievements": [
+      "Author of The Chronicles of Narnia",
+      "Christian apologist and scholar",
+      "Professor at Oxford University"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Jerry Lewis",
+    "givenNames": [
+      "Jerry"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Lewis",
+    "occupation": "Actor, comedian, filmmaker",
+    "achievements": [
+      "Iconic figure in slapstick comedy",
+      "Starred in numerous films and television shows"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Sinclair Lewis",
+    "givenNames": [
+      "Sinclair",
+      "Harry"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sinclair_Lewis",
+    "occupation": "Writer, novelist",
+    "achievements": [
+      "First American to win the Nobel Prize in Literature (1930)",
+      "Known for satirical novels depicting American society"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1951
   }
 ]

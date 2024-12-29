@@ -10,5 +10,19 @@
     "achievements": [
       "Iconic antagonist in the Halloween horror franchise"
     ]
+  },
+  {
+    "fullName": "Mike Myers",
+    "givenNames": [
+      "Michael",
+      "John"
+    ],
+    "familyName": "Myers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Myers",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Known for comedic roles in films like 'Wayne's World', 'Austin Powers', and 'Shrek'"
+    ],
+    "yearBorn": 1963
   }
 ]

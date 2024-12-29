@@ -11,5 +11,20 @@
       "LGBTQ+ rights activist.",
       "Led Stonewall, a prominent UK LGBTQ+ charity."
     ]
+  },
+  {
+    "fullName": "Mike Kelley",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Kelley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Kelley_(artist)",
+    "occupation": "Artist, Sculptor",
+    "achievements": [
+      "Known for his controversial and thought-provoking work, often exploring themes of childhood trauma and sexuality",
+      "His work has been exhibited in major museums worldwide"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2012
   }
 ]

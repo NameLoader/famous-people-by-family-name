@@ -31,5 +31,20 @@
     ],
     "yearBorn": 1775,
     "yearDied": 1851
+  },
+  {
+    "fullName": "Tina Turner",
+    "givenNames": [
+      "Tina"
+    ],
+    "familyName": "Turner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tina_Turner",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Known for her powerful vocals and energetic stage presence.",
+      "Sold over 200 million records worldwide.",
+      "Won numerous Grammy Awards."
+    ],
+    "yearBorn": 1939
   }
 ]

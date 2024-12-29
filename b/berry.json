@@ -13,5 +13,37 @@
     ],
     "yearBorn": 1935,
     "yearDied": 1997
+  },
+  {
+    "fullName": "Halle Berry",
+    "givenNames": [
+      "Halle",
+      "Maria"
+    ],
+    "familyName": "Berry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Halle_Berry",
+    "occupation": "Actress",
+    "achievements": [
+      "First African-American woman to win the Academy Award for Best Actress",
+      "Appeared in numerous successful films, including 'Monster's Ball', 'X-Men', and 'Catwoman'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Chuck Berry",
+    "givenNames": [
+      "Charles",
+      "Edward",
+      "Anderson"
+    ],
+    "familyName": "Berry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chuck_Berry",
+    "occupation": "Musician, Singer-songwriter",
+    "achievements": [
+      "Pioneering figure in rock and roll music",
+      "Known for hits such as 'Johnny B. Goode', 'Roll Over Beethoven', and 'Maybellene'"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2017
   }
 ]

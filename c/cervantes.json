@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Miguel de Cervantes Saavedra",
+    "givenNames": [
+      "Miguel",
+      "de"
+    ],
+    "familyName": "Cervantes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+    "occupation": "Novelist, Poet, Playwright",
+    "achievements": [
+      "Author of Don Quixote, considered one of the greatest works of literature ever written",
+      "Pioneer of the modern novel"
+    ],
+    "yearBorn": 1547,
+    "yearDied": 1616
+  }
+]

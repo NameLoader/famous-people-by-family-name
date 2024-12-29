@@ -14,5 +14,21 @@
       "Federal Member for Wentworth (1994-2019)"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Alexander Turnbull",
+    "givenNames": [
+      "Alexander",
+      "Horsburgh"
+    ],
+    "familyName": "Turnbull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Turnbull_(bibliophile)",
+    "occupation": "Librarian, Collector",
+    "achievements": [
+      "Founder of the Alexander Turnbull Library in New Zealand",
+      "Collected extensive rare books and manuscripts"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1918
   }
 ]

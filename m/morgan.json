@@ -27,5 +27,22 @@
     ],
     "yearBorn": 1635,
     "yearDied": 1688
+  },
+  {
+    "fullName": "J.P. Morgan",
+    "givenNames": [
+      "John",
+      "Pierpont"
+    ],
+    "familyName": "Morgan",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._P._Morgan",
+    "occupation": "Financier and Banker",
+    "achievements": [
+      "Financed the formation of U.S. Steel Corporation",
+      "Helped stabilize the American economy during financial panics",
+      "Major figure in industrialization and finance in the late 19th and early 20th centuries"
+    ],
+    "yearBorn": 1837,
+    "yearDied": 1913
   }
 ]

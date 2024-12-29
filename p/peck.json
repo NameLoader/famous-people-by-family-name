@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gregory Peck",
+    "givenNames": [
+      "Eldred",
+      "Gregory"
+    ],
+    "familyName": "Peck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Peck",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "One of the American Film Institute's Greatest Male Stars of All Time"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2003
+  }
+]

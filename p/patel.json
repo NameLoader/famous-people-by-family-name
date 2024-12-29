@@ -13,5 +13,19 @@
       "First Asian female Home Secretary"
     ],
     "yearBorn": 1972
+  },
+  {
+    "fullName": "Dev Patel",
+    "givenNames": [
+      "Dev"
+    ],
+    "familyName": "Patel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dev_Patel",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films such as 'Slumdog Millionaire', 'Lion', and 'The Green Knight'",
+      "Nominated for an Academy Award and a BAFTA Award"
+    ],
+    "yearBorn": 1990
   }
 ]

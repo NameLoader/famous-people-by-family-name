@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "John Davies (poet)",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Davies",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Davies_(poet,_born_1569)",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his elegies and sonnets"
+    ],
+    "yearBorn": 1569,
+    "yearDied": 1626
+  },
+  {
+    "fullName": "David Davies (swimmer)",
+    "givenNames": [
+      "David",
+      "Michael",
+      "Rhys"
+    ],
+    "familyName": "Davies",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Davies_(swimmer)",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Two-time Olympic medalist",
+      "Multiple World Championship medalist"
+    ],
+    "yearBorn": 1985
+  }
+]

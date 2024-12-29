@@ -2,7 +2,6 @@
   {
     "fullName": "Arnold Bennett",
     "givenNames": [
-      "Enoch",
       "Arnold"
     ],
     "familyName": "Bennett",
@@ -45,5 +44,21 @@
     ],
     "yearBorn": 1910,
     "yearDied": 1990
+  },
+  {
+    "fullName": "Tony Bennett",
+    "givenNames": [
+      "Anthony",
+      "Dominick"
+    ],
+    "familyName": "Bennett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Bennett",
+    "occupation": "Singer, painter",
+    "achievements": [
+      "Legendary jazz and pop vocalist with a career spanning over six decades",
+      "Won 20 Grammy Awards",
+      "Inducted into the Grammy Hall of Fame and the American Songwriters Hall of Fame"
+    ],
+    "yearBorn": 1926
   }
 ]

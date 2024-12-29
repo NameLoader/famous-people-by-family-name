@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jack Vance",
+    "givenNames": [
+      "John",
+      "Holbrook"
+    ],
+    "familyName": "Vance",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Vance",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "Known for intricate world-building and complex narratives",
+      "Wrote influential works like 'The Dying Earth' series and 'Emphyrio'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2013
+  }
+]

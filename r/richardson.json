@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1689,
     "yearDied": 1761
+  },
+  {
+    "fullName": "Ian Richardson",
+    "givenNames": [
+      "Ian",
+      "William"
+    ],
+    "familyName": "Richardson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Richardson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Francis Urquhart in 'House of Cards'"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2007
   }
 ]

@@ -2,8 +2,7 @@
   {
     "fullName": "Langston Hughes",
     "givenNames": [
-      "Langston",
-      "James Mercer"
+      "Langston"
     ],
     "familyName": "Hughes",
     "wikipedia": "https://en.wikipedia.org/wiki/Langston_Hughes",
@@ -32,5 +31,23 @@
     ],
     "yearBorn": 1905,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Ted Hughes",
+    "givenNames": [
+      "Ted",
+      "Edward",
+      "James"
+    ],
+    "familyName": "Hughes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Hughes",
+    "occupation": "Poet, novelist, short-story writer, and children's book author",
+    "achievements": [
+      "Poet Laureate of the United Kingdom from 1984 to 1998",
+      "Known for his powerful and often disturbing poetry",
+      "Authored acclaimed works such as 'The Hawk in the Rain' and 'Birthday Letters'"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1998
   }
 ]

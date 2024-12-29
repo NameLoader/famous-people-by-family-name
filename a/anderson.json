@@ -17,7 +17,6 @@
   {
     "fullName": "Laurie Anderson",
     "givenNames": [
-      "Laura",
       "Laurie"
     ],
     "familyName": "Anderson",
@@ -75,7 +74,7 @@
     "yearBorn": 1967
   },
   {
-    "fullName": "Carl Anderson",
+    "fullName": "Carl David Anderson",
     "givenNames": [
       "Carl",
       "David"
@@ -89,5 +88,21 @@
     ],
     "yearBorn": 1905,
     "yearDied": 1991
+  },
+  {
+    "fullName": "Hans Christian Anderson",
+    "givenNames": [
+      "Hans",
+      "Christian"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+    "occupation": "Author, Poet, Playwright",
+    "achievements": [
+      "Wrote classic fairy tales like 'The Little Mermaid', 'The Ugly Duckling', and 'The Emperor's New Clothes'",
+      "Considered one of the most important figures in world literature"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1875
   }
 ]

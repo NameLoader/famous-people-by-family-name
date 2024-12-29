@@ -2,7 +2,8 @@
   {
     "fullName": "Stephen Curry",
     "givenNames": [
-      "Stephen"
+      "Stephen",
+      "Wardell"
     ],
     "familyName": "Curry",
     "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Curry",
@@ -27,5 +28,20 @@
       "NBA Champion (1x)"
     ],
     "yearBorn": 1990
+  },
+  {
+    "fullName": "Dell Curry",
+    "givenNames": [
+      "Wardell",
+      "Stephen"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dell_Curry",
+    "occupation": "Former Professional Basketball Player",
+    "achievements": [
+      "NBA Sixth Man of the Year (1994)",
+      "Charlotte Hornets all-time leading scorer"
+    ],
+    "yearBorn": 1964
   }
 ]

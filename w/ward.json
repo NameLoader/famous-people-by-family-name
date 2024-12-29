@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1912,
     "yearDied": 1963
+  },
+  {
+    "fullName": "Edward Ward",
+    "givenNames": [
+      "Ned",
+      "Edward"
+    ],
+    "familyName": "Ward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ned_Ward",
+    "occupation": "Writer, Journalist, Poet",
+    "achievements": [
+      "Wrote 'The London Spy'",
+      "Contributed to periodicals like 'The Tatler'"
+    ],
+    "yearBorn": 1667,
+    "yearDied": 1731
   }
 ]

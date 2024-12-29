@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Eaton",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Eaton",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Eaton_(soldier)",
+    "occupation": "Diplomat",
+    "achievements": [
+      "Led a daring military expedition to Tripoli during the First Barbary War.",
+      "Known for his bravery and unconventional tactics."
+    ],
+    "yearBorn": 1764,
+    "yearDied": 1811
+  }
+]

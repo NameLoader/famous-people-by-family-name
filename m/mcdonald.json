@@ -13,5 +13,20 @@
       "Known for hits like 'What a Fool Believes' and 'Takin' It to the Streets'"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Ian McDonald",
+    "givenNames": [
+      "Ian",
+      "Richard"
+    ],
+    "familyName": "McDonald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_McDonald_(musician)",
+    "occupation": "Musician",
+    "achievements": [
+      "Keyboardist for the band King Crimson",
+      "Successful solo career and collaborations with other artists"
+    ],
+    "yearBorn": 1946
   }
 ]

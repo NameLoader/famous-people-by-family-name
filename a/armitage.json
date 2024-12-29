@@ -13,5 +13,20 @@
       "Known for his distinctive voice and exploration of social issues"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Richard Armitage",
+    "givenNames": [
+      "Richard",
+      "Crispin"
+    ],
+    "familyName": "Armitage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Armitage_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'The Hobbit' trilogy, 'North & South', and 'Captain America: The First Avenger'",
+      "Received critical acclaim for his stage performances"
+    ],
+    "yearBorn": 1971
   }
 ]

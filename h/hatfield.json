@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1922,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Anderson 'Devil Anse' Hatfield",
+    "givenNames": [
+      "Anderson",
+      "Devil Anse"
+    ],
+    "familyName": "Hatfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devil_Anse_Hatfield",
+    "occupation": "Coal Miner, Feud Leader",
+    "achievements": [
+      "Leading figure in the Hatfield-McCoy feud.",
+      "Subject of numerous books and films about the feud."
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1921
   }
 ]

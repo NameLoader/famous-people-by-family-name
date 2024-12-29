@@ -14,5 +14,36 @@
     ],
     "yearBorn": 1913,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Jeff Bridges",
+    "givenNames": [
+      "Jeffrey",
+      "Leon"
+    ],
+    "familyName": "Bridges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Bridges",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor for his role in Crazy Heart (2009)",
+      "Seven-time nominee for the Academy Awards"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Beau Bridges",
+    "givenNames": [
+      "Lloyd",
+      "Vernet",
+      "Beau"
+    ],
+    "familyName": "Bridges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beau_Bridges",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie for his role in The Second Civil War (1997)",
+      "Known for his roles in The Fabulous Baker Boys and Stargate SG-1"
+    ],
+    "yearBorn": 1941
   }
 ]

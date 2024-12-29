@@ -30,5 +30,21 @@
     ],
     "yearBorn": 1867,
     "yearDied": 1947
+  },
+  {
+    "fullName": "Roger Fisher",
+    "givenNames": [
+      "Roger",
+      "D"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Fisher_(academic)",
+    "occupation": "International lawyer and professor",
+    "achievements": [
+      "Co-founded the Harvard Negotiation Project.",
+      "Developed the concept of principled negotiation outlined in the book 'Getting to Yes'."
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2012
   }
 ]

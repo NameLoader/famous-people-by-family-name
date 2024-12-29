@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mitch McConnell",
+    "givenNames": [
+      "Addison",
+      "Mitchell"
+    ],
+    "familyName": "McConnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitch_McConnell",
+    "occupation": "Politician",
+    "achievements": [
+      "Senate Minority Leader (2021-present)",
+      "Senate Majority Leader (2015-2021)",
+      "United States Senator from Kentucky (1985-present)"
+    ],
+    "yearBorn": 1942
+  }
+]

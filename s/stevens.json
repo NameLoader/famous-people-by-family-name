@@ -28,5 +28,19 @@
     ],
     "yearBorn": 1749,
     "yearDied": 1838
+  },
+  {
+    "fullName": "Ray Stevens",
+    "givenNames": [
+      "Ray"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Stevens",
+    "occupation": "Singer-songwriter, comedian",
+    "achievements": [
+      "Known for country music hits like 'The Streak' and 'Everything Is Beautiful'.",
+      "Grammy Award winner."
+    ],
+    "yearBorn": 1939
   }
 ]

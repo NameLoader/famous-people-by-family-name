@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "E. E. Cummings",
+    "givenNames": [
+      "Edward",
+      "Estlin"
+    ],
+    "familyName": "Cummings",
+    "wikipedia": "https://en.wikipedia.org/wiki/E._E._Cummings",
+    "occupation": "Poet, Painter, Essayist, Novelist, Playwright",
+    "achievements": [
+      "Known for his innovative use of language and punctuation",
+      "Published collections such as 'Tulips & Chimneys' and 'i:six nonlectures'",
+      "Won the Bollingen Prize in Poetry in 1950"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1962
+  }
+]

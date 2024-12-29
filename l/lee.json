@@ -14,5 +14,37 @@
     ],
     "yearBorn": 1940,
     "yearDied": 1973
+  },
+  {
+    "fullName": "Robert E. Lee",
+    "givenNames": [
+      "Robert",
+      "Edward"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Lee",
+    "occupation": "General",
+    "achievements": [
+      "Confederate general during the American Civil War",
+      "Known for his military strategy and leadership"
+    ],
+    "yearBorn": 1807,
+    "yearDied": 1870
+  },
+  {
+    "fullName": "Spike Lee",
+    "givenNames": [
+      "Shelton",
+      "Jackson"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spike_Lee",
+    "occupation": "Film director, producer, screenwriter, actor",
+    "achievements": [
+      "Acclaimed films exploring race and social issues in America",
+      "Won an Academy Honorary Award",
+      "Notable works include 'Do the Right Thing', 'Malcolm X', 'BlacKkKlansman'"
+    ],
+    "yearBorn": 1957
   }
 ]

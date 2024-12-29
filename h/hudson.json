@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1565,
     "yearDied": 1611
+  },
+  {
+    "fullName": "Rock Hudson",
+    "givenNames": [
+      "Rock"
+    ],
+    "familyName": "Hudson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock_Hudson",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous Hollywood films",
+      "One of the biggest box office draws of the 1950s and 1960s"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Kate Hudson",
+    "givenNames": [
+      "Kate",
+      "Garry"
+    ],
+    "familyName": "Hudson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kate_Hudson",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Won a Golden Globe Award for her role in 'Almost Famous'",
+      "Starred in numerous rom-coms and dramas"
+    ],
+    "yearBorn": 1979
   }
 ]

@@ -44,5 +44,36 @@
       "Created the View Askewniverse franchise."
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Anna Nicole Smith",
+    "givenNames": [
+      "Anna",
+      "Nicole"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Nicole_Smith",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "Playboy Playmate of the Year (1993)",
+      "Starred in films like The Hudsucker Proxy and Illegal Alien"
+    ],
+    "yearBorn": 1967,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Joseph Smith Jr.",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Smith",
+    "occupation": "Religious Leader, Founder of Mormonism",
+    "achievements": [
+      "Founded the Church of Jesus Christ of Latter-day Saints",
+      "Translated the Book of Mormon"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1844
   }
 ]

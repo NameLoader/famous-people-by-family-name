@@ -20,11 +20,41 @@
       "Lee"
     ],
     "familyName": "Harvey",
-    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Harvey_(singer)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Harvey",
     "occupation": "Singer, songwriter",
     "achievements": [
       "Former member of the pop group East 17"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Steve Harvey",
+    "givenNames": [
+      "Broderick",
+      "Stephen"
+    ],
+    "familyName": "Harvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Harvey",
+    "occupation": "Comedian, television host, actor, and author",
+    "achievements": [
+      "Host of popular shows like 'Family Feud' and 'The Steve Harvey Show'.",
+      "Successful stand-up comedian and author."
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Matt Harvey",
+    "givenNames": [
+      "Matthew",
+      "Edward"
+    ],
+    "familyName": "Harvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matt_Harvey",
+    "occupation": "Professional baseball pitcher",
+    "achievements": [
+      "MLB All-Star.",
+      "Won the NL ERA title in 2013."
+    ],
+    "yearBorn": 1989
   }
 ]

@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1968,
     "yearDied": 2010
+  },
+  {
+    "fullName": "Chris Coleman",
+    "givenNames": [
+      "Christopher",
+      "Patrick"
+    ],
+    "familyName": "Coleman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Coleman_(footballer)",
+    "occupation": "Football manager and former player",
+    "achievements": [
+      "Managed Wales national football team to the semi-finals of UEFA Euro 2016",
+      "Managed clubs like Fulham, Sunderland, and Wolverhampton Wanderers"
+    ],
+    "yearBorn": 1970
   }
 ]

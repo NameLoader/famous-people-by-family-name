@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jane Campion",
+    "givenNames": [
+      "Elizabeth",
+      "Jane"
+    ],
+    "familyName": "Campion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Campion",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Academy Award for Best Original Screenplay (The Piano)",
+      "Palm d'Or at the Cannes Film Festival (The Piano)",
+      "First woman to win the Palme d'Or"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Michael Campion",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Campion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Campion_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as  Jackson in the Netflix series 'Fuller House'"
+    ],
+    "yearBorn": 2002
+  }
+]

@@ -13,5 +13,21 @@
       "Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role"
     ],
     "yearBorn": 1937
+  },
+  {
+    "fullName": "Douglas Freeman",
+    "givenNames": [
+      "Douglas",
+      "Southall"
+    ],
+    "familyName": "Freeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Southall_Freeman",
+    "occupation": "Historian, Biographer",
+    "achievements": [
+      "Pulitzer Prize for Biography (George Washington)",
+      "Known for his meticulous research and engaging writing style"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1953
   }
 ]

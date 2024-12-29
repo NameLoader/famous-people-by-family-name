@@ -59,5 +59,21 @@
       "Known for roles in Fast & Furious franchise, Jumanji, and Moana"
     ],
     "yearBorn": 1972
+  },
+  {
+    "fullName": "Magic Johnson",
+    "givenNames": [
+      "Earvin",
+      "Magic"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magic_Johnson",
+    "occupation": "Former professional basketball player, Entrepreneur",
+    "achievements": [
+      "Three-time NBA MVP and five-time NBA champion",
+      "Considered one of the greatest point guards of all time",
+      "Successful businessman and philanthropist"
+    ],
+    "yearBorn": 1959
   }
 ]

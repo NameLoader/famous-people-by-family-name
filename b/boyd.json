@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Scott Boyd",
+    "givenNames": [
+      "Scott"
+    ],
+    "familyName": "Boyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Boyd",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for various English football clubs"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "John Boyd",
+    "givenNames": [
+      "John",
+      "Richard"
+    ],
+    "familyName": "Boyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)",
+    "occupation": "Military theorist and fighter pilot",
+    "achievements": [
+      "Developed the OODA loop theory of combat decision-making",
+      "Influenced military thinking in multiple countries"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Douglas Boyd",
+    "givenNames": [
+      "Douglas"
+    ],
+    "familyName": "Boyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Boyd",
+    "occupation": "Conductor, oboist",
+    "achievements": [
+      "Artistic Director of the Orchestra of the Age of Enlightenment"
+    ]
+  }
+]

@@ -12,5 +12,21 @@
       "Tony Award nominee for his performance in 'A View from the Bridge'"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Michael Beasley",
+    "givenNames": [
+      "Michael",
+      "Paul"
+    ],
+    "familyName": "Beasley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Beasley",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Played college basketball for Kansas State University.",
+      "Selected second overall in the 2008 NBA Draft by the Miami Heat.",
+      "Named NBA Rookie of the Year runner-up."
+    ],
+    "yearBorn": 1989
   }
 ]

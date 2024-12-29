@@ -12,5 +12,36 @@
       "Grammy Awards"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Mathew Knowles",
+    "givenNames": [
+      "Mathew"
+    ],
+    "familyName": "Knowles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mathew_Knowles",
+    "occupation": "Music executive, record producer",
+    "achievements": [
+      "Managed Destiny's Child, launching Beyoncé's career",
+      "Founded Music World Entertainment"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Tina Knowles-Lawson",
+    "givenNames": [
+      "Celestine",
+      "Ann",
+      "Tina",
+      "Beyoncé"
+    ],
+    "familyName": "Knowles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tina_Knowles",
+    "occupation": "Fashion designer, costume designer",
+    "achievements": [
+      "Designed costumes for Destiny's Child",
+      "Created the House of Deréon clothing line"
+    ],
+    "yearBorn": 1954
   }
 ]

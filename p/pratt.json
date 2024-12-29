@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Chris Pratt",
+    "givenNames": [
+      "Christopher",
+      "Michael"
+    ],
+    "familyName": "Pratt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Pratt",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in blockbuster films like Guardians of the Galaxy and Jurassic World",
+      "Known for his comedic roles in Parks and Recreation"
+    ],
+    "yearBorn": 1979
+  }
+]

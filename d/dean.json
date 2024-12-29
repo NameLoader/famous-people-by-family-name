@@ -39,12 +39,27 @@
       "Wesley"
     ],
     "familyName": "Dean",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_W._Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dean",
     "occupation": "Lawyer",
     "achievements": [
       "White House Counsel during the Nixon administration",
       "Key witness in the Watergate scandal"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "Mark Dean",
+    "givenNames": [
+      "Mark",
+      "E"
+    ],
+    "familyName": "Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Dean_(computer_scientist)",
+    "occupation": "Computer scientist, engineer",
+    "achievements": [
+      "Co-inventor of the IBM personal computer (PC)",
+      "First African American to be inducted into the National Inventors Hall of Fame"
+    ],
+    "yearBorn": 1957
   }
 ]

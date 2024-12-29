@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Richard Coyne",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Coyne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Coyne",
+    "occupation": "Architect, Professor",
+    "achievements": [
+      "Professor of Architecture at the University of Edinburgh",
+      "Known for his work on digital architecture and design computing",
+      "Author of influential books on architectural theory and practice"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Jerry Coyne",
+    "givenNames": [
+      "Jerry",
+      "Allen"
+    ],
+    "familyName": "Coyne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Coyne",
+    "occupation": "Biologist, Author",
+    "achievements": [
+      "Professor emeritus in the Department of Ecology and Evolution at the University of Chicago",
+      "Known for his work on evolution and evolutionary biology",
+      "Author of popular science books, including 'Why Evolution Is True'"
+    ]
+  }
+]

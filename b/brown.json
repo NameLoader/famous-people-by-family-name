@@ -20,7 +20,7 @@
       "Joseph"
     ],
     "familyName": "Brown",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_Brown_(musician)",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Brown",
     "occupation": "Singer, songwriter, musician",
     "achievements": [
       "Considered the 'Godfather of Soul', influential in funk and R&B music."
@@ -60,12 +60,11 @@
   {
     "fullName": "Dan Brown",
     "givenNames": [
-      "Dan",
       "Daniel",
       "Gerhard"
     ],
     "familyName": "Brown",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Brown_(author)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Brown",
     "occupation": "Author",
     "achievements": [
       "Bestselling author known for his thriller novels",

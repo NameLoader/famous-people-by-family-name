@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Corcoran",
+    "givenNames": [
+      "William",
+      "Wilson"
+    ],
+    "familyName": "Corcoran",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wilson_Corcoran",
+    "occupation": "Art Collector, Philanthropist",
+    "achievements": [
+      "Founded the Corcoran Gallery of Art in Washington, D.C.",
+      "Major collector of European paintings and sculpture"
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1888
+  }
+]

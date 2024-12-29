@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1891,
     "yearDied": 1942
+  },
+  {
+    "fullName": "Natalie Wood",
+    "givenNames": [
+      "Natalie"
+    ],
+    "familyName": "Wood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Wood",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for three Academy Awards",
+      "Starred in films such as West Side Story, Rebel Without a Cause, and Splendor in the Grass"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1981
   }
 ]

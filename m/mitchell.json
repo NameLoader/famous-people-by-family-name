@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1900,
     "yearDied": 1949
+  },
+  {
+    "fullName": "Thomas Mitchell",
+    "givenNames": [
+      "Thomas",
+      "John"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Mitchell_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award winner for Best Supporting Actor in 'Stagecoach' (1939).",
+      "Known for his roles in Westerns and other classic films."
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1962
   }
 ]

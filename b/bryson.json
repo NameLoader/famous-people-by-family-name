@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Bill Bryson",
+    "givenNames": [
+      "William",
+      "McGuire"
+    ],
+    "familyName": "Bryson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Bryson",
+    "occupation": "Author, travel writer, journalist",
+    "achievements": [
+      "Best-selling author of humorous books on travel and science",
+      "Won numerous awards for his writing"
+    ],
+    "yearBorn": 1951
+  }
+]

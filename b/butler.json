@@ -13,5 +13,51 @@
     ],
     "yearBorn": 1692,
     "yearDied": 1752
+  },
+  {
+    "fullName": "Octavia Butler",
+    "givenNames": [
+      "Octavia",
+      "Estelle"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Octavia_E._Butler",
+    "occupation": "Science fiction writer",
+    "achievements": [
+      "First science fiction writer to receive a MacArthur Fellowship (Genius Grant)",
+      "Known for exploring themes of race, gender, and social justice in her work"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Samuel Butler",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)",
+    "occupation": "Novelist, critic",
+    "achievements": [
+      "Authored the satirical novel 'Erewhon'",
+      "Contributed to the development of modern English prose style"
+    ],
+    "yearBorn": 1835,
+    "yearDied": 1902
+  },
+  {
+    "fullName": "Kevin Butler",
+    "givenNames": [
+      "Kevin",
+      "Gregory"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Butler_(American_football)",
+    "occupation": "Former American Football Player",
+    "achievements": [
+      "Played for the Chicago Bears and other NFL teams",
+      "Known for his kicking abilities"
+    ],
+    "yearBorn": 1965
   }
 ]

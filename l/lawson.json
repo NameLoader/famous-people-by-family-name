@@ -29,5 +29,19 @@
     ],
     "yearBorn": 1857,
     "yearDied": 1933
+  },
+  {
+    "fullName": "Mary Lawson",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Lawson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Lawson_(novelist)",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Known for her darkly humorous and insightful fiction",
+      "Published numerous novels and short story collections"
+    ],
+    "yearBorn": 1946
   }
 ]

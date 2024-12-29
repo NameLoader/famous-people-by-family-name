@@ -3,10 +3,10 @@
     "fullName": "William Barber II",
     "givenNames": [
       "William",
-      "J"
+      "J."
     ],
     "familyName": "Barber",
-    "wikipedia": "https://en.wikipedia.org/wiki/William_J._Barber_II",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Barber_II",
     "occupation": "Activist, Theologian",
     "achievements": [
       "President and Senior Lecturer of Repairers of the Breach",
@@ -14,5 +14,21 @@
       "Prominent voice in the contemporary fight for social and economic justice"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Samuel Barber",
+    "givenNames": [
+      "Samuel",
+      "Osmond"
+    ],
+    "familyName": "Barber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Barber",
+    "occupation": "Composer",
+    "achievements": [
+      "Pulitzer Prize for Music",
+      "Grammy Award"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1981
   }
 ]

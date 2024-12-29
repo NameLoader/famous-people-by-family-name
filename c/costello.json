@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "John Costello",
+    "givenNames": [
+      "John",
+      "Aloysius"
+    ],
+    "familyName": "Costello",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_A._Costello",
+    "occupation": "Politician",
+    "achievements": [
+      "Taoiseach (Prime Minister) of Ireland from 1948 to 1951",
+      "Minister for Finance and External Affairs"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1976
+  },
+  {
+    "fullName": "Elvis Costello",
+    "givenNames": [
+      "Elvis"
+    ],
+    "familyName": "Costello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Costello",
+    "occupation": "Singer-songwriter, Musician",
+    "achievements": [
+      "Highly influential figure in new wave and punk rock",
+      "Known for his sharp lyrics and eclectic musical style",
+      "Multiple Grammy Award nominations"
+    ],
+    "yearBorn": 1954
+  }
+]

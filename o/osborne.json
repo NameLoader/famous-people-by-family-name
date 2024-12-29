@@ -6,7 +6,7 @@
       "James"
     ],
     "familyName": "Osborne",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Osborne_(playwright)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Osborne",
     "occupation": "Playwright",
     "achievements": [
       "Won the Evening Standard Award for his play 'Look Back in Anger'",
@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1929,
     "yearDied": 1994
+  },
+  {
+    "fullName": "George Osborne",
+    "givenNames": [
+      "George",
+      "Gideon",
+      "Oliver"
+    ],
+    "familyName": "Osborne",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Osborne",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of the Exchequer from 2010 to 2016",
+      "Member of Parliament for Tatton"
+    ],
+    "yearBorn": 1971
   }
 ]

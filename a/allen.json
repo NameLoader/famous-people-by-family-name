@@ -13,5 +13,52 @@
     ],
     "yearBorn": 1760,
     "yearDied": 1831
+  },
+  {
+    "fullName": "Woody Allen",
+    "givenNames": [
+      "Heywood",
+      "Allan"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woody_Allen",
+    "occupation": "Film Director, Writer, Actor",
+    "achievements": [
+      "Academy Award Winner (Best Original Screenplay)",
+      "BAFTA Fellow",
+      "Golden Globe Awards"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Paul Allen",
+    "givenNames": [
+      "Paul",
+      "Gardner"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Allen",
+    "occupation": "Entrepreneur, Philanthropist",
+    "achievements": [
+      "Co-founder of Microsoft",
+      "Owner of the Seattle Seahawks and Portland Trail Blazers",
+      "Prominent philanthropist supporting science and technology initiatives"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Tim Allen",
+    "givenNames": [
+      "Tim"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Allen",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series",
+      "Golden Globe Award nomination"
+    ],
+    "yearBorn": 1953
   }
 ]

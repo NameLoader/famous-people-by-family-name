@@ -37,10 +37,11 @@
     "givenNames": [
       "Shirley",
       "Vivian",
-      "Teresa"
+      "Teresa",
+      "Brittain"
     ],
     "familyName": "Williams",
-    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Williams,_Baroness_Williams_of_Crosby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Williams",
     "occupation": "Politician, Academic",
     "achievements": [
       "Leader of the Social Democratic Party (SDP)",
@@ -92,5 +93,41 @@
       "Played in the NFL for the Arizona Cardinals and Indianapolis Colts"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Tennessee Williams",
+    "givenNames": [
+      "Tennessee",
+      "Thomas",
+      "Lanier"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tennessee_Williams",
+    "occupation": "Playwright, Screenwriter, Poet",
+    "achievements": [
+      "Pulitzer Prize for Drama (twice)",
+      "Tony Awards (multiple)",
+      "Considered one of the greatest American playwrights of the 20th century"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Hank Williams",
+    "givenNames": [
+      "Hank",
+      "Hiram",
+      "King"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hank_Williams",
+    "occupation": "Country Musician, Singer-Songwriter",
+    "achievements": [
+      "Pioneer of country music",
+      "Influential songwriter with numerous hit songs",
+      "Inducted into the Country Music Hall of Fame"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1953
   }
 ]

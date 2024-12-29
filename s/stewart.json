@@ -6,7 +6,7 @@
       "Maitland"
     ],
     "familyName": "Stewart",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart_(actor)",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart",
     "occupation": "Actor",
     "achievements": [
       "Academy Award for Best Actor",
@@ -47,7 +47,8 @@
   {
     "fullName": "John Stewart",
     "givenNames": [
-      "John"
+      "John",
+      "Jon"
     ],
     "familyName": "Stewart",
     "wikipedia": "https://en.wikipedia.org/wiki/Jon_Stewart",

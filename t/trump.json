@@ -18,8 +18,7 @@
   {
     "fullName": "Ivanka Trump",
     "givenNames": [
-      "Ivana",
-      "Marie"
+      "Ivanka"
     ],
     "familyName": "Trump",
     "wikipedia": "https://en.wikipedia.org/wiki/Ivanka_Trump",
@@ -54,7 +53,7 @@
       "Christ"
     ],
     "familyName": "Trump",
-    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Christ_Trump",
     "occupation": "Philanthropist",
     "achievements": [
       "Wife of Frederick Trump",
@@ -78,5 +77,20 @@
     ],
     "yearBorn": 1905,
     "yearDied": 1999
+  },
+  {
+    "fullName": "Robert Stewart Trump",
+    "givenNames": [
+      "Robert",
+      "Stewart"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Trump",
+    "occupation": "Business Executive",
+    "achievements": [
+      "Executive Vice President of The Trump Organization"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2020
   }
 ]

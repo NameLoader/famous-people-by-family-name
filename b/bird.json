@@ -29,5 +29,19 @@
       "Collaborated with various artists including Fiona Apple and the Decemberists."
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "John Bird",
+    "givenNames": [
+      "John",
+      "Michael"
+    ],
+    "familyName": "Bird",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bird_(actor)",
+    "occupation": "British actor and comedian",
+    "achievements": [
+      "Known for his roles in Monty Python's Flying Circus and other comedy productions"
+    ],
+    "yearBorn": 1937
   }
 ]

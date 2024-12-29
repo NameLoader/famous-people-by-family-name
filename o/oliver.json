@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Oliver",
+    "givenNames": [
+      "John",
+      "William"
+    ],
+    "familyName": "Oliver",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Oliver",
+    "occupation": "Comedian, writer, producer, political commentator",
+    "achievements": [
+      "Host of 'Last Week Tonight with John Oliver'",
+      "Known for his sharp wit and insightful commentary on current events"
+    ],
+    "yearBorn": 1977
+  }
+]

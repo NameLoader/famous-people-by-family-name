@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "Steve Irwin",
+    "givenNames": [
+      "Steve",
+      "Stephen",
+      "Robert"
+    ],
+    "familyName": "Irwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Irwin",
+    "occupation": "Zookeeper, television personality, wildlife expert",
+    "achievements": [
+      "Known as the 'Crocodile Hunter'",
+      "Hosted popular TV shows like 'The Crocodile Hunter' and 'Crikey! It's the Irwins'",
+      "Passionate conservationist who educated millions about wildlife",
+      "Founded the Steve Irwin Wildlife Reserve in Australia"
+    ],
+    "yearBorn": 1962,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Terri Irwin",
+    "givenNames": [
+      "Terri",
+      "Raines"
+    ],
+    "familyName": "Irwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terri_Irwin",
+    "occupation": "Wildlife conservationist, zookeeper, television personality",
+    "achievements": [
+      "Co-founded Australia Zoo with Steve Irwin",
+      "Continues to run the zoo and promote wildlife conservation after Steve's death",
+      "Starred in 'The Crocodile Hunter' and 'Crikey! It's the Irwins'"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Robert Irwin",
+    "givenNames": [
+      "Robert",
+      "Clarence"
+    ],
+    "familyName": "Irwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Irwin_(television_personality)",
+    "occupation": "Wildlife photographer, television personality",
+    "achievements": [
+      "Appeared in 'Crikey! It's the Irwins'",
+      "Passionate wildlife photographer and conservationist",
+      "Continues his family's legacy of educating people about animals"
+    ],
+    "yearBorn": 2003
+  },
+  {
+    "fullName": "Bindi Irwin",
+    "givenNames": [
+      "Bindi",
+      "Sue"
+    ],
+    "familyName": "Irwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bindi_Irwin",
+    "occupation": "Wildlife conservationist, television personality, dancer",
+    "achievements": [
+      "Won season 21 of 'Dancing with the Stars'",
+      "Hosts 'Crikey! It's the Irwins'"
+    ],
+    "yearBorn": 1998
+  }
+]

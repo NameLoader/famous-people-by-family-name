@@ -43,5 +43,21 @@
       "UN Women Goodwill Ambassador"
     ],
     "yearBorn": 1990
+  },
+  {
+    "fullName": "John B. Watson",
+    "givenNames": [
+      "John",
+      "Broadus"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_B._Watson",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Founder of behaviorism",
+      "Known for his Little Albert experiment"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1958
   }
 ]

@@ -6,11 +6,42 @@
       "Ruben"
     ],
     "familyName": "Alvarez",
-    "wikipedia": "https://en.wikipedia.org/wiki/Yordan_Álvarez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yordan_%C3%81lvarez",
     "occupation": "Baseball Player",
     "achievements": [
       "Plays for the Houston Astros, MLB All-Star."
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Pedro Alvarez",
+    "givenNames": [
+      "Pedro",
+      "Manuel"
+    ],
+    "familyName": "Alvarez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_%C3%81lvarez_(baseball)",
+    "occupation": "Baseball player",
+    "achievements": [
+      "First-round draft pick by the Pittsburgh Pirates in 2008",
+      "MLB All-Star in 2013"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Luis Alvarez",
+    "givenNames": [
+      "Luis",
+      "Walter"
+    ],
+    "familyName": "Alvarez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Walter_Alvarez",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1968)",
+      "Discovery of the muon neutrino"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1988
   }
 ]

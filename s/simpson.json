@@ -14,5 +14,49 @@
       "Launched successful fashion lines"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Homer Jay Simpson",
+    "givenNames": [
+      "Homer",
+      "Jay"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Homer_Simpson",
+    "occupation": "Nuclear Safety Inspector (Springfield Nuclear Power Plant)",
+    "achievements": [
+      "Fictional character, protagonist of the animated sitcom 'The Simpsons'"
+    ]
+  },
+  {
+    "fullName": "O. J. Simpson",
+    "givenNames": [
+      "Orenthal",
+      "James"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/O._J._Simpson",
+    "occupation": "Former NFL Player, Actor",
+    "achievements": [
+      "NFL Hall of Fame Running Back",
+      "Notable film and television actor"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Andrew Simpson",
+    "givenNames": [
+      "Andrew",
+      "James",
+      "Bart"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Simpson_(sailor)",
+    "occupation": "Olympic Sailor",
+    "achievements": [
+      "Gold medalist at the 2008 Beijing Olympics in sailing"
+    ],
+    "yearBorn": 1976,
+    "yearDied": 2013
   }
 ]

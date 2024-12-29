@@ -31,5 +31,22 @@
     ],
     "yearBorn": 1907,
     "yearDied": 1964
+  },
+  {
+    "fullName": "Kit Carson",
+    "givenNames": [
+      "Christopher",
+      "Houston"
+    ],
+    "familyName": "Carson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kit_Carson",
+    "occupation": "Frontier Scout, Soldier, Fur Trapper",
+    "achievements": [
+      "Explored and mapped vast areas of the American West.",
+      "Played a key role in conflicts with Native American tribes.",
+      "Served as a guide and scout for the U.S. Army."
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1868
   }
 ]

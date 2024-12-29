@@ -14,5 +14,38 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1920
+  },
+  {
+    "fullName": "Lou Reed",
+    "givenNames": [
+      "Lou",
+      "Lewis",
+      "Allan"
+    ],
+    "familyName": "Reed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lou_Reed",
+    "occupation": "Singer-songwriter, Musician",
+    "achievements": [
+      "Founding member of the Velvet Underground",
+      "Influential figure in art rock and experimental music"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Jimmy Reed",
+    "givenNames": [
+      "Jimmy",
+      "Mathis"
+    ],
+    "familyName": "Reed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Reed",
+    "occupation": "Blues musician, Singer-songwriter",
+    "achievements": [
+      "Pioneered a distinctive style of Chicago blues",
+      "Influenced countless blues and rock musicians"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1976
   }
 ]

@@ -13,5 +13,52 @@
       "Starred in 'The Hunger Games' franchise"
     ],
     "yearBorn": 1990
+  },
+  {
+    "fullName": "Thomas Lawrence",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Lawrence",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading portrait painter of the Regency era",
+      "Known for his elegant and refined style"
+    ],
+    "yearBorn": 1769,
+    "yearDied": 1830
+  },
+  {
+    "fullName": "D. H. Lawrence",
+    "givenNames": [
+      "David",
+      "Herbert"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/D._H._Lawrence",
+    "occupation": "Novelist, Poet, Essayist",
+    "achievements": [
+      "Authored influential novels like 'Sons and Lovers', 'Lady Chatterley's Lover'",
+      "Explored themes of sexuality, relationships, and social class"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "T. E. Lawrence",
+    "givenNames": [
+      "Thomas",
+      "Edward"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/T._E._Lawrence",
+    "occupation": "Archaeologist, Military Officer, Writer",
+    "achievements": [
+      "Led Arab Revolt during World War I",
+      "Authored 'Seven Pillars of Wisdom', an account of his experiences"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1935
   }
 ]

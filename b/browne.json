@@ -5,7 +5,7 @@
       "Thomas"
     ],
     "familyName": "Browne",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Thomas_Browne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Browne",
     "occupation": "Physician, Author",
     "achievements": [
       "Known for his philosophical and religious writings like 'Religio Medici'",
@@ -13,5 +13,36 @@
     ],
     "yearBorn": 1605,
     "yearDied": 1682
+  },
+  {
+    "fullName": "William Browne",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Browne",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Browne_(poet)",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his pastoral poetry and religious works",
+      "Influenced later poets like John Dryden"
+    ],
+    "yearBorn": 1590,
+    "yearDied": 1643
+  },
+  {
+    "fullName": "Sylvia Browne",
+    "givenNames": [
+      "Sylvia",
+      "Celeste"
+    ],
+    "familyName": "Browne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_Browne",
+    "occupation": "Self-proclaimed Psychic, Author",
+    "achievements": [
+      "Published numerous books on psychic phenomena and spirituality",
+      "Gained a large following through television appearances and her psychic hotline"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2013
   }
 ]

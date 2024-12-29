@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Martin Short",
+    "givenNames": [
+      "Martin",
+      "Hayter"
+    ],
+    "familyName": "Short",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Short",
+    "occupation": "Actor, comedian, writer",
+    "achievements": [
+      "Emmy Award winner",
+      "Tony Award nominee",
+      "Known for roles in 'SCTV', 'Three Amigos', and 'Father of the Bride'"
+    ],
+    "yearBorn": 1950
+  }
+]

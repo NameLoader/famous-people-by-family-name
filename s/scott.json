@@ -5,27 +5,12 @@
       "Walter"
     ],
     "familyName": "Scott",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Walter_Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
     "occupation": "Novelist, poet, playwright, and historian",
     "achievements": [
       "Author of historical novels like Ivanhoe and Rob Roy",
       "Founder of the historical novel genre",
       "Influenced literature and popular culture"
-    ],
-    "yearBorn": 1771,
-    "yearDied": 1832
-  },
-  {
-    "fullName": "Sir Walter Scott",
-    "givenNames": [
-      "Walter"
-    ],
-    "familyName": "Scott",
-    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
-    "occupation": "Novelist, Poet",
-    "achievements": [
-      "Considered one of the founders of the historical novel genre",
-      "Authored renowned works like 'Ivanhoe' and 'Rob Roy'"
     ],
     "yearBorn": 1771,
     "yearDied": 1832
@@ -43,5 +28,19 @@
       "Known for her contemporary Christian music",
       "Led worship at Hillsong Church and released several acclaimed albums"
     ]
+  },
+  {
+    "fullName": "Ridley Scott",
+    "givenNames": [
+      "Ridley"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ridley_Scott",
+    "occupation": "Film director and producer",
+    "achievements": [
+      "Directed iconic films such as 'Alien', 'Blade Runner', and 'Gladiator'",
+      "Known for his visually stunning and thought-provoking science fiction and historical epics"
+    ],
+    "yearBorn": 1937
   }
 ]

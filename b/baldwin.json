@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "James Baldwin",
+    "givenNames": [
+      "James",
+      "Arthur"
+    ],
+    "familyName": "Baldwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Baldwin",
+    "occupation": "Writer, Novelist, Playwright, Essayist, Poet",
+    "achievements": [
+      "Literary giant of the 20th century.",
+      "Known for his powerful and insightful writings on race, sexuality, and social justice.",
+      "Notable works include 'Go Tell It on the Mountain', 'Notes of a Native Son', and 'The Fire Next Time'."
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Alec Baldwin",
+    "givenNames": [
+      "Alec",
+      "Alexander"
+    ],
+    "familyName": "Baldwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alec_Baldwin",
+    "occupation": "Actor, Producer, Writer",
+    "achievements": [
+      "Acclaimed actor known for roles in films such as 'The Hunt for Red October', 'Glengarry Glen Ross', and '30 Rock'.",
+      "Won three Primetime Emmy Awards and a Tony Award.",
+      "Has been involved in various political controversies."
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Stephen Baldwin",
+    "givenNames": [
+      "Stephen",
+      "Andrew"
+    ],
+    "familyName": "Baldwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Baldwin",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for roles in films such as 'The Usual Suspects', 'Bio-Dome', and '8 Seconds'.",
+      "Has also appeared on reality TV shows."
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "William Baldwin",
+    "givenNames": [
+      "William",
+      "Joseph"
+    ],
+    "familyName": "Baldwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Baldwin",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for roles in films such as 'Flatliners', 'Backdraft', and 'Sliver'.",
+      "Has also appeared in television series."
+    ],
+    "yearBorn": 1963
+  }
+]

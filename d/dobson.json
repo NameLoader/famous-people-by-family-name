@@ -2,7 +2,8 @@
   {
     "fullName": "James Dobson",
     "givenNames": [
-      "James"
+      "James",
+      "Clayton"
     ],
     "familyName": "Dobson",
     "wikipedia": "https://en.wikipedia.org/wiki/James_Dobson",
@@ -20,7 +21,7 @@
       "Lowry"
     ],
     "familyName": "Dobson",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Dobson_(astronomer)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dobson_(amateur_astronomer)",
     "occupation": "Amateur astronomer and telescope maker",
     "achievements": [
       "Designed and built the Dobsonian telescope",

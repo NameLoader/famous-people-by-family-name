@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "John Stephens",
+    "givenNames": [
+      "John",
+      "Roger"
+    ],
+    "familyName": "Stephens",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Legend",
+    "occupation": "Singer, songwriter, musician, actor",
+    "achievements": [
+      "Won 12 Grammy Awards",
+      "Academy Award for Best Original Song",
+      "Golden Globe Award for Best Original Song"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Alexander Stephens",
+    "givenNames": [
+      "Alexander",
+      "Hamilton"
+    ],
+    "familyName": "Stephens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_H._Stephens",
+    "occupation": "American politician",
+    "achievements": [
+      "Vice President of the Confederate States of America during the Civil War"
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1883
+  }
+]

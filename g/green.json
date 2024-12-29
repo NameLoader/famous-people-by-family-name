@@ -27,5 +27,17 @@
       "Influential figure in British blues rock"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "David Green",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Green_(entrepreneur)",
+    "occupation": "Entrepreneur, philanthropist",
+    "achievements": [
+      "Co-founder of the Hobby Lobby arts and crafts store chain"
+    ]
   }
 ]

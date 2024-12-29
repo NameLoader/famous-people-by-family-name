@@ -21,7 +21,7 @@
       "John"
     ],
     "familyName": "Snow",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Snow_(physician)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Snow",
     "occupation": "Physician, pioneer of modern epidemiology",
     "achievements": [
       "Identified the link between cholera outbreaks and contaminated water."
@@ -41,5 +41,21 @@
       "Protagonist of the fantasy novel series 'A Song of Ice and Fire' by George R.R. Martin.",
       "Known for his heroism, honor, and resilience."
     ]
+  },
+  {
+    "fullName": "C.S. Snow",
+    "givenNames": [
+      "Charles",
+      "Percy"
+    ],
+    "familyName": "Snow",
+    "wikipedia": "https://en.wikipedia.org/wiki/C._P._Snow",
+    "occupation": "Novelist, Scientist",
+    "achievements": [
+      "Author of the influential novel 'The Strangers'",
+      "Advocate for bridging the gap between science and humanities"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1980
   }
 ]

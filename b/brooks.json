@@ -29,5 +29,34 @@
       "Frequent commentator on current affairs and public policy"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Garth Brooks",
+    "givenNames": [
+      "Garth",
+      "Troyal"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garth_Brooks",
+    "occupation": "Country music singer and songwriter",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Won numerous awards including Grammy Awards and American Music Awards"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Max Brooks",
+    "givenNames": [
+      "Maximilian",
+      "Michael"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Brooks",
+    "occupation": "Author, screenwriter",
+    "achievements": [
+      "Known for his zombie horror novels 'World War Z' and 'The Zombie Survival Guide'"
+    ],
+    "yearBorn": 1972
   }
 ]

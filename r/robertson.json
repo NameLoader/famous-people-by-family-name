@@ -11,5 +11,19 @@
     "achievements": [
       "Former British Minister for Sport and the Olympics"
     ]
+  },
+  {
+    "fullName": "Willie Robertson",
+    "givenNames": [
+      "Willie",
+      "Jess"
+    ],
+    "familyName": "Robertson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Robertson",
+    "occupation": "Reality television personality, businessman",
+    "achievements": [
+      "Star of the A&E reality series 'Duck Dynasty'"
+    ],
+    "yearBorn": 1972
   }
 ]

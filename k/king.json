@@ -31,5 +31,21 @@
       "Adapted numerous works into films and television series"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "B. B. King",
+    "givenNames": [
+      "Riley",
+      "B"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/B._B._King",
+    "occupation": "Blues guitarist, singer, songwriter",
+    "achievements": [
+      "Influential figure in blues music",
+      "Known for his distinctive guitar style and passionate vocals"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2015
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "B. F. Skinner",
+    "givenNames": [
+      "Burrhus",
+      "Frederic"
+    ],
+    "familyName": "Skinner",
+    "wikipedia": "https://en.wikipedia.org/wiki/B._F._Skinner",
+    "occupation": "Psychologist, behaviorist",
+    "achievements": [
+      "Developed the theory of operant conditioning",
+      "Pioneered the use of reinforcement and punishment in behavioral modification",
+      "Authored influential books like 'Walden Two' and 'Beyond Freedom and Dignity'"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1990
+  }
+]

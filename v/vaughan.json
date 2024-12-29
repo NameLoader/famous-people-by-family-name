@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1924,
     "yearDied": 1990
+  },
+  {
+    "fullName": "David Vaughan",
+    "givenNames": [
+      "David",
+      "Glyn"
+    ],
+    "familyName": "Vaughan",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Vaughan_(glaciologist)",
+    "occupation": "Glaciologist",
+    "achievements": [
+      "Professor of Glaciology at the University of Bristol",
+      "Leader of the British Antarctic Survey's Ice Sheet Science Group",
+      "Expertise in the dynamics and history of ice sheets"
+    ]
   }
 ]

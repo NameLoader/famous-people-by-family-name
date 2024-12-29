@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Judy Garland",
+    "givenNames": [
+      "Judy"
+    ],
+    "familyName": "Garland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judy_Garland",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Considered one of the greatest entertainers of all time.",
+      "Won a Grammy Award, a Golden Globe Award, and an Academy Juvenile Award."
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1969
+  }
+]

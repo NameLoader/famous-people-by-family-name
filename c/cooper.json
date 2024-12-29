@@ -29,5 +29,19 @@
     ],
     "yearBorn": 1789,
     "yearDied": 1851
+  },
+  {
+    "fullName": "Alice Cooper",
+    "givenNames": [
+      "Alice"
+    ],
+    "familyName": "Cooper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Cooper",
+    "occupation": "Musician",
+    "achievements": [
+      "Shock rock pioneer and influential heavy metal musician",
+      "Known for hits like 'School's Out', 'Welcome to My Nightmare' and 'No More Mr. Nice Guy'"
+    ],
+    "yearBorn": 1948
   }
 ]

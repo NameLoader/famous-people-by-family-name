@@ -1,0 +1,14 @@
+[
+  {
+    "fullName": "Tom Sawyer",
+    "givenNames": [
+      "Tom"
+    ],
+    "familyName": "Sawyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Mark Twain's novel The Adventures of Tom Sawyer"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "William Avery",
+    "givenNames": [
+      "William",
+      "Franklin"
+    ],
+    "familyName": "Avery",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Avery_(basketball)",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Played in the NBA for the Miami Heat and the Indiana Pacers",
+      "NCAA champion with Duke University"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Charles Avery",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Avery",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Avery_(artist)",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for his large-scale drawings and sculptures",
+      "Exhibited work internationally"
+    ]
+  }
+]

@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1759,
     "yearDied": 1828
+  },
+  {
+    "fullName": "Billy Thornton",
+    "givenNames": [
+      "Billy",
+      "Bob"
+    ],
+    "familyName": "Thornton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Bob_Thornton",
+    "occupation": "Actor, Director, Musician",
+    "achievements": [
+      "Academy Award for Best Actor in 'Sling Blade'",
+      "Known for roles in films like 'Bad Santa' and 'Monster's Ball'"
+    ],
+    "yearBorn": 1955
   }
 ]

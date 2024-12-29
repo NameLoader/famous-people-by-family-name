@@ -17,8 +17,8 @@
   {
     "fullName": "Oliver Stone",
     "givenNames": [
-      "William",
-      "Oliver"
+      "Oliver",
+      "William"
     ],
     "familyName": "Stone",
     "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Stone",
@@ -29,5 +29,21 @@
       "Known for films like Platoon, Born on the Fourth of July, Natural Born Killers, and JFK"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "I. F. Stone",
+    "givenNames": [
+      "Isidor",
+      "Feinstein"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/I._F._Stone",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "Known for his independent journalism and critical commentary.",
+      "Published the influential weekly newsletter 'I.F. Stone's Weekly.'"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1989
   }
 ]

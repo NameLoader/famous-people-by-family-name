@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1918,
     "yearDied": 2002
+  },
+  {
+    "fullName": "Brian Tobin",
+    "givenNames": [
+      "Brian",
+      "Vincent"
+    ],
+    "familyName": "Tobin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Tobin",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the Premier of Newfoundland and Labrador from 1996 to 2000.",
+      "Held several ministerial positions in the Canadian federal government."
+    ],
+    "yearBorn": 1954
   }
 ]

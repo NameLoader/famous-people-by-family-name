@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1841,
     "yearDied": 1904
+  },
+  {
+    "fullName": "John Stanley",
+    "givenNames": [
+      "John",
+      "Charles"
+    ],
+    "familyName": "Stanley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stanley_(composer)",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific composer of Baroque music",
+      "Known for his operas, concertos, and church music"
+    ],
+    "yearBorn": 1712,
+    "yearDied": 1780
   }
 ]

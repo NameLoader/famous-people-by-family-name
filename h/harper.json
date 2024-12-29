@@ -28,5 +28,19 @@
       "Advocate for indigenous rights and environmental justice"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Ben Harper",
+    "givenNames": [
+      "Benjamin",
+      "Charles"
+    ],
+    "familyName": "Harper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Harper",
+    "occupation": "Singer-songwriter, multi-instrumentalist",
+    "achievements": [
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1969
   }
 ]

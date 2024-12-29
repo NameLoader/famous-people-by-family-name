@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Sexton",
+    "givenNames": [
+      "John",
+      "Edward"
+    ],
+    "familyName": "Sexton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sexton",
+    "occupation": "Academic administrator",
+    "achievements": [
+      "President of New York University (1988-2016)",
+      "Known for his leadership in higher education and urban development"
+    ],
+    "yearBorn": 1942
+  }
+]

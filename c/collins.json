@@ -27,5 +27,67 @@
       "Former Leader of the New Zealand National Party"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Phil Collins",
+    "givenNames": [
+      "Philip",
+      "David",
+      "Charles"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Collins",
+    "occupation": "Musician, singer, songwriter, actor, drummer",
+    "achievements": [
+      "Won eight Grammy Awards",
+      "Sold over 100 million records worldwide",
+      "Known for hits like 'In the Air Tonight', 'Another Day in Paradise'"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Suzanne Collins",
+    "givenNames": [
+      "Suzanne"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_Collins",
+    "occupation": "Novelist, screenwriter",
+    "achievements": [
+      "Bestselling author of 'The Hunger Games' trilogy",
+      "Won numerous awards for her writing"
+    ]
+  },
+  {
+    "fullName": "Judy Collins",
+    "givenNames": [
+      "Judith",
+      "Marjorie"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judy_Collins",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Known for her folk music and distinctive voice",
+      "Covered Joni Mitchell's 'Both Sides Now'",
+      "Won a Grammy Award"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Wilfrid Collins",
+    "givenNames": [
+      "William",
+      "Wilkie"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilkie_Collins",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Pioneer of detective fiction",
+      "Known for novels like 'The Woman in White' and 'The Moonstone'"
+    ],
+    "yearBorn": 1824,
+    "yearDied": 1889
   }
 ]

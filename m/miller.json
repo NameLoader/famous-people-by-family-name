@@ -32,7 +32,7 @@
     "fullName": "Glenn Miller",
     "givenNames": [
       "Glenn",
-      "Alton"
+      "Alton Glen"
     ],
     "familyName": "Miller",
     "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Miller",
@@ -43,5 +43,21 @@
     ],
     "yearBorn": 1904,
     "yearDied": 1944
+  },
+  {
+    "fullName": "Henry Miller",
+    "givenNames": [
+      "Henry",
+      "Valentine"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Miller",
+    "occupation": "Writer",
+    "achievements": [
+      "Known for his controversial and semi-autobiographical novels like 'Tropic of Cancer' and 'Tropic of Capricorn'",
+      "Explored themes of sexuality, freedom, and individuality"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1980
   }
 ]

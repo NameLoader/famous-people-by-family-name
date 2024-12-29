@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Edward Emerson Barnard",
+    "givenNames": [
+      "Edward",
+      "Emerson"
+    ],
+    "familyName": "Barnard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Emerson_Barnard",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered over 300 stars and nebulae.",
+      "Known for the Barnard Star, the second closest star system to Earth.",
+      "Made significant contributions to astrophotography."
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1923
+  }
+]

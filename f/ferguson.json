@@ -6,7 +6,7 @@
       "Chapman"
     ],
     "familyName": "Ferguson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Alex_Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Ferguson",
     "occupation": "Football Manager",
     "achievements": [
       "Managed Manchester United to unprecedented success.",
@@ -21,7 +21,7 @@
       "Andrew"
     ],
     "familyName": "Ferguson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Ferguson_(journalist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Ferguson",
     "occupation": "Journalist and writer",
     "achievements": [
       "Staff writer for The Weekly Standard",
@@ -43,5 +43,34 @@
       "Starred in films like 'The Drew Carey Show' and 'Saving Grace'"
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Sir Samuel Ferguson",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Ferguson",
+    "occupation": "Poet, barrister",
+    "achievements": [
+      "Known for his poems reflecting Irish history and folklore",
+      "Professor of Poetry at Trinity College Dublin"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1886
+  },
+  {
+    "fullName": "Marilyn Ferguson",
+    "givenNames": [
+      "Marilyn"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Ferguson",
+    "occupation": "Author, futurist",
+    "achievements": [
+      "Authored 'The Aquarian Conspiracy'",
+      "Popularized the New Age movement"
+    ],
+    "yearBorn": 1938
   }
 ]

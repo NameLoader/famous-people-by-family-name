@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Al Gore Jr.",
+    "givenNames": [
+      "Albert",
+      "Arnold"
+    ],
+    "familyName": "Gore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Al_Gore",
+    "occupation": "Politician, Environmental activist",
+    "achievements": [
+      "45th Vice President of the United States (1993-2001)",
+      "Nobel Peace Prize laureate (2007) for his work on climate change",
+      "Former U.S. Senator from Tennessee (1985-1993)"
+    ],
+    "yearBorn": 1948
+  }
+]

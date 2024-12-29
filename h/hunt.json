@@ -14,5 +14,37 @@
     ],
     "yearBorn": 1947,
     "yearDied": 1993
+  },
+  {
+    "fullName": "John Hunt",
+    "givenNames": [
+      "Henry",
+      "Cecil",
+      "John"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hunt,_Baron_Hunt",
+    "occupation": "Mountaineer",
+    "achievements": [
+      "Led the first successful British expedition to climb Mount Everest in 1953"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "William Holman Hunt",
+    "givenNames": [
+      "William",
+      "Holman"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Holman_Hunt",
+    "occupation": "Painter",
+    "achievements": [
+      "Pre-Raphaelite Brotherhood member",
+      "Known for paintings like 'The Awakening Conscience' and 'The Lady of Shalott'"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1910
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Burt Lancaster",
+    "givenNames": [
+      "Burt",
+      "Burton",
+      "Stephen"
+    ],
+    "familyName": "Lancaster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burt_Lancaster",
+    "occupation": "Actor, Film Producer",
+    "achievements": [
+      "Academy Award winner for Best Actor (Elmer Gantry)",
+      "Starred in films such as From Here to Eternity and Sweet Smell of Success"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1997
+  }
+]

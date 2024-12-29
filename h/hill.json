@@ -13,5 +13,19 @@
       "Known for her work with The Fugees and solo career"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Aaron Hill",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Hill_(writer)",
+    "occupation": "Playwright, Poet",
+    "achievements": [
+      "Wrote influential Restoration comedies and tragedies"
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1750
   }
 ]

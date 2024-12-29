@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Bill Murray",
+    "givenNames": [
+      "William",
+      "James"
+    ],
+    "familyName": "Murray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Murray",
+    "occupation": "Actor, Comedian",
+    "achievements": [
+      "Academy Award and Golden Globe nominations",
+      "Starred in films like 'Ghostbusters', 'Groundhog Day', 'Lost in Translation'"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Dame Margaret Murray",
+    "givenNames": [
+      "Margaret",
+      "Alice"
+    ],
+    "familyName": "Murray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Murray",
+    "occupation": "Egyptologist, Anthropologist",
+    "achievements": [
+      "Pioneer in the study of ancient Egyptian religion",
+      "Authored influential books on witchcraft and mythology"
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Andy Murray",
+    "givenNames": [
+      "Andrew",
+      "Barron"
+    ],
+    "familyName": "Murray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Murray",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Three-time Grand Slam singles champion",
+      "Two-time Olympic gold medalist"
+    ],
+    "yearBorn": 1987
+  }
+]

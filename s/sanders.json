@@ -6,7 +6,7 @@
       "David"
     ],
     "familyName": "Sanders",
-    "wikipedia": "https://en.wikipedia.org/wiki/Colonel_Harland_Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colonel_Sanders",
     "occupation": "Entrepreneur, restaurateur",
     "achievements": [
       "Founder of Kentucky Fried Chicken (KFC)",
@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1890,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Bernie Sanders",
+    "givenNames": [
+      "Bernard",
+      "Bernie"
+    ],
+    "familyName": "Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Senator from Vermont",
+      "Former U.S. Representative",
+      "Two-time presidential candidate"
+    ],
+    "yearBorn": 1941
   }
 ]

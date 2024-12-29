@@ -14,5 +14,36 @@
     ],
     "yearBorn": 1786,
     "yearDied": 1854
+  },
+  {
+    "fullName": "Frank Conroy",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Conroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Conroy_(author)",
+    "occupation": "Writer, teacher",
+    "achievements": [
+      "Author of the novel 'Stop-Time'",
+      "Won the PEN/Faulkner Award for Fiction"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Pat Conroy",
+    "givenNames": [
+      "Donald",
+      "Patrick"
+    ],
+    "familyName": "Conroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pat_Conroy",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author known for novels like 'The Great Santini' and 'The Prince of Tides'",
+      "His works often explored themes of family, loss, and the South"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2016
   }
 ]

@@ -13,5 +13,19 @@
       "Starred in films like 'Ride Along', 'Jumanji: Welcome to the Jungle', and 'Central Intelligence'"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Keith Hart",
+    "givenNames": [
+      "Keith"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Hart_(anthropologist)",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Pioneer in the study of informal economies",
+      "Known for his work on money and barter in Africa"
+    ],
+    "yearBorn": 1943
   }
 ]

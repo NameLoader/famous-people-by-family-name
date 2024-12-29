@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Rob Lowe",
+    "givenNames": [
+      "Robert",
+      "Hepler"
+    ],
+    "familyName": "Lowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rob_Lowe",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for roles in films like 'St. Elmo's Fire', 'About Last Night...', and the television series 'Parks and Recreation'",
+      "Recipient of two Primetime Emmy Award nominations"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Chad Lowe",
+    "givenNames": [
+      "Charles",
+      "Davis"
+    ],
+    "familyName": "Lowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chad_Lowe",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Known for roles in television series like 'Life Goes On', 'ER', and 'Pretty Little Liars'",
+      "Won a Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series for his role in '24'"
+    ],
+    "yearBorn": 1968
+  }
+]

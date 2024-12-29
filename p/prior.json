@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Matthew Prior",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Prior",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Prior",
+    "occupation": "Poet, Diplomat",
+    "achievements": [
+      "Wrote satirical and political poetry",
+      "Served as a diplomat in France and the Netherlands"
+    ],
+    "yearBorn": 1664,
+    "yearDied": 1721
+  }
+]

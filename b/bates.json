@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kathy Bates",
+    "givenNames": [
+      "Kathleen",
+      "Doyle"
+    ],
+    "familyName": "Bates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathy_Bates",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Academy Award for Best Actress for her role in 'Misery'",
+      "Emmy Award winner"
+    ],
+    "yearBorn": 1948
+  }
+]

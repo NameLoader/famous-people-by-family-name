@@ -13,5 +13,37 @@
       "Known for his powerful vocals and theatrical performances"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Johann Heinrich Lambert",
+    "givenNames": [
+      "Johann",
+      "Heinrich"
+    ],
+    "familyName": "Lambert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
+    "occupation": "Mathematician, physicist, astronomer, philosopher",
+    "achievements": [
+      "Pioneering work in non-Euclidean geometry",
+      "Contributions to calculus and trigonometry",
+      "Development of the Lambert W function"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1777
+  },
+  {
+    "fullName": "Mira Lambert",
+    "givenNames": [
+      "Miranda",
+      "Leigh"
+    ],
+    "familyName": "Lambert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Lambert",
+    "occupation": "Country music singer-songwriter",
+    "achievements": [
+      "Multiple Grammy Award winner",
+      "One of the best-selling country artists of all time"
+    ],
+    "yearBorn": 1983
   }
 ]

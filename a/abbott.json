@@ -9,7 +9,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott",
     "occupation": "Writer, Mathematician",
     "achievements": [
-      "Author of the novel *Flatland: A Romance of Many Dimensions*",
+      "Author of the novel Flatland: A Romance of Many Dimensions",
       "Headmaster of City of London School"
     ],
     "yearBorn": 1838,
@@ -30,5 +30,35 @@
     ],
     "yearBorn": 1878,
     "yearDied": 1939
+  },
+  {
+    "fullName": "Bud Abbott",
+    "givenNames": [
+      "Bud",
+      "William",
+      "Alexander"
+    ],
+    "familyName": "Abbott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bud_Abbott",
+    "occupation": "Comedian, actor",
+    "achievements": [
+      "Part of the famous comedy duo Abbott and Costello"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1974
+  },
+  {
+    "fullName": "Greg Abbott",
+    "givenNames": [
+      "Gregory",
+      "Wayne"
+    ],
+    "familyName": "Abbott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greg_Abbott",
+    "occupation": "Politician",
+    "achievements": [
+      "Current Governor of Texas"
+    ],
+    "yearBorn": 1957
   }
 ]

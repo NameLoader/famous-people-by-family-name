@@ -2,8 +2,8 @@
   {
     "fullName": "Margaret Fuller",
     "givenNames": [
-      "Sarah",
-      "Margaret"
+      "Margaret",
+      "Sarah"
     ],
     "familyName": "Fuller",
     "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Fuller",
@@ -30,5 +30,22 @@
     ],
     "yearBorn": 1754,
     "yearDied": 1815
+  },
+  {
+    "fullName": "Buckminster Fuller",
+    "givenNames": [
+      "Richard",
+      "Buckminster"
+    ],
+    "familyName": "Fuller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buckminster_Fuller",
+    "occupation": "Architect, inventor, futurist",
+    "achievements": [
+      "Developed the geodesic dome",
+      "Popularized the concept of 'Spaceship Earth'",
+      "Authored numerous books on design, technology, and philosophy"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1983
   }
 ]

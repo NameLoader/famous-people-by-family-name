@@ -13,5 +13,34 @@
       "Successful solo career"
     ],
     "yearBorn": 1993
+  },
+  {
+    "fullName": "John Payne",
+    "givenNames": [
+      "John",
+      "Howard"
+    ],
+    "familyName": "Payne",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Payne_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Miracle on 34th Street' and 'The Day the Earth Stood Still'",
+      "Starred on Broadway and in television series"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Jim Payne",
+    "givenNames": [
+      "Jim"
+    ],
+    "familyName": "Payne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Payne_(folk_singer)",
+    "occupation": "Folk Musician, Songwriter",
+    "achievements": [
+      "Prominent figure in Newfoundland and Labrador's folk music scene",
+      "Known for traditional and original songs about the province's history and culture"
+    ]
   }
 ]

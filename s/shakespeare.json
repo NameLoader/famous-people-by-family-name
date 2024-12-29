@@ -41,5 +41,20 @@
     "achievements": [],
     "yearBorn": 1606,
     "yearDied": 1662
+  },
+  {
+    "fullName": "John Shakespeare",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Shakespeare",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Shakespeare",
+    "occupation": "Glover, Leatherworker",
+    "achievements": [
+      "Father of William Shakespeare.",
+      "Held civic positions in Stratford-upon-Avon."
+    ],
+    "yearBorn": 1530,
+    "yearDied": 1601
   }
 ]

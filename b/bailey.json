@@ -26,5 +26,37 @@
       "Academy Award for Best Cinematography (The Accidental Tourist)"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Alice Bailey",
+    "givenNames": [
+      "Alice",
+      "Ann"
+    ],
+    "familyName": "Bailey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Bailey",
+    "occupation": "Author, Occultist",
+    "achievements": [
+      "Founded the Arcane School",
+      "Authored numerous books on Theosophy and esoteric teachings"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1949
+  },
+  {
+    "fullName": "Bill Bailey",
+    "givenNames": [
+      "Bill",
+      "Mark",
+      "Robert"
+    ],
+    "familyName": "Bailey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Bailey",
+    "occupation": "Comedian, Musician, Actor",
+    "achievements": [
+      "Award-winning stand-up comedian.",
+      "Known for his surreal and observational humor."
+    ],
+    "yearBorn": 1964
   }
 ]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Travis Barker",
+    "givenNames": [
+      "Travis",
+      "Landon"
+    ],
+    "familyName": "Barker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Travis_Barker",
+    "occupation": "Drummer",
+    "achievements": [
+      "Known as the drummer for the punk rock band Blink-182",
+      "Successful solo career and collaborations with various artists"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "George Barker",
+    "givenNames": [
+      "George",
+      "Granville"
+    ],
+    "familyName": "Barker",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Barker_(poet)",
+    "occupation": "Poet",
+    "achievements": [
+      "Published numerous collections of poetry",
+      "Won the T. S. Eliot Prize in 1985 for his collection 'The Householder'"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "David Barker",
+    "givenNames": [
+      "David",
+      "James",
+      "Purslove"
+    ],
+    "familyName": "Barker",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Barker_(epidemiologist)",
+    "occupation": "Epidemiologist",
+    "achievements": [
+      "Professor of Clinical Epidemiology and Public Health Medicine at the University of Southampton",
+      "Known for his work on social inequalities in health"
+    ]
+  }
+]

@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1893,
     "yearDied": 1943
+  },
+  {
+    "fullName": "Ron Howard",
+    "givenNames": [
+      "Ron",
+      "Ronald",
+      "William"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ron_Howard",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Academy Award winning director",
+      "Known for films like Apollo 13, A Beautiful Mind, and The Da Vinci Code"
+    ],
+    "yearBorn": 1954
   }
 ]

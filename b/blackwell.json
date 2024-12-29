@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Elizabeth Blackwell",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Blackwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Blackwell",
+    "occupation": "Physician, Suffragist",
+    "achievements": [
+      "First woman to graduate from medical school in the United States",
+      "Pioneer for women's rights in medicine and education"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1910
+  },
+  {
+    "fullName": "David Blackwell",
+    "givenNames": [
+      "David",
+      "Harold"
+    ],
+    "familyName": "Blackwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Blackwell",
+    "occupation": "Mathematician, Statistician",
+    "achievements": [
+      "First African American elected to the National Academy of Sciences",
+      "Significant contributions to game theory and statistical decision theory"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2010
+  }
+]

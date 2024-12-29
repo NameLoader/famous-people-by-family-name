@@ -13,5 +13,20 @@
       "Starred in TV series 'The Following' and 'Quantum Leap'"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Aaron Ashmore",
+    "givenNames": [
+      "Aaron",
+      "Richard"
+    ],
+    "familyName": "Ashmore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Ashmore",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in science fiction series like 'Smallville' and 'Killjoys'",
+      "Appeared in films such as 'The Mist'"
+    ],
+    "yearBorn": 1979
   }
 ]

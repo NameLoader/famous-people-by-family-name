@@ -34,33 +34,34 @@
     "yearDied": 1960
   },
   {
-    "fullName": "Orville Wright",
+    "fullName": "Wright brothers",
     "givenNames": [
-      "Orville"
+      "Orville",
+      "Wilbur"
     ],
     "familyName": "Wright",
-    "wikipedia": "https://en.wikipedia.org/wiki/Orville_Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wright_brothers",
     "occupation": "Aviator, Inventor",
     "achievements": [
-      "Along with his brother Wilbur, credited with inventing and building the world's first successful airplane and making the first controlled, powered and sustained heavier-than-air human flight",
-      "Pioneer in aeronautics and aviation"
+      "Credited with inventing and building the world's first successful airplane and making the first controlled, powered and sustained heavier-than-air human flight",
+      "Pioneers in aeronautics and aviation"
     ],
     "yearBorn": 1871,
     "yearDied": 1948
   },
   {
-    "fullName": "Wilbur Wright",
+    "fullName": "George Wright",
     "givenNames": [
-      "Wilbur"
+      "George"
     ],
     "familyName": "Wright",
-    "wikipedia": "https://en.wikipedia.org/wiki/Wilbur_Wright",
-    "occupation": "Aviator, Inventor",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Wright_(sportsman)",
+    "occupation": "Baseball player, Manager",
     "achievements": [
-      "Along with his brother Orville, credited with inventing and building the world's first successful airplane and making the first controlled, powered and sustained heavier-than-air human flight",
-      "Pioneer in aeronautics and aviation"
+      "One of the first professional baseball players.",
+      "Pioneer in early baseball strategies and techniques."
     ],
-    "yearBorn": 1867,
-    "yearDied": 1912
+    "yearBorn": 1859,
+    "yearDied": 1937
   }
 ]

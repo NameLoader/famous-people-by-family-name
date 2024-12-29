@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Chris Farley",
+    "givenNames": [
+      "Christopher",
+      "Crosby"
+    ],
+    "familyName": "Farley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Farley",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Saturday Night Live cast member",
+      "Starred in films like 'Tommy Boy', 'Black Sheep', and 'Beverly Hills Ninja'"
+    ],
+    "yearBorn": 1964,
+    "yearDied": 1997
+  }
+]

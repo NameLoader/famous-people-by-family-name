@@ -6,7 +6,7 @@
       "Scott"
     ],
     "familyName": "Brady",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_S._Brady",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Brady",
     "occupation": "White House Press Secretary",
     "achievements": [
       "Survived an assassination attempt on President Ronald Reagan",
@@ -14,5 +14,22 @@
     ],
     "yearBorn": 1940,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Tom Brady",
+    "givenNames": [
+      "Thomas",
+      "Edward",
+      "Patrick"
+    ],
+    "familyName": "Brady",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Brady",
+    "occupation": "American football player",
+    "achievements": [
+      "Seven-time Super Bowl champion",
+      "Five-time Super Bowl MVP",
+      "Three-time NFL MVP"
+    ],
+    "yearBorn": 1977
   }
 ]

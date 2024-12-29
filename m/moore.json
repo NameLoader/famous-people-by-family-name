@@ -42,5 +42,36 @@
       "Formulated Moore's Law"
     ],
     "yearBorn": 1929
+  },
+  {
+    "fullName": "Demi Moore",
+    "givenNames": [
+      "Demi",
+      "Gene"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demi_Moore",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Starred in films like Ghost, A Few Good Men, and Indecent Proposal",
+      "One of the highest-paid actresses in Hollywood history"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Roger Moore",
+    "givenNames": [
+      "Roger",
+      "George"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Moore",
+    "occupation": "Actor",
+    "achievements": [
+      "Played James Bond in seven films",
+      "Known for his suave and sophisticated portrayal of the iconic character"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2017
   }
 ]

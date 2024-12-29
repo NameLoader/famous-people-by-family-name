@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Edward Hyde, 1st Earl of Clarendon",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Hyde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Hyde,_1st_Earl_of_Clarendon",
+    "occupation": "Politician, Statesman, Writer",
+    "achievements": [
+      "Served as Chancellor of the Exchequer and Lord Privy Seal under King Charles II",
+      "Author of 'The History of the Rebellion'",
+      "Key figure in the Restoration period"
+    ],
+    "yearBorn": 1609,
+    "yearDied": 1674
+  },
+  {
+    "fullName": "Henry Hyde, 2nd Earl of Clarendon",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Hyde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Hyde,_2nd_Earl_of_Clarendon",
+    "occupation": "Politician",
+    "achievements": [
+      "Held various political positions including Lord Lieutenant of Ireland and Secretary of State for the Southern Department"
+    ],
+    "yearBorn": 1638,
+    "yearDied": 1709
+  }
+]

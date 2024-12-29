@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Leonard McCoy",
+    "givenNames": [
+      "Leonard",
+      "H."
+    ],
+    "familyName": "McCoy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_McCoy",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Chief Medical Officer of the Starship Enterprise in the Star Trek franchise"
+    ]
+  },
+  {
+    "fullName": "Mike McCoy",
+    "givenNames": [
+      "Mike",
+      "Michael"
+    ],
+    "familyName": "McCoy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_McCoy_(American_football_coach)",
+    "occupation": "Football Coach",
+    "achievements": [
+      "Head coach of the San Diego Chargers (2013-2016)"
+    ]
+  }
+]

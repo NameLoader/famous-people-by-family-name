@@ -45,13 +45,29 @@
   {
     "fullName": "Roberts, John",
     "givenNames": [
-      "John"
+      "John",
+      "Glover"
     ],
     "familyName": "Roberts",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Roberts_(judge)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Roberts",
     "occupation": "Chief Justice of the United States",
     "achievements": [
       "Nominated by President George W. Bush in 2005"
     ]
+  },
+  {
+    "fullName": "David Roberts",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Roberts_(painter)",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for detailed depictions of the Holy Land and Egypt",
+      "Influential landscape and architectural painter"
+    ],
+    "yearBorn": 1796,
+    "yearDied": 1864
   }
 ]

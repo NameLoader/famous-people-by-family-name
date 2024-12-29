@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Cesar Chavez",
+    "givenNames": [
+      "Cesar",
+      "Cesario Estrada"
+    ],
+    "familyName": "Chavez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cesar_Chavez",
+    "occupation": "Labor leader and civil rights activist",
+    "achievements": [
+      "Co-founded the National Farm Workers Association (later United Farm Workers)",
+      "Led boycotts and strikes to improve working conditions for farmworkers",
+      "Advocated for nonviolent resistance and social justice"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Hugo Chavez",
+    "givenNames": [
+      "Hugo",
+      "Rafael"
+    ],
+    "familyName": "Chavez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Venezuela from 1999 to 2013",
+      "Implemented socialist policies and nationalized industries",
+      "Controversial figure with both supporters and detractors"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2013
+  }
+]

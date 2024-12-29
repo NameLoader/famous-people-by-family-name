@@ -15,5 +15,22 @@
     ],
     "yearBorn": 1919,
     "yearDied": 1972
+  },
+  {
+    "fullName": "David Robinson",
+    "givenNames": [
+      "David",
+      "Maurice"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Robinson",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (twice)",
+      "NBA MVP (1995)",
+      "Ten-time NBA All-Star",
+      "Olympic gold medalist (1992, 1996)"
+    ],
+    "yearBorn": 1965
   }
 ]

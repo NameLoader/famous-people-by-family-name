@@ -13,5 +13,21 @@
       "Received the Pulitzer Prize Nomination for Music in 2003"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "LaMarcus Aldridge",
+    "givenNames": [
+      "LaMarcus",
+      "Nurae"
+    ],
+    "familyName": "Aldridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/LaMarcus_Aldridge",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "7x NBA All-Star",
+      "5x All-NBA selection",
+      "NBA Rookie of the Year Award (2007)"
+    ],
+    "yearBorn": 1985
   }
 ]

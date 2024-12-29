@@ -15,5 +15,21 @@
       "Known for his bipartisan approach and expertise in financial policy"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Mike Leach",
+    "givenNames": [
+      "Michael",
+      "Charles"
+    ],
+    "familyName": "Leach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Leach_(American_football_coach)",
+    "occupation": "College football coach",
+    "achievements": [
+      "Head Coach at Washington State University and Mississippi State University.",
+      "Known for his innovative Air Raid offense."
+    ],
+    "yearBorn": 1961,
+    "yearDied": 2022
   }
 ]

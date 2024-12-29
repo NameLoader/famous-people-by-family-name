@@ -19,7 +19,8 @@
   {
     "fullName": "Brian Kelly",
     "givenNames": [
-      "Brian"
+      "Brian",
+      "Keith"
     ],
     "familyName": "Kelly",
     "wikipedia": "https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)",
@@ -27,5 +28,36 @@
     "achievements": [
       "Head coach of the Notre Dame Fighting Irish football team"
     ]
+  },
+  {
+    "fullName": "Gene Kelly",
+    "givenNames": [
+      "Eugene",
+      "Curran"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gene_Kelly",
+    "occupation": "Actor, Dancer, Singer, Choreographer, Director",
+    "achievements": [
+      "Innovative dance routines in films like 'Singin' in the Rain'",
+      "Tony Award for Best Direction of a Musical (Flower Drum Song)"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "R. Kelly",
+    "givenNames": [
+      "Robert",
+      "Sylvester"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/R._Kelly",
+    "occupation": "Singer, Songwriter, Record Producer",
+    "achievements": [
+      "Multiple Grammy Award winner",
+      "Known for R&B hits like 'I Believe I Can Fly'"
+    ],
+    "yearBorn": 1967
   }
 ]

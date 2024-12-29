@@ -29,5 +29,36 @@
     ],
     "yearBorn": 1926,
     "yearDied": 1991
+  },
+  {
+    "fullName": "Sammy Davis Jr.",
+    "givenNames": [
+      "Sammy",
+      "Samuel",
+      "George"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.",
+    "occupation": "Singer, Actor, Dancer",
+    "achievements": [
+      "Highly successful entertainer in the Rat Pack era",
+      "Known for his singing, dancing, and comedic talents"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Jim Davis",
+    "givenNames": [
+      "James",
+      "Robert"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Davis_(cartoonist)",
+    "occupation": "Cartoonist",
+    "achievements": [
+      "Creator of the popular comic strip Garfield"
+    ],
+    "yearBorn": 1945
   }
 ]

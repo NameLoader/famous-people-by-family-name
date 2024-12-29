@@ -14,5 +14,20 @@
       "Advocate for consumer rights and economic justice"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Chief Justice Earl Warren",
+    "givenNames": [
+      "Earl"
+    ],
+    "familyName": "Warren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Earl_Warren",
+    "occupation": "Politician, Jurist",
+    "achievements": [
+      "Chief Justice of the United States Supreme Court (1953-1969)",
+      "Oversaw landmark rulings like Brown v. Board of Education"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1974
   }
 ]

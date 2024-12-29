@@ -32,5 +32,48 @@
     ],
     "yearBorn": 1916,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Brian Wilson",
+    "givenNames": [
+      "Brian",
+      "Douglas"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Wilson",
+    "occupation": "Musician, Songwriter, Record Producer",
+    "achievements": [
+      "Co-founder and leader of the Beach Boys",
+      "Known for innovative musical arrangements and complex harmonies"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Owen Wilson",
+    "givenNames": [
+      "Owen",
+      "Cunningham"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Wilson",
+    "occupation": "Actor, Screenwriter",
+    "achievements": [
+      "Known for comedic roles in films such as 'Wedding Crashers' and 'Zoolander'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "August Wilson",
+    "givenNames": [
+      "August"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Wilson",
+    "occupation": "Playwright, Poet",
+    "achievements": [
+      "Pulitzer Prize and Tony Award-winning playwright known for his 'Pittsburgh Cycle' of plays exploring the African-American experience"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2005
   }
 ]

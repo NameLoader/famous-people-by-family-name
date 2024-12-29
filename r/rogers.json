@@ -16,5 +16,56 @@
     ],
     "yearBorn": 1879,
     "yearDied": 1935
+  },
+  {
+    "fullName": "Kenny Rogers",
+    "givenNames": [
+      "Kenny",
+      "Kenneth",
+      "Ray"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenny_Rogers",
+    "occupation": "Singer, Songwriter, Actor",
+    "achievements": [
+      "Sold over 100 million records worldwide",
+      "Known for hits like \"The Gambler\", \"Lucille\", and \"Lady\"",
+      "Won three Grammy Awards and six Country Music Association Awards"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Fred Rogers",
+    "givenNames": [
+      "Fred",
+      "McFeely"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Rogers",
+    "occupation": "Television Host, Presbyterian Minister",
+    "achievements": [
+      "Created and hosted the beloved children's television program \"Mister Rogers' Neighborhood\"",
+      "Known for his gentle demeanor, calming voice, and emphasis on kindness and empathy",
+      "Won numerous awards for his work in children's education"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Ginger Rogers",
+    "givenNames": [
+      "Ginger"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ginger_Rogers",
+    "occupation": "Actress, Dancer, Singer",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in \"Kitty Foyle\"",
+      "Known for her legendary dance partnership with Fred Astaire",
+      "Starred in numerous films throughout the 1930s and 1940s"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1995
   }
 ]

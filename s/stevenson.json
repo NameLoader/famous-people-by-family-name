@@ -28,5 +28,20 @@
     ],
     "yearBorn": 1900,
     "yearDied": 1965
+  },
+  {
+    "fullName": "James Stevenson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Stevenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stevenson_(illustrator)",
+    "occupation": "Illustrator, Author, Cartoonist",
+    "achievements": [
+      "Known for his humorous illustrations and cartoons in publications like The New Yorker",
+      "Authored numerous children's books"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2020
   }
 ]

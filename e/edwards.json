@@ -36,12 +36,25 @@
       "Reid"
     ],
     "familyName": "Edwards",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Edwards_(politician)",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Edwards",
     "occupation": "Politician",
     "achievements": [
       "Served as United States Senator from North Carolina",
       "Ran for President of the United States in 2004 and 2008"
     ],
     "yearBorn": 1953
+  },
+  {
+    "fullName": "Edward Edwards",
+    "givenNames": [
+      "Edward",
+      "Wayne"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Edwards_(serial_killer)",
+    "occupation": "Serial Killer",
+    "achievements": [],
+    "yearBorn": 1933,
+    "yearDied": 2011
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Bradford",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Bradford",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Bradford_(governor)",
+    "occupation": "Governor, Writer",
+    "achievements": [
+      "Leader of the Pilgrims who settled Plymouth Colony",
+      "Author of 'Of Plymouth Plantation', a seminal account of early colonial life"
+    ],
+    "yearBorn": 1590,
+    "yearDied": 1657
+  }
+]

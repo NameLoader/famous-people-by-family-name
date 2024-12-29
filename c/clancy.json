@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tom Clancy",
+    "givenNames": [
+      "Thomas",
+      "Leo"
+    ],
+    "familyName": "Clancy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Clancy",
+    "occupation": "Author",
+    "achievements": [
+      "Best-selling author of military techno-thriller novels",
+      "Created the fictional character Jack Ryan"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2013
+  }
+]

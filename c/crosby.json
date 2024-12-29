@@ -14,5 +14,23 @@
       "Grammy Award winner"
     ],
     "yearBorn": 1941
+  },
+  {
+    "fullName": "Bing Crosby",
+    "givenNames": [
+      "Bing",
+      "Harry",
+      "Lillis"
+    ],
+    "familyName": "Crosby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bing_Crosby",
+    "occupation": "Singer, actor",
+    "achievements": [
+      "One of the most popular singers of all time.",
+      "Won an Academy Award for Best Actor for his role in 'Going My Way'.",
+      "Known for his smooth vocals and crooning style."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1977
   }
 ]

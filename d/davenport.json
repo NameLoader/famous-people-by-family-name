@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Davenport",
+    "givenNames": [
+      "Charles",
+      "Benedict"
+    ],
+    "familyName": "Davenport",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Davenport",
+    "occupation": "Geneticist, eugenicist",
+    "achievements": [
+      "Founded the Eugenics Record Office",
+      "Promoted eugenics and selective breeding"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1944
+  }
+]

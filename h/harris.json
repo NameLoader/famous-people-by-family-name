@@ -12,5 +12,51 @@
       "Appeared in films and television series"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Julie Harris",
+    "givenNames": [
+      "Julia",
+      "Ann"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Harris",
+    "occupation": "Actress",
+    "achievements": [
+      "Five-time Tony Award winner",
+      "Academy Award nominee for 'The Member of the Wedding'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Richard Harris",
+    "givenNames": [
+      "Richard",
+      "St John Francis"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Harris",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Gladiator' and 'This Sporting Life'",
+      "Academy Award nominated for 'This Sporting Life'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Maya Harris",
+    "givenNames": [
+      "Maya",
+      "Lakshmi"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_Harris",
+    "occupation": "Lawyer, Policy Advisor",
+    "achievements": [
+      "Senior advisor to Kamala Harris's presidential campaign",
+      "Former Senior Fellow at the Center for American Progress"
+    ]
   }
 ]
