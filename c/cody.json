@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Buffalo Bill Cody",
+    "givenNames": [
+      "William",
+      "Frederick"
+    ],
+    "familyName": "Cody",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Bill",
+    "occupation": "Showman, Scout, Soldier",
+    "achievements": [
+      "Founded Buffalo Bill's Wild West show",
+      "Served as a scout for the U.S. Army",
+      "Helped establish the town of Cody, Wyoming"
+    ],
+    "yearBorn": 1846,
+    "yearDied": 1917
+  }
+]

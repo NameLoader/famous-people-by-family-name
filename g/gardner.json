@@ -2,7 +2,8 @@
   {
     "fullName": "Ava Gardner",
     "givenNames": [
-      "Ava"
+      "Ava",
+      "Lavinia"
     ],
     "familyName": "Gardner",
     "wikipedia": "https://en.wikipedia.org/wiki/Ava_Gardner",
@@ -12,5 +13,35 @@
     ],
     "yearBorn": 1922,
     "yearDied": 1990
+  },
+  {
+    "fullName": "John Gardner",
+    "givenNames": [
+      "John",
+      "Champlin"
+    ],
+    "familyName": "Gardner",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gardner_(American_writer)",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Authored the Grendel novel",
+      "Wrote acclaimed spy novels featuring the character Boysie Oakes"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Howard Gardner",
+    "givenNames": [
+      "Howard",
+      "Earl"
+    ],
+    "familyName": "Gardner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Gardner",
+    "occupation": "Psychologist, author",
+    "achievements": [
+      "Developed the theory of multiple intelligences"
+    ],
+    "yearBorn": 1943
   }
 ]

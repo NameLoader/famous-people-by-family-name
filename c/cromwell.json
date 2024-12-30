@@ -30,5 +30,20 @@
     ],
     "yearBorn": 1626,
     "yearDied": 1712
+  },
+  {
+    "fullName": "Thomas Cromwell",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Cromwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cromwell",
+    "occupation": "Politician, statesman",
+    "achievements": [
+      "Chief minister to King Henry VIII of England",
+      "Key figure in the English Reformation and the dissolution of the monasteries"
+    ],
+    "yearBorn": 1485,
+    "yearDied": 1540
   }
 ]

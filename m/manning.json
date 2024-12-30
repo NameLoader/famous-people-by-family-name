@@ -2,7 +2,8 @@
   {
     "fullName": "Archie Manning",
     "givenNames": [
-      "Archie"
+      "Elisha",
+      "Archibald"
     ],
     "familyName": "Manning",
     "wikipedia": "https://en.wikipedia.org/wiki/Archie_Manning",
@@ -17,7 +18,8 @@
   {
     "fullName": "Peyton Manning",
     "givenNames": [
-      "Peyton"
+      "Peyton",
+      "Williams"
     ],
     "familyName": "Manning",
     "wikipedia": "https://en.wikipedia.org/wiki/Peyton_Manning",
@@ -33,7 +35,8 @@
   {
     "fullName": "Eli Manning",
     "givenNames": [
-      "Eli"
+      "Elisha",
+      "Nelson"
     ],
     "familyName": "Manning",
     "wikipedia": "https://en.wikipedia.org/wiki/Eli_Manning",
@@ -44,5 +47,19 @@
       "NFL passing yards leader"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Chelsea Manning",
+    "givenNames": [
+      "Chelsea",
+      "Elizabeth"
+    ],
+    "familyName": "Manning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chelsea_Manning",
+    "occupation": "United States Army intelligence analyst and whistleblower",
+    "achievements": [
+      "Leaked classified information about the Iraq War and other military operations to WikiLeaks in 2010."
+    ],
+    "yearBorn": 1987
   }
 ]

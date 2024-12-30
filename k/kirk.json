@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Tiberius Kirk",
+    "givenNames": [
+      "James",
+      "Tiberius"
+    ],
+    "familyName": "Kirk",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_T._Kirk",
+    "occupation": "Fictional Starship Captain",
+    "achievements": [
+      "Captain of the USS Enterprise",
+      "Explored new worlds and civilizations",
+      "Defended the Federation against numerous threats"
+    ]
+  }
+]

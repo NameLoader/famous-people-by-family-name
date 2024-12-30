@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Daniel Keyes",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Keyes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Keyes",
+    "occupation": "Author",
+    "achievements": [
+      "Authored the novel 'Flowers for Algernon'"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2014
+  }
+]

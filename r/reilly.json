@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Reilly",
+    "givenNames": [
+      "John",
+      "Christopher"
+    ],
+    "familyName": "Reilly",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_C._Reilly",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films such as 'Chicago', 'Casualties of War', and 'Talladega Nights'",
+      "Recipient of a Screen Actors Guild Award nomination"
+    ],
+    "yearBorn": 1965
+  }
+]

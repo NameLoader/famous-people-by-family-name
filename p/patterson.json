@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Patterson",
+    "givenNames": [
+      "James",
+      "Brendan"
+    ],
+    "familyName": "Patterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Patterson",
+    "occupation": "Author",
+    "achievements": [
+      "Best-selling author known for his thriller novels.",
+      "Has sold over 300 million books worldwide."
+    ],
+    "yearBorn": 1947
+  }
+]

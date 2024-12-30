@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Fowler",
+    "givenNames": [
+      "William",
+      "Alfred"
+    ],
+    "familyName": "Fowler",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Alfred_Fowler",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1983 for his work on nuclear reactions in stars",
+      "Made significant contributions to the understanding of stellar nucleosynthesis"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1995
+  }
+]

@@ -10,5 +10,20 @@
     "achievements": [
       "Character in the TV series Gilmore Girls"
     ]
+  },
+  {
+    "fullName": "James Gilmore III",
+    "givenNames": [
+      "James",
+      "Stuart"
+    ],
+    "familyName": "Gilmore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Gilmore",
+    "occupation": "Politician",
+    "achievements": [
+      "Governor of Virginia (1998-2002)",
+      "Republican presidential candidate (2000)"
+    ],
+    "yearBorn": 1949
   }
 ]

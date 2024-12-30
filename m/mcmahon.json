@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Vincent J. McMahon",
+    "givenNames": [
+      "Vincent",
+      "Kennedy"
+    ],
+    "familyName": "McMahon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vince_McMahon",
+    "occupation": "Businessman, Promoter",
+    "achievements": [
+      "Chairman and CEO of World Wrestling Entertainment (WWE)",
+      "Key figure in the rise of professional wrestling as mainstream entertainment"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Shane McMahon",
+    "givenNames": [
+      "Shane",
+      "Brandon"
+    ],
+    "familyName": "McMahon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shane_McMahon",
+    "occupation": "Businessman, Wrestler",
+    "achievements": [
+      "On-screen performer and executive in WWE",
+      "Known for his daredevil stunts and high-flying wrestling style"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Stephanie McMahon",
+    "givenNames": [
+      "Stephanie",
+      "Marie"
+    ],
+    "familyName": "McMahon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_McMahon",
+    "occupation": "Businesswoman, Wrestler",
+    "achievements": [
+      "Chief Brand Officer of WWE",
+      "Former on-screen performer and wrestler known as 'The Billion Dollar Princess'"
+    ],
+    "yearBorn": 1976
+  }
+]

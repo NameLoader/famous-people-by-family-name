@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "John Leech",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Leech",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Leech_(caricaturist)",
+    "occupation": "Illustrator, Cartoonist",
+    "achievements": [
+      "Famous for his illustrations in Punch magazine",
+      "Known for his detailed and humorous depictions of Victorian life"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1864
+  },
+  {
+    "fullName": "Geoffrey Leech",
+    "givenNames": [
+      "Geoffrey",
+      "Neil"
+    ],
+    "familyName": "Leech",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Leech",
+    "occupation": "Linguist",
+    "achievements": [
+      "Pioneer in the field of pragmatics",
+      "Developed influential theories on meaning in context"
+    ],
+    "yearBorn": 1934
+  }
+]

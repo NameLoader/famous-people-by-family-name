@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Adam",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Adam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Adam",
+    "occupation": "Architect",
+    "achievements": [
+      "Pioneer of the Neoclassical architectural style in Britain",
+      "Designed numerous significant buildings including Kenwood House and Chiswick House",
+      "Influential figure in British architecture"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1792
+  }
+]

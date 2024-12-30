@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Oliver Goldsmith",
+    "givenNames": [
+      "Oliver"
+    ],
+    "familyName": "Goldsmith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Goldsmith",
+    "occupation": "Poet, playwright, novelist, and physician",
+    "achievements": [
+      "Wrote influential works such as 'The Vicar of Wakefield'",
+      "Known for his witty comedies and sentimental novels"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1774
+  }
+]

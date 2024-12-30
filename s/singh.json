@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Bhagat Singh",
+    "givenNames": [
+      "Bhagat"
+    ],
+    "familyName": "Singh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Singh",
+    "occupation": "Revolutionary, Socialist",
+    "achievements": [
+      "Key figure in the Indian independence movement",
+      "Advocate for complete independence and socialist revolution"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1931
+  },
+  {
+    "fullName": "Manmohan Singh",
+    "givenNames": [
+      "Manmohan"
+    ],
+    "familyName": "Singh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+    "occupation": "Economist, Politician",
+    "achievements": [
+      "Prime Minister of India (2004-2014)"
+    ],
+    "yearBorn": 1932
+  },
+  {
+    "fullName": "Milkha Singh",
+    "givenNames": [
+      "Milkha"
+    ],
+    "familyName": "Singh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milkha_Singh",
+    "occupation": "Athlete",
+    "achievements": [
+      "Known as the 'Flying Sikh'",
+      "Won gold medals in Asian and Commonwealth Games"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2021
+  }
+]

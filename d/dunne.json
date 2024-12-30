@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Philip Dunne",
+    "givenNames": [
+      "Philip",
+      "Ives"
+    ],
+    "familyName": "Dunne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Dunne_(writer)",
+    "occupation": "Screenwriter, Producer",
+    "achievements": [
+      "Academy Award nominee for Best Original Screenplay (1943)",
+      "Wrote screenplays for numerous classic films including 'The Robe' and 'The Magnificent Seven'"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Richard Dunne",
+    "givenNames": [
+      "Richard",
+      "Patrick"
+    ],
+    "familyName": "Dunne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Dunne",
+    "occupation": "Footballer",
+    "achievements": [
+      "Represented Ireland internationally",
+      "Played for clubs such as Manchester City and Aston Villa"
+    ],
+    "yearBorn": 1979
+  }
+]

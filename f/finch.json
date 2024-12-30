@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Peter Finch",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Finch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Finch",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor for his role in 'Network'",
+      "Known for roles in films such as 'The Trials of Oscar Wilde', 'Shoot the Moon', and 'An Australian Abroad'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1977
+  }
+]

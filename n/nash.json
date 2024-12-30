@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Nash",
+    "givenNames": [
+      "John",
+      "Forbes"
+    ],
+    "familyName": "Nash",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Nobel Prize in Economic Sciences (1994)",
+      "A Beautiful Mind (film based on his life)",
+      "Contributions to game theory and differential geometry"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2015
+  }
+]

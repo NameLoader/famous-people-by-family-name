@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Andrew Weir",
+    "givenNames": [
+      "Andrew",
+      "Taylor"
+    ],
+    "familyName": "Weir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Weir",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of science fiction novels such as 'The Martian'"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "David Weir",
+    "givenNames": [
+      "David",
+      "Russell"
+    ],
+    "familyName": "Weir",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Weir_(athlete)",
+    "occupation": "Athlete",
+    "achievements": [
+      "Paralympic gold medalist in wheelchair racing",
+      "World record holder in several wheelchair racing events"
+    ],
+    "yearBorn": 1979
+  }
+]

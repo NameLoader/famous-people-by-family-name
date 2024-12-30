@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Sir Isaac Pitman",
+    "givenNames": [
+      "Isaac"
+    ],
+    "familyName": "Pitman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Pitman",
+    "occupation": "Inventor, Educator",
+    "achievements": [
+      "Developed Pitman shorthand, a widely used system of shorthand writing."
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1897
+  }
+]

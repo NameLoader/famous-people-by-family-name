@@ -1,16 +1,57 @@
 [
   {
-    "fullName": "Catherine, Princess of Wales",
+    "fullName": "Edward VIII",
     "givenNames": [
-      "Catherine"
+      "Edward",
+      "Albert",
+      "Christian",
+      "George",
+      "Andrew",
+      "Patrick",
+      "David"
     ],
     "familyName": "Windsor",
-    "wikipedia": "https://en.wikipedia.org/wiki/Catherine,_Princess_of_Wales",
-    "occupation": "British Royal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VIII",
+    "occupation": "Former King of the United Kingdom and the Dominions of the British Empire",
     "achievements": [
-      "Patron of various charities",
-      "Advocate for early childhood development"
+      "Abdicated the throne to marry Wallis Simpson",
+      "Duke of Windsor"
     ],
-    "yearBorn": 1982
+    "yearBorn": 1894,
+    "yearDied": 1972
+  },
+  {
+    "fullName": "George VI",
+    "givenNames": [
+      "George",
+      "Albert",
+      "Frederick",
+      "Arthur"
+    ],
+    "familyName": "Windsor",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_VI",
+    "occupation": "King of the United Kingdom and the Dominions of the British Empire",
+    "achievements": [
+      "Led the country through World War II"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Elizabeth II",
+    "givenNames": [
+      "Elizabeth",
+      "Alexandra",
+      "Mary"
+    ],
+    "familyName": "Windsor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_II",
+    "occupation": "Queen of the United Kingdom and other Commonwealth realms",
+    "achievements": [
+      "Longest-reigning British monarch",
+      "Symbol of stability and tradition"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2022
   }
 ]

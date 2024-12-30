@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Martin McGuinness",
+    "givenNames": [
+      "Martin",
+      "James"
+    ],
+    "familyName": "McGuinness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_McGuinness",
+    "occupation": "Politician",
+    "achievements": [
+      "Deputy First Minister of Northern Ireland (2007-2017)",
+      "Key figure in the Irish Republican Army (IRA) during The Troubles",
+      "Instrumental in the peace process in Northern Ireland"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Paul McGuinness",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "McGuinness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_McGuinness",
+    "occupation": "Music manager",
+    "achievements": [
+      "Managed the band U2 for over three decades",
+      "Known for his innovative marketing and business strategies"
+    ],
+    "yearBorn": 1951
+  }
+]

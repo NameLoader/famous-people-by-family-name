@@ -3,7 +3,7 @@
     "fullName": "Robert Henry Goddard",
     "givenNames": [
       "Robert",
-      "Henry"
+      "Hutchings"
     ],
     "familyName": "Goddard",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
@@ -15,5 +15,19 @@
     ],
     "yearBorn": 1882,
     "yearDied": 1945
+  },
+  {
+    "fullName": "Michael Goddard",
+    "givenNames": [
+      "Michael",
+      "Edward"
+    ],
+    "familyName": "Goddard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Goddard",
+    "occupation": "Geneticist and academic",
+    "achievements": [
+      "Known for his contributions to the field of animal genetics",
+      "Developed methods for mapping genes in livestock"
+    ]
   }
 ]

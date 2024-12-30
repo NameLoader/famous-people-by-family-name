@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Stanley Fish",
+    "givenNames": [
+      "Stanley",
+      "Eugene"
+    ],
+    "familyName": "Fish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Fish",
+    "occupation": "Literary critic and legal scholar",
+    "achievements": [
+      "Known for his work on legal interpretation and reader-response criticism.",
+      "Served as dean of the College of Liberal Arts and Sciences at the University of Illinois at Chicago."
+    ],
+    "yearBorn": 1938
+  }
+]

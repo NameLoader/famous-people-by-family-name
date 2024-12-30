@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Constantine the Great",
+    "givenNames": [
+      "Flavius Valerius Constantinus"
+    ],
+    "familyName": "Constantine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+    "occupation": "Roman Emperor",
+    "achievements": [
+      "Legalized Christianity in the Roman Empire",
+      "Founded Constantinople (modern-day Istanbul)",
+      "Oversaw significant reforms and expansion of the empire"
+    ],
+    "yearBorn": 272,
+    "yearDied": 337
+  }
+]

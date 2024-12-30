@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "John Mercer",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Mercer",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mercer_(scientist)",
+    "occupation": "Chemist",
+    "achievements": [
+      "Developed Mercerizing process for treating cotton textiles",
+      "Member of the Royal Society"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1864
+  },
+  {
+    "fullName": "Johnny Mercer",
+    "givenNames": [
+      "John",
+      "Herndon"
+    ],
+    "familyName": "Mercer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Mercer",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Wrote popular songs like 'Moon River', 'Accentuate the Positive'",
+      "Won four Academy Awards for Best Song"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1976
+  }
+]

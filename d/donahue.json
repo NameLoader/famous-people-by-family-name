@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Phil Donahue",
+    "givenNames": [
+      "Phillip",
+      "John"
+    ],
+    "familyName": "Donahue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Donahue",
+    "occupation": "Television host, producer",
+    "achievements": [
+      "Pioneered the daytime talk show format",
+      "Won numerous Emmy Awards"
+    ],
+    "yearBorn": 1935
+  }
+]

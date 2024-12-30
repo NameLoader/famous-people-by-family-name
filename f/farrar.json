@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Frederick Farrar",
+    "givenNames": [
+      "Frederic",
+      "William"
+    ],
+    "familyName": "Farrar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Farrar",
+    "occupation": "Clergyman, Writer, Scholar",
+    "achievements": [
+      "Headmaster of Marlborough College",
+      "Author of theological and historical works",
+      "Known for his book 'The Life of Christ'"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1903
+  }
+]

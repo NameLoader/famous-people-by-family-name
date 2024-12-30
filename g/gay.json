@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Sir John Gay",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Gay",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gay",
+    "occupation": "Poet, dramatist",
+    "achievements": [
+      "Wrote the satirical poem 'Trivia' and the ballad opera 'The Beggar's Opera'."
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1732
+  },
+  {
+    "fullName": "Peter Gay",
+    "givenNames": [
+      "Peter",
+      "Joachim"
+    ],
+    "familyName": "Gay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Gay",
+    "occupation": "Historian",
+    "achievements": [
+      "Author of influential works on the history of ideas and culture, including 'The Enlightenment' and 'Freud: A Life for Our Time'."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2015
+  }
+]

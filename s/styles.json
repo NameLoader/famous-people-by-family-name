@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Harry Styles",
+    "givenNames": [
+      "Harry",
+      "Edward"
+    ],
+    "familyName": "Styles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Styles",
+    "occupation": "Singer, Songwriter, Actor",
+    "achievements": [
+      "Member of the boy band One Direction",
+      "Successful solo music career with multiple Grammy Awards",
+      "Acclaimed acting roles in films like 'Dunkirk' and 'Don't Worry Darling'"
+    ],
+    "yearBorn": 1994
+  }
+]

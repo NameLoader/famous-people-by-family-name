@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ted Nugent",
+    "givenNames": [
+      "Theodore",
+      "Anthony"
+    ],
+    "familyName": "Nugent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Nugent",
+    "occupation": "Musician, songwriter, actor",
+    "achievements": [
+      "Known for hard rock music with the Amboy Dukes and as a solo artist",
+      "Vocal advocate for gun rights and conservative politics"
+    ],
+    "yearBorn": 1948
+  }
+]

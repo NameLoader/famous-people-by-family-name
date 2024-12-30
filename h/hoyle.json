@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Fred Hoyle",
+    "givenNames": [
+      "Fred"
+    ],
+    "familyName": "Hoyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Hoyle",
+    "occupation": "Astronomer, Astrophysicist",
+    "achievements": [
+      "Developed the steady-state theory of cosmology",
+      "Proposed the synthesis of heavier elements in stars (stellar nucleosynthesis)",
+      "Contributed to the understanding of the origin and evolution of the Universe"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2001
+  }
+]

@@ -2,10 +2,11 @@
   {
     "fullName": "Edward Purcell",
     "givenNames": [
-      "Edward"
+      "Edward",
+      "Mills"
     ],
     "familyName": "Purcell",
-    "wikipedia": "https://en.wikipedia.org/wiki/Edward_M._Purcell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Mills_Purcell",
     "occupation": "Physicist",
     "achievements": [
       "Won the Nobel Prize in Physics in 1952 for his work on nuclear magnetic resonance (NMR).",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1912,
     "yearDied": 1997
+  },
+  {
+    "fullName": "Henry Purcell",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Purcell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Purcell",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered one of the greatest English composers",
+      "Composed operas, anthems, concertos and incidental music"
+    ],
+    "yearBorn": 1659,
+    "yearDied": 1695
   }
 ]

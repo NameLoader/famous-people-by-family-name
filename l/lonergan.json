@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Bernard Lonergan",
+    "givenNames": [
+      "Bernard",
+      "Joseph",
+      "Francis"
+    ],
+    "familyName": "Lonergan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Lonergan",
+    "occupation": "Philosopher, Theologian",
+    "achievements": [
+      "Developed the method of 'Insight' for philosophical and theological inquiry.",
+      "Influential figure in 20th-century Catholic thought."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1984
+  }
+]

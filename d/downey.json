@@ -2,7 +2,8 @@
   {
     "fullName": "Robert Downey Sr.",
     "givenNames": [
-      "Robert"
+      "Robert",
+      "John"
     ],
     "familyName": "Downey",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_Downey_Sr.",
@@ -13,5 +14,21 @@
     ],
     "yearBorn": 1936,
     "yearDied": 2021
+  },
+  {
+    "fullName": "Robert Downey Jr.",
+    "givenNames": [
+      "Robert",
+      "John"
+    ],
+    "familyName": "Downey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nominee",
+      "Golden Globe Award winner",
+      "Known for roles in Iron Man, Sherlock Holmes, Chaplin"
+    ],
+    "yearBorn": 1965
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Mariah Carey",
+    "givenNames": [
+      "Mariah"
+    ],
+    "familyName": "Carey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariah_Carey",
+    "occupation": "Singer, Songwriter, Actress",
+    "achievements": [
+      "Best-selling music artist of all time",
+      "Five Grammy Awards",
+      "Numerous Billboard Music Awards and American Music Awards"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Harry Carey",
+    "givenNames": [
+      "Harry"
+    ],
+    "familyName": "Carey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Carey_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in over 250 silent films and early talkies",
+      "Known for his roles as cowboys and Western heroes"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1947
+  }
+]

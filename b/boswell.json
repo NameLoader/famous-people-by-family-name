@@ -12,5 +12,21 @@
     ],
     "yearBorn": 1740,
     "yearDied": 1795
+  },
+  {
+    "fullName": "John Boswell",
+    "givenNames": [
+      "John",
+      "Eastburn"
+    ],
+    "familyName": "Boswell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Boswell",
+    "occupation": "Historian",
+    "achievements": [
+      "Professor Emeritus of History at Yale University",
+      "Specialist in the history of sexuality and the Byzantine Empire",
+      "Authored books including 'Christianity, Social Tolerance, and Homosexuality'"
+    ],
+    "yearBorn": 1947
   }
 ]

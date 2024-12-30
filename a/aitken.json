@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alexander Aitken",
+    "givenNames": [
+      "Alexander",
+      "Craig"
+    ],
+    "familyName": "Aitken",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Aitken",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Developed the Aitken's delta-squared process for accelerating convergence."
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1967
+  }
+]

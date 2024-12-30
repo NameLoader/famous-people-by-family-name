@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ellie Goulding",
+    "givenNames": [
+      "Elena",
+      "Jane"
+    ],
+    "familyName": "Goulding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellie_Goulding",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Brit Award winner",
+      "Multi-platinum selling artist",
+      "Performed at the 2012 Summer Olympics closing ceremony"
+    ],
+    "yearBorn": 1986
+  }
+]

@@ -2,7 +2,9 @@
   {
     "fullName": "Errol Flynn",
     "givenNames": [
-      "Errol"
+      "Errol",
+      "Leslie",
+      "Thomson"
     ],
     "familyName": "Flynn",
     "wikipedia": "https://en.wikipedia.org/wiki/Errol_Flynn",
@@ -13,5 +15,20 @@
     ],
     "yearBorn": 1909,
     "yearDied": 1959
+  },
+  {
+    "fullName": "Neil Flynn",
+    "givenNames": [
+      "Neil",
+      "Richard"
+    ],
+    "familyName": "Flynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Flynn",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Mike Heck in the sitcom 'The Middle'",
+      "Appeared in films like 'Mean Girls' and 'Galaxy Quest'"
+    ],
+    "yearBorn": 1960
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rutherford Birchard Hayes",
+    "givenNames": [
+      "Rutherford",
+      "Birchard"
+    ],
+    "familyName": "Hayes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes",
+    "occupation": "Politician, 19th President of the United States",
+    "achievements": [
+      "Ended Reconstruction Era",
+      "Supported civil service reform"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1893
+  }
+]

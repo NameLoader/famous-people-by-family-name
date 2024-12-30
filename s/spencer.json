@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Diana, Princess of Wales",
+    "givenNames": [
+      "Diana",
+      "Frances"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
+    "occupation": "Royalty, Humanitarian",
+    "achievements": [
+      "Known for her charitable work and advocacy for AIDS awareness",
+      "Became a global icon for style and compassion",
+      "Mother of Princes William and Harry"
+    ],
+    "yearBorn": 1961,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Charles Spencer",
+    "givenNames": [
+      "Charles",
+      "Edward",
+      "Maurice"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Spencer,_9th_Earl_Spencer",
+    "occupation": "Aristocrat, Author",
+    "achievements": [
+      "Brother of Diana, Princess of Wales",
+      "Delivered a moving eulogy at Diana's funeral",
+      "Author of several books, including 'Althorp: The Story of an English House'"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Herbert Spencer",
+    "givenNames": [
+      "Herbert"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Spencer",
+    "occupation": "Philosopher, Sociologist",
+    "achievements": [
+      "Developed the theory of Social Darwinism",
+      "Influential thinker on evolution and sociology",
+      "Author of 'Principles of Biology'"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1903
+  }
+]

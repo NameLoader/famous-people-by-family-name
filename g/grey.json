@@ -14,5 +14,18 @@
     ],
     "yearBorn": 1764,
     "yearDied": 1845
+  },
+  {
+    "fullName": "Jennifer Grey",
+    "givenNames": [
+      "Jennifer"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Grey",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in films like 'Dirty Dancing' and 'Ferris Bueller's Day Off'"
+    ],
+    "yearBorn": 1960
   }
 ]

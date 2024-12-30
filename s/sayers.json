@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Dorothy L. Sayers",
+    "givenNames": [
+      "Dorothy",
+      "Leigh"
+    ],
+    "familyName": "Sayers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_L._Sayers",
+    "occupation": "Writer",
+    "achievements": [
+      "Prolific novelist, playwright, poet, essayist, and translator",
+      "Known for her detective novels featuring Lord Peter Wimsey",
+      "Championed the role of women in society and religion"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1957
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir John Lavery",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Lavery",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lavery",
+    "occupation": "Painter",
+    "achievements": [
+      "Noted for portraits of society figures and landscapes.",
+      "Member of the Royal Academy."
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1941
+  }
+]

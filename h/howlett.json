@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "James Howlett",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Howlett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolverine_(character)",
+    "occupation": "Fictional Superhero",
+    "achievements": [
+      "Member of the X-Men",
+      "Possesses mutant healing factor and adamantium claws"
+    ]
+  }
+]

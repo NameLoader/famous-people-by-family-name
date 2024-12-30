@@ -2,7 +2,8 @@
   {
     "fullName": "John Daly",
     "givenNames": [
-      "John"
+      "John",
+      "Patrick"
     ],
     "familyName": "Daly",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Daly_(golfer)",
@@ -13,5 +14,19 @@
       "Known for his long drives and colorful personality"
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Timothy Daly",
+    "givenNames": [
+      "Timothy",
+      "James"
+    ],
+    "familyName": "Daly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Daly",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the TV series 'Wings' and 'Madam Secretary'"
+    ],
+    "yearBorn": 1956
   }
 ]

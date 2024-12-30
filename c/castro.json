@@ -2,7 +2,8 @@
   {
     "fullName": "Fidel Castro",
     "givenNames": [
-      "Fidel"
+      "Fidel",
+      "Alejandro"
     ],
     "familyName": "Castro",
     "wikipedia": "https://en.wikipedia.org/wiki/Fidel_Castro",
@@ -14,5 +15,21 @@
     ],
     "yearBorn": 1926,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Raúl Modesto Castro Ruz",
+    "givenNames": [
+      "Raúl",
+      "Modesto"
+    ],
+    "familyName": "Castro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro",
+    "occupation": "Politician, Military Leader",
+    "achievements": [
+      "Played a key role in the Cuban Revolution",
+      "Served as President of Cuba from 2008 to 2018",
+      "Initiated economic reforms and improved relations with the United States"
+    ],
+    "yearBorn": 1932
   }
 ]

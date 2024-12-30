@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Anthony Eden",
+    "givenNames": [
+      "Anthony",
+      "Robert"
+    ],
+    "familyName": "Eden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Eden",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom",
+      "Foreign Secretary"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1977
+  }
+]

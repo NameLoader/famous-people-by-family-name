@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir John Eccles",
+    "givenNames": [
+      "John",
+      "Carew"
+    ],
+    "familyName": "Eccles",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Eccles_(neurophysiologist)",
+    "occupation": "Neurophysiologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1963)",
+      "Discoveries concerning the synaptic transmission of nerve impulses"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1997
+  }
+]

@@ -12,5 +12,21 @@
       "Known for roles in films like The Fate of the Furious and Suicide Squad"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Clint Eastwood",
+    "givenNames": [
+      "Clint",
+      "Clinton"
+    ],
+    "familyName": "Eastwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+    "occupation": "Actor, Director, Producer",
+    "achievements": [
+      "Academy Award winner for Best Director and Best Picture",
+      "Iconic roles in Westerns and action films",
+      "Mayor of Carmel-by-the-Sea, California"
+    ],
+    "yearBorn": 1930
   }
 ]

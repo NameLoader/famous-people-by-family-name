@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Catherine Doherty",
+    "givenNames": [
+      "Catherine"
+    ],
+    "familyName": "Doherty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Doherty",
+    "occupation": "Catholic laywoman, social activist, and founder of Madonna House",
+    "achievements": [
+      "Founded Madonna House, a Catholic community dedicated to serving the poor and marginalized.",
+      "Known for her teachings on social justice and contemplative prayer."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Peter Doherty",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Doherty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Doherty",
+    "occupation": "Musician, songwriter, and artist",
+    "achievements": [
+      "Co-founder of the indie rock band The Libertines.",
+      "Known for his raw songwriting style and charismatic stage presence.",
+      "Released successful solo albums and collaborated with other artists."
+    ],
+    "yearBorn": 1979
+  }
+]

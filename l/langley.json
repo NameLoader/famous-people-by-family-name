@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Samuel Pierpont Langley",
+    "givenNames": [
+      "Samuel",
+      "Pierpont"
+    ],
+    "familyName": "Langley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Langley",
+    "occupation": "Astronomer, physicist, and aviation pioneer",
+    "achievements": [
+      "Made significant contributions to the study of celestial bodies.",
+      "Developed the bolometer, a device for measuring infrared radiation.",
+      "Pioneered early experiments in manned flight with his Aerodrome."
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1906
+  }
+]

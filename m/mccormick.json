@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Cyrus McCormick",
+    "givenNames": [
+      "Cyrus",
+      "Hall"
+    ],
+    "familyName": "McCormick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_McCormick",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the mechanical reaper, revolutionizing agriculture"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1884
+  },
+  {
+    "fullName": "Robert McCormick",
+    "givenNames": [
+      "Robert",
+      "Rutherford"
+    ],
+    "familyName": "McCormick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_R._McCormick",
+    "occupation": "Publisher",
+    "achievements": [
+      "Led the Chicago Tribune to national prominence",
+      "Known for his influence on journalism and politics"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "David McCormick",
+    "givenNames": [
+      "David",
+      "Harold"
+    ],
+    "familyName": "McCormick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dave_McCormick",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Former CEO of Bridgewater Associates",
+      "Candidate for the U.S. Senate in Pennsylvania"
+    ],
+    "yearBorn": 1965
+  }
+]

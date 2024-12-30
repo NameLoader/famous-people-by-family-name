@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir John Barrow",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Barrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_John_Barrow,_1st_Baronet",
+    "occupation": "Administrator, Scientist",
+    "achievements": [
+      "Secretary to the Admiralty",
+      "Promoted scientific exploration and cartography"
+    ],
+    "yearBorn": 1764,
+    "yearDied": 1848
+  }
+]

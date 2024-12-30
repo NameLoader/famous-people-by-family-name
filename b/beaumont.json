@@ -12,5 +12,20 @@
     ],
     "yearBorn": 1785,
     "yearDied": 1853
+  },
+  {
+    "fullName": "Francis Beaumont",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Beaumont",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Beaumont",
+    "occupation": "Playwright, Poet",
+    "achievements": [
+      "Collaborated with John Fletcher on numerous plays, including 'The Maid's Tragedy', 'Philaster', and 'The Honest Man's Fortune'",
+      "Known for his elegant verse and psychologically complex characters"
+    ],
+    "yearBorn": 1584,
+    "yearDied": 1616
   }
 ]

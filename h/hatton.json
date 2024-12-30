@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ricky Hatton",
+    "givenNames": [
+      "Richard",
+      "John"
+    ],
+    "familyName": "Hatton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricky_Hatton",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Former World Light Welterweight Champion",
+      "Known for his aggressive fighting style and huge fan following"
+    ],
+    "yearBorn": 1978
+  }
+]

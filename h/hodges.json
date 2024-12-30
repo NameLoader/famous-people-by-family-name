@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Hodges",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Hodges",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Hodges",
+    "occupation": "Painter, Engraver",
+    "achievements": [
+      "Known for his landscapes and marine paintings.",
+      "Worked as an official artist on Captain Cook's voyages."
+    ],
+    "yearBorn": 1747,
+    "yearDied": 1797
+  }
+]

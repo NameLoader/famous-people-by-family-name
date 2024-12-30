@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Patrick Ewing",
+    "givenNames": [
+      "Patrick",
+      "Aloysius"
+    ],
+    "familyName": "Ewing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Ewing",
+    "occupation": "Basketball player, Coach",
+    "achievements": [
+      "11-time NBA All-Star",
+      "NBA Hall of Famer",
+      "Olympic Gold Medalist (1992)"
+    ],
+    "yearBorn": 1962
+  }
+]

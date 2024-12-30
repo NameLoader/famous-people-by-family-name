@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Charles Lamb",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Lamb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lamb",
+    "occupation": "Essayist, poet",
+    "achievements": [
+      "Known for his essays and Elia, a collection of essays reflecting on London life.",
+      "Considered a master of the personal essay."
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1834
+  },
+  {
+    "fullName": "Harold Lamb",
+    "givenNames": [
+      "Harold",
+      "Albert"
+    ],
+    "familyName": "Lamb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Lamb",
+    "occupation": "Author, historian",
+    "achievements": [
+      "Prolific writer of historical fiction and non-fiction.",
+      "Specialized in stories about military history and the Middle East."
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1962
+  }
+]

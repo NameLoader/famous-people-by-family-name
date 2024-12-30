@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Spencer Tracy",
+    "givenNames": [
+      "Spencer",
+      "Bonaventure"
+    ],
+    "familyName": "Tracy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Tracy",
+    "occupation": "Actor",
+    "achievements": [
+      "Two-time Academy Award winner for Best Actor",
+      "Starred in classic films like 'Guess Who's Coming to Dinner?' and 'Father of the Bride'"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1967
+  }
+]

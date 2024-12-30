@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Warren Beatty",
+    "givenNames": [
+      "Henry",
+      "Warren"
+    ],
+    "familyName": "Beatty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_Beatty",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Academy Award for Best Director (Reds)",
+      "Nominated for 18 Academy Awards",
+      "Known for films like Bonnie and Clyde, Shampoo, Heaven Can Wait"
+    ],
+    "yearBorn": 1937
+  }
+]

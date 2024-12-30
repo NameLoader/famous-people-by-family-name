@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sixto Rodriguez",
+    "givenNames": [
+      "Sixto",
+      "Diaz"
+    ],
+    "familyName": "Rodriguez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sixto_Rodriguez",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Achieved cult status in South Africa despite little recognition in the US during his career's peak",
+      "Subject of the Academy Award-winning documentary 'Searching for Sugar Man'"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Alex Rodriguez",
+    "givenNames": [
+      "Alexander",
+      "Emmanuel"
+    ],
+    "familyName": "Rodriguez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Rodriguez",
+    "occupation": "Former Major League Baseball player",
+    "achievements": [
+      "14-time MLB All-Star",
+      "3-time American League MVP",
+      "Won a World Series championship with the New York Yankees in 2009"
+    ],
+    "yearBorn": 1975
+  }
+]

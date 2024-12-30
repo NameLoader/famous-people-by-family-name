@@ -19,10 +19,11 @@
   {
     "fullName": "Edwin Stanton",
     "givenNames": [
-      "Edwin"
+      "Edwin",
+      "McMasters"
     ],
     "familyName": "Stanton",
-    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_M._Stanton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Stanton",
     "occupation": "Politician, Lawyer",
     "achievements": [
       "United States Secretary of War during the American Civil War",
@@ -31,5 +32,22 @@
     ],
     "yearBorn": 1814,
     "yearDied": 1869
+  },
+  {
+    "fullName": "Frank Stanton",
+    "givenNames": [
+      "Frank",
+      "Nicholas"
+    ],
+    "familyName": "Stanton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Stanton_(executive)",
+    "occupation": "Broadcaster, executive",
+    "achievements": [
+      "President of Columbia Broadcasting System (CBS) from 1946 to 1971",
+      "Oversaw the expansion of CBS into television and other media",
+      "Played a key role in the development of broadcasting standards"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2006
   }
 ]

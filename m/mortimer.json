@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir John Mortimer",
+    "givenNames": [
+      "John",
+      "Clifford"
+    ],
+    "familyName": "Mortimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mortimer",
+    "occupation": "Playwright, Barrister",
+    "achievements": [
+      "Created the popular television series 'Rumpole of the Bailey'",
+      "Wrote numerous successful plays and screenplays"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2009
+  }
+]

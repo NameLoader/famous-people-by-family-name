@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Lonnie Donegan",
+    "givenNames": [
+      "Lonnie",
+      "Anthony",
+      "James"
+    ],
+    "familyName": "Donegan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonnie_Donegan",
+    "occupation": "Singer, songwriter, guitarist",
+    "achievements": [
+      "Known as the 'King of Skiffle'",
+      "Popularized skiffle music in the UK",
+      "Influenced numerous musicians including The Beatles and The Rolling Stones"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2002
+  }
+]

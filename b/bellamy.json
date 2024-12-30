@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1850,
     "yearDied": 1898
+  },
+  {
+    "fullName": "Peter Bellamy",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Bellamy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Bellamy",
+    "occupation": "Folk singer, songwriter and musician",
+    "achievements": [
+      "Known for his traditional English folk songs and ballads",
+      "Performed with the band The Watersons"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1991
   }
 ]

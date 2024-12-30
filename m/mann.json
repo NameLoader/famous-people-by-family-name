@@ -17,14 +17,45 @@
   {
     "fullName": "Michael Mann",
     "givenNames": [
-      "Michael"
+      "Michael",
+      "Kenneth"
     ],
     "familyName": "Mann",
-    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Mann_(director)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Mann",
     "occupation": "Film director, screenwriter, producer",
     "achievements": [
       "Known for films like 'Heat', 'The Last of the Mohicans', and 'Miami Vice'"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Heinrich Mann",
+    "givenNames": [
+      "Heinrich"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Mann",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Known for satirical and socially critical novels like 'The Loyal Subject' and 'Man of Straw'"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "Klaus Mann",
+    "givenNames": [
+      "Klaus",
+      "Heinrich",
+      "Thomas"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Mann",
+    "occupation": "Novelist, playwright, essayist",
+    "achievements": [
+      "Known for novels like 'Mephisto' (later adapted into an Oscar-winning film)"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1949
   }
 ]

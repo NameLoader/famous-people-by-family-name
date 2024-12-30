@@ -13,5 +13,51 @@
     ],
     "yearBorn": 1911,
     "yearDied": 1972
+  },
+  {
+    "fullName": "Benny Goodman",
+    "givenNames": [
+      "Benjamin",
+      "David"
+    ],
+    "familyName": "Goodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benny_Goodman",
+    "occupation": "Jazz musician",
+    "achievements": [
+      "Known as the 'King of Swing'",
+      "Popularized big band jazz in the 1930s",
+      "Influential clarinetist and bandleader"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "John Goodman",
+    "givenNames": [
+      "John",
+      "Stephen"
+    ],
+    "familyName": "Goodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Goodman",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Roseanne' and 'The Big Lebowski'",
+      "Won a Golden Globe Award for his role in 'Roseanne'"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "David Goodman",
+    "givenNames": [
+      "David",
+      "Avram"
+    ],
+    "familyName": "Goodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_A._Goodman",
+    "occupation": "Television writer and producer",
+    "achievements": [
+      "Known for his work on animated series like 'Family Guy' and 'The Simpsons'",
+      "Won multiple Emmy Awards for his writing"
+    ]
   }
 ]

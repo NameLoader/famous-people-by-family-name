@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Stubbs",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Stubbs",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Stubbs",
+    "occupation": "Historian, Bishop",
+    "achievements": [
+      "Regius Professor of Modern History at Oxford University.",
+      "Master of Christ's College, Cambridge."
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1901
+  }
+]

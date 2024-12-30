@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Shirley",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Shirley",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Shirley",
+    "occupation": "Playwright",
+    "achievements": [
+      "Wrote over 30 plays, including The Traitor and The Gamester.",
+      "Considered one of the most important Jacobean dramatists."
+    ],
+    "yearBorn": 1596,
+    "yearDied": 1666
+  }
+]

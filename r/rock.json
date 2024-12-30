@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Chris Rock",
+    "givenNames": [
+      "Christopher",
+      "Julius"
+    ],
+    "familyName": "Rock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Rock",
+    "occupation": "Comedian, Actor, Writer, Producer, Director",
+    "achievements": [
+      "Multiple Grammy Awards",
+      "Primetime Emmy Award",
+      "Academy Award nominations for Best Original Screenplay"
+    ],
+    "yearBorn": 1965
+  }
+]

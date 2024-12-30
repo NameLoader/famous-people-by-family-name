@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Henry Fairfield Osborn",
+    "givenNames": [
+      "Henry",
+      "Fairfield"
+    ],
+    "familyName": "Osborn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Fairfield_Osborn",
+    "occupation": "Paleontologist, Geologist",
+    "achievements": [
+      "President of the American Museum of Natural History",
+      "Key figure in the development of paleontology",
+      "Author of influential works on evolution and fossil history"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1935
+  }
+]

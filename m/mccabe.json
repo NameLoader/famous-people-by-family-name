@@ -2,7 +2,8 @@
   {
     "fullName": "Andrew McCabe",
     "givenNames": [
-      "Andrew"
+      "Andrew",
+      "George"
     ],
     "familyName": "McCabe",
     "wikipedia": "https://en.wikipedia.org/wiki/Andrew_McCabe",
@@ -12,5 +13,33 @@
       "Played a key role in investigations into Russian interference in the 2016 US election"
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Patrick McCabe",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "McCabe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_McCabe_(novelist)",
+    "occupation": "Novelist, Playwright",
+    "achievements": [
+      "Known for his darkly comedic and satirical novels such as 'The Butcher Boy'",
+      "Won the GPA Book Award for 'The Dead School'"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Richard McCabe",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "McCabe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_McCabe",
+    "occupation": "Actor",
+    "achievements": [
+      "Notable roles in British theatre and television",
+      "Appeared in films like 'The Constant Gardener' and 'Pirates of the Caribbean: On Stranger Tides'"
+    ],
+    "yearBorn": 1960
   }
 ]

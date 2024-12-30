@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "George Adamson",
+    "givenNames": [
+      "George",
+      "Alexander",
+      "Graham"
+    ],
+    "familyName": "Adamson",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Adamson",
+    "occupation": "Wildlife conservationist",
+    "achievements": [
+      "Raised and released Elsa the lioness, a story documented in the book and film 'Born Free'",
+      "Dedicated his life to rehabilitating lions and other animals back into the wild",
+      "Played a crucial role in establishing wildlife conservation practices in Kenya"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1989
+  }
+]

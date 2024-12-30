@@ -17,7 +17,8 @@
   {
     "fullName": "Wynonna Judd",
     "givenNames": [
-      "Wynonna"
+      "Wynonna",
+      "Ellen"
     ],
     "familyName": "Judd",
     "wikipedia": "https://en.wikipedia.org/wiki/Wynonna_Judd",
@@ -27,5 +28,19 @@
       "Successful solo career with multiple hit singles and awards."
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Ashley Judd",
+    "givenNames": [
+      "Ashley"
+    ],
+    "familyName": "Judd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Judd",
+    "occupation": "Actress, political activist",
+    "achievements": [
+      "Nominated for a Golden Globe Award for her role in the film 'De-Lovely'",
+      "Advocate for gender equality and women's rights"
+    ],
+    "yearBorn": 1968
   }
 ]

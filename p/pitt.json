@@ -5,7 +5,7 @@
       "William"
     ],
     "familyName": "Pitt",
-    "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt,_the_Younger",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger",
     "occupation": "Prime Minister of Great Britain",
     "achievements": [
       "Served as Prime Minister for over 17 years.",
@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1759,
     "yearDied": 1806
+  },
+  {
+    "fullName": "William Pitt the Elder",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Pitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham",
+    "occupation": "Prime Minister of Great Britain",
+    "achievements": [
+      "Led Great Britain during the Seven Years' War",
+      "Known for his strong leadership and oratory skills"
+    ],
+    "yearBorn": 1708,
+    "yearDied": 1778
+  },
+  {
+    "fullName": "Brad Pitt",
+    "givenNames": [
+      "William",
+      "Bradley"
+    ],
+    "familyName": "Pitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brad_Pitt",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Academy Award for Best Supporting Actor (Once Upon a Time in Hollywood)",
+      "Known for roles in films such as Fight Club, Se7en, and Inglourious Basterds"
+    ],
+    "yearBorn": 1963
   }
 ]

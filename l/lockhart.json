@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Lockhart",
+    "givenNames": [
+      "John",
+      "Gibson"
+    ],
+    "familyName": "Lockhart",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gibson_Lockhart",
+    "occupation": "Scottish biographer, critic, and historian",
+    "achievements": [
+      "Known for his biography of Sir Walter Scott",
+      "Contributed to the Edinburgh Review"
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1854
+  }
+]

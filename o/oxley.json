@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "John Oxley",
+    "givenNames": [
+      "John",
+      "Joseph",
+      "William",
+      "Molesworth"
+    ],
+    "familyName": "Oxley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Oxley",
+    "occupation": "Explorer, Surveyor",
+    "achievements": [
+      "Explored and surveyed vast areas of Australia including the Lachlan River and Moreton Bay.",
+      "Helped establish the colony of Queensland."
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1828
+  }
+]

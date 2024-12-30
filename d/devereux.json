@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Walter Devereux, 1st Earl of Essex",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Devereux",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Devereux,_1st_Earl_of_Essex",
+    "occupation": "Nobleman, Military leader",
+    "achievements": [
+      "Served as Lord Chamberlain of the Household to Queen Elizabeth I",
+      "Played a key role in suppressing rebellions in Ireland"
+    ],
+    "yearBorn": 1541,
+    "yearDied": 1576
+  },
+  {
+    "fullName": "Robert Devereux, 2nd Earl of Essex",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Devereux",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex",
+    "occupation": "Nobleman, Military leader",
+    "achievements": [
+      "Favored by Queen Elizabeth I in his youth",
+      "Led a failed rebellion against Queen Elizabeth I and was executed"
+    ],
+    "yearBorn": 1565,
+    "yearDied": 1601
+  }
+]

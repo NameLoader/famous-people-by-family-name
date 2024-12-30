@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Jim Greaves",
+    "givenNames": [
+      "James",
+      "Peter"
+    ],
+    "familyName": "Greaves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Greaves",
+    "occupation": "Footballer",
+    "achievements": [
+      "One of the greatest English goalscorers of all time",
+      "Played for Chelsea, Tottenham Hotspur and West Ham United",
+      "Won the FA Cup with Tottenham Hotspur in 1967"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2021
+  }
+]

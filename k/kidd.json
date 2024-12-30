@@ -2,7 +2,8 @@
   {
     "fullName": "Jason Kidd",
     "givenNames": [
-      "Jason"
+      "Jason",
+      "Frederick"
     ],
     "familyName": "Kidd",
     "wikipedia": "https://en.wikipedia.org/wiki/Jason_Kidd",
@@ -14,5 +15,20 @@
       "NBA All-Defensive First Team (1998, 2002, 2003)"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "William Kidd",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Kidd",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Kidd",
+    "occupation": "Pirate, privateer",
+    "achievements": [
+      "Captained the ship 'Adventure Galley'",
+      "Accused of piracy and hanged in London"
+    ],
+    "yearBorn": 1645,
+    "yearDied": 1701
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Searle",
+    "givenNames": [
+      "John",
+      "Rogers"
+    ],
+    "familyName": "Searle",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Searle",
+    "occupation": "Philosopher, cognitive scientist",
+    "achievements": [
+      "Known for his work on speech acts, consciousness, and artificial intelligence.",
+      "Developed the 'Chinese Room' thought experiment."
+    ],
+    "yearBorn": 1932
+  }
+]

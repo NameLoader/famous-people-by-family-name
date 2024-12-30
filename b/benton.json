@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Hart Benton",
+    "givenNames": [
+      "Thomas",
+      "Hart"
+    ],
+    "familyName": "Benton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hart_Benton_(painter)",
+    "occupation": "Painter, Muralist",
+    "achievements": [
+      "Known for his Regionalist style paintings depicting American life.",
+      "Created numerous murals in public buildings across the United States."
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1975
+  }
+]

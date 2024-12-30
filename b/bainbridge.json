@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Bainbridge",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Bainbridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Bainbridge",
+    "occupation": "Naval officer",
+    "achievements": [
+      "Commanded the USS Constitution during the War of 1812",
+      "Known for his decisive victory over the HMS Guerriere"
+    ],
+    "yearBorn": 1774,
+    "yearDied": 1833
+  }
+]

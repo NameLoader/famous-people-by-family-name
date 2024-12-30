@@ -1,17 +1,19 @@
 [
   {
-    "fullName": "Hugh Jackman",
+    "fullName": "John A. Logan",
     "givenNames": [
-      "Hugh"
+      "John",
+      "Alexander"
     ],
     "familyName": "Logan",
-    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Jackman",
-    "occupation": "Actor, Singer",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_A._Logan",
+    "occupation": "Politician, Military Officer",
     "achievements": [
-      "Won a Tony Award for his performance in The Boy from Oz",
-      "Known for portraying Wolverine in the X-Men film series",
-      "Received numerous awards and nominations for his acting"
+      "U.S. Senator from Illinois (1871-1886)",
+      "Major General in the Union Army during the Civil War",
+      "Led troops at the Battle of Vicksburg and the Siege of Atlanta."
     ],
-    "yearBorn": 1968
+    "yearBorn": 1826,
+    "yearDied": 1886
   }
 ]

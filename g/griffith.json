@@ -2,7 +2,8 @@
   {
     "fullName": "Arthur Griffith",
     "givenNames": [
-      "Arthur"
+      "Arthur",
+      "Joseph"
     ],
     "familyName": "Griffith",
     "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Griffith",
@@ -13,5 +14,21 @@
     ],
     "yearBorn": 1871,
     "yearDied": 1922
+  },
+  {
+    "fullName": "D. W. Griffith",
+    "givenNames": [
+      "David",
+      "Wark"
+    ],
+    "familyName": "Griffith",
+    "wikipedia": "https://en.wikipedia.org/wiki/D._W._Griffith",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Pioneer of motion picture narrative techniques",
+      "Directed groundbreaking films like 'The Birth of a Nation' and 'Intolerance'"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1948
   }
 ]

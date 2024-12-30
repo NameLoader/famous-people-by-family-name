@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mookie Betts",
+    "givenNames": [
+      "Markus",
+      "Lynn"
+    ],
+    "familyName": "Betts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mookie_Betts",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "6-time MLB All-Star.",
+      "Won the American League MVP Award in 2018.",
+      "World Series champion with the Boston Red Sox (2018)."
+    ],
+    "yearBorn": 1992
+  }
+]

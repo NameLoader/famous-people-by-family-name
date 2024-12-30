@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Miguel Cabrera",
+    "givenNames": [
+      "José",
+      "Miguel"
+    ],
+    "familyName": "Cabrera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Cabrera",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "Two-time American League Most Valuable Player",
+      "12-time MLB All-Star",
+      "Triple Crown winner (2012)"
+    ],
+    "yearBorn": 1983
+  }
+]

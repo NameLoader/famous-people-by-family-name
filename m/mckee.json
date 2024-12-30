@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David McKee",
+    "givenNames": [
+      "David",
+      "John"
+    ],
+    "familyName": "McKee",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_McKee",
+    "occupation": "Children's author and illustrator",
+    "achievements": [
+      "Created popular children's books like 'Elmer'",
+      "Won numerous awards for his work"
+    ],
+    "yearBorn": 1935
+  }
+]

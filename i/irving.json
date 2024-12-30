@@ -14,5 +14,33 @@
     ],
     "yearBorn": 1783,
     "yearDied": 1862
+  },
+  {
+    "fullName": "John Irving",
+    "givenNames": [
+      "John",
+      "Winslow"
+    ],
+    "familyName": "Irving",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Irving",
+    "occupation": "Novelist, screenwriter",
+    "achievements": [
+      "Pulitzer Prize winner for the novel 'The Cider House Rules'",
+      "Known for novels exploring themes of family, loss, and identity."
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Judy Irving",
+    "givenNames": [
+      "Judy"
+    ],
+    "familyName": "Irving",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judy_Irving",
+    "occupation": "Documentary filmmaker",
+    "achievements": [
+      "Known for documentaries about environmental and social issues.",
+      "Notable films include 'The Wild Parrots of Telegraph Hill' and 'Oceans of Change'."
+    ]
   }
 ]

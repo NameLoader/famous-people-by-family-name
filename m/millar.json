@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Millar",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Millar",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Millar_(philosopher)",
+    "occupation": "Philosopher, Economist",
+    "achievements": [
+      "Professor of Law and Philosophy at the University of Glasgow",
+      "Known for his work on natural law theory and political economy"
+    ],
+    "yearBorn": 1730,
+    "yearDied": 1801
+  }
+]

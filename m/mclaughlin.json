@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John McLaughlin",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McLaughlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McLaughlin_(musician)",
+    "occupation": "Musician",
+    "achievements": [
+      "Guitarist and composer known for his fusion jazz style",
+      "Won Grammy Awards for Best Jazz Instrumental Performance"
+    ],
+    "yearBorn": 1942
+  }
+]

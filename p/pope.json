@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alexander Pope",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Pope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope",
+    "occupation": "Poet, satirist, and essayist",
+    "achievements": [
+      "Considered one of the greatest English poets of the 18th century.",
+      "Known for his satirical works like 'The Rape of the Lock' and 'The Dunciad'.",
+      "Translated Homer's Iliad and Odyssey into English verse."
+    ],
+    "yearBorn": 1688,
+    "yearDied": 1744
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Niels Henrik Abel",
+    "givenNames": [
+      "Niels",
+      "Henrik"
+    ],
+    "familyName": "Abel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Henrik_Abel",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Pioneering work in the field of elliptic functions",
+      "Development of Abel's theorem, which proves the impossibility of solving general polynomial equations of degree five or higher by radicals",
+      "Posthumous recognition with the establishment of the Abel Prize, a prestigious award in mathematics"
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1829
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Frank Gifford",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Gifford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Gifford",
+    "occupation": "Football player, sportscaster, actor",
+    "achievements": [
+      "NFL Hall of Famer",
+      "8x Pro Bowler",
+      "3x NFL Champion (New York Giants)",
+      "Longtime sportscaster for Monday Night Football"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Kathy Gifford",
+    "givenNames": [
+      "Kathryn",
+      "Lee"
+    ],
+    "familyName": "Gifford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathie_Lee_Gifford",
+    "occupation": "Television host, singer, actress",
+    "achievements": [
+      "Co-host of Today and Live with Regis and Kathie Lee",
+      "Emmy Award winner",
+      "Successful singing career"
+    ],
+    "yearBorn": 1953
+  }
+]

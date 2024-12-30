@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Richard Bassett",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Bassett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Bassett_(Delaware_politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Signer of the United States Constitution",
+      "First Governor of Delaware"
+    ],
+    "yearBorn": 1745,
+    "yearDied": 1806
+  },
+  {
+    "fullName": "Angela Bassett",
+    "givenNames": [
+      "Angela",
+      "Evelyn"
+    ],
+    "familyName": "Bassett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angela_Bassett",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominee for Best Actress (What's Love Got to Do with It)",
+      "Golden Globe Award winner for Best Actress – Motion Picture Drama (What's Love Got to Do with It)",
+      "Known for roles in films such as Boyz n the Hood, Waiting to Exhale, and Black Panther"
+    ],
+    "yearBorn": 1958
+  }
+]

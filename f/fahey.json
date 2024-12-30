@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Fahey",
+    "givenNames": [
+      "John",
+      "Aloysius"
+    ],
+    "familyName": "Fahey",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Fahey_(musician)",
+    "occupation": "Guitarist, Composer",
+    "achievements": [
+      "Pioneer of American Primitive Guitar",
+      "Influential figure in folk and experimental music"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2001
+  }
+]

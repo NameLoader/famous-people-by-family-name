@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sigourney Weaver",
+    "givenNames": [
+      "Susan",
+      "Alexandra",
+      "Sigourney"
+    ],
+    "familyName": "Weaver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigourney_Weaver",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like Alien, Ghostbusters, and Avatar",
+      "Academy Award nominee"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Richard Weaver",
+    "givenNames": [
+      "Richard",
+      "Malcolm"
+    ],
+    "familyName": "Weaver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_M._Weaver",
+    "occupation": "Rhetorician and Essayist",
+    "achievements": [
+      "Known for his book 'Ideas Have Consequences'"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1963
+  }
+]

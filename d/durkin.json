@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jim Durkin",
+    "givenNames": [
+      "James",
+      "Brian"
+    ],
+    "familyName": "Durkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Durkin",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a member of the Illinois House of Representatives since 2013.",
+      "Minority Leader in the Illinois House of Representatives from 2013 to 2023."
+    ],
+    "yearBorn": 1962
+  }
+]

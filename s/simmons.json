@@ -2,7 +2,8 @@
   {
     "fullName": "Russell Simmons",
     "givenNames": [
-      "Russell"
+      "Russell",
+      "Wendell"
     ],
     "familyName": "Simmons",
     "wikipedia": "https://en.wikipedia.org/wiki/Russell_Simmons",
@@ -13,5 +14,20 @@
       "Philanthropist"
     ],
     "yearBorn": 1957
+  },
+  {
+    "fullName": "Gene Simmons",
+    "givenNames": [
+      "Gene"
+    ],
+    "familyName": "Simmons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gene_Simmons",
+    "occupation": "Musician, Singer, Songwriter, Actor",
+    "achievements": [
+      "Bass guitarist and co-lead vocalist of the rock band Kiss.",
+      "Known for his elaborate stage persona and distinctive makeup.",
+      "Successful entrepreneur and television personality."
+    ],
+    "yearBorn": 1949
   }
 ]

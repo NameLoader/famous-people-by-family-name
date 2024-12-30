@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mary Ainsworth",
+    "givenNames": [
+      "Mary",
+      "Dinsmore"
+    ],
+    "familyName": "Ainsworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Ainsworth",
+    "occupation": "Developmental psychologist",
+    "achievements": [
+      "Known for her contributions to attachment theory",
+      "Developed the Strange Situation experiment"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1999
+  }
+]

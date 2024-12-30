@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Sir William Henry Bragg",
+    "givenNames": [
+      "William",
+      "Henry"
+    ],
+    "familyName": "Bragg",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Bragg",
+    "occupation": "Physicist, Chemist",
+    "achievements": [
+      "Nobel Prize in Physics (1915)",
+      "Developed X-ray crystallography with his son, William Lawrence Bragg"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1942
+  },
+  {
+    "fullName": "William Lawrence Bragg",
+    "givenNames": [
+      "William",
+      "Lawrence"
+    ],
+    "familyName": "Bragg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Bragg",
+    "occupation": "Physicist, Chemist",
+    "achievements": [
+      "Nobel Prize in Physics (1915)",
+      "Developed X-ray crystallography with his father, William Henry Bragg"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Billy Bragg",
+    "givenNames": [
+      "Stephen",
+      "William"
+    ],
+    "familyName": "Bragg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Bragg",
+    "occupation": "Singer-songwriter, political activist",
+    "achievements": [
+      "Influential figure in folk and punk music",
+      "Known for his politically charged lyrics"
+    ],
+    "yearBorn": 1957
+  }
+]

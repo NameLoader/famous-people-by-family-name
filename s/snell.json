@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Snell",
+    "givenNames": [
+      "George",
+      "Davis"
+    ],
+    "familyName": "Snell",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Davis_Snell",
+    "occupation": "Immunologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1980) for discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1996
+  }
+]

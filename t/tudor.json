@@ -26,5 +26,53 @@
     ],
     "yearBorn": 1516,
     "yearDied": 1558
+  },
+  {
+    "fullName": "Henry VII",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+    "occupation": "King of England",
+    "achievements": [
+      "Founder of the Tudor dynasty",
+      "Ended the Wars of the Roses",
+      "Established a strong central government in England"
+    ],
+    "yearBorn": 1457,
+    "yearDied": 1509
+  },
+  {
+    "fullName": "Henry VIII",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII",
+    "occupation": "King of England",
+    "achievements": [
+      "Broke with the Roman Catholic Church and established the Church of England",
+      "Had six wives",
+      "Oversaw significant cultural and political changes in England"
+    ],
+    "yearBorn": 1491,
+    "yearDied": 1547
+  },
+  {
+    "fullName": "Elizabeth I",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "occupation": "Queen of England",
+    "achievements": [
+      "Longest reigning Tudor monarch",
+      "Preserved England's independence from Spain",
+      "Oversaw a Golden Age in English literature and the arts"
+    ],
+    "yearBorn": 1533,
+    "yearDied": 1603
   }
 ]

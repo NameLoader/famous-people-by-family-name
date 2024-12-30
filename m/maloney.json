@@ -2,7 +2,8 @@
   {
     "fullName": "Carolyn Maloney",
     "givenNames": [
-      "Carolyn"
+      "Carolyn",
+      "Jane"
     ],
     "familyName": "Maloney",
     "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_Maloney",
@@ -12,5 +13,20 @@
       "Member of the Democratic Party."
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Sean Maloney",
+    "givenNames": [
+      "Sean",
+      "Patrick"
+    ],
+    "familyName": "Maloney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Patrick_Maloney",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Current U.S. Representative for New York's 18th congressional district",
+      "Served as White House Staff Secretary under President Bill Clinton"
+    ],
+    "yearBorn": 1966
   }
 ]

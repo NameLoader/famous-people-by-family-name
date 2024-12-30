@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Fenton",
+    "givenNames": [
+      "William",
+      "N."
+    ],
+    "familyName": "Fenton",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_N._Fenton",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Studied the Iroquoian people of North America",
+      "Authored influential works on Haudenosaunee culture and history"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1995
+  }
+]

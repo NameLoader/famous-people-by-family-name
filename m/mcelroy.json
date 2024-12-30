@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Travis McElroy",
+    "givenNames": [
+      "Travis",
+      "Patrick"
+    ],
+    "familyName": "McElroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Travis_McElroy",
+    "occupation": "Podcaster, Writer, Musician",
+    "achievements": [
+      "Co-host of the popular podcasts My Brother, My Brother and Me, The Adventure Zone, and  Judge John Hodgman",
+      "Author of several books, including 'The McElroy Brothers Will Be There for You'",
+      "Known for his musical talents and quirky sense of humor"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Griffin McElroy",
+    "givenNames": [
+      "Griffin",
+      "Andrew"
+    ],
+    "familyName": "McElroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Griffin_McElroy",
+    "occupation": "Podcaster, Writer, Game Designer",
+    "achievements": [
+      "Co-host of the popular podcasts My Brother, My Brother and Me, The Adventure Zone, and  Wonderful!",
+      "Creator of the tabletop role-playing game 'The Adventure Zone'",
+      "Known for his imaginative storytelling and dungeon mastering skills"
+    ],
+    "yearBorn": 1987
+  }
+]

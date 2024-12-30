@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "David Morley",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Morley",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Morley_(poet)",
+    "occupation": "Poet, Translator",
+    "achievements": [
+      "Won the T.S. Eliot Prize in 2006 for 'The Invisible World'",
+      "Published numerous poetry collections and translations"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "John Morley",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Morley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Morley",
+    "occupation": "Politician, Writer",
+    "achievements": [
+      "Served as Secretary of State for India",
+      "Known for his writings on history and literature"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1923
+  },
+  {
+    "fullName": "Frank Morley",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Morley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Morley",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Known for the Morley triangle theorem in geometry"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1937
+  }
+]

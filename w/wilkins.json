@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "John Wilkins",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wilkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkins",
+    "occupation": "Philosopher, natural theologian, bishop",
+    "achievements": [
+      "Wrote the influential dictionary 'An Essay towards a Real Character and a Philosophical Language'",
+      "Contributed to the founding of the Royal Society"
+    ],
+    "yearBorn": 1614,
+    "yearDied": 1672
+  },
+  {
+    "fullName": "Maurice Wilkins",
+    "givenNames": [
+      "Maurice",
+      "Hugh",
+      "Frederick"
+    ],
+    "familyName": "Wilkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Wilkins",
+    "occupation": "Molecular biologist, biophysicist",
+    "achievements": [
+      "Shared the Nobel Prize in Physiology or Medicine in 1962 with James Watson and Francis Crick for their work on the structure of DNA"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2004
+  }
+]

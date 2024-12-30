@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Kate Moss",
+    "givenNames": [
+      "Katherine",
+      "Ann"
+    ],
+    "familyName": "Moss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kate_Moss",
+    "occupation": "Model and businesswoman",
+    "achievements": [
+      "One of the most influential fashion models of all time",
+      "Known for her waif-like appearance and iconic status in the 1990s",
+      "Successful businesswoman with her own clothing line and fragrance"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mike Nichols",
+    "givenNames": [
+      "Mike"
+    ],
+    "familyName": "Nichols",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Nichols",
+    "occupation": "Film and Stage Director, Producer",
+    "achievements": [
+      "Won nine Tony Awards for stage directing",
+      "Directed films like 'The Graduate,' 'Who's Afraid of Virginia Woolf?,' and 'Silkwood'",
+      "Academy Award for Best Director ('The Graduate')"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2014
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Parkinson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Parkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Parkinson",
+    "occupation": "Physician, surgeon, naturalist and paleontologist",
+    "achievements": [
+      "First described Parkinson's disease",
+      "Pioneer in the study of fossils"
+    ],
+    "yearBorn": 1755,
+    "yearDied": 1824
+  }
+]

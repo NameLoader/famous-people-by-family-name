@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Henry Knox",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Knox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Knox",
+    "occupation": "Military officer, politician",
+    "achievements": [
+      "First United States Secretary of War",
+      "Instrumental in the American Revolutionary War's success through artillery expertise and logistics"
+    ],
+    "yearBorn": 1750,
+    "yearDied": 1806
+  },
+  {
+    "fullName": "Robert Knox",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Knox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Knox_(surgeon)",
+    "occupation": "Anatomist, surgeon",
+    "achievements": [
+      "Pioneer in anatomical dissection and surgical techniques",
+      "Known for his controversial work on human anatomy procurement"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1862
+  }
+]

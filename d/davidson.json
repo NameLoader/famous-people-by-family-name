@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Donald Davidson",
+    "givenNames": [
+      "Donald",
+      "Herbert"
+    ],
+    "familyName": "Davidson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Davidson_(philosopher)",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Influential figure in philosophy of language and mind",
+      "Known for his work on truth, meaning, and interpretation"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2003
+  }
+]

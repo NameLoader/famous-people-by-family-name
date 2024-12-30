@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mike Tyson",
+    "givenNames": [
+      "Michael",
+      "Gerard"
+    ],
+    "familyName": "Tyson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Tyson",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Undisputed Heavyweight Champion",
+      "Youngest boxer to win a heavyweight title"
+    ],
+    "yearBorn": 1966
+  }
+]

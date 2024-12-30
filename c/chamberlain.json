@@ -2,6 +2,7 @@
   {
     "fullName": "Neville Chamberlain",
     "givenNames": [
+      "Arthur",
       "Neville"
     ],
     "familyName": "Chamberlain",
@@ -13,5 +14,21 @@
     ],
     "yearBorn": 1869,
     "yearDied": 1940
+  },
+  {
+    "fullName": "Houston Stewart Chamberlain",
+    "givenNames": [
+      "Houston",
+      "Stewart"
+    ],
+    "familyName": "Chamberlain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Houston_Stewart_Chamberlain",
+    "occupation": "Philosopher, writer",
+    "achievements": [
+      "Influential figure in the völkisch movement",
+      "Author of 'The Foundations of the Nineteenth Century'"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1927
   }
 ]

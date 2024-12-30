@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Blake Shelton",
+    "givenNames": [
+      "Blake",
+      "Tollison"
+    ],
+    "familyName": "Shelton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blake_Shelton",
+    "occupation": "Country music singer, songwriter, and television personality",
+    "achievements": [
+      "Multiple Grammy nominations",
+      "Won nine Country Music Association Awards",
+      "Coach on the singing competition show 'The Voice'"
+    ],
+    "yearBorn": 1976
+  }
+]

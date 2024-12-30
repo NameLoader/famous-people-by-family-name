@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Charles Coughlin",
+    "givenNames": [
+      "Charles",
+      "Edward"
+    ],
+    "familyName": "Coughlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Coughlin",
+    "occupation": "Catholic priest, radio broadcaster",
+    "achievements": [
+      "Prominent figure in American politics during the 1930s.",
+      "Known for his fiery anti-semitic and pro-fascist radio broadcasts."
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Tom Coughlin",
+    "givenNames": [
+      "Thomas",
+      "Richard"
+    ],
+    "familyName": "Coughlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Coughlin",
+    "occupation": "Football coach",
+    "achievements": [
+      "Head coach of the Jacksonville Jaguars and New York Giants.",
+      "Won two Super Bowl titles with the New York Giants (XLII and XLVI)."
+    ],
+    "yearBorn": 1946
+  }
+]

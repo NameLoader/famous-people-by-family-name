@@ -19,7 +19,8 @@
   {
     "fullName": "Aretha Franklin",
     "givenNames": [
-      "Aretha"
+      "Aretha",
+      "Louise"
     ],
     "familyName": "Franklin",
     "wikipedia": "https://en.wikipedia.org/wiki/Aretha_Franklin",
@@ -32,5 +33,21 @@
     ],
     "yearBorn": 1942,
     "yearDied": 2018
+  },
+  {
+    "fullName": "Rosalind Franklin",
+    "givenNames": [
+      "Rosalind",
+      "Elsie"
+    ],
+    "familyName": "Franklin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+    "occupation": "Chemist, X-ray crystallographer",
+    "achievements": [
+      "Pioneering work in understanding the structure of DNA",
+      "Her X-ray diffraction images were crucial to Watson and Crick's discovery of the double helix"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1958
   }
 ]

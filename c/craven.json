@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Wes Craven",
+    "givenNames": [
+      "Wesley",
+      "Earl"
+    ],
+    "familyName": "Craven",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wes_Craven",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Known for horror films like 'A Nightmare on Elm Street' and 'Scream'",
+      "Pioneer of the slasher genre"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2015
+  }
+]

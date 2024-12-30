@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Medgar Evers",
+    "givenNames": [
+      "Medgar",
+      "Wiley"
+    ],
+    "familyName": "Evers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Medgar_Evers",
+    "occupation": "Civil rights activist",
+    "achievements": [
+      "Field Secretary for the NAACP in Mississippi",
+      "Instrumental in registering African American voters",
+      "Assassinated by a white supremacist"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1963
+  }
+]

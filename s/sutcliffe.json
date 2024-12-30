@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Peter Sutcliffe",
+    "givenNames": [
+      "Peter",
+      "William"
+    ],
+    "familyName": "Sutcliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Sutcliffe",
+    "occupation": "Serial Killer",
+    "achievements": [
+      "Convicted of murdering 13 women and attempting to murder seven others in Yorkshire, England between 1975 and 1980."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2022
+  }
+]

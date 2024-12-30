@@ -13,5 +13,21 @@
       "Controversial figure due to media ownership concentration"
     ],
     "yearBorn": 1931
+  },
+  {
+    "fullName": "Iris Murdoch",
+    "givenNames": [
+      "Iris",
+      "Jean"
+    ],
+    "familyName": "Murdoch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iris_Murdoch",
+    "occupation": "Philosopher and novelist",
+    "achievements": [
+      "Won the Booker Prize in 1978 for her novel 'The Sea, The Sea'",
+      "Known for her exploration of ethical and philosophical themes in her novels"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1999
   }
 ]

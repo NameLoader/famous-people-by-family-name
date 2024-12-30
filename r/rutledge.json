@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "John Rutledge",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Rutledge",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Rutledge",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Signer of the United States Declaration of Independence",
+      "First Chief Justice of the United States Supreme Court",
+      "Governor of South Carolina"
+    ],
+    "yearBorn": 1739,
+    "yearDied": 1800
+  },
+  {
+    "fullName": "Edward Rutledge",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Rutledge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Rutledge",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Signer of the United States Declaration of Independence",
+      "Governor of South Carolina",
+      "Member of the Continental Congress"
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1800
+  }
+]

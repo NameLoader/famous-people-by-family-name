@@ -5,11 +5,37 @@
       "Mike"
     ],
     "familyName": "Flanagan",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Flanagan_(director)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)",
     "occupation": "Film Director, Screenwriter",
     "achievements": [
       "Known for directing horror films such as 'Oculus', 'Hush', and 'The Haunting of Hill House'"
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Charles Flanagan",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Flanagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Flanagan",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Minister for Justice and Equality in Ireland from 2016 to 2020"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "John Flanagan",
+    "givenNames": [
+      "John",
+      "Anthony"
+    ],
+    "familyName": "Flanagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Flanagan_(author)",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for his fantasy novels, particularly the Ranger's Apprentice series"
+    ]
   }
 ]

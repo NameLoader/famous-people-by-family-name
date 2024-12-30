@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Keith Richards",
+    "givenNames": [
+      "Keith"
+    ],
+    "familyName": "Richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Richards",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Guitarist for the Rolling Stones",
+      "Known for his distinctive guitar riffs and songwriting contributions"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Kim Richards",
+    "givenNames": [
+      "Kim",
+      "Erica"
+    ],
+    "familyName": "Richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Richards",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Prudence in the television series 'Nanny and the Professor'",
+      "Appeared in numerous films and television shows"
+    ],
+    "yearBorn": 1964
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Albert Pike",
+    "givenNames": [
+      "Albert"
+    ],
+    "familyName": "Pike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Pike",
+    "occupation": "Confederate General, Lawyer, Poet",
+    "achievements": [
+      "Known for his writings on Freemasonry",
+      "Served as a Confederate general during the American Civil War"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Zebulon Pike",
+    "givenNames": [
+      "Zebulon",
+      "Montgomery"
+    ],
+    "familyName": "Pike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zebulon_Pike",
+    "occupation": "Soldier, Explorer",
+    "achievements": [
+      "Led expeditions that explored the American Southwest and Rocky Mountains",
+      "Pikes Peak in Colorado is named after him"
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1813
+  }
+]

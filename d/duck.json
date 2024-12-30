@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Howard Duck",
+    "givenNames": [
+      "Howard"
+    ],
+    "familyName": "Duck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_the_Duck",
+    "occupation": "Fictional Superhero",
+    "achievements": [
+      "Marvel Comics character",
+      "Starred in his own comic book series and a feature film adaptation"
+    ]
+  }
+]

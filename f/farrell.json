@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Colin Farrell",
+    "givenNames": [
+      "Colin",
+      "James"
+    ],
+    "familyName": "Farrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Farrell",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films such as 'In Bruges', 'The Lobster', and 'Minority Report'",
+      "Golden Globe Award winner"
+    ],
+    "yearBorn": 1976
+  }
+]

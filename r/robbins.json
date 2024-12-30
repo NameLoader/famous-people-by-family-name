@@ -2,12 +2,58 @@
   {
     "fullName": "Tim Robbins",
     "givenNames": [
-      "Tim"
+      "Timothy",
+      "Francis"
     ],
     "familyName": "Robbins",
     "wikipedia": "https://en.wikipedia.org/wiki/Tim_Robbins",
     "occupation": "Actor, Director, Screenwriter",
     "achievements": [],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Anthony Robbins",
+    "givenNames": [
+      "Anthony",
+      "Jay"
+    ],
+    "familyName": "Robbins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Robbins",
+    "occupation": "Self-help author and motivational speaker",
+    "achievements": [
+      "Author of best-selling self-help books such as 'Unlimited Power' and 'Awaken the Giant Within'",
+      "Known for his seminars and workshops focused on personal development and achievement"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Harold Robbins",
+    "givenNames": [
+      "Harold"
+    ],
+    "familyName": "Robbins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Robbins",
+    "occupation": "Novelist",
+    "achievements": [
+      "Best known for his novels set in the worlds of Hollywood and organized crime",
+      "Published numerous bestsellers including 'The Carpetbaggers', 'Where Love Has Gone', and 'The Dream Merchants'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Tom Robbins",
+    "givenNames": [
+      "Thomas",
+      "Eugene"
+    ],
+    "familyName": "Robbins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Robbins",
+    "occupation": "Novelist and essayist",
+    "achievements": [
+      "Known for his unique and whimsical writing style",
+      "Published acclaimed novels such as 'Even Cowgirls Get the Blues', 'Still Life with Woodpecker', and 'Skinny Legs and All'"
+    ],
+    "yearBorn": 1932
   }
 ]

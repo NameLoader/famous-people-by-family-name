@@ -2,7 +2,8 @@
   {
     "fullName": "Brian Clough",
     "givenNames": [
-      "Brian"
+      "Brian",
+      "Howard"
     ],
     "familyName": "Clough",
     "wikipedia": "https://en.wikipedia.org/wiki/Brian_Clough",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1935,
     "yearDied": 2004
+  },
+  {
+    "fullName": "Nigel Clough",
+    "givenNames": [
+      "Nigel",
+      "Howard"
+    ],
+    "familyName": "Clough",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Clough",
+    "occupation": "Football manager and former player",
+    "achievements": [
+      "Managed clubs such as Burton Albion, Sheffield United, and Derby County",
+      "Won the League Two title with Burton Albion in 2015"
+    ],
+    "yearBorn": 1966
   }
 ]

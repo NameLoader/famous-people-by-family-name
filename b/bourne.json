@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Randolph Bourne",
+    "givenNames": [
+      "Randolph",
+      "Silliman"
+    ],
+    "familyName": "Bourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randolph_Bourne",
+    "occupation": "Essayist, critic, and philosopher",
+    "achievements": [
+      "Advocated for a cosmopolitan vision of America",
+      "Criticized American nationalism and imperialism",
+      "Influenced the development of American intellectualism"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1918
+  }
+]

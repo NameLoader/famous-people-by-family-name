@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jack Dempsey",
+    "givenNames": [
+      "Jack"
+    ],
+    "familyName": "Dempsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Dempsey",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "World Heavyweight Champion (1919-1926)",
+      "Known for his aggressive fighting style and powerful punches"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Patrick Dempsey",
+    "givenNames": [
+      "Patrick",
+      "Galen"
+    ],
+    "familyName": "Dempsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Dempsey",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Derek Shepherd in the medical drama series Grey's Anatomy",
+      "Nominated for three Screen Actors Guild Awards"
+    ],
+    "yearBorn": 1966
+  }
+]

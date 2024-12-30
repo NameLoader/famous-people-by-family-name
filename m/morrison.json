@@ -2,7 +2,10 @@
   {
     "fullName": "Toni Morrison",
     "givenNames": [
-      "Toni"
+      "Toni",
+      "Chloe",
+      "Anthony",
+      "Wofford"
     ],
     "familyName": "Morrison",
     "wikipedia": "https://en.wikipedia.org/wiki/Toni_Morrison",
@@ -15,5 +18,21 @@
     ],
     "yearBorn": 1931,
     "yearDied": 2019
+  },
+  {
+    "fullName": "James Morrison",
+    "givenNames": [
+      "James",
+      "Douglas"
+    ],
+    "familyName": "Morrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Morrison",
+    "occupation": "Singer, songwriter, poet",
+    "achievements": [
+      "Frontman of The Doors",
+      "Influential figure in rock music"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1971
   }
 ]

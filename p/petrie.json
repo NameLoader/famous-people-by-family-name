@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Flinders Petrie",
+    "givenNames": [
+      "Flinders"
+    ],
+    "familyName": "Petrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flinders_Petrie",
+    "occupation": "Egyptologist",
+    "achievements": [
+      "Pioneering work in Egyptian archaeology",
+      "Excavated numerous sites including Abydos, Amarna, and Giza",
+      "Developed innovative excavation techniques"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1942
+  }
+]

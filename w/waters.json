@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Roger Waters",
+    "givenNames": [
+      "Roger",
+      "George"
+    ],
+    "familyName": "Waters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Waters",
+    "occupation": "Musician, Singer-songwriter",
+    "achievements": [
+      "Founding member of Pink Floyd",
+      "Successful solo career"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Daniel Waters",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Waters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Waters_(screenwriter)",
+    "occupation": "Screenwriter",
+    "achievements": [
+      "Wrote Heathers (1988) and Batman Returns (1992)"
+    ],
+    "yearBorn": 1962
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Kiefer Sutherland",
+    "givenNames": [
+      "Kiefer",
+      "William",
+      "Frederick",
+      "Dempsey",
+      "George",
+      "Rufus"
+    ],
+    "familyName": "Sutherland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiefer_Sutherland",
+    "occupation": "Actor, producer",
+    "achievements": [
+      "Won a Golden Globe Award for his role in '24'",
+      "Starred in films such as 'Stand by Me' and 'The Lost Boys'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Donald Sutherland",
+    "givenNames": [
+      "Donald",
+      "McNichol"
+    ],
+    "familyName": "Sutherland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Sutherland",
+    "occupation": "Actor, producer",
+    "achievements": [
+      "Nominated for five Golden Globe Awards and two Academy Awards",
+      "Known for roles in films such as 'MASH', 'The Dirty Dozen', and 'The Hunger Games' series"
+    ],
+    "yearBorn": 1935
+  }
+]
