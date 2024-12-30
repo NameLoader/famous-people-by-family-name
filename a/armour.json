@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Armour",
+    "givenNames": [
+      "Richard",
+      "Willard"
+    ],
+    "familyName": "Armour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Armour",
+    "occupation": "Poet and humorist",
+    "achievements": [
+      "Known for his light verse and humorous poems",
+      "Authored several collections of poetry, including 'It's a Bird! It's a Plane!' and 'The Armours'"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1989
+  }
+]

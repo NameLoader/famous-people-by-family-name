@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Root",
+    "givenNames": [
+      "John",
+      "Wellborn"
+    ],
+    "familyName": "Root",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wellborn_Root",
+    "occupation": "Architect",
+    "achievements": [
+      "Co-founder of the architectural firm Burnham and Root",
+      "Designed notable buildings in Chicago including the Rookery Building and the Reliance Building"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1937
+  }
+]

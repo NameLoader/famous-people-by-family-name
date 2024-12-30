@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "H.G. Wells",
+    "givenNames": [
+      "Herbert",
+      "George"
+    ],
+    "familyName": "Wells",
+    "wikipedia": "https://en.wikipedia.org/wiki/H._G._Wells",
+    "occupation": "Author",
+    "achievements": [
+      "Pioneer of science fiction",
+      "Wrote classics like 'The Time Machine', 'War of the Worlds', and 'The Invisible Man'"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1946
+  }
+]

@@ -2,7 +2,8 @@
   {
     "fullName": "Gordon Ramsay",
     "givenNames": [
-      "Gordon"
+      "Gordon",
+      "James"
     ],
     "familyName": "Ramsay",
     "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Ramsay",
@@ -13,5 +14,35 @@
       "Recognized as one of the world's most influential chefs"
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "William Ramsay",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Ramsay",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Ramsay",
+    "occupation": "Chemist",
+    "achievements": [
+      "Discoverer of noble gases (Helium, Neon, Argon)",
+      "Nobel Prize in Chemistry (1904)"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "Allan Ramsay",
+    "givenNames": [
+      "Allan"
+    ],
+    "familyName": "Ramsay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Ramsay_(poet)",
+    "occupation": "Scottish poet and literary figure",
+    "achievements": [
+      "Known for his pastoral poetry and songs",
+      "Influential figure in the Scottish Enlightenment"
+    ],
+    "yearBorn": 1686,
+    "yearDied": 1758
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John B. Goodenough",
+    "givenNames": [
+      "John",
+      "Bannister"
+    ],
+    "familyName": "Goodenough",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_B._Goodenough",
+    "occupation": "Materials scientist and Nobel laureate",
+    "achievements": [
+      "Developed the lithium-ion battery",
+      "Nobel Prize in Chemistry (2019)"
+    ],
+    "yearBorn": 1922
+  }
+]

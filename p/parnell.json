@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Stewart Parnell",
+    "givenNames": [
+      "Charles",
+      "Stewart"
+    ],
+    "familyName": "Parnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Stewart_Parnell",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the Irish Parliamentary Party",
+      "Championed Home Rule for Ireland"
+    ],
+    "yearBorn": 1846,
+    "yearDied": 1891
+  }
+]

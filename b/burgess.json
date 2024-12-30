@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1917,
     "yearDied": 1993
+  },
+  {
+    "fullName": "Ernest Burgess",
+    "givenNames": [
+      "Ernest",
+      "Watson"
+    ],
+    "familyName": "Burgess",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Burgess",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Developed the concentric zone model of urban development"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1966
   }
 ]

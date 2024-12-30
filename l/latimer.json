@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hugh Latimer",
+    "givenNames": [
+      "Hugh"
+    ],
+    "familyName": "Latimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Latimer",
+    "occupation": "Bishop and Reformer",
+    "achievements": [
+      "One of the Oxford Martyrs burned at the stake under Queen Mary I",
+      "Key figure in the English Reformation"
+    ],
+    "yearBorn": 1485,
+    "yearDied": 1555
+  }
+]

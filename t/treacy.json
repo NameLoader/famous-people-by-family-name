@@ -2,7 +2,8 @@
   {
     "fullName": "Sean Treacy",
     "givenNames": [
-      "Sean"
+      "Seán",
+      "Allis"
     ],
     "familyName": "Treacy",
     "wikipedia": "https://en.wikipedia.org/wiki/Se%C3%A1n_Treacy",
@@ -12,5 +13,20 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1921
+  },
+  {
+    "fullName": "Patrick Treacy",
+    "givenNames": [
+      "Philip",
+      "Anthony"
+    ],
+    "familyName": "Treacy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Treacy",
+    "occupation": "Milliner",
+    "achievements": [
+      "Created hats for royalty and celebrities including the Duchess of Cambridge, Lady Gaga, and Madonna.",
+      "Known for his extravagant and innovative designs."
+    ],
+    "yearBorn": 1967
   }
 ]

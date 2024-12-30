@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Danny Masterson",
+    "givenNames": [
+      "Daniel",
+      "Peter"
+    ],
+    "familyName": "Masterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Masterson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Steven Hyde in the sitcom That '70s Show",
+      "Appeared in films such as Men at Work and Face/Off"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Chris Masterson",
+    "givenNames": [
+      "Christopher",
+      "Kennedy"
+    ],
+    "familyName": "Masterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Masterson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Francis in the sitcom Malcolm in the Middle",
+      "Appeared in films such as  Scary Movie 2 and The Big White"
+    ],
+    "yearBorn": 1980
+  }
+]

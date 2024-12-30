@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Donny Osmond",
+    "givenNames": [
+      "Donald",
+      "Clark",
+      "Donny"
+    ],
+    "familyName": "Osmond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donny_Osmond",
+    "occupation": "Singer, actor, television host",
+    "achievements": [
+      "Successful solo career and with The Osmonds",
+      "Starred in Broadway productions",
+      "Hosted several television shows"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Jay Osmond",
+    "givenNames": [
+      "Jay",
+      "Wesley"
+    ],
+    "familyName": "Osmond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jay_Osmond",
+    "occupation": "Singer, drummer",
+    "achievements": [
+      "Member of The Osmonds"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Wayne Osmond",
+    "givenNames": [
+      "Melvin",
+      "Wayne"
+    ],
+    "familyName": "Osmond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Osmond",
+    "occupation": "Singer, musician",
+    "achievements": [
+      "Member of The Osmonds"
+    ],
+    "yearBorn": 1951
+  }
+]

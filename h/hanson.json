@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Isaac Hanson",
+    "givenNames": [
+      "Isaac"
+    ],
+    "familyName": "Hanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanson_(band)#Isaac_Hanson",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Member of the pop rock band Hanson",
+      "Known for hit singles like 'MMMBop'"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Taylor Hanson",
+    "givenNames": [
+      "Jordan",
+      "Taylor"
+    ],
+    "familyName": "Hanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Hanson",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Member of the pop rock band Hanson",
+      "Known for playing keyboards and guitar in the band"
+    ],
+    "yearBorn": 1983
+  }
+]

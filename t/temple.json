@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "William Temple",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Temple",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Temple_(bishop)",
+    "occupation": "Archbishop of York",
+    "achievements": [
+      "Advocated for social justice and welfare",
+      "Played a key role in the development of the Church of England's social policy"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1944
+  },
+  {
+    "fullName": "Shirley Temple",
+    "givenNames": [
+      "Shirley",
+      "Jane"
+    ],
+    "familyName": "Temple",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Temple",
+    "occupation": "Actress, Diplomat",
+    "achievements": [
+      "Child star who captivated audiences with her singing, dancing, and charming personality",
+      "Later served as a diplomat, representing the United States in various roles"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2014
+  }
+]

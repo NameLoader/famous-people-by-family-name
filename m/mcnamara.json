@@ -2,7 +2,8 @@
   {
     "fullName": "Robert McNamara",
     "givenNames": [
-      "Robert"
+      "Robert",
+      "Strange"
     ],
     "familyName": "McNamara",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_McNamara",
@@ -14,5 +15,18 @@
     ],
     "yearBorn": 1906,
     "yearDied": 2009
+  },
+  {
+    "fullName": "Mary McNamara",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "McNamara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_McNamara",
+    "occupation": "Television critic",
+    "achievements": [
+      "Known for her sharp wit and insightful critiques of television programs.",
+      "Has been a staff writer at the Los Angeles Times since 1996."
+    ]
   }
 ]

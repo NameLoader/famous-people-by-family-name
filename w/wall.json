@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Wall",
+    "givenNames": [
+      "Johnathan",
+      "Hildred",
+      "Jr."
+    ],
+    "familyName": "Wall",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wall",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "5x NBA All-Star",
+      "NBA All-Rookie First Team (2010)",
+      "Led the Washington Wizards to multiple playoff appearances"
+    ],
+    "yearBorn": 1990
+  }
+]

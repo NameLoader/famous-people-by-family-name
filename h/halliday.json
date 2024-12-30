@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David Halliday",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Halliday",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Halliday_(physicist)",
+    "occupation": "Physicist",
+    "achievements": [
+      "Co-authored the influential textbook 'Fundamentals of Physics'",
+      "Contributions to the fields of nuclear physics and geophysics"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2010
+  }
+]

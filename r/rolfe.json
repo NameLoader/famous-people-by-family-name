@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Rolfe",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Rolfe",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Rolfe",
+    "occupation": "English colonist and farmer",
+    "achievements": [
+      "Cultivated the first successful tobacco crop in Virginia",
+      "Married Pocahontas, a Native American princess"
+    ],
+    "yearBorn": 1585,
+    "yearDied": 1622
+  }
+]

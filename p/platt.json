@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ben Platt",
+    "givenNames": [
+      "Ben",
+      "Benjamin",
+      "Schiff"
+    ],
+    "familyName": "Platt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Platt",
+    "occupation": "Actor, Singer, Songwriter",
+    "achievements": [
+      "Won a Tony Award for his performance as Evan Hansen in the Broadway musical 'Dear Evan Hansen'",
+      "Nominated for a Grammy Award for Best Musical Theater Album for 'Dear Evan Hansen'",
+      "Starred in films like 'Pitch Perfect' and 'Runaways'"
+    ],
+    "yearBorn": 1993
+  }
+]

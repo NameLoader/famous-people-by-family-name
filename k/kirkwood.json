@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Daniel Kirkwood",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Kirkwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kirkwood",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Studied the distribution of asteroids in the asteroid belt",
+      "Developed Kirkwood gaps, regions in the asteroid belt where few asteroids are found due to gravitational resonances with Jupiter"
+    ],
+    "yearBorn": 1814,
+    "yearDied": 1895
+  }
+]

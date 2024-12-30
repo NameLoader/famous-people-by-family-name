@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mike Oldfield",
+    "givenNames": [
+      "Mike",
+      "Michael",
+      "Gordon"
+    ],
+    "familyName": "Oldfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Oldfield",
+    "occupation": "Musician, composer",
+    "achievements": [
+      "Known for his progressive rock albums Tubular Bells and Ommadawn",
+      "Won Grammy Award for Best Instrumental Composition Written for a Motion Picture or for Television"
+    ],
+    "yearBorn": 1953
+  }
+]

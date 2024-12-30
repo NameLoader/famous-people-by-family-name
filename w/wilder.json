@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Thornton Wilder",
+    "givenNames": [
+      "Thornton",
+      "Niven"
+    ],
+    "familyName": "Wilder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thornton_Wilder",
+    "occupation": "Playwright, Novelist",
+    "achievements": [
+      "Pulitzer Prize for Drama (twice)",
+      "Pulitzer Prize for Fiction",
+      "National Book Award"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Gene Wilder",
+    "givenNames": [
+      "Gene"
+    ],
+    "familyName": "Wilder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gene_Wilder",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Two Academy Award Nominations for Best Supporting Actor",
+      "Known for his comedic roles in films like 'Willy Wonka & the Chocolate Factory' and 'Blazing Saddles'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Laura Wilder",
+    "givenNames": [
+      "Laura",
+      "Elizabeth"
+    ],
+    "familyName": "Wilder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder",
+    "occupation": "Author",
+    "achievements": [
+      "Authored the 'Little House' series of children's books",
+      "Her works have been adapted into numerous television and film productions"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1957
+  }
+]

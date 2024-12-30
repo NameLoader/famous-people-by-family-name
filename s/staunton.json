@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Howard Staunton",
+    "givenNames": [
+      "Howard"
+    ],
+    "familyName": "Staunton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Staunton",
+    "occupation": "Chess player, writer",
+    "achievements": [
+      "First unofficial World Chess Champion",
+      "Promoted the standardization of chess rules",
+      "Prolific writer on chess strategy and theory"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1874
+  }
+]

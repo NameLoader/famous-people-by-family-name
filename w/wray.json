@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Chris Wray",
+    "givenNames": [
+      "Christopher",
+      "Asher"
+    ],
+    "familyName": "Wray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Wray",
+    "occupation": "Lawyer, FBI Director",
+    "achievements": [
+      "Director of the Federal Bureau of Investigation since 2017",
+      "Served in various legal roles prior to becoming FBI Director"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "John Wray",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wray",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wray_(novelist)",
+    "occupation": "Author",
+    "achievements": [
+      "Known for novels like 'The Right Hand' and 'Canaan'",
+      "Recipient of the Whiting Writers' Award"
+    ]
+  }
+]

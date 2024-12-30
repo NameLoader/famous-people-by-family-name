@@ -2,10 +2,11 @@
   {
     "fullName": "John Templeton",
     "givenNames": [
-      "John"
+      "John",
+      "Marks"
     ],
     "familyName": "Templeton",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sir_John_Templeton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Templeton",
     "occupation": "Investor, Fund Manager",
     "achievements": [
       "Founder of Templeton Growth Fund",

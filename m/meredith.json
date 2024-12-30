@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Meredith",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Meredith",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Meredith",
+    "occupation": "Poet, novelist",
+    "achievements": [
+      "Major Victorian poet and novelist",
+      "Known for his complex novels such as 'The Egoist' and 'Modern Love'",
+      "Influential figure in the development of English prose"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1909
+  }
+]

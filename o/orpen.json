@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "William Orpen",
+    "givenNames": [
+      "William",
+      "Newenham",
+      "Montague"
+    ],
+    "familyName": "Orpen",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Orpen",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for portraits of prominent figures of his time.",
+      "Official war artist during World War I.",
+      "Founded the Dublin Painters' Academy."
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1931
+  }
+]

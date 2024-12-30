@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Gower",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Gower",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gower",
+    "occupation": "Poet",
+    "achievements": [
+      "Wrote major works in Middle English including 'Confessio Amantis'",
+      "Held diplomatic positions for the English crown"
+    ],
+    "yearBorn": 1330,
+    "yearDied": 1408
+  }
+]

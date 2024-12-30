@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lamar Odom",
+    "givenNames": [
+      "Lamar",
+      "Joseph"
+    ],
+    "familyName": "Odom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamar_Odom",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (2009, 2010)",
+      "NBA Sixth Man of the Year (2011)",
+      "Two-time NBA All-Star"
+    ],
+    "yearBorn": 1979
+  }
+]

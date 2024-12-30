@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Parkes",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Parkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Parkes",
+    "occupation": "Politician",
+    "achievements": [
+      "Known as the 'Father of Federation'",
+      "Served as Premier of New South Wales six times",
+      "Key figure in the movement for Australian federation"
+    ],
+    "yearBorn": 1815,
+    "yearDied": 1896
+  }
+]

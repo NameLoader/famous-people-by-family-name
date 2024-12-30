@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Joseph Lister",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Lister",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Lister",
+    "occupation": "Surgeon and pioneer of antiseptic surgery",
+    "achievements": [
+      "Developed the practice of using carbolic acid to sterilize surgical instruments and dressings",
+      "Significantly reduced post-operative infections and mortality rates"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1912
+  }
+]

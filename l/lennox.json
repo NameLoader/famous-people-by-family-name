@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Charles Lennox, 1st Duke of Richmond",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Lennox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lennox,_1st_Duke_of_Richmond",
+    "occupation": "Nobleman, Politician",
+    "achievements": [
+      "Served as Lord Lieutenant of Ireland and Secretary of State for the Colonies"
+    ],
+    "yearBorn": 1672,
+    "yearDied": 1723
+  },
+  {
+    "fullName": "Annie Lennox",
+    "givenNames": [
+      "Ann",
+      "Annie"
+    ],
+    "familyName": "Lennox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annie_Lennox",
+    "occupation": "Singer-Songwriter, Activist",
+    "achievements": [
+      "Grammy Award Winner",
+      "Known for her powerful vocals and hits like 'Sweet Dreams (Are Made of This)' with Eurythmics"
+    ],
+    "yearBorn": 1954
+  }
+]

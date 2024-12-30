@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Skelton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Skelton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Skelton_(poet)",
+    "occupation": "Poet",
+    "achievements": [
+      "Considered one of the most original and influential English poets of his time.",
+      "Known for his satirical and ironic verse, often incorporating biblical themes."
+    ],
+    "yearBorn": 1460,
+    "yearDied": 1529
+  }
+]

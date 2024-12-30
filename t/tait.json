@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Peter Tait",
+    "givenNames": [
+      "Peter",
+      "Guthrie"
+    ],
+    "familyName": "Tait",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Guthrie_Tait",
+    "occupation": "Mathematician, Physicist",
+    "achievements": [
+      "Contributed to the development of quaternions and vector analysis",
+      "Professor of Natural Philosophy at the University of Edinburgh"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1901
+  }
+]

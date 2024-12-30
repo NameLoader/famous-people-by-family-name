@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Owen Lovejoy",
+    "givenNames": [
+      "Owen"
+    ],
+    "familyName": "Lovejoy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Lovejoy",
+    "occupation": "Politician, Abolitionist",
+    "achievements": [
+      "Served in the U.S. House of Representatives",
+      "Prominent abolitionist who spoke out against slavery"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1864
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Mike Leigh",
+    "givenNames": [
+      "Mike"
+    ],
+    "familyName": "Leigh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Leigh",
+    "occupation": "Film director, screenwriter, playwright",
+    "achievements": [
+      "Known for his naturalistic and improvisational filmmaking style.",
+      "Directed acclaimed films such as 'Secrets & Lies', 'Vera Drake', and 'Happy-Go-Lucky'."
+    ],
+    "yearBorn": 1943
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Mullan",
+    "givenNames": [
+      "John",
+      "Jr."
+    ],
+    "familyName": "Mullan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mullan_(road_builder)",
+    "occupation": "Military Officer, Engineer",
+    "achievements": [
+      "Construction of the Mullan Road, a crucial wagon road connecting Fort Benton, Montana to Walla Walla, Washington."
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1909
+  }
+]

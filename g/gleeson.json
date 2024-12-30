@@ -11,5 +11,33 @@
       "Known for roles in films like 'Star Wars: The Force Awakens', 'About Time', and 'Brooklyn'"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Brendan Gleeson",
+    "givenNames": [
+      "Brendan"
+    ],
+    "familyName": "Gleeson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Gleeson",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nominee for Best Actor in 'In Bruges'",
+      "Known for roles in films like 'The Guard', 'Harry Potter' series, '28 Days Later'"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Brian Gleeson",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Gleeson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Gleeson_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in TV series like 'Love/Hate', 'Peaky Blinders'",
+      "Brother of Domhnall Gleeson and son of Brendan Gleeson"
+    ],
+    "yearBorn": 1987
   }
 ]

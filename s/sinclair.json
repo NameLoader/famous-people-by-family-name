@@ -1,16 +1,63 @@
 [
   {
-    "fullName": "David Sinclair",
+    "fullName": "David A. Sinclair",
     "givenNames": [
       "David"
     ],
     "familyName": "Sinclair",
-    "wikipedia": "https://en.wikipedia.org/wiki/David_Sinclair_(biologist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_A._Sinclair",
     "occupation": "Geneticist, Researcher",
     "achievements": [
       "Leading research on aging and longevity",
       "Known for his work on sirtuins and their role in cellular health"
     ],
-    "yearBorn": 1967
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Henry Sinclair",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Sinclair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_I_Sinclair,_Earl_of_Orkney",
+    "occupation": "Scottish nobleman and explorer",
+    "achievements": [
+      "Alleged to have sailed to Nova Scotia in the late 14th century",
+      "His voyages are considered legendary by some historians"
+    ],
+    "yearBorn": 1345,
+    "yearDied": 1400
+  },
+  {
+    "fullName": "John Sinclair",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Sinclair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_John_Sinclair,_1st_Baronet",
+    "occupation": "Scottish statistician and political economist",
+    "achievements": [
+      "Pioneer in the field of statistical data collection and analysis",
+      "Authored important works on Scottish agriculture and economy"
+    ],
+    "yearBorn": 1754,
+    "yearDied": 1835
+  },
+  {
+    "fullName": "Upton Sinclair",
+    "givenNames": [
+      "Upton",
+      "Beall"
+    ],
+    "familyName": "Sinclair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Upton_Sinclair",
+    "occupation": "American author, journalist, and political activist",
+    "achievements": [
+      "Known for muckraking novels exposing social injustices",
+      "Author of 'The Jungle' which led to food safety reforms",
+      "Nominated for the Nobel Prize in Literature"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1968
   }
 ]

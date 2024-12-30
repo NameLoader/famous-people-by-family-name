@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Patrick Henry Pearse",
+    "givenNames": [
+      "Patrick",
+      "Henry"
+    ],
+    "familyName": "Pearse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Pearse",
+    "occupation": "Teacher, Poet, Barrister, Political Activist",
+    "achievements": [
+      "Leader of the Easter Rising in 1916",
+      "Prominent figure in the Irish Republican Brotherhood",
+      "Advocate for Irish language and culture"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "William Pearse",
+    "givenNames": [
+      "William",
+      "James"
+    ],
+    "familyName": "Pearse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Pearse",
+    "occupation": "Teacher, Soldier",
+    "achievements": [
+      "Participated in the Easter Rising alongside his brother Patrick",
+      "Served as a teacher at St. Enda's School"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1916
+  }
+]

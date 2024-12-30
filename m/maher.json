@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Bill Maher",
+    "givenNames": [
+      "Bill",
+      "William"
+    ],
+    "familyName": "Maher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Maher",
+    "occupation": "Comedian, political commentator, television host",
+    "achievements": [
+      "Host of HBO's Real Time with Bill Maher",
+      "Former host of Politically Incorrect",
+      "Stand-up comedian known for his satirical and politically charged humor"
+    ],
+    "yearBorn": 1956
+  }
+]

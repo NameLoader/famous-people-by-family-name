@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Sir Simon Fraser",
+    "givenNames": [
+      "Simon"
+    ],
+    "familyName": "Fraser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Fraser_(explorer)",
+    "occupation": "Explorer, fur trader",
+    "achievements": [
+      "Explored and mapped the Fraser River in British Columbia, Canada.",
+      "Led expeditions that opened up trade routes and influenced the development of the region."
+    ],
+    "yearBorn": 1776,
+    "yearDied": 1862
+  },
+  {
+    "fullName": "Malcolm Fraser",
+    "givenNames": [
+      "John",
+      "Malcolm"
+    ],
+    "familyName": "Fraser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Fraser",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Australia from 1975 to 1983.",
+      "Known for his conservative policies and leadership during a period of economic and social change."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Mike Fraser",
+    "givenNames": [
+      "Mike"
+    ],
+    "familyName": "Fraser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Fraser_(record_producer)",
+    "occupation": "Music producer, engineer",
+    "achievements": [
+      "Grammy-winning music producer known for his work with artists such as Aerosmith, AC/DC, and Van Halen.",
+      "Renowned for his technical expertise and ability to capture a raw and energetic sound."
+    ],
+    "yearBorn": 1956
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Allan Pinkerton",
+    "givenNames": [
+      "Allan"
+    ],
+    "familyName": "Pinkerton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Pinkerton",
+    "occupation": "Detective, spy",
+    "achievements": [
+      "Founded the Pinkerton National Detective Agency",
+      "Helped foil an assassination plot against President-elect Abraham Lincoln",
+      "Served as a spy for the Union Army during the Civil War"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1884
+  }
+]

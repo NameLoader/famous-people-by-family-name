@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Toland",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Toland",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Toland",
+    "occupation": "Philosopher, writer",
+    "achievements": [
+      "Wrote influential works on religion and philosophy",
+      "Advocate for religious toleration and free thought"
+    ],
+    "yearBorn": 1670,
+    "yearDied": 1722
+  }
+]

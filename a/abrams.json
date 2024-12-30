@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "J. J. Abrams",
+    "givenNames": [
+      "Jeffrey",
+      "Jacob"
+    ],
+    "familyName": "Abrams",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._J._Abrams",
+    "occupation": "Filmmaker, Writer, Producer",
+    "achievements": [
+      "Known for directing films such as Star Wars: The Force Awakens, Star Trek (2009), and Mission: Impossible III.",
+      "Created popular television series like Lost, Alias, and Fringe."
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Dan Abrams",
+    "givenNames": [
+      "Dan",
+      "Daniel"
+    ],
+    "familyName": "Abrams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Abrams",
+    "occupation": "Journalist, Television Host",
+    "achievements": [
+      "Hosts MSNBC's 'The Dan Abrams Show'.",
+      "Founder of the media company Mediaite.",
+      "Former Chief Legal Analyst for NBC News."
+    ],
+    "yearBorn": 1966
+  }
+]

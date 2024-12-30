@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Squire",
+    "givenNames": [
+      "John",
+      "Jonathan",
+      "Thomas"
+    ],
+    "familyName": "Squire",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Squire",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Guitarist and songwriter for the Stone Roses",
+      "Known for his distinctive guitar style"
+    ],
+    "yearBorn": 1962
+  }
+]

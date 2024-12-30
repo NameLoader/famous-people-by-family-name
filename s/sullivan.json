@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "John L. Sullivan",
+    "givenNames": [
+      "John",
+      "Lawrence"
+    ],
+    "familyName": "Sullivan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_L._Sullivan",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Last bare-knuckle boxing champion of the world.",
+      "Helped transition boxing from bare-knuckle to gloved fights."
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Arthur Sullivan",
+    "givenNames": [
+      "Arthur",
+      "Seymour"
+    ],
+    "familyName": "Sullivan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Sullivan",
+    "occupation": "Composer",
+    "achievements": [
+      "Collaborated with W.S. Gilbert to create the Savoy Operas.",
+      "Famous for operettas like 'The Pirates of Penzance' and 'H.M.S. Pinafore'."
+    ],
+    "yearBorn": 1842,
+    "yearDied": 1900
+  }
+]

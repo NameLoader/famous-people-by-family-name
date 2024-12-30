@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "William Howe",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Howe",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Howe,_5th_Viscount_Howe",
+    "occupation": "British Army General",
+    "achievements": [
+      "Commander-in-Chief of British forces during the American Revolutionary War",
+      "Known for his victories at Bunker Hill and Long Island"
+    ],
+    "yearBorn": 1729,
+    "yearDied": 1814
+  },
+  {
+    "fullName": "Richard Howe",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Howe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Howe,_1st_Earl_Howe",
+    "occupation": "British Admiral and Politician",
+    "achievements": [
+      "Served as First Lord of the Admiralty",
+      "Key figure in the British victory at the Battle of the Chesapeake during the American Revolution"
+    ],
+    "yearBorn": 1726,
+    "yearDied": 1799
+  }
+]

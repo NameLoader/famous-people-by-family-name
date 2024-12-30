@@ -17,7 +17,8 @@
   {
     "fullName": "Brian Quinn",
     "givenNames": [
-      "Brian"
+      "Brian",
+      "Michael"
     ],
     "familyName": "Quinn",
     "wikipedia": "https://en.wikipedia.org/wiki/Brian_Quinn_(comedian)",
@@ -27,5 +28,19 @@
       "Starred in the truTV series 'Impractical Jokers'"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Aidan Quinn",
+    "givenNames": [
+      "Aidan"
+    ],
+    "familyName": "Quinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aidan_Quinn",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for Academy Award for Best Supporting Actor in 'Desperately Seeking Susan'",
+      "Starred in films such as 'Benny & Joon', 'Legends of the Fall', and 'Practical Magic'"
+    ],
+    "yearBorn": 1958
   }
 ]

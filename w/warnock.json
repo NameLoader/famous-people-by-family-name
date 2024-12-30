@@ -2,7 +2,8 @@
   {
     "fullName": "Raphael Warnock",
     "givenNames": [
-      "Raphael"
+      "Raphael",
+      "Gamaliel"
     ],
     "familyName": "Warnock",
     "wikipedia": "https://en.wikipedia.org/wiki/Raphael_Warnock",
@@ -12,5 +13,20 @@
       "First African-American to represent Georgia in the U.S. Senate"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "John Warnock",
+    "givenNames": [
+      "John",
+      "Edward"
+    ],
+    "familyName": "Warnock",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Warnock",
+    "occupation": "Computer Scientist, Entrepreneur",
+    "achievements": [
+      "Co-founder of Adobe Systems",
+      "Developed PostScript, a page description language"
+    ],
+    "yearBorn": 1949
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Langdon",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Langdon",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Langdon_(politician)",
+    "occupation": "Politician, Signatory of the United States Constitution",
+    "achievements": [
+      "Served as a delegate to the Continental Congress",
+      "Signed the United States Constitution",
+      "Served as Governor of New Hampshire"
+    ],
+    "yearBorn": 1741,
+    "yearDied": 1819
+  }
+]

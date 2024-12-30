@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry Liddell",
+    "givenNames": [
+      "Henry",
+      "George"
+    ],
+    "familyName": "Liddell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Liddell",
+    "occupation": "Classical scholar, lexicographer",
+    "achievements": [
+      "Authored 'A Greek-English Lexicon', a comprehensive dictionary of Ancient Greek still widely used today"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1898
+  }
+]

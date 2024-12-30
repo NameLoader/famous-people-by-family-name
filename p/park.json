@@ -2,10 +2,10 @@
   {
     "fullName": "Park Chung-hee",
     "givenNames": [
-      "Chung"
+      "Chung-hee"
     ],
     "familyName": "Park",
-    "wikipedia": "https://en.wikipedia.org/wiki/Park_Chung-hee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Chung_Hee",
     "occupation": "Politician, President of South Korea",
     "achievements": [
       "Led South Korea through rapid economic growth (the 'Miracle on the Han River')",
@@ -14,5 +14,33 @@
     ],
     "yearBorn": 1917,
     "yearDied": 1979
+  },
+  {
+    "fullName": "Park Chan-wook",
+    "givenNames": [
+      "Chan-wook"
+    ],
+    "familyName": "Park",
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Chan-wook",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Known for his stylish and violent films, such as 'Oldboy'",
+      "Won the Grand Prix at the 2004 Cannes Film Festival for 'Oldboy'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Park Jimin",
+    "givenNames": [
+      "Ji-min"
+    ],
+    "familyName": "Park",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimin",
+    "occupation": "Singer, dancer, songwriter",
+    "achievements": [
+      "Member of the K-pop group BTS",
+      "Known for his dancing skills and vocal abilities"
+    ],
+    "yearBorn": 1995
   }
 ]

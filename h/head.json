@@ -2,7 +2,8 @@
   {
     "fullName": "Anthony Head",
     "givenNames": [
-      "Anthony"
+      "Anthony",
+      "Stewart"
     ],
     "familyName": "Head",
     "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Head",
@@ -12,5 +13,21 @@
       "Stage and film actor with a diverse career"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Roy Head",
+    "givenNames": [
+      "Roy",
+      "Kent"
+    ],
+    "familyName": "Head",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Head",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Known for his hit song 'Treat Me Right'",
+      "Influential figure in the Tex-Mex rock and roll scene"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2020
   }
 ]

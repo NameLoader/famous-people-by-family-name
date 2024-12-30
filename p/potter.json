@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Beatrix Potter",
+    "givenNames": [
+      "Beatrix"
+    ],
+    "familyName": "Potter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrix_Potter",
+    "occupation": "Author, illustrator",
+    "achievements": [
+      "Created beloved children's books featuring anthropomorphic animals such as Peter Rabbit and Squirrel Nutkin",
+      "Pioneer of the modern illustrated picture book"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Harry Potter",
+    "givenNames": [
+      "Harry",
+      "James"
+    ],
+    "familyName": "Potter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Potter_(character)",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of J.K. Rowling's bestselling Harry Potter fantasy series",
+      "Known for his bravery, loyalty, and struggle against evil"
+    ]
+  }
+]

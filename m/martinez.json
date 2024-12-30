@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Pedro Martinez",
+    "givenNames": [
+      "Pedro",
+      "Jaime"
+    ],
+    "familyName": "Martinez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Mart%C3%ADnez",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Three-time Cy Young Award winner",
+      "Inducted into the Baseball Hall of Fame"
+    ],
+    "yearBorn": 1971
+  }
+]

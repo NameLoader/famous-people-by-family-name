@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sean Spicer",
+    "givenNames": [
+      "Sean",
+      "Michael"
+    ],
+    "familyName": "Spicer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Spicer",
+    "occupation": "Political strategist, former White House Press Secretary",
+    "achievements": [
+      "Served as the White House Press Secretary under President Donald Trump",
+      "Previously held communications roles for the Republican National Committee and various political campaigns"
+    ],
+    "yearBorn": 1971
+  }
+]

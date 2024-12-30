@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Andrew Wiggins",
+    "givenNames": [
+      "Andrew",
+      "Christian"
+    ],
+    "familyName": "Wiggins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Wiggins",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (2022)",
+      "NBA All-Star (2014)",
+      "NBA Rookie of the Year (2015)"
+    ],
+    "yearBorn": 1995
+  }
+]

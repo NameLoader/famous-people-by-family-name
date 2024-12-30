@@ -2,7 +2,8 @@
   {
     "fullName": "Paul Keating",
     "givenNames": [
-      "Paul"
+      "Paul",
+      "John"
     ],
     "familyName": "Keating",
     "wikipedia": "https://en.wikipedia.org/wiki/Paul_Keating",
@@ -13,5 +14,20 @@
       "Prominent role in economic reforms during his tenure"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "Brian Keating",
+    "givenNames": [
+      "Brian",
+      "Gregory"
+    ],
+    "familyName": "Keating",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Keating",
+    "occupation": "Physicist",
+    "achievements": [
+      "Research on the cosmic microwave background radiation",
+      "Professor of Physics at UC San Diego"
+    ],
+    "yearBorn": 1973
   }
 ]

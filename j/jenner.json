@@ -2,7 +2,8 @@
   {
     "fullName": "Bruce Jenner",
     "givenNames": [
-      "Bruce"
+      "Caitlyn",
+      "Marie"
     ],
     "familyName": "Jenner",
     "wikipedia": "https://en.wikipedia.org/wiki/Caitlyn_Jenner",
@@ -16,7 +17,8 @@
   {
     "fullName": "Kendall Jenner",
     "givenNames": [
-      "Kendall"
+      "Kendall",
+      "Nicole"
     ],
     "familyName": "Jenner",
     "wikipedia": "https://en.wikipedia.org/wiki/Kendall_Jenner",
@@ -30,7 +32,8 @@
   {
     "fullName": "Kylie Jenner",
     "givenNames": [
-      "Kylie"
+      "Kylie",
+      "Kristen"
     ],
     "familyName": "Jenner",
     "wikipedia": "https://en.wikipedia.org/wiki/Kylie_Jenner",
@@ -40,5 +43,35 @@
       "One of the youngest self-made billionaires"
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Edward Jenner",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Jenner",
+    "occupation": "Physician and scientist",
+    "achievements": [
+      "Pioneer of the smallpox vaccine",
+      "Considered the 'father of immunology'"
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1823
+  },
+  {
+    "fullName": "Kris Jenner",
+    "givenNames": [
+      "Kristen",
+      "Mary"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kris_Jenner",
+    "occupation": "Television personality, businesswoman",
+    "achievements": [
+      "Matriarch of the Kardashian-Jenner family",
+      "Known for her role on the reality TV show 'Keeping Up with the Kardashians'"
+    ],
+    "yearBorn": 1955
   }
 ]

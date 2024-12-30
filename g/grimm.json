@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Jacob Grimm",
+    "givenNames": [
+      "Jacob",
+      "Ludwig",
+      "Karl"
+    ],
+    "familyName": "Grimm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Grimm",
+    "occupation": "Linguist, folklorist, jurist",
+    "achievements": [
+      "Co-author of Grimm's Fairy Tales",
+      "Pioneer in the field of Germanic philology",
+      "Created the Grimm's Law which describes sound changes in Proto-Germanic"
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1863
+  },
+  {
+    "fullName": "Wilhelm Grimm",
+    "givenNames": [
+      "Wilhelm",
+      "Carl"
+    ],
+    "familyName": "Grimm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Grimm",
+    "occupation": "Linguist, folklorist",
+    "achievements": [
+      "Co-author of Grimm's Fairy Tales",
+      "Contributed to the study of German language and literature"
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1859
+  }
+]

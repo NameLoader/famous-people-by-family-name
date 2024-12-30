@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Sherwood",
+    "givenNames": [
+      "Robert",
+      "Emmet"
+    ],
+    "familyName": "Sherwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Sherwood",
+    "occupation": "Playwright, screenwriter",
+    "achievements": [
+      "Pulitzer Prize for Drama (twice)",
+      "Academy Award for Best Original Screenplay"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1955
+  }
+]

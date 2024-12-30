@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Evelyn Waugh",
+    "givenNames": [
+      "Evelyn",
+      "Arthur",
+      "St. John"
+    ],
+    "familyName": "Waugh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Waugh",
+    "occupation": "Novelist, essayist, biographer",
+    "achievements": [
+      "Known for satirical novels like 'Brideshead Revisited' and 'Decline and Fall'",
+      "Considered one of the foremost British writers of the 20th century"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "Auberon Waugh",
+    "givenNames": [
+      "Auberon",
+      "Alexander"
+    ],
+    "familyName": "Waugh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Auberon_Waugh",
+    "occupation": "Journalist, writer, novelist, satirist",
+    "achievements": [
+      "Known for his sharp wit and controversial columns in publications like 'The Spectator'",
+      "Published novels and short stories with a focus on social satire"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2001
+  }
+]

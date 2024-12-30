@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Howard Ashman",
+    "givenNames": [
+      "Howard",
+      "Elliott"
+    ],
+    "familyName": "Ashman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Ashman",
+    "occupation": "Lyricist, playwright",
+    "achievements": [
+      "Wrote the lyrics for Disney animated films like 'The Little Mermaid', 'Beauty and the Beast' and 'Aladdin'",
+      "Won two Academy Awards (Best Original Song) for 'Beauty and the Beast'"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 1991
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Sean McDermott",
+    "givenNames": [
+      "Sean",
+      "Michael"
+    ],
+    "familyName": "McDermott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_McDermott",
+    "occupation": "American football coach",
+    "achievements": [
+      "Head Coach of the Buffalo Bills"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "John McDermott",
+    "givenNames": [
+      "John",
+      "Charles"
+    ],
+    "familyName": "McDermott",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McDermott_(singer)",
+    "occupation": "Canadian singer and songwriter",
+    "achievements": [
+      "Known for performing traditional Irish music"
+    ]
+  }
+]

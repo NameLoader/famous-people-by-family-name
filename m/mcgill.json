@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "James McGill",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "McGill",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_McGill",
+    "occupation": "Merchant, Philanthropist",
+    "achievements": [
+      "Founded McGill University in Montreal, Canada"
+    ],
+    "yearBorn": 1744,
+    "yearDied": 1813
+  }
+]

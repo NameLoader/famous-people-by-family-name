@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Leander Stanford",
+    "givenNames": [
+      "Amasa",
+      "Leland"
+    ],
+    "familyName": "Stanford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leland_Stanford",
+    "occupation": "Politician, businessman",
+    "achievements": [
+      "Governor of California (1861-1862)",
+      "Co-founder of the Central Pacific Railroad and the Southern Pacific Railroad",
+      "Founder of Stanford University"
+    ],
+    "yearBorn": 1824,
+    "yearDied": 1893
+  },
+  {
+    "fullName": "Jane Stanford",
+    "givenNames": [
+      "Jane",
+      "Elizabeth",
+      "Lathrop"
+    ],
+    "familyName": "Stanford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Stanford",
+    "occupation": "Philanthropist",
+    "achievements": [
+      "Co-founder of Stanford University with her husband Leland Stanford",
+      "Advocate for women's education"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1905
+  }
+]

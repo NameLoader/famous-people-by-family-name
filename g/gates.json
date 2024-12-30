@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Bill Gates",
+    "givenNames": [
+      "William",
+      "Henry"
+    ],
+    "familyName": "Gates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Gates",
+    "occupation": "Entrepreneur, Business Magnate, Philanthropist",
+    "achievements": [
+      "Co-founder of Microsoft",
+      "Philanthropic work through the Bill & Melinda Gates Foundation"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Melinda French Gates",
+    "givenNames": [
+      "Melinda",
+      "French"
+    ],
+    "familyName": "Gates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melinda_French_Gates",
+    "occupation": "Philanthropist, Former Computer Scientist",
+    "achievements": [
+      "Co-founder of the Bill & Melinda Gates Foundation",
+      "Advocacy for global health and development issues"
+    ],
+    "yearBorn": 1964
+  }
+]

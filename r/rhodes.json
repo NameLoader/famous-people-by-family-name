@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Cecil Rhodes",
+    "givenNames": [
+      "Cecil",
+      "John"
+    ],
+    "familyName": "Rhodes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Rhodes",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Founder of the De Beers diamond company",
+      "Prime Minister of the Cape Colony",
+      "Advocate for British colonialism in Africa"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1902
+  }
+]

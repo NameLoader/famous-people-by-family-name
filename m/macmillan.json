@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Harold Macmillan",
+    "givenNames": [
+      "Harold"
+    ],
+    "familyName": "Macmillan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Macmillan",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom (1957-1963)",
+      "Led the Conservative Party to victory in the 1959 general election",
+      "Oversaw decolonization and economic growth during his tenure"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1986
+  }
+]

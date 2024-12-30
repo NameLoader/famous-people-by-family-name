@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Glenn McGrath",
+    "givenNames": [
+      "Glenn",
+      "Donald"
+    ],
+    "familyName": "McGrath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_McGrath",
+    "occupation": "Cricketer",
+    "achievements": [
+      "Widely regarded as one of the greatest fast bowlers of all time.",
+      "Took 563 Test wickets for Australia."
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Patrick McGrath",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "McGrath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_McGrath_(novelist)",
+    "occupation": "Novelist",
+    "achievements": [
+      "Known for his unsettling psychological thrillers.",
+      "Published novels such as 'The Asylum' and 'Spider'."
+    ],
+    "yearBorn": 1950
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Varley",
+    "givenNames": [
+      "John",
+      "Herbert"
+    ],
+    "familyName": "Varley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Varley_(author)",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "Hugo Award winner",
+      "Known for his cyberpunk and hard science fiction works"
+    ],
+    "yearBorn": 1947
+  }
+]

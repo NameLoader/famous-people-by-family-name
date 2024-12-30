@@ -1,16 +1,33 @@
 [
   {
-    "fullName": "Sally Hemings",
+    "fullName": "Thomas Jefferson",
     "givenNames": [
-      "Sally"
+      "Thomas"
     ],
     "familyName": "Jefferson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Hemings",
-    "occupation": "Enslaved woman at Monticello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+    "occupation": "Politician, Founding Father, Writer",
     "achievements": [
-      "Had a long-term relationship with Thomas Jefferson, resulting in children"
+      "Principal author of the Declaration of Independence",
+      "Third President of the United States",
+      "Founder of the University of Virginia"
     ],
-    "yearBorn": 1773,
-    "yearDied": 1835
+    "yearBorn": 1743,
+    "yearDied": 1826
+  },
+  {
+    "fullName": "Peter Jefferson",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Jefferson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Jefferson",
+    "occupation": "Planter, Surveyor",
+    "achievements": [
+      "Father of Thomas Jefferson",
+      "Surveyor of the Albemarle County, Virginia"
+    ],
+    "yearBorn": 1708,
+    "yearDied": 1757
   }
 ]

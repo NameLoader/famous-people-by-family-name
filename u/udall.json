@@ -2,7 +2,8 @@
   {
     "fullName": "Stewart Udall",
     "givenNames": [
-      "Stewart"
+      "Stewart",
+      "Lee"
     ],
     "familyName": "Udall",
     "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Udall",
@@ -13,5 +14,37 @@
     ],
     "yearBorn": 1920,
     "yearDied": 2007
+  },
+  {
+    "fullName": "Morris Udall",
+    "givenNames": [
+      "Morris",
+      "King"
+    ],
+    "familyName": "Udall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mo_Udall",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative from Arizona (1961-1991)",
+      "Candidate for the Democratic presidential nomination in 1976",
+      "Known for his wit and liberal views"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Mark Udall",
+    "givenNames": [
+      "Mark",
+      "Emery"
+    ],
+    "familyName": "Udall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Udall",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative from Colorado (1999-2009)",
+      "U.S. Senator from Colorado (2009-2015)"
+    ],
+    "yearBorn": 1950
   }
 ]

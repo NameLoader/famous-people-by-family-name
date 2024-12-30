@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jeremy Grantham",
+    "givenNames": [
+      "Jeremy",
+      "Robert"
+    ],
+    "familyName": "Grantham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Grantham",
+    "occupation": "Investment Manager",
+    "achievements": [
+      "Co-founder of the investment firm GMO",
+      "Known for his cyclical market analysis and long-term investing strategies"
+    ],
+    "yearBorn": 1938
+  }
+]

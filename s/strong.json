@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Jeremy Strong",
+    "givenNames": [
+      "Jeremy"
+    ],
+    "familyName": "Strong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Strong",
+    "occupation": "Actor",
+    "achievements": [
+      "Won a Primetime Emmy Award for his role as Kendall Roy in the HBO series 'Succession'."
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Roy Strong",
+    "givenNames": [
+      "Roy",
+      "Colin"
+    ],
+    "familyName": "Strong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Strong",
+    "occupation": "Historian, Museum curator, Writer",
+    "achievements": [
+      "Served as Director of the Victoria and Albert Museum.",
+      "Authored numerous books on art history and design."
+    ],
+    "yearBorn": 1935
+  }
+]

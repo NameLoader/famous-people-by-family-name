@@ -2,7 +2,8 @@
   {
     "fullName": "Sean Penn",
     "givenNames": [
-      "Sean"
+      "Sean",
+      "Justin"
     ],
     "familyName": "Penn",
     "wikipedia": "https://en.wikipedia.org/wiki/Sean_Penn",
@@ -13,5 +14,35 @@
       "Known for films like 'Dead Man Walking', 'Mystic River', and 'Milk'"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "William Penn",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Penn",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Penn",
+    "occupation": "Founder of Pennsylvania, Philosopher, Writer",
+    "achievements": [
+      "Founded the colony of Pennsylvania based on principles of religious tolerance and fair dealing with Native Americans",
+      "Wrote influential works on Quaker theology and political philosophy"
+    ],
+    "yearBorn": 1644,
+    "yearDied": 1718
+  },
+  {
+    "fullName": "Arthur Penn",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Penn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Penn",
+    "occupation": "Film Director, Theatre Director",
+    "achievements": [
+      "Directed critically acclaimed films such as 'Bonnie and Clyde' (1967), 'Little Big Man' (1970), and 'Night Moves' (1975)",
+      "Won a Tony Award for directing the play 'The Miracle Worker'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2010
   }
 ]

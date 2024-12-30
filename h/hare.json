@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Thomas Hare",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Hare",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hare_(political_scientist)",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Developed the Hare System for proportional representation voting"
+    ],
+    "yearBorn": 1806,
+    "yearDied": 1891
+  }
+]

@@ -1,17 +1,34 @@
 [
   {
-    "fullName": "William Ramsey",
+    "fullName": "Frank Ramsey",
     "givenNames": [
-      "William"
+      "Frank",
+      "Plumpton"
     ],
     "familyName": "Ramsey",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sir_William_Ramsay",
-    "occupation": "Chemist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician)",
+    "occupation": "Economist, Philosopher, Mathematician",
     "achievements": [
-      "Discoverer of noble gases (Helium, Neon, Argon)",
-      "Nobel Prize in Chemistry (1904)"
+      "Made significant contributions to game theory and decision theory",
+      "His work on truth and provability laid the groundwork for modern logic and philosophy of mathematics",
+      "Known for his brilliance and early death at age 26"
     ],
-    "yearBorn": 1852,
-    "yearDied": 1916
+    "yearBorn": 1903,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Allan Ramsey",
+    "givenNames": [
+      "Allan"
+    ],
+    "familyName": "Ramsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Ramsay_(poet)",
+    "occupation": "Scottish poet and playwright",
+    "achievements": [
+      "Known for his witty and satirical verse",
+      "Contributed to the development of Scottish theatre"
+    ],
+    "yearBorn": 1686,
+    "yearDied": 1744
   }
 ]

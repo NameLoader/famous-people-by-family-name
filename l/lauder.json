@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Estée Lauder",
+    "givenNames": [
+      "Estée",
+      "Josephine",
+      "Esther"
+    ],
+    "familyName": "Lauder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Est%C3%A9e_Lauder_(businesswoman)",
+    "occupation": "Businesswoman, Founder of Estée Lauder Companies",
+    "achievements": [
+      "Created one of the world's leading cosmetics companies",
+      "Pioneered innovative marketing and product development techniques"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Leonard Lauder",
+    "givenNames": [
+      "Leonard",
+      "Alan"
+    ],
+    "familyName": "Lauder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Lauder",
+    "occupation": "Businessman, Philanthropist",
+    "achievements": [
+      "Chairman Emeritus of the Estée Lauder Companies",
+      "Major art collector and philanthropist, particularly in the field of Cubism"
+    ],
+    "yearBorn": 1933
+  }
+]

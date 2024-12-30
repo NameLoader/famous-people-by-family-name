@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Gaunt, 1st Duke of Lancaster",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Gaunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+    "occupation": "Royal, Duke",
+    "achievements": [
+      "Major figure in the Hundred Years' War",
+      "Founder of the House of Lancaster",
+      "Grandfather of King Henry V"
+    ],
+    "yearBorn": 1340,
+    "yearDied": 1399
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "William Tecumseh Sherman",
+    "givenNames": [
+      "William",
+      "Tecumseh"
+    ],
+    "familyName": "Sherman",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman",
+    "occupation": "Union General during the American Civil War",
+    "achievements": [
+      "Led the March to the Sea",
+      "Key figure in the Union victory in the Civil War"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "John Sherman",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Sherman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sherman",
+    "occupation": "US Senator and Secretary of the Treasury",
+    "achievements": [
+      "Co-authored the Sherman Antitrust Act",
+      "Played a key role in passing the McKinley Tariff"
+    ],
+    "yearBorn": 1823,
+    "yearDied": 1900
+  },
+  {
+    "fullName": "Richard Sherman",
+    "givenNames": [
+      "Richard",
+      "Kevin"
+    ],
+    "familyName": "Sherman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Sherman_(American_football)",
+    "occupation": "NFL cornerback",
+    "achievements": [
+      "5x Pro Bowl selection",
+      "Super Bowl XLVIII champion with the Seattle Seahawks"
+    ],
+    "yearBorn": 1988
+  }
+]

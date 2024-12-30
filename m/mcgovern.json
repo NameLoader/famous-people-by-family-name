@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "George McGovern",
+    "givenNames": [
+      "George",
+      "Stanley"
+    ],
+    "familyName": "McGovern",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_McGovern",
+    "occupation": "Politician, Historian, Author",
+    "achievements": [
+      "Served as a U.S. Representative and Senator from South Dakota",
+      "Democratic Party nominee for President in 1972",
+      "Advocate for social justice and ending the Vietnam War"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2012
+  }
+]

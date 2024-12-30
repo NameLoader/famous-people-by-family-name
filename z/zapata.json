@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Emiliano Zapata",
+    "givenNames": [
+      "Emiliano"
+    ],
+    "familyName": "Zapata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emiliano_Zapata",
+    "occupation": "Mexican revolutionary general and agrarian reformer",
+    "achievements": [
+      "Led the Zapatista movement during the Mexican Revolution",
+      "Fought for land reform and social justice for peasants",
+      "Became a symbol of resistance against oppression and inequality in Mexico"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1919
+  }
+]

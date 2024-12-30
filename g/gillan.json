@@ -13,5 +13,19 @@
       "Inducted into the Rock and Roll Hall of Fame"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Karen Gillan",
+    "givenNames": [
+      "Karen",
+      "Sheila"
+    ],
+    "familyName": "Gillan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Gillan",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Doctor Who, Guardians of the Galaxy, Jumanji"
+    ],
+    "yearBorn": 1987
   }
 ]

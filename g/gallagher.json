@@ -2,7 +2,9 @@
   {
     "fullName": "Noel Gallagher",
     "givenNames": [
-      "Noel"
+      "Noel",
+      "Thomas",
+      "David"
     ],
     "familyName": "Gallagher",
     "wikipedia": "https://en.wikipedia.org/wiki/Noel_Gallagher",
@@ -12,5 +14,18 @@
       "Continued musical success with his own band, Noel Gallagher's High Flying Birds"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Liam Gallagher",
+    "givenNames": [
+      "Liam"
+    ],
+    "familyName": "Gallagher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liam_Gallagher",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead singer of the bands Oasis and Beady Eye"
+    ],
+    "yearBorn": 1972
   }
 ]

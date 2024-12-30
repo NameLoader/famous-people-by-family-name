@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Eugene Field",
+    "givenNames": [
+      "Eugene"
+    ],
+    "familyName": "Field",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Field",
+    "occupation": "Poet, Journalist",
+    "achievements": [
+      "Known for his whimsical poems for children.",
+      "Wrote popular works like 'Wynken, Blynken, and Nod'"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1895
+  },
+  {
+    "fullName": "Sally Field",
+    "givenNames": [
+      "Sally",
+      "Margaret"
+    ],
+    "familyName": "Field",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Field",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Won two Academy Awards for her performances in 'Norma Rae' and 'Places in the Heart'",
+      "Known for roles in films like 'Steel Magnolias'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "John Field",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Field",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Field_(composer)",
+    "occupation": "Composer, Pianist",
+    "achievements": [
+      "Known for his nocturnes, a genre he is credited with inventing.",
+      "Influenced composers like Chopin and Liszt."
+    ],
+    "yearBorn": 1782,
+    "yearDied": 1837
+  }
+]

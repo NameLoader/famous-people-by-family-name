@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arthur Edward Waite",
+    "givenNames": [
+      "Arthur",
+      "Edward"
+    ],
+    "familyName": "Waite",
+    "wikipedia": "https://en.wikipedia.org/wiki/A._E._Waite",
+    "occupation": "Occultist, writer",
+    "achievements": [
+      "Co-creator of the Rider-Waite tarot deck",
+      "Prolific writer on occultism and esoteric subjects"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1942
+  }
+]

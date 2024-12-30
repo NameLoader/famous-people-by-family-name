@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "James Hutton",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Hutton",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Hutton",
+    "occupation": "Geologist",
+    "achievements": [
+      "Considered the 'Father of Modern Geology'",
+      "Developed the concept of uniformitarianism"
+    ],
+    "yearBorn": 1726,
+    "yearDied": 1797
+  },
+  {
+    "fullName": "John Hutton",
+    "givenNames": [
+      "John",
+      "Matthew",
+      "Patrick"
+    ],
+    "familyName": "Hutton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hutton,_Baron_Hutton_of_Furness",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Defence Secretary of the United Kingdom (2006-2009)",
+      "Member of Parliament for Henley-on-Thames (1997-2010)"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Lauren Hutton",
+    "givenNames": [
+      "Lauren",
+      "Mary Laurence"
+    ],
+    "familyName": "Hutton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lauren_Hutton",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "One of the first supermodels",
+      "Known for her gap-toothed smile and androgynous look"
+    ],
+    "yearBorn": 1943
+  }
+]

@@ -13,5 +13,38 @@
     ],
     "yearBorn": 1734,
     "yearDied": 1820
+  },
+  {
+    "fullName": "Pat Boone",
+    "givenNames": [
+      "Patrick",
+      "Charles",
+      "Eugene"
+    ],
+    "familyName": "Boone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pat_Boone",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "Sold over 45 million records worldwide",
+      "Known for popularizing clean-cut image in the early rock and roll era",
+      "Successful acting career, notably in films like 'Journey to Shiloh'"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Richard Boone",
+    "givenNames": [
+      "Richard",
+      "Allen"
+    ],
+    "familyName": "Boone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Boone",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in Westerns and gritty dramas like 'Have Gun – Will Travel'",
+      "Received Emmy Award nominations for his performances"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1981
   }
 ]

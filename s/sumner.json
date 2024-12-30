@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Sumner",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Sumner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sumner",
+    "occupation": "Politician, Senator",
+    "achievements": [
+      "Abolitionist leader",
+      "Key figure in the passage of Reconstruction Amendments",
+      "Advocate for civil rights and equality"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1874
+  }
+]

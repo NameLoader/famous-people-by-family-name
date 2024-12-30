@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Joan Rivers",
+    "givenNames": [
+      "Joan",
+      "Alexandra"
+    ],
+    "familyName": "Rivers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Rivers",
+    "occupation": "Comedian, actress, writer, producer, television host",
+    "achievements": [
+      "First woman to host a late-night talk show on a major network",
+      "Won a Grammy Award for Best Spoken Word Album",
+      "Nominated for multiple Emmy Awards"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Melissa Rivers",
+    "givenNames": [
+      "Melissa"
+    ],
+    "familyName": "Rivers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melissa_Rivers",
+    "occupation": "Television personality, producer, actress, author",
+    "achievements": [
+      "Hosted several television shows, including 'Fashion Police'",
+      "Produced documentaries and television specials",
+      "Authored several books"
+    ],
+    "yearBorn": 1968
+  }
+]

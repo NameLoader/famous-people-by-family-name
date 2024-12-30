@@ -1,19 +1,18 @@
 [
   {
-    "fullName": "Roberto Clemente",
+    "fullName": "Pedro de Alvarado",
     "givenNames": [
-      "Roberto"
+      "Pedro",
+      "de"
     ],
     "familyName": "Alvarado",
-    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Clemente",
-    "occupation": "Baseball player",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_de_Alvarado",
+    "occupation": "Spanish conquistador",
     "achievements": [
-      "Hall of Famer",
-      "World Series champion",
-      "Won 12 Gold Glove Awards",
-      "Known for his humanitarian work"
+      "Conquest of Guatemala and El Salvador",
+      "Founding of several cities in Central America"
     ],
-    "yearBorn": 1934,
-    "yearDied": 1972
+    "yearBorn": 1485,
+    "yearDied": 1541
   }
 ]
