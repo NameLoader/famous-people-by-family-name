@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Wayne",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wayne",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Three Stars on the Hollywood Walk of Fame",
+      "American Film Institute's list of the top 10 male stars in American cinema history"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1979
+  }
+]

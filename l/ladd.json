@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alan Ladd",
+    "givenNames": [
+      "Alan",
+      "Walbridge"
+    ],
+    "familyName": "Ladd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Ladd",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in film noir classics like 'This Gun for Hire' and 'The Blue Dahlia'",
+      "Nominated for an Academy Award for Best Actor"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Cheryl Ladd",
+    "givenNames": [
+      "Cheryl"
+    ],
+    "familyName": "Ladd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheryl_Ladd",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Kris Munroe in the television series 'Charlie's Angels'",
+      "Appeared in numerous films and television shows"
+    ],
+    "yearBorn": 1951
+  }
+]

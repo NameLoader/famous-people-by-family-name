@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Philip Glass",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Glass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Glass",
+    "occupation": "Composer",
+    "achievements": [
+      "Minimalist composer",
+      "Opera composer",
+      "Film score composer (e.g., Koyaanisqatsi, The Hours)"
+    ],
+    "yearBorn": 1937
+  }
+]

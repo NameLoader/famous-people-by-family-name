@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Amanda Gorman",
+    "givenNames": [
+      "Amanda",
+      "S.",
+      "C."
+    ],
+    "familyName": "Gorman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Gorman",
+    "occupation": "Poet, Activist",
+    "achievements": [
+      "First National Youth Poet Laureate",
+      "Recited her poem \"The Hill We Climb\" at the inauguration of Joe Biden",
+      "Published collections of poetry including \"The One\""
+    ],
+    "yearBorn": 1998
+  },
+  {
+    "fullName": "James Gorman",
+    "givenNames": [
+      "James",
+      "Patrick"
+    ],
+    "familyName": "Gorman",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_P._Gorman",
+    "occupation": "Business Executive",
+    "achievements": [
+      "Chairman and CEO of Morgan Stanley"
+    ],
+    "yearBorn": 1958
+  }
+]

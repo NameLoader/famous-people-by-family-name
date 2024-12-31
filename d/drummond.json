@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1585,
     "yearDied": 1649
+  },
+  {
+    "fullName": "Thomas Drummond",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Drummond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Drummond",
+    "occupation": "Royal Engineer",
+    "achievements": [
+      "Known for inventing the Drummond light, an early form of limelight.",
+      "Contributed to advancements in military engineering."
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1840
   }
 ]

@@ -2,6 +2,7 @@
   {
     "fullName": "Dakota Fanning",
     "givenNames": [
+      "Hannah",
       "Dakota"
     ],
     "familyName": "Fanning",
@@ -11,5 +12,20 @@
       "Known for roles in films like \"I Am Sam\", \"Man on Fire\", and \"War of the Worlds\"."
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Elle Fanning",
+    "givenNames": [
+      "Mary",
+      "Elle"
+    ],
+    "familyName": "Fanning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elle_Fanning",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the film 'Super 8' directed by J.J. Abrams",
+      "Known for roles in films like 'Maleficent' and 'The Neon Demon'"
+    ],
+    "yearBorn": 1998
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Cannonball Adderley",
+    "givenNames": [
+      "Julian",
+      "Edwin"
+    ],
+    "familyName": "Adderley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cannonball_Adderley",
+    "occupation": "Jazz saxophonist and bandleader",
+    "achievements": [
+      "Pioneer of hard bop and soul jazz styles",
+      "Won Grammy Awards for his albums 'Mercy, Mercy, Mercy!' and 'The Cannonball Adderley Quintet in Chicago'",
+      "Collaborated with renowned musicians like Miles Davis and Nancy Wilson"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1975
+  }
+]

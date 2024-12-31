@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Patrick Cockburn",
+    "givenNames": [
+      "Patrick",
+      "Oliver"
+    ],
+    "familyName": "Cockburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Cockburn",
+    "occupation": "Journalist and author",
+    "achievements": [
+      "Middle East correspondent for The Independent",
+      "Author of several books on the Middle East",
+      "Winner of numerous awards for journalism"
+    ],
+    "yearBorn": 1950
+  }
+]

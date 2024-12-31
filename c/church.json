@@ -1,17 +1,18 @@
 [
   {
-    "fullName": "Willard Scott Church",
+    "fullName": "Robert Church",
     "givenNames": [
-      "Willard",
-      "Scott"
+      "Robert",
+      "Reed"
     ],
     "familyName": "Church",
-    "wikipedia": "https://en.wikipedia.org/wiki/Willard_Scott",
-    "occupation": "Broadcast Meteorologist, Television Personality",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Reed_Church",
+    "occupation": "Businessman, Philanthropist",
     "achievements": [
-      "Long-time weatherman on the 'Today Show'",
-      "Known for his colorful personality and reporting style"
+      "Prominent African American businessman and philanthropist in Memphis, Tennessee.",
+      "Founded the first black-owned bank in Memphis and supported numerous community organizations."
     ],
-    "yearBorn": 1934
+    "yearBorn": 1839,
+    "yearDied": 1917
   }
 ]

@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "George Hale",
+    "givenNames": [
+      "George",
+      "Ellery"
+    ],
+    "familyName": "Hale",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Ellery_Hale",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Developed the spectroheliograph for observing the Sun's surface",
+      "Director of Mount Wilson Observatory"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1938
+  },
+  {
+    "fullName": "Edward Everett Hale",
+    "givenNames": [
+      "Edward",
+      "Everett"
+    ],
+    "familyName": "Hale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Everett_Hale",
+    "occupation": "Author, Unitarian minister",
+    "achievements": [
+      "Wrote the short story 'The Man Without a Country'",
+      "Advocated for social reform and abolitionism"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1909
+  },
+  {
+    "fullName": "Nathan Hale",
+    "givenNames": [
+      "Nathan"
+    ],
+    "familyName": "Hale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Hale",
+    "occupation": "Soldier, Spy",
+    "achievements": [
+      "American Revolutionary War hero",
+      "Executed by the British for espionage"
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1776
+  },
+  {
+    "fullName": "Brenda Hale",
+    "givenNames": [
+      "Brenda",
+      "Marjorie"
+    ],
+    "familyName": "Hale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Hale,_Baroness_Hale_of_Richmond",
+    "occupation": "Judge, Law professor",
+    "achievements": [
+      "First female president of the Supreme Court of the United Kingdom"
+    ],
+    "yearBorn": 1945
+  }
+]

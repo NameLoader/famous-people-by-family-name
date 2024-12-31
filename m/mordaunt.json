@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Charles Mordaunt",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Mordaunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Mordaunt,_3rd_Earl_of_Peterborough",
+    "occupation": "Politician, Nobleman",
+    "achievements": [
+      "Inherited the Earldom of Peterborough from his father",
+      "Served as Lord Lieutenant of Northamptonshire"
+    ],
+    "yearBorn": 1658,
+    "yearDied": 1735
+  },
+  {
+    "fullName": "Henry Mordaunt",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Mordaunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Mordaunt,_2nd_Earl_of_Peterborough",
+    "occupation": "Politician, Nobleman",
+    "achievements": [
+      "Served as a Member of Parliament and Privy Councillor",
+      "Became the second Earl of Peterborough after his father's death"
+    ],
+    "yearBorn": 1623,
+    "yearDied": 1697
+  }
+]

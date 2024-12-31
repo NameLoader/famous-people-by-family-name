@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John McLoughlin",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McLoughlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McLoughlin",
+    "occupation": "Fur trader and Chief Factor of the Columbia Department for the Hudson's Bay Company.",
+    "achievements": [
+      "Established Fort Vancouver as a major trading post.",
+      "Played a crucial role in the development of the Oregon Country.",
+      "Known for his diplomatic skills and humanitarian efforts towards Native Americans."
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1857
+  }
+]

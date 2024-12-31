@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Frederick Cottrell",
+    "givenNames": [
+      "Frederick",
+      "Gardner"
+    ],
+    "familyName": "Cottrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Gardner_Cottrell",
+    "occupation": "Chemist, inventor",
+    "achievements": [
+      "Developed the Cottrell process for removing dust from industrial gases.",
+      "Pioneer in electrochemistry and colloidal chemistry.",
+      "Founded the Electrochemical Society."
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1948
+  }
+]

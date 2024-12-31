@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Albert Sabin",
+    "givenNames": [
+      "Albert",
+      "Bruce"
+    ],
+    "familyName": "Sabin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Sabin",
+    "occupation": "Polish-American medical researcher and virologist",
+    "achievements": [
+      "Developed the oral polio vaccine, which played a crucial role in eradicating polio worldwide."
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1993
+  }
+]

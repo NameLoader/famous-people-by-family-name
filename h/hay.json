@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Hay",
+    "givenNames": [
+      "John",
+      "Milton"
+    ],
+    "familyName": "Hay",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hay",
+    "occupation": "Diplomat, Politician",
+    "achievements": [
+      "Served as Secretary of State under Presidents McKinley and Roosevelt",
+      "Key figure in shaping US foreign policy during the early 20th century"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1905
+  }
+]

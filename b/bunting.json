@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Bunting",
+    "givenNames": [
+      "John",
+      "Justin"
+    ],
+    "familyName": "Bunting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Snowtown_murders",
+    "occupation": "Convicted Murderer",
+    "achievements": [
+      "Part of the infamous 'Snowtown murders' in Australia."
+    ],
+    "yearBorn": 1966
+  }
+]

@@ -2,7 +2,8 @@
   {
     "fullName": "Frank McCourt",
     "givenNames": [
-      "Frank"
+      "Frank",
+      "Francis"
     ],
     "familyName": "McCourt",
     "wikipedia": "https://en.wikipedia.org/wiki/Frank_McCourt",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1930,
     "yearDied": 2009
+  },
+  {
+    "fullName": "Malachy McCourt",
+    "givenNames": [
+      "Malachy",
+      "Gerard"
+    ],
+    "familyName": "McCourt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malachy_McCourt",
+    "occupation": "Writer, Actor, Politician",
+    "achievements": [
+      "Author of several memoirs and novels",
+      "Active in New York City politics"
+    ],
+    "yearBorn": 1931
   }
 ]

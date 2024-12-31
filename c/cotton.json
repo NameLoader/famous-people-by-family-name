@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Cotton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Cotton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Cotton_(minister)",
+    "occupation": "Puritan minister",
+    "achievements": [
+      "Influential Puritan theologian",
+      "Leader of the Massachusetts Bay Colony"
+    ],
+    "yearBorn": 1584,
+    "yearDied": 1652
+  }
+]

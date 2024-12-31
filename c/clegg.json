@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Nick Clegg",
+    "givenNames": [
+      "Nicholas",
+      "William",
+      "Peter"
+    ],
+    "familyName": "Clegg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Clegg",
+    "occupation": "Politician",
+    "achievements": [
+      "Deputy Prime Minister of the United Kingdom (2010-2015)",
+      "Leader of the Liberal Democrats (2007-2015)"
+    ],
+    "yearBorn": 1967
+  }
+]

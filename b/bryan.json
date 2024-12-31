@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Jennings Bryan",
+    "givenNames": [
+      "William",
+      "Jennings"
+    ],
+    "familyName": "Bryan",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Jennings_Bryan",
+    "occupation": "Politician, orator",
+    "achievements": [
+      "Three-time Democratic nominee for President of the United States",
+      "Prominent figure in the Populist movement",
+      "Known for his eloquent speeches and passionate defense of populist causes"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1925
+  }
+]

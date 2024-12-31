@@ -2,7 +2,7 @@
   {
     "fullName": "Katherine Cornell",
     "givenNames": [
-      "Katherine"
+      "Katharine"
     ],
     "familyName": "Cornell",
     "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Cornell",
@@ -14,5 +14,36 @@
     ],
     "yearBorn": 1893,
     "yearDied": 1974
+  },
+  {
+    "fullName": "Ezra Cornell",
+    "givenNames": [
+      "Ezra"
+    ],
+    "familyName": "Cornell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Cornell",
+    "occupation": "Businessman, Philanthropist",
+    "achievements": [
+      "Co-founder of Cornell University",
+      "Pioneer in the telegraph industry"
+    ],
+    "yearBorn": 1807,
+    "yearDied": 1874
+  },
+  {
+    "fullName": "Chris Cornell",
+    "givenNames": [
+      "Christopher",
+      "John"
+    ],
+    "familyName": "Cornell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Cornell",
+    "occupation": "Singer, Songwriter, Musician",
+    "achievements": [
+      "Lead vocalist of Soundgarden and Audioslave",
+      "Highly influential figure in the grunge and alternative rock movements"
+    ],
+    "yearBorn": 1964,
+    "yearDied": 2017
   }
 ]

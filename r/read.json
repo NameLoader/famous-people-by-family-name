@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir George Read",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Read",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Read_(American_politician,_born_1733)",
+    "occupation": "Politician, Jurist",
+    "achievements": [
+      "Signer of the Declaration of Independence for Delaware",
+      "Served as Chief Justice of the Delaware Supreme Court"
+    ],
+    "yearBorn": 1733,
+    "yearDied": 1798
+  }
+]

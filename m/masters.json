@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Masters",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Masters",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Masters",
+    "occupation": "Novelist and writer",
+    "achievements": [
+      "Author of historical novels set in India",
+      "Known for his vivid depictions of Indian culture and history"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1983
+  }
+]

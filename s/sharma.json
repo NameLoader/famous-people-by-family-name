@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alok Sharma",
+    "givenNames": [
+      "Alok",
+      "Kumar"
+    ],
+    "familyName": "Sharma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alok_Sharma",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the President for COP26 (2021)",
+      "Secretary of State for Business, Energy and Industrial Strategy (2020-2021)"
+    ],
+    "yearBorn": 1968
+  }
+]

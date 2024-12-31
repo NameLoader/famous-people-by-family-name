@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Main",
+    "givenNames": [
+      "John",
+      "Douglas"
+    ],
+    "familyName": "Main",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Main",
+    "occupation": "Benedictine monk, teacher of meditation",
+    "achievements": [
+      "Founded the Christian Meditation Centre in London",
+      "Introduced a form of contemplative prayer rooted in Eastern traditions to Western Christianity"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1982
+  }
+]

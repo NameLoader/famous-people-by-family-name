@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Davy Crockett",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Crockett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Davy_Crockett",
+    "occupation": "Frontiersman, politician, soldier",
+    "achievements": [
+      "Tennessee Congressman",
+      "Hero of the Battle of the Alamo",
+      "Folk hero and subject of numerous legends and stories"
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1836
+  }
+]

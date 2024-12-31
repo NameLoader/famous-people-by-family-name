@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Alexander Bain",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Bain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)",
+    "occupation": "Philosopher, Psychologist",
+    "achievements": [
+      "Pioneer in the field of psychology",
+      "Developed a theory of emotions based on physiological changes",
+      "Contributed to the development of logic and ethics"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1903
+  },
+  {
+    "fullName": "Bill Bain",
+    "givenNames": [
+      "William",
+      "Worthington"
+    ],
+    "familyName": "Bain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Bain_(consultant)",
+    "occupation": "Management consultant, Author",
+    "achievements": [
+      "Founded the management consulting firm Bain & Company",
+      "Authored influential books on business strategy and competitive advantage"
+    ],
+    "yearBorn": 1938
+  }
+]

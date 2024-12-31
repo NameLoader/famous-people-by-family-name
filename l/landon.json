@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michael Landon",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Landon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Landon",
+    "occupation": "Actor, Director, Producer, Writer",
+    "achievements": [
+      "Starred in popular television series such as 'Bonanza', 'Little House on the Prairie', and 'Highway to Heaven'",
+      "Won three Emmy Awards and a Golden Globe Award"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 1991
+  }
+]

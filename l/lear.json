@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Lear",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Lear",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Lear",
+    "occupation": "Poet, painter, illustrator",
+    "achievements": [
+      "Known for his limericks and whimsical illustrations.",
+      "Travelled extensively and documented his journeys through drawings and writing."
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1888
+  }
+]

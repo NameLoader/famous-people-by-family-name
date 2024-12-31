@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Frank Pierson",
+    "givenNames": [
+      "Frank",
+      "Romer"
+    ],
+    "familyName": "Pierson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Pierson",
+    "occupation": "Screenwriter, director, producer",
+    "achievements": [
+      "Won an Academy Award for Best Original Screenplay for 'Dog Day Afternoon'",
+      "Directed films like 'Cool Hand Luke' and 'A Star Is Born'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2012
+  }
+]

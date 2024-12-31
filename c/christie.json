@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Agatha Christie",
+    "givenNames": [
+      "Agatha",
+      "Mary",
+      "Clarissa"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agatha_Christie",
+    "occupation": "Novelist, short story writer, playwright",
+    "achievements": [
+      "Best-selling fiction writer of all time",
+      "Known as the 'Queen of Crime'",
+      "Created iconic detectives Hercule Poirot and Miss Marple"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1976
+  },
+  {
+    "fullName": "Chris Christie",
+    "givenNames": [
+      "Christopher",
+      "James"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Christie",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 55th Governor of New Jersey (2010-2018)",
+      "Ran for President of the United States in 2016"
+    ],
+    "yearBorn": 1962
+  }
+]

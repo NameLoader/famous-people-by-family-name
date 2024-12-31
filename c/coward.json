@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Noël Coward",
+    "givenNames": [
+      "Noël",
+      "Peirce"
+    ],
+    "familyName": "Coward",
+    "wikipedia": "https://en.wikipedia.org/wiki/No%C3%ABl_Coward",
+    "occupation": "Playwright, Composer, Actor, Singer, Director",
+    "achievements": [
+      "Prolific playwright and composer of the 20th century.",
+      "Known for works like 'Private Lives', 'Blithe Spirit' and 'Cavalcade'",
+      "Knighted in 1970"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1973
+  }
+]

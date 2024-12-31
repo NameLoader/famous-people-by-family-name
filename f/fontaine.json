@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Pierre Fontaine",
+    "givenNames": [
+      "Pierre",
+      "François",
+      "Léonard"
+    ],
+    "familyName": "Fontaine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Fran%C3%A7ois_L%C3%A9onard_Fontaine",
+    "occupation": "Architect",
+    "achievements": [
+      "French architect known for his neoclassical designs.",
+      "Designed several prominent buildings in Paris and other French cities."
+    ],
+    "yearBorn": 1762,
+    "yearDied": 1853
+  }
+]

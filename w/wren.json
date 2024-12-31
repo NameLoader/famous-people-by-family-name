@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Christopher Wren",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Wren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Wren",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed St Paul's Cathedral in London",
+      "Significant contributor to the rebuilding of London after the Great Fire of 1666",
+      "Pioneer in astronomy and mathematics"
+    ],
+    "yearBorn": 1632,
+    "yearDied": 1723
+  }
+]

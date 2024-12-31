@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Henry Lawton",
+    "givenNames": [
+      "Henry",
+      "Ware"
+    ],
+    "familyName": "Lawton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Ware_Lawton",
+    "occupation": "Military Officer",
+    "achievements": [
+      "Major General in the United States Army",
+      "Served in the Civil War and Philippine-American War",
+      "Killed in action during the Moro Rebellion"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1917
+  }
+]

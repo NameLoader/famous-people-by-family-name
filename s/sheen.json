@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Martin Sheen",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Sheen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Sheen",
+    "occupation": "Actor",
+    "achievements": [
+      "Emmy Award nomination",
+      "Golden Globe Award nomination",
+      "Known for roles in 'Apocalypse Now', 'The West Wing'",
+      "Humanitarian work"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Charlie Sheen",
+    "givenNames": [
+      "Charlie"
+    ],
+    "familyName": "Sheen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Sheen",
+    "occupation": "Actor",
+    "achievements": [
+      "Golden Globe Award for Best Actor – Television Series Musical or Comedy",
+      "Known for roles in 'Platoon', 'Wall Street', 'Two and a Half Men'"
+    ],
+    "yearBorn": 1965
+  }
+]

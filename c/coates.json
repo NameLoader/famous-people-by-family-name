@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ta-Nehisi Coates",
+    "givenNames": [
+      "Ta-Nehisi",
+      "Paul"
+    ],
+    "familyName": "Coates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ta-Nehisi_Coates",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "National Book Award Winner for 'Between the World and Me'",
+      "MacArthur Fellow",
+      "Acclaimed author on race relations in America"
+    ],
+    "yearBorn": 1975
+  }
+]

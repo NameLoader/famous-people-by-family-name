@@ -18,20 +18,18 @@
     "yearDied": 1824
   },
   {
-    "fullName": "Augusta Ada Byron, Countess of Lovelace",
+    "fullName": "John Byron",
     "givenNames": [
-      "Augusta",
-      "Ada"
+      "John"
     ],
     "familyName": "Byron",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ada_Lovelace",
-    "occupation": "Mathematician, writer",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Byron",
+    "occupation": "Admiral in the Royal Navy",
     "achievements": [
-      "Considered the first computer programmer",
-      "Wrote notes on Charles Babbage's Analytical Engine",
-      "Contributed to the development of theoretical computer science"
+      "Great-grandfather of Lord Byron.",
+      "Served during the Seven Years' War."
     ],
-    "yearBorn": 1815,
-    "yearDied": 1852
+    "yearBorn": 1723,
+    "yearDied": 1786
   }
 ]

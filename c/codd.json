@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edgar Frank Codd",
+    "givenNames": [
+      "Edgar",
+      "Frank"
+    ],
+    "familyName": "Codd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_F._Codd",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Developed the relational model for database management"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2003
+  }
+]

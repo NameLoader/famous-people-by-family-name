@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Bryan Ferry",
+    "givenNames": [
+      "Bryan"
+    ],
+    "familyName": "Ferry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Ferry",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Fronted the band Roxy Music",
+      "Known for his sophisticated and stylish music",
+      "Released numerous solo albums and collaborated with various artists"
+    ],
+    "yearBorn": 1945
+  }
+]

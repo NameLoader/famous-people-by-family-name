@@ -1,16 +1,17 @@
 [
   {
-    "fullName": "Catherine Zeta-Jones",
+    "fullName": "Ted Cruz",
     "givenNames": [
-      "Catherine"
+      "Rafael",
+      "Edward"
     ],
     "familyName": "Cruz",
-    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Zeta-Jones",
-    "occupation": "Actress",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Cruz",
+    "occupation": "Politician",
     "achievements": [
-      "Academy Award for Best Supporting Actress (2003)",
-      "Tony Award (2005)"
+      "U.S. Senator from Texas since 2013",
+      "Ran for President of the United States in 2016"
     ],
-    "yearBorn": 1969
+    "yearBorn": 1970
   }
 ]

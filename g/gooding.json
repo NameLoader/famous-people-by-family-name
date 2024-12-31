@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Cuba Gooding Jr.",
+    "givenNames": [
+      "Cuba",
+      "Jr."
+    ],
+    "familyName": "Gooding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuba_Gooding_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor for his role in Jerry Maguire (1996)",
+      "Starred in numerous films including Boyz n the Hood, A Few Good Men, and American Gangster"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Cuba Gooding Sr.",
+    "givenNames": [
+      "Cuba",
+      "Mark"
+    ],
+    "familyName": "Gooding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuba_Gooding_Sr.",
+    "occupation": "Singer, Musician",
+    "achievements": [
+      "Lead vocalist for the soul group The Main Ingredient",
+      "Known for the hit song \"Everybody Plays the Fool\""
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2017
+  }
+]

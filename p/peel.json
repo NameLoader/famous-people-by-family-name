@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1788,
     "yearDied": 1850
+  },
+  {
+    "fullName": "Sir John Peel",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Peel",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Peel",
+    "occupation": "Radio DJ and Presenter",
+    "achievements": [
+      "Championed alternative music on BBC Radio 1",
+      "Known for his eclectic taste and support of new artists",
+      "Influential figure in the British music scene"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2004
   }
 ]

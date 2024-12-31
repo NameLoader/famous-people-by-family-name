@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Joe Cocker",
+    "givenNames": [
+      "John",
+      "Robert",
+      "Joe"
+    ],
+    "familyName": "Cocker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Cocker",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for his gritty vocals and energetic stage performances",
+      "Hits include 'You Are So Beautiful', 'Up Where We Belong', 'Feelin' Alright'"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2014
+  }
+]

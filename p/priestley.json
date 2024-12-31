@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Joseph Priestley",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Priestley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Priestley",
+    "occupation": "Natural Philosopher, Chemist",
+    "achievements": [
+      "Discovery of oxygen",
+      "Invention of soda water",
+      "Contributions to the understanding of gases and combustion"
+    ],
+    "yearBorn": 1733,
+    "yearDied": 1804
+  },
+  {
+    "fullName": "John B. Priestley",
+    "givenNames": [
+      "John",
+      "Boynton"
+    ],
+    "familyName": "Priestley",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._B._Priestley",
+    "occupation": "Novelist, Playwright",
+    "achievements": [
+      "Author of 'The Good Companions'",
+      "Prolific writer of novels and plays"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1984
+  }
+]

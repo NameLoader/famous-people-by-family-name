@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Douglas Haig",
+    "givenNames": [
+      "Douglas"
+    ],
+    "familyName": "Haig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+    "occupation": "Field Marshal",
+    "achievements": [
+      "Commander of the British Expeditionary Force during World War I",
+      "Key figure in the Allied victory on the Western Front"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1928
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Allen Bloom",
+    "givenNames": [
+      "Allan",
+      "David"
+    ],
+    "familyName": "Bloom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Bloom",
+    "occupation": "Philosopher, academic",
+    "achievements": [
+      "Author of 'The Closing of the American Mind'",
+      "Influential figure in conservative intellectual thought"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Orlando Bloom",
+    "givenNames": [
+      "Orlando",
+      "Jonathan",
+      "Blanchard",
+      "Copeland"
+    ],
+    "familyName": "Bloom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orlando_Bloom",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'The Lord of the Rings' and 'Pirates of the Caribbean'"
+    ],
+    "yearBorn": 1977
+  }
+]

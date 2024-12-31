@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Oliver North",
+    "givenNames": [
+      "Oliver",
+      "Laurence"
+    ],
+    "familyName": "North",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_North",
+    "occupation": "Retired United States Marine Corps lieutenant colonel, political commentator, television host, military historian, and author.",
+    "achievements": [
+      "Known for his involvement in the Iran-Contra affair during the Reagan administration.",
+      "Served as a national security council staffer."
+    ],
+    "yearBorn": 1943
+  }
+]

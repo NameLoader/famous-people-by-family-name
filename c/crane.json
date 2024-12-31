@@ -14,5 +14,36 @@
     ],
     "yearBorn": 1871,
     "yearDied": 1900
+  },
+  {
+    "fullName": "Walter Crane",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Crane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Crane",
+    "occupation": "Artist, Illustrator, Designer",
+    "achievements": [
+      "Notable for his Arts and Crafts movement illustrations",
+      "Created influential children's books like 'The Baby's Opera'"
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1915
+  },
+  {
+    "fullName": "Hart Crane",
+    "givenNames": [
+      "Hart",
+      "Harold"
+    ],
+    "familyName": "Crane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hart_Crane",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his ambitious modernist poem 'The Bridge'",
+      "Considered one of the major American poets of the 20th century"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1932
   }
 ]

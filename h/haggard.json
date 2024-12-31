@@ -2,7 +2,8 @@
   {
     "fullName": "Merle Haggard",
     "givenNames": [
-      "Merle"
+      "Merle",
+      "Ronald"
     ],
     "familyName": "Haggard",
     "wikipedia": "https://en.wikipedia.org/wiki/Merle_Haggard",
@@ -14,5 +15,21 @@
     ],
     "yearBorn": 1937,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Sir Henry Rider Haggard",
+    "givenNames": [
+      "Henry",
+      "Rider"
+    ],
+    "familyName": "Haggard",
+    "wikipedia": "https://en.wikipedia.org/wiki/H._Rider_Haggard",
+    "occupation": "Novelist, Author",
+    "achievements": [
+      "Authored adventure novels like King Solomon's Mines and She",
+      "Became one of the best-selling authors of his time"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1925
   }
 ]

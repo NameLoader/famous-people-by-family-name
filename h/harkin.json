@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tom Harkin",
+    "givenNames": [
+      "Thomas",
+      "Richard"
+    ],
+    "familyName": "Harkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Harkin",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a U.S. Senator from Iowa (1985-2015)",
+      "Championed disability rights legislation",
+      "Played a key role in the passage of the Americans with Disabilities Act"
+    ],
+    "yearBorn": 1939
+  }
+]

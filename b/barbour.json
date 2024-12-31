@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Barbour",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Barbour",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Barbour_(poet)",
+    "occupation": "Poet",
+    "achievements": [
+      "Author of 'The Brus', a Middle Scots poem about the Wars of Scottish Independence"
+    ],
+    "yearBorn": 1320,
+    "yearDied": 1395
+  }
+]

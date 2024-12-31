@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Paul Kruger",
+    "givenNames": [
+      "Stephanus",
+      "Johannes",
+      "Paulus"
+    ],
+    "familyName": "Kruger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Kruger",
+    "occupation": "President of the South African Republic",
+    "achievements": [
+      "Led the Transvaal against British imperialism during the Second Boer War",
+      "Considered a symbol of Afrikaner resistance"
+    ],
+    "yearBorn": 1825,
+    "yearDied": 1904
+  }
+]

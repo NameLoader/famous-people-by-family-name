@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Bob Woodward",
+    "givenNames": [
+      "Robert",
+      "Upshur"
+    ],
+    "familyName": "Woodward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Woodward",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Watergate scandal reporting with Carl Bernstein",
+      "Pulitzer Prize for Public Service (1973)"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Edward Woodward",
+    "givenNames": [
+      "Edward",
+      "Albert",
+      "Arthur"
+    ],
+    "familyName": "Woodward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Woodward",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'The Equalizer' and 'Breaker Morant'"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2009
+  }
+]

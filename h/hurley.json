@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Liz Hurley",
+    "givenNames": [
+      "Elizabeth",
+      "Jane"
+    ],
+    "familyName": "Hurley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Hurley",
+    "occupation": "Actress, model, businesswoman",
+    "achievements": [
+      "Starred in films like 'Austin Powers: International Man of Mystery' and 'Bedazzled'.",
+      "Successful modeling career.",
+      "Founded her own swimwear line."
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "David Hurley",
+    "givenNames": [
+      "David",
+      "John"
+    ],
+    "familyName": "Hurley",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Hurley",
+    "occupation": "Governor-General of Australia",
+    "achievements": [
+      "Former Chief of the Defence Force of Australia.",
+      "Appointed Governor-General in 2019."
+    ],
+    "yearBorn": 1952
+  }
+]

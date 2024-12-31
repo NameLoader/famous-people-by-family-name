@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1663,
     "yearDied": 1728
+  },
+  {
+    "fullName": "Increase Mather",
+    "givenNames": [
+      "Increase"
+    ],
+    "familyName": "Mather",
+    "wikipedia": "https://en.wikipedia.org/wiki/Increase_Mather",
+    "occupation": "Minister, Theologian, Historian",
+    "achievements": [
+      "Prominent Puritan minister in colonial Massachusetts.",
+      "President of Harvard College (1685-1701).",
+      "Author of influential theological works."
+    ],
+    "yearBorn": 1639,
+    "yearDied": 1723
   }
 ]

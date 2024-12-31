@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rupert Brooke",
+    "givenNames": [
+      "Rupert",
+      "Chawner"
+    ],
+    "familyName": "Brooke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Brooke",
+    "occupation": "Poet, soldier",
+    "achievements": [
+      "Known for his patriotic war sonnets",
+      "Member of the Bloomsbury Group"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1915
+  }
+]

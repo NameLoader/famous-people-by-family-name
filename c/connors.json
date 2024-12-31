@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jimmy Connors",
+    "givenNames": [
+      "James",
+      "Scott"
+    ],
+    "familyName": "Connors",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Connors",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Won 8 Grand Slam singles titles",
+      "Reached World No. 1 ranking",
+      "Known for his aggressive style of play and fierce competitiveness"
+    ],
+    "yearBorn": 1952
+  }
+]

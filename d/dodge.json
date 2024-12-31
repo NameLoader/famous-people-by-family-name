@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "John Dodge",
+    "givenNames": [
+      "John",
+      "Francis"
+    ],
+    "familyName": "Dodge",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Francis_Dodge",
+    "occupation": "Automobile Manufacturer",
+    "achievements": [
+      "Co-founded the Dodge Brothers Company",
+      "Helped pioneer mass production techniques in the automobile industry"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1920
+  },
+  {
+    "fullName": "Horace Dodge",
+    "givenNames": [
+      "Horace",
+      "Elgin"
+    ],
+    "familyName": "Dodge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace_Elgin_Dodge",
+    "occupation": "Automobile Manufacturer",
+    "achievements": [
+      "Co-founded the Dodge Brothers Company",
+      "Contributed to the development of reliable and affordable automobiles"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1920
+  }
+]

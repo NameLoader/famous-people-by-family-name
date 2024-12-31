@@ -2,7 +2,8 @@
   {
     "fullName": "John Cusack",
     "givenNames": [
-      "John"
+      "John",
+      "Paul"
     ],
     "familyName": "Cusack",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Cusack",
@@ -12,5 +13,33 @@
       "Recipient of numerous awards and nominations"
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Joan Cusack",
+    "givenNames": [
+      "Joan",
+      "Mary"
+    ],
+    "familyName": "Cusack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Cusack",
+    "occupation": "Actress, comedian, voice actress",
+    "achievements": [
+      "Won an American Comedy Award for her role in the film Working Girl",
+      "Received Emmy and Grammy nominations for her voice acting work"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Ann Cusack",
+    "givenNames": [
+      "Ann"
+    ],
+    "familyName": "Cusack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Cusack",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like Being John Malkovich and Nightcrawler",
+      "Appeared in numerous television series"
+    ]
   }
 ]

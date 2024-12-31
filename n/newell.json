@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Allen Newell",
+    "givenNames": [
+      "Allen"
+    ],
+    "familyName": "Newell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Newell",
+    "occupation": "Computer scientist, Cognitive psychologist",
+    "achievements": [
+      "Pioneer in the field of artificial intelligence (AI)",
+      "Developed influential models of human cognition, including SOAR",
+      "Co-authored the seminal book 'Computer Science: A Discipline for the Future'"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1992
+  }
+]

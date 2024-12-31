@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "A. A. Milne",
+    "givenNames": [
+      "Alan",
+      "Alexander"
+    ],
+    "familyName": "Milne",
+    "wikipedia": "https://en.wikipedia.org/wiki/A._A._Milne",
+    "occupation": "Author, Poet, Playwright",
+    "achievements": [
+      "Creator of Winnie-the-Pooh and other beloved children's characters",
+      "Successful playwright known for 'Mr. Pim Passes By'"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1956
+  }
+]

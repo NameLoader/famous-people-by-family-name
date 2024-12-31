@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Eddie Izzard",
+    "givenNames": [
+      "Eddie",
+      "Edward John"
+    ],
+    "familyName": "Izzard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Izzard",
+    "occupation": "Comedian, Actor, Writer",
+    "achievements": [
+      "Stand-up comedy tours across the world",
+      "Acting roles in films like 'Ocean's Thirteen' and 'Valkyrie'",
+      "Transgender activism"
+    ],
+    "yearBorn": 1962
+  }
+]

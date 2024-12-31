@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Henry Cabot Lodge",
+    "givenNames": [
+      "Henry",
+      "Cabot"
+    ],
+    "familyName": "Lodge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Cabot_Lodge",
+    "occupation": "Politician, Senator",
+    "achievements": [
+      "Senator from Massachusetts (1893-1924)",
+      "Prominent Republican figure",
+      "Advocate for American intervention in World War I"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1924
+  },
+  {
+    "fullName": "David Lodge",
+    "givenNames": [
+      "David",
+      "John"
+    ],
+    "familyName": "Lodge",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Lodge_(author)",
+    "occupation": "Novelist, Academic",
+    "achievements": [
+      "Known for novels like 'Changing Places' and 'Nice Work'",
+      "Professor Emeritus of English Literature at the University of Birmingham"
+    ],
+    "yearBorn": 1935
+  }
+]

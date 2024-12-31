@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "John Forsyth",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Forsyth",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Forsyth_(politician)",
+    "occupation": "Diplomat, Politician",
+    "achievements": [
+      "United States Secretary of State",
+      "Member of the U.S. House of Representatives"
+    ],
+    "yearBorn": 1780,
+    "yearDied": 1841
+  },
+  {
+    "fullName": "William Forsyth",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Forsyth",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Forsyth_(horticulturist)",
+    "occupation": "Botanist",
+    "achievements": [
+      "Known for Forsyth's rose and other horticultural contributions",
+      "Superintendent of the Royal Botanic Garden in Edinburgh"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1804
+  },
+  {
+    "fullName": "Frederic Forsyth",
+    "givenNames": [
+      "Frederick",
+      "McCarthy"
+    ],
+    "familyName": "Forsyth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Forsyth",
+    "occupation": "Author, Journalist",
+    "achievements": [
+      "Known for bestselling thriller novels like 'The Day of the Jackal' and 'The Odessa File'",
+      "Award-winning journalist"
+    ],
+    "yearBorn": 1938
+  }
+]

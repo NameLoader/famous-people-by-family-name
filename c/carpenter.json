@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Richard Carpenter",
+    "givenNames": [
+      "Richard",
+      "Lynn"
+    ],
+    "familyName": "Carpenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Carpenter_(musician)",
+    "occupation": "Musician",
+    "achievements": [
+      "Co-founder and keyboardist of The Carpenters",
+      "Grammy Award winner for Best New Artist (1971)"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Karen Carpenter",
+    "givenNames": [
+      "Karen",
+      "Anne"
+    ],
+    "familyName": "Carpenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Carpenter",
+    "occupation": "Singer, Drummer",
+    "achievements": [
+      "Lead vocalist of The Carpenters",
+      "Known for her distinctive contralto voice"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "John Carpenter",
+    "givenNames": [
+      "John",
+      "Howard"
+    ],
+    "familyName": "Carpenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Carpenter",
+    "occupation": "Film Director, Composer",
+    "achievements": [
+      "Directed iconic horror films like Halloween and The Thing",
+      "Known for his distinctive synth scores"
+    ],
+    "yearBorn": 1948
+  }
+]

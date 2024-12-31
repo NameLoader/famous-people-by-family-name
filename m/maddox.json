@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Maddox",
+    "givenNames": [
+      "John",
+      "Royden"
+    ],
+    "familyName": "Maddox",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Maddox",
+    "occupation": "Journalist, Editor",
+    "achievements": [
+      "Editor of Nature magazine for 22 years",
+      "Known for his advocacy of scientific rigor and skepticism"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2009
+  }
+]

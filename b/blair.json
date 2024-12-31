@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Tony Blair",
+    "givenNames": [
+      "Anthony",
+      "Charles",
+      "Lynton"
+    ],
+    "familyName": "Blair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Blair",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of the United Kingdom (1997-2007)",
+      "Leader of the Labour Party (1994-2007)",
+      "Key figure in the Northern Ireland peace process"
+    ],
+    "yearBorn": 1953
+  }
+]

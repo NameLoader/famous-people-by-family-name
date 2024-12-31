@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Carlyle",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Carlyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Carlyle",
+    "occupation": "Historian, essayist, social commentator",
+    "achievements": [
+      "Authored major works like 'Sartor Resartus', 'The French Revolution', and 'Heroes and Hero-Worship'",
+      "Influential figure in Victorian literature and thought",
+      "Developed a distinct style characterized by complex sentence structure and historical analysis"
+    ],
+    "yearBorn": 1795,
+    "yearDied": 1881
+  }
+]

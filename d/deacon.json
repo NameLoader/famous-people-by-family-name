@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Deacon",
+    "givenNames": [
+      "John",
+      "Richard"
+    ],
+    "familyName": "Deacon",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Deacon",
+    "occupation": "Musician",
+    "achievements": [
+      "Bassist for the rock band Queen",
+      "Wrote several hit songs for Queen, including 'Another One Bites the Dust'"
+    ],
+    "yearBorn": 1952
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Kenneth Galbraith",
+    "givenNames": [
+      "John",
+      "Kenneth"
+    ],
+    "familyName": "Galbraith",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Kenneth_Galbraith",
+    "occupation": "Economist, Public servant",
+    "achievements": [
+      "Influential economist known for his work on Keynesian economics and critiques of corporate power.",
+      "Served as ambassador to India under President Kennedy."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2006
+  }
+]

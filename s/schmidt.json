@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Eric Schmidt",
+    "givenNames": [
+      "Eric",
+      "Emerson"
+    ],
+    "familyName": "Schmidt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Schmidt",
+    "occupation": "Business executive",
+    "achievements": [
+      "Former CEO of Google and Alphabet Inc."
+    ],
+    "yearBorn": 1955
+  }
+]

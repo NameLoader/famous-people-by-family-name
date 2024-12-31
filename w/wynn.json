@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Steve Wynn",
+    "givenNames": [
+      "Stephen",
+      "Alan"
+    ],
+    "familyName": "Wynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Wynn",
+    "occupation": "Real estate developer, casino magnate",
+    "achievements": [
+      "Developed and operated numerous casinos in Las Vegas and other locations.",
+      "Known for his lavish resorts and contributions to the revitalization of Las Vegas."
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Elaine Wynn",
+    "givenNames": [
+      "Elaine",
+      "Farrell"
+    ],
+    "familyName": "Wynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elaine_Wynn",
+    "occupation": "Philanthropist, businesswoman",
+    "achievements": [
+      "Co-founded Wynn Resorts with Steve Wynn.",
+      "Prominent philanthropist supporting arts and education."
+    ],
+    "yearBorn": 1942
+  }
+]

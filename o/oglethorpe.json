@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "James Edward Oglethorpe",
+    "givenNames": [
+      "James",
+      "Edward"
+    ],
+    "familyName": "Oglethorpe",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Oglethorpe",
+    "occupation": "Soldier, Philanthropist, Founder of Georgia",
+    "achievements": [
+      "Founded the colony of Georgia in 1732",
+      "Advocated for prison reform and humane treatment of debtors",
+      "Served as a Member of Parliament"
+    ],
+    "yearBorn": 1696,
+    "yearDied": 1785
+  }
+]

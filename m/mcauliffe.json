@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Christa McAuliffe",
+    "givenNames": [
+      "Christa"
+    ],
+    "familyName": "McAuliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christa_McAuliffe",
+    "occupation": "Teacher, Astronaut",
+    "achievements": [
+      "Selected as the first teacher in space for NASA's Space Shuttle Challenger mission.",
+      "Tragically died in the Challenger disaster."
+    ],
+    "yearBorn": 1948,
+    "yearDied": 1986
+  }
+]

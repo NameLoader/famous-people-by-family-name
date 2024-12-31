@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Millicent Fawcett",
+    "givenNames": [
+      "Millicent"
+    ],
+    "familyName": "Fawcett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Millicent_Fawcett",
+    "occupation": "Suffragist, writer",
+    "achievements": [
+      "Led the National Union of Women's Suffrage Societies (NUWSS)",
+      "Campaigned for women's right to vote in the UK through peaceful and legal means",
+      "Played a key role in securing women's suffrage in Britain"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1929
+  },
+  {
+    "fullName": "Farrah Fawcett",
+    "givenNames": [
+      "Farrah",
+      "Leni"
+    ],
+    "familyName": "Fawcett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farrah_Fawcett",
+    "occupation": "Actress",
+    "achievements": [
+      "Became a cultural icon in the 1970s for her role as Jill Munroe in the TV series 'Charlie's Angels'",
+      "Starred in numerous films and television shows",
+      "Remembered for her beauty, talent, and fierce battle with cancer"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2009
+  }
+]

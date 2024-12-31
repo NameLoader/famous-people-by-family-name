@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Patrick Geddes",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Geddes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Geddes",
+    "occupation": "Scottish biologist, sociologist, geographer and town planner",
+    "achievements": [
+      "Pioneer of the interdisciplinary field of regional planning",
+      "Developed the concept of 'conurbation'",
+      "Influential figure in the City Beautiful movement"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1932
+  }
+]

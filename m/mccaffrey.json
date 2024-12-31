@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Christian McCaffrey",
+    "givenNames": [
+      "Christian",
+      "Jackson"
+    ],
+    "familyName": "McCaffrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_McCaffrey",
+    "occupation": "American Football Player",
+    "achievements": [
+      "Running back for the San Francisco 49ers",
+      "Selected 8th overall in the 2017 NFL Draft",
+      "Three-time Pro Bowler"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Ed McCaffrey",
+    "givenNames": [
+      "Edward",
+      "Thomas"
+    ],
+    "familyName": "McCaffrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_McCaffrey",
+    "occupation": "Former American Football Player and Coach",
+    "achievements": [
+      "Wide receiver for the Denver Broncos (Super Bowl XXXIII Champions)",
+      "Head coach of the Northern Colorado Bears football team"
+    ],
+    "yearBorn": 1969
+  }
+]

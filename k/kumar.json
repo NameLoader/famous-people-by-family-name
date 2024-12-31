@@ -1,16 +1,30 @@
 [
   {
-    "fullName": "Hrithik Roshan Kumar",
+    "fullName": "Akshay Kumar",
     "givenNames": [
-      "Hrithik"
+      "Akshay"
     ],
     "familyName": "Kumar",
-    "wikipedia": "https://en.wikipedia.org/wiki/Hrithik_Roshan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akshay_Kumar",
     "occupation": "Actor, Producer",
     "achievements": [
-      "Won multiple Filmfare Awards",
-      "Known for his dancing and acting skills"
+      "One of the highest-paid actors in Bollywood.",
+      "Known for his action and comedy roles."
     ],
-    "yearBorn": 1974
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Manoj Kumar",
+    "givenNames": [
+      "Manoj"
+    ],
+    "familyName": "Kumar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manoj_Kumar",
+    "occupation": "Actor, Director, Producer",
+    "achievements": [
+      "Known as 'Bharat Kumar' for his patriotic films.",
+      "Recipient of the Padma Shri award."
+    ],
+    "yearBorn": 1937
   }
 ]

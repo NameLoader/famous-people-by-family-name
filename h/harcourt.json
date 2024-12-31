@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "William Harcourt",
+    "givenNames": [
+      "William",
+      "George",
+      "Granville",
+      "Venables",
+      "Vernon"
+    ],
+    "familyName": "Harcourt",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Harcourt_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Chancellor of the Exchequer from 1885 to 1886 and again from 1892 to 1895.",
+      "Played a key role in the development of British social policy."
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1904
+  }
+]

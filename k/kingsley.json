@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Charles Kingsley",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Kingsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Kingsley",
+    "occupation": "Clergyman, novelist, and historian",
+    "achievements": [
+      "Authored popular novels such as 'The Water-Babies'",
+      "Prominent figure in the Christian Socialist movement"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1875
+  },
+  {
+    "fullName": "Ben Kingsley",
+    "givenNames": [
+      "Ben"
+    ],
+    "familyName": "Kingsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Kingsley",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor for his portrayal of Mahatma Gandhi in the film 'Gandhi'",
+      "Known for his versatility and performances in films like 'Schindler's List', 'Sexy Beast', and 'Iron Man 3'"
+    ],
+    "yearBorn": 1943
+  }
+]

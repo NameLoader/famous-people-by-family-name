@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Frank Fenner",
+    "givenNames": [
+      "Frank",
+      "John"
+    ],
+    "familyName": "Fenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Fenner",
+    "occupation": "Virologist, medical researcher",
+    "achievements": [
+      "Key role in the eradication of smallpox",
+      "Research on myxomatosis in rabbits",
+      "Nobel Prize nominee"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2010
+  }
+]

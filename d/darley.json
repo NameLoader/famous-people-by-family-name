@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Darley",
+    "givenNames": [
+      "John",
+      "M"
+    ],
+    "familyName": "Darley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_M._Darley",
+    "occupation": "Social psychologist",
+    "achievements": [
+      "Known for his work on bystander intervention and social influence.",
+      "Co-conducted the famous Kitty Genovese experiment."
+    ],
+    "yearBorn": 1938
+  }
+]

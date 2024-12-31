@@ -2,7 +2,8 @@
   {
     "fullName": "Kevin Durant",
     "givenNames": [
-      "Kevin"
+      "Kevin",
+      "Wayne"
     ],
     "familyName": "Durant",
     "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Durant",
@@ -13,5 +14,23 @@
       "Two-time Olympic gold medalist."
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Will Durant",
+    "givenNames": [
+      "Will",
+      "William",
+      "James"
+    ],
+    "familyName": "Durant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Durant",
+    "occupation": "Historian, Writer",
+    "achievements": [
+      "Pulitzer Prize for History (1957)",
+      "Presidential Medal of Freedom (1977)",
+      "Author of the influential eleven-volume series \"The Story of Civilization\""
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1981
   }
 ]

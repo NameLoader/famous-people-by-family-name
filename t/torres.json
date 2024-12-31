@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Fernando Torres",
+    "givenNames": [
+      "Fernando",
+      "José"
+    ],
+    "familyName": "Torres",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Torres",
+    "occupation": "Footballer",
+    "achievements": [
+      "UEFA Euro 2008 winner with Spain",
+      "FIFA World Cup winner with Spain in 2010",
+      "Premier League and Champions League titles with Chelsea"
+    ],
+    "yearBorn": 1984
+  }
+]

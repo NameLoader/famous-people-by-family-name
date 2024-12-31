@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sara Teasdale",
+    "givenNames": [
+      "Sara",
+      "Trevor"
+    ],
+    "familyName": "Teasdale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Teasdale",
+    "occupation": "Poet",
+    "achievements": [
+      "Won the Pulitzer Prize for Poetry in 1918",
+      "Known for her lyric poetry exploring themes of love, loss, and nature"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1933
+  }
+]

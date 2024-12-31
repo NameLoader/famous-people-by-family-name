@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sophie Germain",
+    "givenNames": [
+      "Sophie",
+      "Marie"
+    ],
+    "familyName": "Germain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Germain",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Made significant contributions to number theory",
+      "Worked on Fermat's Last Theorem",
+      "Studied elasticity and vibration of plates"
+    ],
+    "yearBorn": 1776,
+    "yearDied": 1831
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ayn Rand",
+    "givenNames": [
+      "Ayn"
+    ],
+    "familyName": "Rand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayn_Rand",
+    "occupation": "Novelist, Philosopher",
+    "achievements": [
+      "Author of influential novels such as 'The Fountainhead' and 'Atlas Shrugged'",
+      "Proponent of Objectivism, a philosophy emphasizing individualism and reason"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1982
+  }
+]

@@ -2,10 +2,11 @@
   {
     "fullName": "Stephen Douglas",
     "givenNames": [
-      "Stephen"
+      "Stephen",
+      "Arnold"
     ],
     "familyName": "Douglas",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_A._Douglas",
     "occupation": "Politician",
     "achievements": [
       "United States Senator from Illinois (1847-1859)",
@@ -14,5 +15,35 @@
     ],
     "yearBorn": 1813,
     "yearDied": 1861
+  },
+  {
+    "fullName": "Kirk Douglas",
+    "givenNames": [
+      "Kirk"
+    ],
+    "familyName": "Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirk_Douglas",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous classic films including 'Spartacus', 'Paths of Glory', and '2001: A Space Odyssey'",
+      "Nominated for three Academy Awards"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Michael Douglas",
+    "givenNames": [
+      "Michael",
+      "Kirk"
+    ],
+    "familyName": "Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Douglas",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Won two Academy Awards: Best Actor for 'Wall Street' and Best Picture as producer for 'One Flew Over the Cuckoo's Nest'",
+      "Starred in numerous popular films including 'Fatal Attraction', 'Basic Instinct', and 'Ant-Man'"
+    ],
+    "yearBorn": 1944
   }
 ]

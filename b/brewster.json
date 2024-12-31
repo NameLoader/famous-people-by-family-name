@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "David Brewster",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Brewster",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Brewster",
+    "occupation": "Scientist, Inventor",
+    "achievements": [
+      "Pioneer in the study of optics and polarization of light",
+      "Invented the kaleidoscope"
+    ],
+    "yearBorn": 1781,
+    "yearDied": 1868
+  }
+]

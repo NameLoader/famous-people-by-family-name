@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "F. Scott Fitzgerald",
+    "givenNames": [
+      "Francis",
+      "Scott",
+      "Key"
+    ],
+    "familyName": "Fitzgerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
+    "occupation": "Novelist, Short Story Writer, Essayist",
+    "achievements": [
+      "Authored iconic novels like The Great Gatsby and Tender Is the Night",
+      "Considered one of the greatest American writers of the 20th century",
+      "Known for his depictions of the Jazz Age and its social complexities"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1940
+  },
+  {
+    "fullName": "Edward Fitzgerald",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Fitzgerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_FitzGerald_(poet)",
+    "occupation": "Translator, Poet",
+    "achievements": [
+      "Best known for his translation of Omar Khayyám's Rubaiyat",
+      "His translation became immensely popular and influential"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1883
+  }
+]

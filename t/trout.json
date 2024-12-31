@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mike Trout",
+    "givenNames": [
+      "Michael",
+      "Nelson"
+    ],
+    "familyName": "Trout",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Trout",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "3x American League Most Valuable Player",
+      "10x MLB All-Star",
+      "8x Silver Slugger Award winner"
+    ],
+    "yearBorn": 1991
+  }
+]

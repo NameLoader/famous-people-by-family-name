@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Arthur Holly Compton",
+    "givenNames": [
+      "Arthur",
+      "Holly"
+    ],
+    "familyName": "Compton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Compton",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1927) for his discovery of the Compton effect",
+      "Key contributor to the development of the atomic bomb during World War II",
+      "Chancellor of Washington University in St. Louis"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1962
+  }
+]

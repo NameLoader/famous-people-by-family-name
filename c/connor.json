@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "John Connor",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Connor",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Connor",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the Terminator franchise",
+      "Leader of the human resistance against Skynet"
+    ]
+  }
+]

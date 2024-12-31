@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Elizabeth Arden",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Arden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Arden",
+    "occupation": "Entrepreneur, businesswoman",
+    "achievements": [
+      "Founded Elizabeth Arden Inc., a global beauty company",
+      "Pioneered the use of red lipstick and other innovative cosmetics"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1966
+  }
+]

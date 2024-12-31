@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Hector Munro",
+    "givenNames": [
+      "Hector",
+      "Hugh"
+    ],
+    "familyName": "Munro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saki",
+    "occupation": "Writer",
+    "achievements": [
+      "Known by the pen name Saki",
+      "Wrote short stories with a satirical and macabre tone",
+      "Famous works include 'The Open Window' and 'Tobermory'"
+    ],
+    "yearBorn": 1870,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "Alice Munro",
+    "givenNames": [
+      "Alice",
+      "Ann"
+    ],
+    "familyName": "Munro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Munro",
+    "occupation": "Writer",
+    "achievements": [
+      "Canadian short story writer",
+      "Won the Nobel Prize in Literature in 2013",
+      "Known for her realistic and insightful portrayals of small-town life"
+    ],
+    "yearBorn": 1931
+  }
+]

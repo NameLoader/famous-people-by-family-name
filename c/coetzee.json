@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "J. M. Coetzee",
+    "givenNames": [
+      "John",
+      "Maxwell"
+    ],
+    "familyName": "Coetzee",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._M._Coetzee",
+    "occupation": "Novelist, essayist, translator, linguist",
+    "achievements": [
+      "Nobel Prize in Literature (2003)",
+      "Booker Prize (twice)",
+      "Man Booker International Prize"
+    ],
+    "yearBorn": 1940
+  }
+]

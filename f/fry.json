@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Stephen Fry",
+    "givenNames": [
+      "Stephen",
+      "John"
+    ],
+    "familyName": "Fry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Fry",
+    "occupation": "Actor, Writer, Comedian",
+    "achievements": [
+      "Starred in numerous films and television series including 'Blackadder,' 'A Bit of Fry & Laurie,' and 'Wilde'",
+      "Published successful novels and autobiographies",
+      "Known for his wit, intelligence, and advocacy for mental health awareness"
+    ],
+    "yearBorn": 1957
+  }
+]

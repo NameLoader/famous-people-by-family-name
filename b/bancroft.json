@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "George Bancroft",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Bancroft",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Bancroft",
+    "occupation": "Historian, statesman",
+    "achievements": [
+      "Authored the influential ten-volume history 'History of the United States'",
+      "Served as Secretary of the Navy under Presidents Andrew Jackson and Martin Van Buren",
+      "Founded the Naval Academy in Annapolis"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Anne Bancroft",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Bancroft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Bancroft",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in 'The Miracle Worker'",
+      "Nominated for four other Oscars and won a Tony Award for her Broadway performance in the same play",
+      "Starred in films like 'Graduate' and 'To Be or Not To Be'"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2005
+  }
+]

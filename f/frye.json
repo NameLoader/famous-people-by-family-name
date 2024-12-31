@@ -2,6 +2,7 @@
   {
     "fullName": "Northrop Frye",
     "givenNames": [
+      "Herman",
       "Northrop"
     ],
     "familyName": "Frye",
@@ -16,18 +17,18 @@
     "yearDied": 1991
   },
   {
-    "fullName": "Stephen Frye",
+    "fullName": "Marilyn Frye",
     "givenNames": [
-      "Stephen"
+      "Marilyn"
     ],
     "familyName": "Frye",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Fry",
-    "occupation": "Actor, comedian, writer, presenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Frye",
+    "occupation": "Philosopher, Feminist Theorist",
     "achievements": [
-      "Known for his roles in British comedies like 'A Bit of Fry & Laurie'.",
-      "Presents the BBC's quiz show 'QI'.",
-      "Author of several novels and essays."
+      "Known for her work on oppression and social justice",
+      "Author of influential essays such as 'Oppression'",
+      "Professor at the University of Miami"
     ],
-    "yearBorn": 1957
+    "yearBorn": 1941
   }
 ]

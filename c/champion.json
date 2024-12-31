@@ -2,6 +2,7 @@
   {
     "fullName": "Bob Champion",
     "givenNames": [
+      "Robert",
       "Bob"
     ],
     "familyName": "Champion",
@@ -11,5 +12,19 @@
       "Won the Grand National in 1981 on Aldaniti despite battling cancer"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "Sarah Champion",
+    "givenNames": [
+      "Sarah",
+      "Deborah"
+    ],
+    "familyName": "Champion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Champion",
+    "occupation": "Politician (British)",
+    "achievements": [
+      "Labour MP for Rotherham since 2012.",
+      "Served as Shadow Minister for Crime Prevention."
+    ]
   }
 ]

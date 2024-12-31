@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Whitty",
+    "givenNames": [
+      "Christopher",
+      "John",
+      "MacRae"
+    ],
+    "familyName": "Whitty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Whitty",
+    "occupation": "Chief Medical Officer for England",
+    "achievements": [
+      "Led the UK's response to the COVID-19 pandemic",
+      "Prominent public health figure"
+    ],
+    "yearBorn": 1966
+  }
+]

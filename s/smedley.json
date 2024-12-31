@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Smedley",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Smedley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Smedley_(business_executive)",
+    "occupation": "Video game developer",
+    "achievements": [
+      "Co-founded Sony Online Entertainment",
+      "Led development of EverQuest and other popular MMOs"
+    ],
+    "yearBorn": 1970
+  }
+]

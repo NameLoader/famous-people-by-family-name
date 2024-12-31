@@ -2,7 +2,9 @@
   {
     "fullName": "Usain Bolt",
     "givenNames": [
-      "Usain"
+      "Usain",
+      "St.",
+      "Leo"
     ],
     "familyName": "Bolt",
     "wikipedia": "https://en.wikipedia.org/wiki/Usain_Bolt",

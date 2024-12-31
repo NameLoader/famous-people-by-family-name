@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Key",
+    "givenNames": [
+      "John",
+      "Phillip"
+    ],
+    "familyName": "Key",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Key",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 38th Prime Minister of New Zealand from 2008 to 2016",
+      "Leader of the National Party of New Zealand"
+    ],
+    "yearBorn": 1961
+  }
+]

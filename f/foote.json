@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Samuel Foote",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Foote",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Foote",
+    "occupation": "Actor, playwright, theatre manager",
+    "achievements": [
+      "Known for his comic acting and satirical plays.",
+      "Established the Haymarket Theatre in London."
+    ],
+    "yearBorn": 1720,
+    "yearDied": 1777
+  },
+  {
+    "fullName": "Arthur Foote",
+    "givenNames": [
+      "Arthur",
+      "William"
+    ],
+    "familyName": "Foote",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Foote",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Prominent American composer of the late Romantic period.",
+      "Known for his chamber music, orchestral works, and piano pieces."
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1937
+  }
+]

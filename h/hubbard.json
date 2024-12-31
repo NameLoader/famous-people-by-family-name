@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "L. Ron Hubbard",
+    "givenNames": [
+      "Lafayette",
+      "Ronald"
+    ],
+    "familyName": "Hubbard",
+    "wikipedia": "https://en.wikipedia.org/wiki/L._Ron_Hubbard",
+    "occupation": "Writer, founder of Scientology",
+    "achievements": [
+      "Founded the Church of Scientology",
+      "Prolific science fiction author"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Elbert Hubbard",
+    "givenNames": [
+      "Elbert",
+      "Green"
+    ],
+    "familyName": "Hubbard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
+    "occupation": "Writer, publisher, philosopher",
+    "achievements": [
+      "Founded the Roycroft Arts and Crafts community",
+      "Published influential works on philosophy and self-improvement"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1915
+  }
+]

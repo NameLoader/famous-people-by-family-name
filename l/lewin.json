@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Kurt Lewin",
+    "givenNames": [
+      "Kurt"
+    ],
+    "familyName": "Lewin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Lewin",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Pioneer of social psychology",
+      "Developed field theory",
+      "Influential in group dynamics and organizational behavior"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1947
+  }
+]

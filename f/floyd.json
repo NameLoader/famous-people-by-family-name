@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Floyd",
+    "givenNames": [
+      "George",
+      "Perry"
+    ],
+    "familyName": "Floyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Floyd",
+    "occupation": "Security Guard",
+    "achievements": [
+      "Became a symbol of the Black Lives Matter movement after his death in police custody sparked protests against racial injustice and police brutality worldwide."
+    ],
+    "yearBorn": 1973,
+    "yearDied": 2020
+  }
+]

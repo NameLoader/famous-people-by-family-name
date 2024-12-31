@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "George Box",
+    "givenNames": [
+      "George",
+      "Edward",
+      "Pelham"
+    ],
+    "familyName": "Box",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_E._P._Box",
+    "occupation": "Statistician",
+    "achievements": [
+      "Pioneer in the field of experimental design",
+      "Developed Box-Behnken designs for optimizing processes",
+      "Contributed significantly to quality control and industrial statistics"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2013
+  }
+]

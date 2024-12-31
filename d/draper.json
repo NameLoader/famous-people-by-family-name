@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Don Draper",
+    "givenNames": [
+      "Don",
+      "Donald",
+      "Francis"
+    ],
+    "familyName": "Draper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_Draper",
+    "occupation": "Fictional Advertising Executive",
+    "achievements": [
+      "Protagonist of the AMC television series Mad Men",
+      "Iconic character known for his charisma and troubled past"
+    ]
+  }
+]

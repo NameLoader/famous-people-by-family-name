@@ -19,8 +19,7 @@
   {
     "fullName": "Cynthia Powell Lennon",
     "givenNames": [
-      "Cynthia",
-      "Powell"
+      "Cynthia"
     ],
     "familyName": "Lennon",
     "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Lennon",
@@ -35,7 +34,9 @@
   {
     "fullName": "Julian Lennon",
     "givenNames": [
-      "Julian"
+      "Julian",
+      "Charles",
+      "John"
     ],
     "familyName": "Lennon",
     "wikipedia": "https://en.wikipedia.org/wiki/Julian_Lennon",
@@ -48,19 +49,18 @@
     "yearBorn": 1963
   },
   {
-    "fullName": "Yoko Ono Lennon",
+    "fullName": "Sean Ono Lennon",
     "givenNames": [
-      "Yoko",
-      "Ono"
+      "Sean",
+      "Taro"
     ],
     "familyName": "Lennon",
-    "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Ono",
-    "occupation": "Artist, musician, activist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Lennon",
+    "occupation": "Musician, singer-songwriter",
     "achievements": [
-      "Wife of John Lennon",
-      "Collaborated with John Lennon on music and art",
-      "Activist for peace and women's rights"
+      "Son of John Lennon and Yoko Ono",
+      "Collaborated with his mother on musical projects"
     ],
-    "yearBorn": 1933
+    "yearBorn": 1975
   }
 ]

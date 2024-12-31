@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Gregson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Gregson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gregson",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous British films during the 1940s and 1950s",
+      "Known for roles in classic films like 'The Lavender Hill Mob'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1973
+  }
+]

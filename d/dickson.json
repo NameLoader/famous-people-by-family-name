@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Dickson",
+    "givenNames": [
+      "William",
+      "Kennedy",
+      "Laurie"
+    ],
+    "familyName": "Dickson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Kennedy_Dickson",
+    "occupation": "Inventor, Kinetoscope pioneer",
+    "achievements": [
+      "Developed the Kinetoscope film viewing device",
+      "Key contributor to early motion picture technology at Thomas Edison's lab"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1935
+  }
+]

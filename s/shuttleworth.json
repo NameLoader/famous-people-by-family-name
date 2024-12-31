@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mark Shuttleworth",
+    "givenNames": [
+      "Mark",
+      "Richard"
+    ],
+    "familyName": "Shuttleworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Shuttleworth",
+    "occupation": "Entrepreneur, Astronaut",
+    "achievements": [
+      "Founder of Canonical Ltd. and Ubuntu Linux distribution",
+      "Second South African in space (2002)"
+    ],
+    "yearBorn": 1973
+  }
+]

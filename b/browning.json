@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Robert Browning",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Browning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Browning",
+    "occupation": "Poet",
+    "achievements": [
+      "Victorian Era Poet",
+      "Known for Dramatic Monologues",
+      "Works include 'My Last Duchess' and 'The Ring and the Book'"
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1889
+  },
+  {
+    "fullName": "Elizabeth Barrett Browning",
+    "givenNames": [
+      "Elizabeth",
+      "Barrett"
+    ],
+    "familyName": "Browning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning",
+    "occupation": "Poet",
+    "achievements": [
+      "Victorian Era Poet",
+      "Known for Sonnets from the Portuguese",
+      "Advocated for social justice and abolitionism"
+    ],
+    "yearBorn": 1806,
+    "yearDied": 1861
+  },
+  {
+    "fullName": "John Moses Browning",
+    "givenNames": [
+      "John",
+      "Moses"
+    ],
+    "familyName": "Browning",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Browning",
+    "occupation": "Inventor, Firearms Designer",
+    "achievements": [
+      "Designed iconic firearms like the M1911 pistol and Browning Automatic Rifle (BAR)",
+      "Considered one of history's most prolific firearm designers",
+      "Designs still in use today by militaries and law enforcement worldwide"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1926
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Mack",
+    "givenNames": [
+      "John",
+      "J"
+    ],
+    "familyName": "Mack",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_J._Mack",
+    "occupation": "Businessman, Former CEO of Morgan Stanley",
+    "achievements": [
+      "Led Morgan Stanley through the aftermath of the 9/11 attacks",
+      "Oversaw significant growth and expansion of the firm"
+    ],
+    "yearBorn": 1944
+  }
+]

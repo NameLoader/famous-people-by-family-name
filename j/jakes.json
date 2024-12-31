@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "T.D. Jakes",
+    "givenNames": [
+      "Thomas",
+      "Dexter"
+    ],
+    "familyName": "Jakes",
+    "wikipedia": "https://en.wikipedia.org/wiki/T._D._Jakes",
+    "occupation": "Bishop, Author, Filmmaker",
+    "achievements": [
+      "Founded The Potter's House megachurch in Dallas, Texas",
+      "Bestselling author of inspirational and self-help books",
+      "Produced and starred in films such as 'Woman Thou Art Loosed'"
+    ],
+    "yearBorn": 1957
+  }
+]

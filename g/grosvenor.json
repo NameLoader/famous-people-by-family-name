@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Hugh Grosvenor, 7th Duke of Westminster",
+    "givenNames": [
+      "Hugh",
+      "Richard",
+      "Louis"
+    ],
+    "familyName": "Grosvenor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Grosvenor,_7th_Duke_of_Westminster",
+    "occupation": "Aristocrat, Businessman",
+    "achievements": [
+      "Current Duke of Westminster and Head of the Grosvenor family.",
+      "Owns vast estates in the UK and internationally through the Grosvenor Group."
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Gerald Grosvenor, 6th Duke of Westminster",
+    "givenNames": [
+      "Gerald",
+      "Cavendish"
+    ],
+    "familyName": "Grosvenor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Grosvenor,_6th_Duke_of_Westminster",
+    "occupation": "Aristocrat, Businessman",
+    "achievements": [
+      "Preceded his son as Duke of Westminster.",
+      "Known for his philanthropy and contributions to various charities."
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2016
+  }
+]

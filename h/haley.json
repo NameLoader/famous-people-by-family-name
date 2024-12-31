@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Alex Haley",
+    "givenNames": [
+      "Alexander",
+      "Murray",
+      "Palmer"
+    ],
+    "familyName": "Haley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Haley",
+    "occupation": "Author",
+    "achievements": [
+      "Authored the Pulitzer Prize-winning novel Roots: The Saga of an American Family"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Nikki Haley",
+    "givenNames": [
+      "Nikki",
+      "Nimarata"
+    ],
+    "familyName": "Haley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikki_Haley",
+    "occupation": "Politician",
+    "achievements": [
+      "First female and first minority governor of South Carolina (2011-2017)",
+      "United States Ambassador to the United Nations (2017-2018)"
+    ],
+    "yearBorn": 1972
+  }
+]

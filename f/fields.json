@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "W. C. Fields",
+    "givenNames": [
+      "William",
+      "Claude"
+    ],
+    "familyName": "Fields",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._C._Fields",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Known for his sardonic wit and comedic persona.",
+      "Starred in films such as 'It's a Gift', 'The Bank Dick', and 'My Little Chickadee'."
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1946
+  }
+]

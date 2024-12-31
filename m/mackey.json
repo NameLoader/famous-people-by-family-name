@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Mackey",
+    "givenNames": [
+      "John",
+      "Powell"
+    ],
+    "familyName": "Mackey",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mackey_(businessman)",
+    "occupation": "Businessman",
+    "achievements": [
+      "Co-founder and former CEO of Whole Foods Market",
+      "Advocate for natural foods and sustainable agriculture"
+    ],
+    "yearBorn": 1958
+  }
+]

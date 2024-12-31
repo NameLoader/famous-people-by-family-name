@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Edith Wharton",
+    "givenNames": [
+      "Edith"
+    ],
+    "familyName": "Wharton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Wharton",
+    "occupation": "Novelist, Short Story Writer, Poet",
+    "achievements": [
+      "First woman to win the Pulitzer Prize for Fiction (The Age of Innocence)",
+      "Known for her insightful portrayals of upper-class American society in the late 19th and early 20th centuries",
+      "Author of acclaimed novels such as The House of Mirth, Ethan Frome, and The Custom of the Country"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Joseph Wharton",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Wharton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Wharton",
+    "occupation": "Industrialist, Financier, Philanthropist",
+    "achievements": [
+      "Founder of the Wharton School of the University of Pennsylvania",
+      "Developed innovative smelting processes for iron and other metals",
+      "Prominent financier and investor in various industries"
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1904
+  }
+]

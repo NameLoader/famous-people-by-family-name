@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Russell Brand",
+    "givenNames": [
+      "Russell",
+      "Edward"
+    ],
+    "familyName": "Brand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand",
+    "occupation": "Comedian, actor, writer",
+    "achievements": [
+      "Stand-up comedy career",
+      "Film roles in 'Forgetting Sarah Marshall' and 'Get Him to the Greek'",
+      "Author of several books",
+      "Advocate for social justice and political activism"
+    ],
+    "yearBorn": 1975
+  }
+]

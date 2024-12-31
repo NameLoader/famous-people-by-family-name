@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Lon Chaney Sr.",
+    "givenNames": [
+      "Lon",
+      "Leonidas",
+      "Frank"
+    ],
+    "familyName": "Chaney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lon_Chaney",
+    "occupation": "Actor",
+    "achievements": [
+      "Known as 'The Man of a Thousand Faces'",
+      "Pioneered special effects makeup in film",
+      "Starred in iconic silent horror films like 'The Phantom of the Opera' and 'The Hunchback of Notre Dame'"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Lon Chaney Jr.",
+    "givenNames": [
+      "Creighton",
+      "Tull"
+    ],
+    "familyName": "Chaney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lon_Chaney_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Son of Lon Chaney Sr.",
+      "Known for his roles in horror films like 'The Wolf Man', 'Frankenstein Meets the Wolf Man', and 'The Mummy's Ghost'"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1973
+  }
+]

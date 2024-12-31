@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "George Washington Carver",
+    "givenNames": [
+      "George",
+      "Washington"
+    ],
+    "familyName": "Carver",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington_Carver",
+    "occupation": "Agricultural scientist, inventor, educator",
+    "achievements": [
+      "Developed over 300 uses for peanuts",
+      "Promoted alternative crops to cotton",
+      "Improved agricultural practices in the Southern United States"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1943
+  }
+]

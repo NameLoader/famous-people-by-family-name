@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George S. Patton",
+    "givenNames": [
+      "George",
+      "Smith"
+    ],
+    "familyName": "Patton",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_S._Patton",
+    "occupation": "Military General",
+    "achievements": [
+      "Led the US Third Army in World War II",
+      "Known for his aggressive tactics and strong leadership"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1945
+  }
+]

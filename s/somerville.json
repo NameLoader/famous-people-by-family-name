@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mary Fairfax Somerville",
+    "givenNames": [
+      "Mary",
+      "Fairfax"
+    ],
+    "familyName": "Somerville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Somerville",
+    "occupation": "Scientist and writer",
+    "achievements": [
+      "Pioneering work in mathematics and physics",
+      "Author of popular science books that made complex subjects accessible to a wider audience"
+    ],
+    "yearBorn": 1780,
+    "yearDied": 1872
+  }
+]

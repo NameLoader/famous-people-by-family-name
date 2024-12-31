@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jack Nicholson",
+    "givenNames": [
+      "John",
+      "Joseph"
+    ],
+    "familyName": "Nicholson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Nicholson",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Three-time Academy Award winner",
+      "Twelve-time Academy Award nominee",
+      "Renowned for roles in films like 'One Flew Over the Cuckoo's Nest', 'Chinatown', and 'The Shining'"
+    ],
+    "yearBorn": 1937
+  }
+]

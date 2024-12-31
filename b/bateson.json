@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1861,
     "yearDied": 1926
+  },
+  {
+    "fullName": "Gregory Bateson",
+    "givenNames": [
+      "Gregory"
+    ],
+    "familyName": "Bateson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Bateson",
+    "occupation": "Anthropologist, ethnologist, social scientist",
+    "achievements": [
+      "Pioneer in cybernetics and systems theory",
+      "Known for his work on communication, learning, and the relationship between mind and body"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1980
   }
 ]

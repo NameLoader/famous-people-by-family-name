@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jim Cramer",
+    "givenNames": [
+      "James",
+      "Joseph"
+    ],
+    "familyName": "Cramer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Cramer",
+    "occupation": "Financial commentator, television personality",
+    "achievements": [
+      "Host of CNBC's Mad Money",
+      "Co-founder of TheStreet.com"
+    ],
+    "yearBorn": 1955
+  }
+]

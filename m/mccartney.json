@@ -2,6 +2,7 @@
   {
     "fullName": "Sir Paul McCartney",
     "givenNames": [
+      "James",
       "Paul"
     ],
     "familyName": "McCartney",
@@ -14,5 +15,52 @@
       "Academy Award recipient"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Linda McCartney",
+    "givenNames": [
+      "Linda",
+      "Louise"
+    ],
+    "familyName": "McCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linda_McCartney",
+    "occupation": "Photographer, Musician, Animal Rights Activist",
+    "achievements": [
+      "Wife of Paul McCartney",
+      "Member of the band Wings",
+      "Advocate for vegetarianism and animal welfare"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Mary McCartney",
+    "givenNames": [
+      "Mary",
+      "Anna"
+    ],
+    "familyName": "McCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_McCartney",
+    "occupation": "Photographer, Director, Cookbook Author",
+    "achievements": [
+      "Daughter of Paul and Linda McCartney",
+      "Known for her photographic work focusing on food and fashion"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Stella McCartney",
+    "givenNames": [
+      "Stella",
+      "Nina"
+    ],
+    "familyName": "McCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stella_McCartney",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Daughter of Paul and Linda McCartney",
+      "Founder of her own fashion house known for its sustainable practices and ethical sourcing"
+    ],
+    "yearBorn": 1971
   }
 ]

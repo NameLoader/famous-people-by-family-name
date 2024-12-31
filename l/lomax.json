@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "John A. Lomax",
+    "givenNames": [
+      "John",
+      "Avery"
+    ],
+    "familyName": "Lomax",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lomax",
+    "occupation": "Folklorist, musicologist",
+    "achievements": [
+      "Collected and preserved thousands of folk songs and ballads.",
+      "Pioneered the field of American folklore studies."
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Alan Lomax",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Lomax",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Lomax",
+    "occupation": "Folklorist, ethnomusicologist, archivist",
+    "achievements": [
+      "Recorded and documented folk music from around the world.",
+      "Developed innovative recording techniques and archival methods.",
+      "Influenced generations of musicians and scholars."
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2002
+  }
+]

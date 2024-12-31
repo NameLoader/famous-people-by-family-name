@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Stead",
+    "givenNames": [
+      "William",
+      "Thomas"
+    ],
+    "familyName": "Stead",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._T._Stead",
+    "occupation": "Journalist, writer, social reformer",
+    "achievements": [
+      "Pioneer of investigative journalism.",
+      "Exposed the horrors of child prostitution in his book 'The Maiden Tribute'.",
+      "Campaigned for social reform and international peace."
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1912
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ty Cobb",
+    "givenNames": [
+      "Tyrus",
+      "Raymond"
+    ],
+    "familyName": "Cobb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ty_Cobb",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "Considered one of the greatest baseball players of all time.",
+      "Held numerous Major League Baseball records, including most career batting average (.366)",
+      "Inducted into the Baseball Hall of Fame in 1936"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1961
+  }
+]

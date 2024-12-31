@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Nuttall",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Nuttall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Nuttall",
+    "occupation": "Botanist, Zoologist",
+    "achievements": [
+      "Explored the American West and collected specimens for the Linnean Society.",
+      "Described numerous plant and animal species."
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1859
+  }
+]

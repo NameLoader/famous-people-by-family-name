@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Johann Friedrich Gall",
+    "givenNames": [
+      "Johann",
+      "Friedrich"
+    ],
+    "familyName": "Gall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Joseph_Gall",
+    "occupation": "Physician, anatomist, and physiologist",
+    "achievements": [
+      "Pioneer of phrenology, a now-discredited theory that localized specific mental faculties to different parts of the brain"
+    ],
+    "yearBorn": 1758,
+    "yearDied": 1828
+  }
+]

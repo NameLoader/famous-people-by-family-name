@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Rachel Welch",
+    "givenNames": [
+      "Raquel"
+    ],
+    "familyName": "Welch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raquel_Welch",
+    "occupation": "Actress",
+    "achievements": [
+      "Iconic sex symbol of the 1960s and 1970s",
+      "Starred in films like 'Fantastic Voyage' and 'One Million Years B.C.'",
+      "Won a Golden Globe Award for Best Motion Picture Actress – Musical or Comedy"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "James Welch",
+    "givenNames": [
+      "James",
+      "Phillip"
+    ],
+    "familyName": "Welch",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Welch_(writer)",
+    "occupation": "Author",
+    "achievements": [
+      "Acclaimed Native American novelist and poet",
+      "Known for his works exploring themes of identity, culture, and history",
+      "Notable novels include 'Fools Crow' and 'The Death of Jim Loney'"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2003
+  }
+]

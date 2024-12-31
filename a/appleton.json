@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edward Appleton",
+    "givenNames": [
+      "Edward",
+      "Victor"
+    ],
+    "familyName": "Appleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Victor_Appleton",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovered the Appleton layer (a region of ionized particles in Earth's atmosphere).",
+      "Nobel Prize in Physics in 1947 for his work on the ionosphere."
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1965
+  }
+]

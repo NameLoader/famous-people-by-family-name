@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "John Philip Kemble",
+    "givenNames": [
+      "John",
+      "Philip"
+    ],
+    "familyName": "Kemble",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Philip_Kemble",
+    "occupation": "Actor, Manager",
+    "achievements": [
+      "Prominent actor of the late 18th and early 19th centuries",
+      "Known for his Shakespearean roles and his role in establishing the Covent Garden Theatre as a leading theatrical venue"
+    ],
+    "yearBorn": 1757,
+    "yearDied": 1822
+  },
+  {
+    "fullName": "Frances Kemble",
+    "givenNames": [
+      "Frances",
+      "Anne"
+    ],
+    "familyName": "Kemble",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fanny_Kemble",
+    "occupation": "Actress, Writer",
+    "achievements": [
+      "Known for her stage performances and her insightful travel writings",
+      "Her diaries and letters offer valuable perspectives on American slavery and Southern society in the antebellum era"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1893
+  }
+]

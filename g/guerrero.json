@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Pedro Guerrero",
+    "givenNames": [
+      "Pedro"
+    ],
+    "familyName": "Guerrero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Guerrero_(baseball,_born_1956)",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Played Major League Baseball for 14 seasons.",
+      "Won a World Series with the Los Angeles Dodgers in 1981."
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2018
+  }
+]

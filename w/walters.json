@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Barbara Walters",
+    "givenNames": [
+      "Barbara",
+      "Jill"
+    ],
+    "familyName": "Walters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Walters",
+    "occupation": "Journalist, Broadcaster",
+    "achievements": [
+      "First female co-anchor of a network evening news program (ABC Evening News)",
+      "Creator and host of the talk shows 'The Today Show'",
+      "'20/20'"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2022
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Howard Pyle",
+    "givenNames": [
+      "Howard"
+    ],
+    "familyName": "Pyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Pyle",
+    "occupation": "Illustrator, Author",
+    "achievements": [
+      "Known for his historical illustrations and adventure novels",
+      "Influenced generations of artists and writers"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1911
+  }
+]

@@ -2,7 +2,10 @@
   {
     "fullName": "Fritz Lang",
     "givenNames": [
-      "Fritz"
+      "Fritz",
+      "Friedrich",
+      "Christian",
+      "Anton"
     ],
     "familyName": "Lang",
     "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Lang",
@@ -14,5 +17,20 @@
     ],
     "yearBorn": 1890,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Andrew Lang",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Lang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Lang",
+    "occupation": "Scottish poet, novelist, literary critic, and anthropologist",
+    "achievements": [
+      "Known for his collections of fairy tales, including 'The Blue Fairy Book'",
+      "Contributed to the study of folklore and mythology"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1912
   }
 ]

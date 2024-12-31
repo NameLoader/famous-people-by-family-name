@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dale Jarrett",
+    "givenNames": [
+      "Dale",
+      "Arnold"
+    ],
+    "familyName": "Jarrett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dale_Jarrett",
+    "occupation": "NASCAR driver",
+    "achievements": [
+      "Won the Daytona 500 three times (1993, 1996, and 2000)",
+      "NASCAR Winston Cup Series champion in 1999"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Jeff Jarrett",
+    "givenNames": [
+      "Jeffrey",
+      "Leonard"
+    ],
+    "familyName": "Jarrett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Jarrett",
+    "occupation": "Professional wrestler, promoter",
+    "achievements": [
+      "Six-time WCW World Heavyweight Champion",
+      "Four-time TNA World Heavyweight Champion",
+      "Founder of Total Nonstop Action Wrestling (TNA)"
+    ],
+    "yearBorn": 1967
+  }
+]

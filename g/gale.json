@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Gale",
+    "givenNames": [
+      "William",
+      "Bill"
+    ],
+    "familyName": "Gale",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_G._Gale",
+    "occupation": "Economist",
+    "achievements": [
+      "Senior fellow at the Brookings Institution.",
+      "Expert in tax policy and public finance."
+    ],
+    "yearBorn": 1950
+  }
+]

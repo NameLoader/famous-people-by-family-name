@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nick Leeson",
+    "givenNames": [
+      "Nicholas",
+      "William"
+    ],
+    "familyName": "Leeson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Leeson",
+    "occupation": "Trader, Author",
+    "achievements": [
+      "Brought down Barings Bank with unauthorized trading",
+      "Author of the book 'Rogue Trader'"
+    ],
+    "yearBorn": 1967
+  }
+]

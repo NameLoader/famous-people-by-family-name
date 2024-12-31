@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alicia Keys",
+    "givenNames": [
+      "Alicia"
+    ],
+    "familyName": "Keys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Keys",
+    "occupation": "Singer, songwriter, actress, record producer",
+    "achievements": [
+      "15 Grammy Awards",
+      "Successful music career with hits like 'Fallin'' and 'No One'",
+      "Activism in various social causes"
+    ],
+    "yearBorn": 1981
+  }
+]

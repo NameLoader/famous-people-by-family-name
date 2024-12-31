@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Jack Kilby",
+    "givenNames": [
+      "Jack",
+      "St.",
+      "Clair"
+    ],
+    "familyName": "Kilby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Kilby",
+    "occupation": "Electrical engineer",
+    "achievements": [
+      "Invented the integrated circuit (microchip)",
+      "Won the Nobel Prize in Physics in 2000"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2005
+  }
+]

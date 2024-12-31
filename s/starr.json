@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ringo Starr",
+    "givenNames": [
+      "Ringo"
+    ],
+    "familyName": "Starr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr",
+    "occupation": "Musician, Singer, Songwriter, Actor",
+    "achievements": [
+      "Drummer for the Beatles",
+      "Successful solo career",
+      "Rock and Roll Hall of Fame inductee"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Kevin Starr",
+    "givenNames": [
+      "Kevin",
+      "Owen"
+    ],
+    "familyName": "Starr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Starr",
+    "occupation": "Historian",
+    "achievements": [
+      "Leading scholar of California history",
+      "Author of numerous books on the state's past",
+      "Served as State Librarian of California"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2017
+  }
+]

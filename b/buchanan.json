@@ -17,7 +17,8 @@
   {
     "fullName": "Patrick Buchanan",
     "givenNames": [
-      "Patrick"
+      "Patrick",
+      "Joseph"
     ],
     "familyName": "Buchanan",
     "wikipedia": "https://en.wikipedia.org/wiki/Pat_Buchanan",
@@ -27,5 +28,31 @@
       "Author of numerous books on politics and history"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "John Buchanan",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Buchanan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Buchanan_(Cambuslang_footballer)",
+    "occupation": "Football player",
+    "achievements": [
+      "Scottish international footballer"
+    ]
+  },
+  {
+    "fullName": "George Buchanan",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Buchanan",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Buchanan",
+    "occupation": "Scottish theologian and philosopher",
+    "achievements": [
+      "Tutor to King James VI of Scotland"
+    ],
+    "yearBorn": 1506,
+    "yearDied": 1582
   }
 ]

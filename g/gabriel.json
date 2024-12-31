@@ -1,16 +1,16 @@
 [
   {
-    "fullName": "Gabrielle Union-Wade",
+    "fullName": "Pierre Gabriel",
     "givenNames": [
-      "Gabrielle"
+      "Pierre"
     ],
     "familyName": "Gabriel",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gabrielle_Union",
-    "occupation": "Actress, Author",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Gabriel",
+    "occupation": "Mathematician",
     "achievements": [
-      "Known for roles in films like 'Bring It On' and 'Bad Boys II'",
-      "Activist for LGBTQ+ rights and racial justice"
+      "Made significant contributions to the field of category theory.",
+      "Known for his work on Gabriel's theorem and representability theorems."
     ],
-    "yearBorn": 1972
+    "yearBorn": 1938
   }
 ]

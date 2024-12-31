@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "John Hobson",
+    "givenNames": [
+      "John",
+      "Atkinson"
+    ],
+    "familyName": "Hobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._A._Hobson",
+    "occupation": "Economist",
+    "achievements": [
+      "Developed the theory of imperialsim",
+      "Known for his work on the economic causes of war"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1940
+  },
+  {
+    "fullName": "William Hobson",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Hobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Hobson",
+    "occupation": "British colonial administrator and diplomat",
+    "achievements": [
+      "First Governor of New Zealand"
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1842
+  }
+]

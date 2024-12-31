@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Prescott",
+    "givenNames": [
+      "John",
+      "Leslie"
+    ],
+    "familyName": "Prescott",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Prescott",
+    "occupation": "Politician",
+    "achievements": [
+      "Deputy Prime Minister of the United Kingdom"
+    ],
+    "yearBorn": 1938
+  }
+]

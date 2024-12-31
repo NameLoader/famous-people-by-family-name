@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jack London",
+    "givenNames": [
+      "Jack"
+    ],
+    "familyName": "London",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_London",
+    "occupation": "Author, Journalist",
+    "achievements": [
+      "Wrote classics like The Call of the Wild and White Fang",
+      "Known for his adventure stories and social commentary"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1916
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "E. M. Forster",
+    "givenNames": [
+      "Edward",
+      "Morgan"
+    ],
+    "familyName": "Forster",
+    "wikipedia": "https://en.wikipedia.org/wiki/E._M._Forster",
+    "occupation": "Novelist, essayist, short story writer",
+    "achievements": [
+      "Authored acclaimed novels like 'A Room with a View', 'Howards End', and 'A Passage to India'",
+      "Known for his exploration of themes like class, social convention, and personal relationships"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1970
+  }
+]

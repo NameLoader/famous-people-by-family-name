@@ -11,5 +11,21 @@
       "National Book Award for Fiction"
     ],
     "yearBorn": 1950
+  },
+  {
+    "fullName": "Joe Frazier",
+    "givenNames": [
+      "Joseph",
+      "William"
+    ],
+    "familyName": "Frazier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Frazier",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "World Heavyweight Champion",
+      "Olympic Gold Medalist (Heavyweight)"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2011
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Armand Hammer",
+    "givenNames": [
+      "Armand"
+    ],
+    "familyName": "Hammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armand_Hammer",
+    "occupation": "Businessman, philanthropist",
+    "achievements": [
+      "Built Occidental Petroleum into a major multinational corporation",
+      "Art collector and philanthropist",
+      "Controversial figure due to his ties with the Soviet Union"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Michael Hammer",
+    "givenNames": [
+      "Michael",
+      "Martin"
+    ],
+    "familyName": "Hammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Martin_Hammer",
+    "occupation": "Management consultant, author",
+    "achievements": [
+      "Pioneer of reengineering business processes",
+      "Co-authored the book 'Reengineering the Corporation'",
+      "Influential thinker in the field of management"
+    ],
+    "yearBorn": 1948
+  }
+]

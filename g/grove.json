@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Andrew Grove",
+    "givenNames": [
+      "Andrew",
+      "Stephen"
+    ],
+    "familyName": "Grove",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Grove",
+    "occupation": "Business executive, engineer",
+    "achievements": [
+      "Co-founder and former CEO of Intel Corporation",
+      "Key figure in the development of the x86 microprocessor architecture",
+      "Author of influential business books like 'High Output Management'"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2016
+  }
+]
