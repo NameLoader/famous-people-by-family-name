@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alfred Noyes",
+    "givenNames": [
+      "Alfred"
+    ],
+    "familyName": "Noyes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Noyes",
+    "occupation": "English poet and novelist",
+    "achievements": [
+      "Known for his romantic and lyrical poetry",
+      "Wrote popular works such as 'The Highwayman' and 'Drake's Drum'",
+      "Authored novels and historical biographies"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1958
+  }
+]

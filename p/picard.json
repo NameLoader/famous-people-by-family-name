@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jean-Luc Picard",
+    "givenNames": [
+      "Jean-Luc"
+    ],
+    "familyName": "Picard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Luc_Picard",
+    "occupation": "Fictional Character (Starfleet Captain)",
+    "achievements": [
+      "Captain of the USS Enterprise-D and USS Enterprise-E",
+      "Explorer and diplomat",
+      "Renowned for his integrity, intelligence, and diplomatic skills"
+    ],
+    "yearBorn": 2305
+  }
+]

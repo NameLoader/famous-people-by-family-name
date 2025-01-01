@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Alastair Pilkington",
+    "givenNames": [
+      "Alastair"
+    ],
+    "familyName": "Pilkington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alastair_Pilkington",
+    "occupation": "Inventor, Engineer",
+    "achievements": [
+      "Invented the float glass process, revolutionizing glass manufacturing.",
+      "Knighted in 1971 for services to industry."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2005
+  }
+]

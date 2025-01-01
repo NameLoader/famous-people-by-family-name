@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Adam Driver",
+    "givenNames": [
+      "Adam",
+      "Douglas"
+    ],
+    "familyName": "Driver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for two Academy Awards and a Tony Award.",
+      "Known for his roles in films such as 'Star Wars: The Force Awakens' and 'Marriage Story'."
+    ],
+    "yearBorn": 1983
+  }
+]

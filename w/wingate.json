@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Orde Wingate",
+    "givenNames": [
+      "Orde",
+      "Charles"
+    ],
+    "familyName": "Wingate",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orde_Wingate",
+    "occupation": "Military Officer",
+    "achievements": [
+      "British Army officer known for unconventional tactics during World War II",
+      "Led the Chindits in a series of long-range penetration operations behind Japanese lines in Burma"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1944
+  }
+]

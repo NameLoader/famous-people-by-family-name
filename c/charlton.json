@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Charlton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Charlton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Charlton",
+    "occupation": "Footballer and Manager",
+    "achievements": [
+      "World Cup winner with England (1966)",
+      "Won the FA Cup with Leeds United (1972)",
+      "Successful manager of Middlesbrough and Sheffield Wednesday",
+      "Recipient of the MBE"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2020
+  }
+]

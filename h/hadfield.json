@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Christopher Hadfield",
+    "givenNames": [
+      "Chris",
+      "Austin"
+    ],
+    "familyName": "Hadfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Hadfield",
+    "occupation": "Astronaut, musician",
+    "achievements": [
+      "First Canadian to walk in space",
+      "Commanded the International Space Station",
+      "Popularized space exploration through social media"
+    ],
+    "yearBorn": 1959
+  }
+]

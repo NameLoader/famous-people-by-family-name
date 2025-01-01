@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Rudolf Steiner",
+    "givenNames": [
+      "Rudolf",
+      "Joseph",
+      "Lorenz"
+    ],
+    "familyName": "Steiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Steiner",
+    "occupation": "Philosopher, esotericist, social reformer, architect and author",
+    "achievements": [
+      "Founder of Anthroposophy",
+      "Developed Waldorf education",
+      "Influenced biodynamic agriculture and other social movements"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1925
+  },
+  {
+    "fullName": "George Steiner",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Steiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Steiner",
+    "occupation": "Literary critic, essayist, novelist",
+    "achievements": [
+      "Won the National Book Award for 'After Babel'",
+      "Known for his influential essays on literature and culture"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2020
+  }
+]

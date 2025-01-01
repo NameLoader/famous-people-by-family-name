@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "John Bowers",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Bowers",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bowers_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Silent film actor",
+      "Appeared in over 100 films"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1936
+  },
+  {
+    "fullName": "Robert Bowers",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Bowers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting",
+    "occupation": "Perpetrator of the Pittsburgh synagogue shooting",
+    "achievements": [
+      "Convicted of 63 federal crimes for the deadliest attack on Jews in U.S. history"
+    ],
+    "yearBorn": 1976
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Charlotte Perkins Gilman",
+    "givenNames": [
+      "Charlotte",
+      "Anna",
+      "Perkins"
+    ],
+    "familyName": "Gilman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+    "occupation": "Writer, feminist",
+    "achievements": [
+      "Authored The Yellow Wallpaper, a seminal work of feminist literature",
+      "Advocate for women's rights and social reform"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1935
+  },
+  {
+    "fullName": "Daniel Gilman",
+    "givenNames": [
+      "Daniel",
+      "Coit"
+    ],
+    "familyName": "Gilman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Coit_Gilman",
+    "occupation": "Educator, academic administrator",
+    "achievements": [
+      "First president of the University of California, Berkeley",
+      "Prominent figure in higher education reform"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1908
+  }
+]

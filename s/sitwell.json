@@ -2,7 +2,8 @@
   {
     "fullName": "Sir Sacheverell Sitwell",
     "givenNames": [
-      "Sacheverell"
+      "Sacheverell",
+      "Reresby"
     ],
     "familyName": "Sitwell",
     "wikipedia": "https://en.wikipedia.org/wiki/Sacheverell_Sitwell",
@@ -14,5 +15,40 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1988
+  },
+  {
+    "fullName": "Edith Sitwell",
+    "givenNames": [
+      "Edith",
+      "Louisa"
+    ],
+    "familyName": "Sitwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Sitwell",
+    "occupation": "Poet, Critic",
+    "achievements": [
+      "Known for her unconventional and experimental poetry",
+      "Published numerous collections of poetry and critical works",
+      "Collaborated with composers like William Walton"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Osbert Sitwell",
+    "givenNames": [
+      "Osbert",
+      "Francis",
+      "Sacheverell"
+    ],
+    "familyName": "Sitwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osbert_Sitwell",
+    "occupation": "Writer, Critic, Poet",
+    "achievements": [
+      "Prolific writer known for his essays, biographies, and poetry",
+      "Instrumental in promoting avant-garde art and literature",
+      "Closely associated with the Sitwell literary salon"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1969
   }
 ]

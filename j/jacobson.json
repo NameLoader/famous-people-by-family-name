@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Howard Jacobson",
+    "givenNames": [
+      "Howard",
+      "Eric"
+    ],
+    "familyName": "Jacobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Jacobson",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Man Booker Prize winner (2010)",
+      "Known for satirical and darkly humorous novels"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "David Jacobson",
+    "givenNames": [
+      "David",
+      "Cary"
+    ],
+    "familyName": "Jacobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_C._Jacobson",
+    "occupation": "American diplomat",
+    "achievements": [
+      "Served as U.S. Ambassador to Canada (2009-2013)"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Mark Jacobson",
+    "givenNames": [
+      "Mark",
+      "Zachary"
+    ],
+    "familyName": "Jacobson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Z._Jacobson",
+    "occupation": "American engineer and environmental activist",
+    "achievements": [
+      "Developed the '100% wind, water and solar' energy plan"
+    ]
+  }
+]

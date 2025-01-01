@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Henry Rollins",
+    "givenNames": [
+      "Henry",
+      "Lawrence"
+    ],
+    "familyName": "Rollins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Rollins",
+    "occupation": "Musician, Actor, Writer",
+    "achievements": [
+      "Frontman for the punk rock band Black Flag",
+      "Successful solo music career",
+      "Prolific writer and spoken word performer",
+      "Actor in films and television shows"
+    ],
+    "yearBorn": 1961
+  }
+]

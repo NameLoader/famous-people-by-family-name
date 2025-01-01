@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Underhill",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Underhill",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Underhill_(captain)",
+    "occupation": "Soldier",
+    "achievements": [
+      "English Puritan soldier and colonial leader in Connecticut",
+      "Participated in the Pequot War"
+    ],
+    "yearBorn": 1603,
+    "yearDied": 1672
+  }
+]

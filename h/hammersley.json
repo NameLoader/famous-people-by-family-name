@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Hammersley",
+    "givenNames": [
+      "John",
+      "Michael"
+    ],
+    "familyName": "Hammersley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hammersley",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Contributions to probability theory and statistical mechanics",
+      "Known for Hammersley-Clifford theorem and work on percolation theory"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2008
+  }
+]

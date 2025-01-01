@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Wain",
+    "givenNames": [
+      "John",
+      "Barrington"
+    ],
+    "familyName": "Wain",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wain",
+    "occupation": "Novelist, Poet, Critic",
+    "achievements": [
+      "Author of novels like 'Hurry on Down'",
+      "Known for his poetry and literary criticism"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1994
+  }
+]

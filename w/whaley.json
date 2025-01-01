@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Whaley",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Whaley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Whaley",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Built the Whaley House in San Diego, California, now a museum and landmark.",
+      "Served as a judge and member of the California State Assembly."
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1890
+  }
+]

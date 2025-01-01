@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Cleland",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Cleland",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Cleland",
+    "occupation": "Writer",
+    "achievements": [
+      "Author of the controversial erotic novel 'Fanny Hill'",
+      "Contributed to the development of the English novel genre"
+    ],
+    "yearBorn": 1709,
+    "yearDied": 1789
+  }
+]

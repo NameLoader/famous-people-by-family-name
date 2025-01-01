@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Cody Bellinger",
+    "givenNames": [
+      "Cody",
+      "James"
+    ],
+    "familyName": "Bellinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cody_Bellinger",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "National League Rookie of the Year (2017)",
+      "National League MVP (2019)",
+      "World Series champion (2020)"
+    ],
+    "yearBorn": 1995
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Primrose",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Primrose",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Primrose",
+    "occupation": "Violist",
+    "achievements": [
+      "Highly regarded violist known for his virtuosity and tone.",
+      "Principal violist of the NBC Symphony Orchestra under Arturo Toscanini."
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1982
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Alexander Nisbet",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Nisbet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Nisbet",
+    "occupation": "Scottish historian and antiquary",
+    "achievements": [
+      "Authored 'A System of Heraldry'",
+      "Served as Librarian to the Advocates' Library in Edinburgh"
+    ],
+    "yearBorn": 1657,
+    "yearDied": 1725
+  },
+  {
+    "fullName": "Robert Nisbet",
+    "givenNames": [
+      "Robert",
+      "Alexander"
+    ],
+    "familyName": "Nisbet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Nisbet",
+    "occupation": "American sociologist",
+    "achievements": [
+      "Pioneer in the field of social theory and sociology",
+      "Authored influential works on community, tradition, and bureaucracy"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1996
+  }
+]

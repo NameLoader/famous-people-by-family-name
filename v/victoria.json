@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Queen Victoria",
+    "givenNames": [
+      "Alexandrina"
+    ],
+    "familyName": "Victoria",
+    "wikipedia": "https://en.wikipedia.org/wiki/Queen_Victoria",
+    "occupation": "Monarch",
+    "achievements": [
+      "Longest-reigning British monarch",
+      "Oversaw the expansion of the British Empire",
+      "Era known as the Victorian era"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1901
+  }
+]

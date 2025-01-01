@@ -2,7 +2,8 @@
   {
     "fullName": "Mervyn Peake",
     "givenNames": [
-      "Mervyn"
+      "Mervyn",
+      "Laurence"
     ],
     "familyName": "Peake",
     "wikipedia": "https://en.wikipedia.org/wiki/Mervyn_Peake",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1911,
     "yearDied": 1968
+  },
+  {
+    "fullName": "Tim Peake",
+    "givenNames": [
+      "Timothy",
+      "Nigel"
+    ],
+    "familyName": "Peake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Peake",
+    "occupation": "Astronaut, Military Pilot",
+    "achievements": [
+      "First British astronaut to board the International Space Station.",
+      "Served as a flight engineer on Expedition 46/47."
+    ],
+    "yearBorn": 1972
   }
 ]

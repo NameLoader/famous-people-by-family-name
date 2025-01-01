@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mike Bostock",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Bostock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Bostock",
+    "occupation": "Data visualization expert, software engineer",
+    "achievements": [
+      "Creator of the D3.js JavaScript library for data visualization",
+      "Advocate for open-source software and data literacy",
+      "Author of interactive visualizations for The New York Times and other publications"
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "John Broome",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Broome",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Broome_(philosopher)",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Professor of Philosophy at the University of Oxford",
+      "Known for his work in ethics, epistemology, and metaphysics"
+    ]
+  }
+]

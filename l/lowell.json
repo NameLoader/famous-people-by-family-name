@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "James Russell Lowell",
+    "givenNames": [
+      "James",
+      "Russell"
+    ],
+    "familyName": "Lowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Russell_Lowell",
+    "occupation": "Poet, essayist, diplomat, and critic",
+    "achievements": [
+      "Edited the Atlantic Monthly magazine",
+      "Wrote influential poetry collections like 'A Fable for Critics' and 'The Vision of Sir Launfal'",
+      "Served as U.S. Minister to Spain and the United Kingdom"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Amy Lowell",
+    "givenNames": [
+      "Amy",
+      "Lawrence"
+    ],
+    "familyName": "Lowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amy_Lowell",
+    "occupation": "Poet and literary critic",
+    "achievements": [
+      "Won the Pulitzer Prize for Poetry in 1926 (posthumously) for her collection 'Men, Women, and Ghosts'",
+      "Championed Imagist poetry",
+      "Published influential critical works like 'Six French Poets'"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1925
+  },
+  {
+    "fullName": "Percival Lowell",
+    "givenNames": [
+      "Percival"
+    ],
+    "familyName": "Lowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Percival_Lowell",
+    "occupation": "Astronomer, mathematician, and author",
+    "achievements": [
+      "Popularized the idea of canals on Mars, though later disproven",
+      "Founded Lowell Observatory in Arizona",
+      "Authored books on astronomy and planetary science"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1916
+  }
+]

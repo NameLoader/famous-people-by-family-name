@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "William Collingwood",
+    "givenNames": [
+      "William",
+      "Gershom"
+    ],
+    "familyName": "Collingwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._G._Collingwood",
+    "occupation": "Artist, writer, art historian",
+    "achievements": [
+      "Known for his landscape paintings and watercolors",
+      "Authored books on art history and folklore"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1932
+  },
+  {
+    "fullName": "George Collingwood",
+    "givenNames": [
+      "Robin",
+      "George"
+    ],
+    "familyName": "Collingwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/R._G._Collingwood",
+    "occupation": "Philosopher, historian",
+    "achievements": [
+      "Influential philosopher of history",
+      "Developed the concept of 'historical imagination'"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1943
+  }
+]

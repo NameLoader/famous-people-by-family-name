@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rufus Wainwright",
+    "givenNames": [
+      "Rufus",
+      "McGarrigle"
+    ],
+    "familyName": "Wainwright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufus_Wainwright",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award nominee",
+      "Known for his operatic vocal style and theatrical performances"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Loudon Wainwright III",
+    "givenNames": [
+      "Loudon",
+      "Snowden",
+      "III"
+    ],
+    "familyName": "Wainwright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Loudon_Wainwright_III",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner for Best Traditional Folk Album",
+      "Known for his satirical and humorous songwriting"
+    ],
+    "yearBorn": 1946
+  }
+]

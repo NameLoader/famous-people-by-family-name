@@ -2,7 +2,8 @@
   {
     "fullName": "Thomas Kuhn",
     "givenNames": [
-      "Thomas"
+      "Thomas",
+      "Samuel"
     ],
     "familyName": "Kuhn",
     "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kuhn",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1922,
     "yearDied": 1996
+  },
+  {
+    "fullName": "John Kuhn",
+    "givenNames": [
+      "John",
+      "Allen"
+    ],
+    "familyName": "Kuhn",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Kuhn",
+    "occupation": "Professional Football Player",
+    "achievements": [
+      "Played fullback for the Green Bay Packers and other NFL teams",
+      "Won Super Bowl XLV with the Green Bay Packers"
+    ],
+    "yearBorn": 1982
   }
 ]

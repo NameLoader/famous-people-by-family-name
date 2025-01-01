@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Michael Flanders",
+    "givenNames": [
+      "Michael",
+      "Henry"
+    ],
+    "familyName": "Flanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Flanders",
+    "occupation": "Actor, writer, comedian",
+    "achievements": [
+      "Part of the comedy duo Flanders and Swann",
+      "Wrote and performed popular musical revues"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1988
+  }
+]

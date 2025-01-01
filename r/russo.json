@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Anthony Russo",
+    "givenNames": [
+      "Anthony"
+    ],
+    "familyName": "Russo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russo_brothers",
+    "occupation": "Film director, producer, screenwriter",
+    "achievements": [
+      "Directed films in the Marvel Cinematic Universe including 'Captain America: The Winter Soldier', 'Captain America: Civil War', 'Avengers: Infinity War' and 'Avengers: Endgame'"
+    ]
+  },
+  {
+    "fullName": "Vincent Russo",
+    "givenNames": [
+      "Vincent",
+      "James"
+    ],
+    "familyName": "Russo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vince_Russo",
+    "occupation": "Professional wrestler, wrestling promoter",
+    "achievements": [
+      "Known for his time in World Wrestling Federation (WWF) as 'Goodfather'"
+    ],
+    "yearBorn": 1961
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sydney Greenstreet",
+    "givenNames": [
+      "Sydney",
+      "Hughes"
+    ],
+    "familyName": "Greenstreet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Greenstreet",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in classic films like 'The Maltese Falcon' and 'Casablanca'"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1954
+  }
+]

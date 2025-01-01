@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Antonio Moreno",
+    "givenNames": [
+      "Antonio"
+    ],
+    "familyName": "Moreno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Moreno",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous silent and early sound films.",
+      "Known for his romantic roles."
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Rita Moreno",
+    "givenNames": [
+      "Rita"
+    ],
+    "familyName": "Moreno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rita_Moreno",
+    "occupation": "Actress, Singer, Dancer",
+    "achievements": [
+      "EGOT winner (Emmy, Grammy, Oscar, Tony Awards)",
+      "Known for her role as Anita in 'West Side Story'",
+      "Advocate for Latino representation in Hollywood"
+    ],
+    "yearBorn": 1931
+  }
+]

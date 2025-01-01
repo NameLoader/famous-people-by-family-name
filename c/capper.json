@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arthur Capper",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Capper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Capper",
+    "occupation": "Politician, Journalist",
+    "achievements": [
+      "Served as a United States Senator from Kansas (1919-1949)",
+      "Advocated for farmers' rights and rural electrification"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1951
+  }
+]

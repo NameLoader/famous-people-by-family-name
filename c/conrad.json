@@ -14,5 +14,18 @@
     ],
     "yearBorn": 1930,
     "yearDied": 2020
+  },
+  {
+    "fullName": "David Conrad",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Conrad",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Conrad",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in television series like 'Relativity' and 'Ghost Whisperer'."
+    ],
+    "yearBorn": 1967
   }
 ]

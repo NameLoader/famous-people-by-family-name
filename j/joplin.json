@@ -14,5 +14,22 @@
     ],
     "yearBorn": 1868,
     "yearDied": 1917
+  },
+  {
+    "fullName": "Janis Joplin",
+    "givenNames": [
+      "Janis",
+      "Lyn"
+    ],
+    "familyName": "Joplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Joplin",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "Known for her powerful vocals and blues-inspired rock music",
+      "Influential figure in the counterculture movement of the 1960s"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1970
   }
 ]

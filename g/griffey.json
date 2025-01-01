@@ -15,5 +15,20 @@
       "American League MVP (1997)"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Ken Griffey Sr.",
+    "givenNames": [
+      "George",
+      "Kenneth"
+    ],
+    "familyName": "Griffey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ken_Griffey_Sr.",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "3-time All-Star",
+      "2 World Series Championships"
+    ],
+    "yearBorn": 1950
   }
 ]

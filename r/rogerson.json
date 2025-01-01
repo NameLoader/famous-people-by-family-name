@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Rogerson",
+    "givenNames": [
+      "John",
+      "William"
+    ],
+    "familyName": "Rogerson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_W._Rogerson",
+    "occupation": "Old Testament scholar",
+    "achievements": [
+      "Emeritus Professor of Biblical Studies at the University of Sheffield",
+      "Author of numerous books and articles on the Old Testament"
+    ],
+    "yearBorn": 1935
+  }
+]

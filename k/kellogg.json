@@ -15,5 +15,22 @@
     ],
     "yearBorn": 1860,
     "yearDied": 1951
+  },
+  {
+    "fullName": "John Harvey Kellogg",
+    "givenNames": [
+      "John",
+      "Harvey"
+    ],
+    "familyName": "Kellogg",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Harvey_Kellogg",
+    "occupation": "Physician, Surgeon, Health Reformer, Inventor",
+    "achievements": [
+      "Developed the Kellogg's breakfast cereal brand",
+      "Pioneered the use of granola and corn flakes",
+      "Advocate for vegetarianism and healthy living"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1943
   }
 ]

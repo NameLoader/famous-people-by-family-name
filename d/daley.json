@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tom Daley",
+    "givenNames": [
+      "Thomas",
+      "Robert"
+    ],
+    "familyName": "Daley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Daley",
+    "occupation": "Olympic Diver",
+    "achievements": [
+      "Olympic gold medalist (2020)",
+      "World champion diver",
+      "LGBTQ+ advocate"
+    ],
+    "yearBorn": 1994
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Sandra Cisneros",
+    "givenNames": [
+      "Sandra"
+    ],
+    "familyName": "Cisneros",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Cisneros",
+    "occupation": "Writer",
+    "achievements": [
+      "Author of the acclaimed novel 'The House on Mango Street'",
+      "Recipient of numerous awards including the MacArthur Fellowship and the National Endowment for the Arts grant"
+    ],
+    "yearBorn": 1954
+  }
+]

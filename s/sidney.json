@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sir Philip Sidney",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Sidney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Sidney",
+    "occupation": "Poet, courtier, soldier",
+    "achievements": [
+      "Considered one of the most important figures in English Renaissance literature.",
+      "Known for his sonnet sequence *Astrophil and Stella* and his prose romance *Arcadia*.",
+      "Died heroically at the Battle of Zutphen."
+    ],
+    "yearBorn": 1554,
+    "yearDied": 1586
+  }
+]

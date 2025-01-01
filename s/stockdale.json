@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "James Bond Stockdale",
+    "givenNames": [
+      "James",
+      "Bond"
+    ],
+    "familyName": "Stockdale",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stockdale",
+    "occupation": "Vice Admiral, United States Navy",
+    "achievements": [
+      "Recipient of the Medal of Honor for his heroism as a prisoner of war during the Vietnam War.",
+      "Ran as Ross Perot's vice presidential running mate in the 1992 United States presidential election."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2005
+  }
+]

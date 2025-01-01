@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Bobby Fischer",
+    "givenNames": [
+      "Robert",
+      "James"
+    ],
+    "familyName": "Fischer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Fischer",
+    "occupation": "Chess Grandmaster",
+    "achievements": [
+      "World Chess Champion (1972)",
+      "Youngest grandmaster at the time (15 years old)"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Ernst Otto Fischer",
+    "givenNames": [
+      "Ernst",
+      "Otto"
+    ],
+    "familyName": "Fischer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Otto_Fischer",
+    "occupation": "German Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1973)",
+      "Pioneered the study of organometallic compounds"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2007
+  }
+]

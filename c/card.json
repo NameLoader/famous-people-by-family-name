@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Orson Scott Card",
+    "givenNames": [
+      "Orson",
+      "Scott"
+    ],
+    "familyName": "Card",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orson_Scott_Card",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote the science fiction novel Ender's Game",
+      "Won the Hugo Award and Nebula Award for Ender's Game"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "David Card",
+    "givenNames": [
+      "David",
+      "Edward"
+    ],
+    "familyName": "Card",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Card",
+    "occupation": "Economist",
+    "achievements": [
+      "Won the Nobel Memorial Prize in Economic Sciences in 2021 for his work on causal inference and econometrics"
+    ],
+    "yearBorn": 1956
+  }
+]

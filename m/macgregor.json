@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Gregory MacGregor",
+    "givenNames": [
+      "Gregory",
+      "Gregor"
+    ],
+    "familyName": "MacGregor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregor_MacGregor",
+    "occupation": "Soldier, adventurer, con man",
+    "achievements": [
+      "Known for his elaborate and successful hoax of inventing the fictional country of Poyais in Central America."
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1845
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Bob Marley",
+    "givenNames": [
+      "Robert",
+      "Nesta"
+    ],
+    "familyName": "Marley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Marley",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Pioneer of reggae music",
+      "Global icon and cultural ambassador for Jamaica",
+      "Sold over 75 million records worldwide"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Ziggy Marley",
+    "givenNames": [
+      "David",
+      "Nesta",
+      "Ziggy"
+    ],
+    "familyName": "Marley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ziggy_Marley",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Grammy Award winner for Best Reggae Album",
+      "Continues to promote reggae music and social justice",
+      "Son of Bob Marley"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Cedella Marley",
+    "givenNames": [
+      "Cedella"
+    ],
+    "familyName": "Marley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cedella_Marley",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Member of the reggae group Melody Makers",
+      "Daughter of Bob Marley",
+      "Advocate for social justice and women's rights"
+    ],
+    "yearBorn": 1967
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Walt Whitman",
+    "givenNames": [
+      "Walt",
+      "Walter"
+    ],
+    "familyName": "Whitman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Whitman",
+    "occupation": "Poet",
+    "achievements": [
+      "Considered one of the fathers of free verse poetry",
+      "Known for his groundbreaking collection 'Leaves of Grass'"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1892
+  }
+]

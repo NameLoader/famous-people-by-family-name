@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Howard Aiken",
+    "givenNames": [
+      "Howard",
+      "Hathaway"
+    ],
+    "familyName": "Aiken",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_H._Aiken",
+    "occupation": "Computer scientist",
+    "achievements": [
+      "Led the team that developed the Harvard Mark I computer, one of the earliest electromechanical computers.",
+      "Considered a pioneer in the field of computing."
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1973
+  }
+]

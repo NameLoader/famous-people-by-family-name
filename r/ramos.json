@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sergio Ramos García",
+    "givenNames": [
+      "Sergio"
+    ],
+    "familyName": "Ramos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Ramos",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FIFA World Cup with Spain in 2010",
+      "Won four UEFA Champions League titles with Real Madrid",
+      "Considered one of the greatest defenders of all time"
+    ],
+    "yearBorn": 1986
+  }
+]

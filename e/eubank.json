@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Chris Eubank",
+    "givenNames": [
+      "Christopher",
+      "Livingstone"
+    ],
+    "familyName": "Eubank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Eubank",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "World Middleweight Champion",
+      "Known for his flamboyant personality and distinctive fighting style"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Chris Eubank Jr.",
+    "givenNames": [
+      "Christopher",
+      "Livingstone"
+    ],
+    "familyName": "Eubank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Eubank_Jr",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Former interim WBA middleweight champion",
+      "Known for his powerful punching and aggressive fighting style"
+    ],
+    "yearBorn": 1989
+  }
+]

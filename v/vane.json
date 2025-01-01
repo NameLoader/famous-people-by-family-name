@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry Vane",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Vane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Vane_the_Elder",
+    "occupation": "Politician, Theologian",
+    "achievements": [
+      "Served as a Member of Parliament.",
+      "Prominent Puritan theologian and leader."
+    ],
+    "yearBorn": 1589,
+    "yearDied": 1655
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "David Kaplan",
+    "givenNames": [
+      "David",
+      "Benjamin"
+    ],
+    "familyName": "Kaplan",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Kaplan_(philosopher)",
+    "occupation": "Philosopher and logician",
+    "achievements": [
+      "Contributed to the fields of modal logic and philosophy of language",
+      "Known for his work on possible worlds semantics"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Jeffrey Kaplan",
+    "givenNames": [
+      "Jeffrey"
+    ],
+    "familyName": "Kaplan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Kaplan",
+    "occupation": "Game designer",
+    "achievements": [
+      "Led the development of the popular video game Overwatch at Blizzard Entertainment"
+    ],
+    "yearBorn": 1971
+  }
+]

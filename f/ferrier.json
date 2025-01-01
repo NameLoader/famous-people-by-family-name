@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Robert Ferrier",
+    "givenNames": [
+      "Robert",
+      "John"
+    ],
+    "familyName": "Ferrier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_J._Ferrier",
+    "occupation": "Chemist",
+    "achievements": [
+      "Known for his contributions to the field of organic chemistry",
+      "Developed novel synthetic methodologies for complex molecules"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Susan Ferrier",
+    "givenNames": [
+      "Susan",
+      "Edmonstone"
+    ],
+    "familyName": "Ferrier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Edmonstone_Ferrier",
+    "occupation": "Novelist",
+    "achievements": [
+      "Scottish novelist known for her witty and romantic novels",
+      "Best known for her novel 'Marriage'",
+      "Her works explored themes of love, marriage, and social class in Regency England"
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1854
+  }
+]

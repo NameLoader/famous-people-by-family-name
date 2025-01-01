@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Ernest Thompson Seton",
+    "givenNames": [
+      "Ernest",
+      "Thompson"
+    ],
+    "familyName": "Seton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Thompson_Seton",
+    "occupation": "Writer, Naturalist, Artist, Conservationist",
+    "achievements": [
+      "Known for his writings on wildlife and nature",
+      "Founded the Woodcraft Indians youth organization",
+      "Contributed significantly to the conservation movement"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1946
+  },
+  {
+    "fullName": "Elizabeth Seton",
+    "givenNames": [
+      "Elizabeth",
+      "Ann",
+      "Bayley"
+    ],
+    "familyName": "Seton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
+    "occupation": "Religious Figure, Founder of the Sisters of Charity",
+    "achievements": [
+      "First native-born American to be canonized by the Catholic Church",
+      "Established a network of schools and orphanages for disadvantaged children"
+    ],
+    "yearBorn": 1774,
+    "yearDied": 1821
+  }
+]

@@ -2,10 +2,11 @@
   {
     "fullName": "James I of England and VI of Scotland",
     "givenNames": [
-      "James"
+      "James",
+      "Charles"
     ],
     "familyName": "Stuart",
-    "wikipedia": "https://en.wikipedia.org/wiki/James_I_of_England",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_VI_and_I",
     "occupation": "King",
     "achievements": [
       "United the crowns of Scotland and England",
@@ -13,5 +14,35 @@
     ],
     "yearBorn": 1566,
     "yearDied": 1625
+  },
+  {
+    "fullName": "Charles Stuart",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Stuart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+    "occupation": "King of England, Scotland, and Ireland",
+    "achievements": [
+      "Patron of the arts.",
+      "Known for his clashes with Parliament leading to the English Civil War."
+    ],
+    "yearBorn": 1600,
+    "yearDied": 1649
+  },
+  {
+    "fullName": "Mary Stuart",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Stuart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
+    "occupation": "Queen of Scots",
+    "achievements": [
+      "First Queen Regnant of Scotland.",
+      "A figure of controversy and tragedy."
+    ],
+    "yearBorn": 1542,
+    "yearDied": 1587
   }
 ]

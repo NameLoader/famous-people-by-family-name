@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Daniel Burnham",
+    "givenNames": [
+      "Daniel",
+      "Hudson"
+    ],
+    "familyName": "Burnham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Burnham",
+    "occupation": "Architect and urban planner",
+    "achievements": [
+      "Designed the plan for the 1893 World's Columbian Exposition in Chicago",
+      "Helped design major cities like Washington D.C., San Francisco, and Cleveland",
+      "Known for his City Beautiful movement advocating for grand civic spaces"
+    ],
+    "yearBorn": 1846,
+    "yearDied": 1912
+  },
+  {
+    "fullName": "Margaret Burnham",
+    "givenNames": [
+      "Margaret",
+      "A"
+    ],
+    "familyName": "Burnham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Burnham",
+    "occupation": "Legal scholar and professor",
+    "achievements": [
+      "Director of the Northeastern University School of Law's Civil Rights and Restorative Justice Project",
+      "Expert in legal history and racial justice",
+      "Author of books on race relations and the law"
+    ],
+    "yearBorn": 1948
+  }
+]

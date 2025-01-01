@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Andy Goldsworthy",
+    "givenNames": [
+      "Andy"
+    ],
+    "familyName": "Goldsworthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Goldsworthy",
+    "occupation": "Sculptor, photographer",
+    "achievements": [
+      "Creates site-specific sculptures and land art using natural materials.",
+      "Known for his ephemeral works that are often photographed before they decay."
+    ],
+    "yearBorn": 1956
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Garrick",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Garrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Garrick",
+    "occupation": "Actor, Theatre Manager",
+    "achievements": [
+      "Considered the greatest actor of his time",
+      "Influential figure in 18th-century theatre",
+      "Co-founded the Drury Lane Theatre"
+    ],
+    "yearBorn": 1717,
+    "yearDied": 1779
+  }
+]

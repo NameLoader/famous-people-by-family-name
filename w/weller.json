@@ -13,5 +13,21 @@
       "Widely recognized as a British music icon."
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Peter Weller",
+    "givenNames": [
+      "Peter",
+      "Francis"
+    ],
+    "familyName": "Weller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Weller",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Starred in RoboCop (1987)",
+      "Appeared in films like The Adventures of Buckaroo Banzai Across the 8th Dimension and Naked Lunch",
+      "Directed episodes of television series such as Dexter and Sons of Anarchy"
+    ],
+    "yearBorn": 1947
   }
 ]

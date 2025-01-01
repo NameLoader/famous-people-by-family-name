@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "John Ratcliffe",
+    "givenNames": [
+      "John",
+      "Lee"
+    ],
+    "familyName": "Ratcliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ratcliffe_(American_politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Director of National Intelligence (2020-2021)",
+      "U.S. Representative for Texas's 4th congressional district (2015-2020)"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Jim Ratcliffe",
+    "givenNames": [
+      "James",
+      "Arthur"
+    ],
+    "familyName": "Ratcliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Ratcliffe",
+    "occupation": "Businessman",
+    "achievements": [
+      "Founder and Chairman of Ineos",
+      "One of the richest people in the world"
+    ],
+    "yearBorn": 1952
+  }
+]

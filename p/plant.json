@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Plant",
+    "givenNames": [
+      "Robert",
+      "Anthony"
+    ],
+    "familyName": "Plant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Plant",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Lead singer of Led Zeppelin",
+      "Known for his powerful vocals and stage presence",
+      "Inducted into the Rock and Roll Hall of Fame in 1995"
+    ],
+    "yearBorn": 1948
+  }
+]

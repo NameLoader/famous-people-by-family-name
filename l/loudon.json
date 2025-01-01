@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Loudon",
+    "givenNames": [
+      "John",
+      "Claudius"
+    ],
+    "familyName": "Loudon",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Claudius_Loudon",
+    "occupation": "Gardener, landscape architect",
+    "achievements": [
+      "Considered the father of landscape gardening",
+      "Designed numerous parks and gardens in Britain, including Regent's Park",
+      "Authored influential books on horticulture"
+    ],
+    "yearBorn": 1783,
+    "yearDied": 1843
+  }
+]

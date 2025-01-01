@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Berkeley",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Berkeley",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Berkeley",
+    "occupation": "Philosopher, Bishop",
+    "achievements": [
+      "Developed the philosophical theory of immaterialism",
+      "Known for his work 'Treatise Concerning the Principles of Human Knowledge'"
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1753
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Emmett Till",
+    "givenNames": [
+      "Emmett",
+      "Louis"
+    ],
+    "familyName": "Till",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmett_Till",
+    "occupation": "Civil rights martyr",
+    "achievements": [
+      "His murder and the subsequent trial helped galvanize the Civil Rights Movement."
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1955
+  }
+]

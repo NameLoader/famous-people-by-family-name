@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Manchester",
+    "givenNames": [
+      "William",
+      "Raymond"
+    ],
+    "familyName": "Manchester",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Manchester",
+    "occupation": "Historian and Author",
+    "achievements": [
+      "Author of acclaimed historical biographies including 'The Guns of August' and 'American Caesar'",
+      "Won the Pulitzer Prize for History in 1968 for 'The Death of a President'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2004
+  }
+]

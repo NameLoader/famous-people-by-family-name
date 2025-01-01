@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Eames",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Eames",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_and_Ray_Eames",
+    "occupation": "Architect, Designer, Filmmaker",
+    "achievements": [
+      "Pioneered modern furniture design with his wife Ray Eames",
+      "Created iconic chairs like the Lounge Chair and Ottoman and the Molded Plywood Chair",
+      "Produced influential films and documentaries"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1978
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Crabbe",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Crabbe",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Crabbe",
+    "occupation": "Poet, Physician",
+    "achievements": [
+      "Known for his realistic and often pessimistic portrayals of rural life in England.",
+      "Wrote influential poems such as 'The Village' and 'The Borough.'"
+    ],
+    "yearBorn": 1754,
+    "yearDied": 1832
+  }
+]

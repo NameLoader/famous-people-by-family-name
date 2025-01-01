@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Benedict Cumberbatch",
+    "givenNames": [
+      "Benedict",
+      "Timothy",
+      "Carlton"
+    ],
+    "familyName": "Cumberbatch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Cumberbatch",
+    "occupation": "Actor",
+    "achievements": [
+      "BAFTA Award winner",
+      "Primetime Emmy Award winner",
+      "Academy Award nominee",
+      "Known for roles in Sherlock, Doctor Strange, The Imitation Game"
+    ],
+    "yearBorn": 1976
+  }
+]

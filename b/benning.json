@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Benning",
+    "givenNames": [
+      "Henry",
+      "Lewis"
+    ],
+    "familyName": "Benning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_L._Benning",
+    "occupation": "Confederate general",
+    "achievements": [
+      "Served as a brigadier general in the Confederate Army during the American Civil War.",
+      "Known for his defense of Fort McAllister in Georgia."
+    ],
+    "yearBorn": 1814,
+    "yearDied": 1875
+  }
+]

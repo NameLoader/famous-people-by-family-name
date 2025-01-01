@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Larry Niven",
+    "givenNames": [
+      "Laurence",
+      "van Cott"
+    ],
+    "familyName": "Niven",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Niven",
+    "occupation": "Science Fiction Author",
+    "achievements": [
+      "Hugo Award winner",
+      "Known for works like Ringworld and Known Space series"
+    ],
+    "yearBorn": 1938
+  }
+]

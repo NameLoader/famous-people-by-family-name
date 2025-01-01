@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Michael Gillon",
+    "givenNames": [
+      "Michaël"
+    ],
+    "familyName": "Gillon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Micha%C3%ABl_Gillon",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovery of TRAPPIST-1 planetary system",
+      "Research on exoplanets and stellar evolution"
+    ],
+    "yearBorn": 1974
+  }
+]

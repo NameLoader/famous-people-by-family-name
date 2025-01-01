@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arthur Symons",
+    "givenNames": [
+      "Arthur",
+      "William"
+    ],
+    "familyName": "Symons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Symons",
+    "occupation": "Poet, Critic, and Essayist",
+    "achievements": [
+      "Known for his Symbolist poetry and critical writings on art and literature",
+      "Wrote influential essays on the Aesthetic Movement and Decadence"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1945
+  }
+]

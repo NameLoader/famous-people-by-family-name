@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Moultrie",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Moultrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Moultrie",
+    "occupation": "Military Officer, Politician",
+    "achievements": [
+      "Defended Fort Moultrie during the Siege of Charleston in the American Revolutionary War.",
+      "Served as Governor of South Carolina."
+    ],
+    "yearBorn": 1729,
+    "yearDied": 1805
+  }
+]

@@ -13,5 +13,22 @@
       "Daughter of Johnny Cash"
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Johnny Cash",
+    "givenNames": [
+      "John",
+      "R."
+    ],
+    "familyName": "Cash",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Cash",
+    "occupation": "Singer, songwriter, guitarist, actor",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Inducted into the Rock and Roll Hall of Fame, Country Music Hall of Fame, and Gospel Music Hall of Fame",
+      "Known for his deep voice, distinctive sound, and songs about love, loss, faith, and social justice"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2003
   }
 ]

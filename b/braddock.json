@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Edward Braddock",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Braddock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Braddock",
+    "occupation": "British Army officer",
+    "achievements": [
+      "Led British forces in the French and Indian War",
+      "Known for his disastrous defeat at the Battle of Monongahela"
+    ],
+    "yearBorn": 1695,
+    "yearDied": 1755
+  },
+  {
+    "fullName": "James Braddock",
+    "givenNames": [
+      "James",
+      "Walter"
+    ],
+    "familyName": "Braddock",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_J._Braddock",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "World Heavyweight Champion from 1935 to 1937",
+      "Known for his underdog story and comeback from poverty"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1974
+  }
+]

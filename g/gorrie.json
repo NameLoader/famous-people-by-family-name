@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Gorrie",
+    "givenNames": [
+      "John",
+      "B"
+    ],
+    "familyName": "Gorrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gorrie",
+    "occupation": "Physician, Inventor",
+    "achievements": [
+      "Pioneered the use of mechanical refrigeration for medical purposes.",
+      "Considered a founder of the field of air conditioning."
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1855
+  }
+]

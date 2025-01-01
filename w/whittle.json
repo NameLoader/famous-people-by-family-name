@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Frank Whittle",
+    "givenNames": [
+      "Frank"
+    ],
+    "familyName": "Whittle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Whittle",
+    "occupation": "Engineer, Inventor",
+    "achievements": [
+      "Pioneer of jet engine development",
+      "Developed the Whittle engine, a centrifugal-flow turbojet"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1996
+  }
+]

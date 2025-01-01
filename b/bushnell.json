@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nolan Bushnell",
+    "givenNames": [
+      "Nolan",
+      "Kay"
+    ],
+    "familyName": "Bushnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nolan_Bushnell",
+    "occupation": "Entrepreneur, video game pioneer",
+    "achievements": [
+      "Co-founded Atari, Inc.",
+      "Created the first commercially successful arcade video game, Pong"
+    ],
+    "yearBorn": 1943
+  }
+]

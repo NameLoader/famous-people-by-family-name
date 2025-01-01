@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Trevor Hastie",
+    "givenNames": [
+      "Trevor",
+      "John"
+    ],
+    "familyName": "Hastie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Hastie",
+    "occupation": "Statistician",
+    "achievements": [
+      "Pioneer in the field of statistical learning and data mining",
+      "Co-author of the influential textbook 'The Elements of Statistical Learning'",
+      "Recipient of numerous awards, including the COPSS Presidents' Award"
+    ],
+    "yearBorn": 1956
+  }
+]

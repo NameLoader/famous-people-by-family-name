@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Giovanni Battista Basile",
+    "givenNames": [
+      "Giovanni",
+      "Battista",
+      "Giambattista"
+    ],
+    "familyName": "Basile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giambattista_Basile",
+    "occupation": "Author, Poet",
+    "achievements": [
+      "Authored the Pentamerone, a collection of fairy tales considered a major influence on later works like those of Charles Perrault and the Brothers Grimm.",
+      "Known for his use of Neapolitan dialect in his writings."
+    ],
+    "yearBorn": 1575,
+    "yearDied": 1632
+  }
+]

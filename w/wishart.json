@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "David Wishart",
+    "givenNames": [
+      "David",
+      "S"
+    ],
+    "familyName": "Wishart",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_S._Wishart",
+    "occupation": "Professor of Computer Science, Bioinformatics",
+    "achievements": [
+      "Developed the HMDB (Human Metabolome Database)",
+      "Pioneer in cheminformatics and metabolomics research"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "George Wishart",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Wishart",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Wishart",
+    "occupation": "Scottish Protestant reformer",
+    "achievements": [
+      "Challenged the authority of the Catholic Church in Scotland",
+      "Martyred for his beliefs"
+    ],
+    "yearBorn": 1487,
+    "yearDied": 1546
+  }
+]

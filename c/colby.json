@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Colby",
+    "givenNames": [
+      "William",
+      "Egan"
+    ],
+    "familyName": "Colby",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Colby",
+    "occupation": "CIA Director",
+    "achievements": [
+      "Served as Director of Central Intelligence (DCI) from 1973 to 1976",
+      "Oversaw the Church Committee investigations into CIA activities"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1996
+  }
+]

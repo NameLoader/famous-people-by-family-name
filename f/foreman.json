@@ -2,7 +2,8 @@
   {
     "fullName": "George Foreman",
     "givenNames": [
-      "George"
+      "George",
+      "Edward"
     ],
     "familyName": "Foreman",
     "wikipedia": "https://en.wikipedia.org/wiki/George_Foreman",
@@ -13,5 +14,19 @@
       "Successful businessman with the George Foreman Grill"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Richard Foreman",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Foreman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Foreman",
+    "occupation": "Playwright, theatre director",
+    "achievements": [
+      "Known for avant-garde and experimental theater",
+      "Founded the Ontological-Hysteric Theater in New York City"
+    ],
+    "yearBorn": 1937
   }
 ]

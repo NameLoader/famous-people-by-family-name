@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Branson",
+    "givenNames": [
+      "Richard",
+      "Charles",
+      "Nicholas"
+    ],
+    "familyName": "Branson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Branson",
+    "occupation": "Entrepreneur, Business magnate",
+    "achievements": [
+      "Founder of the Virgin Group",
+      "Known for his adventurous spirit and unconventional business practices"
+    ],
+    "yearBorn": 1950
+  }
+]

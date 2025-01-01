@@ -2,7 +2,8 @@
   {
     "fullName": "George W. Bush",
     "givenNames": [
-      "George"
+      "George",
+      "Walker"
     ],
     "familyName": "Bush",
     "wikipedia": "https://en.wikipedia.org/wiki/George_W._Bush",
@@ -12,5 +13,38 @@
       "Governor of Texas"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "George H. W. Bush",
+    "givenNames": [
+      "George",
+      "Herbert",
+      "Walker"
+    ],
+    "familyName": "Bush",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+    "occupation": "Politician",
+    "achievements": [
+      "41st President of the United States",
+      "World War II veteran",
+      "Director of Central Intelligence"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Billy Bush",
+    "givenNames": [
+      "William",
+      "Hall",
+      "Billy"
+    ],
+    "familyName": "Bush",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Bush",
+    "occupation": "Television personality",
+    "achievements": [
+      "Host of Access Hollywood"
+    ],
+    "yearBorn": 1971
   }
 ]

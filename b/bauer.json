@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Peter Bauer",
+    "givenNames": [
+      "Peter",
+      "Thomas"
+    ],
+    "familyName": "Bauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Thomas_Bauer",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (1986)",
+      "Known for his work on economic development and poverty reduction"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2002
+  }
+]

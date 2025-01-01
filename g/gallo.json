@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ernest Gallo",
+    "givenNames": [
+      "Ernest",
+      "J"
+    ],
+    "familyName": "Gallo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Gallo",
+    "occupation": "Winemaker",
+    "achievements": [
+      "Founded Gallo Winery with his brothers Ercole and Julio"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 2007
+  }
+]

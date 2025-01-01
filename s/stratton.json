@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Stratton",
+    "givenNames": [
+      "George",
+      "Malcolm"
+    ],
+    "familyName": "Stratton",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_M._Stratton",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Known for his work on visual perception and the Stratton illusion"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1951
+  }
+]

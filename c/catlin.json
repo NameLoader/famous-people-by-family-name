@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Catlin",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Catlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Catlin",
+    "occupation": "Painter, Writer",
+    "achievements": [
+      "Known for his portraits of Native Americans.",
+      "Traveled extensively throughout the American West documenting Indigenous cultures and lifestyles."
+    ],
+    "yearBorn": 1796,
+    "yearDied": 1872
+  }
+]

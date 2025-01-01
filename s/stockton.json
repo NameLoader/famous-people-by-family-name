@@ -2,7 +2,8 @@
   {
     "fullName": "John Stockton",
     "givenNames": [
-      "John"
+      "John",
+      "Houston"
     ],
     "familyName": "Stockton",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Stockton",
@@ -14,5 +15,20 @@
       "Retired with most assists and steals in NBA history"
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Richard Stockton",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Stockton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Stockton_(Continental_Congressman)",
+    "occupation": "Politician, Signatory of the Declaration of Independence",
+    "achievements": [
+      "Served as a delegate to the Continental Congress",
+      "Signed the Declaration of Independence"
+    ],
+    "yearBorn": 1730,
+    "yearDied": 1781
   }
 ]

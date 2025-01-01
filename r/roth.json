@@ -2,7 +2,8 @@
   {
     "fullName": "Philip Roth",
     "givenNames": [
-      "Philip"
+      "Philip",
+      "Milton"
     ],
     "familyName": "Roth",
     "wikipedia": "https://en.wikipedia.org/wiki/Philip_Roth",
@@ -13,5 +14,21 @@
     ],
     "yearBorn": 1933,
     "yearDied": 2018
+  },
+  {
+    "fullName": "Joseph Roth",
+    "givenNames": [
+      "Joseph",
+      "Moses"
+    ],
+    "familyName": "Roth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Roth",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Prolific novelist and journalist known for works like 'The Radetzky March' and 'The Emperor's Tomb'",
+      "Chronicled the decline of the Austro-Hungarian Empire and the rise of fascism"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1939
   }
 ]

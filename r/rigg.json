@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Diana Rigg",
+    "givenNames": [
+      "Diana",
+      "Enid",
+      "Elizabeth"
+    ],
+    "familyName": "Rigg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana_Rigg",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Emma Peel in the British television series 'The Avengers'",
+      "Played Olenna Tyrell in the HBO fantasy series 'Game of Thrones'",
+      "Received a Tony Award for her performance in the play ' Medea'"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2020
+  }
+]

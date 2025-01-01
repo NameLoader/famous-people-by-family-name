@@ -14,5 +14,20 @@
       "Global pop icon"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Jamie Lynn Spears",
+    "givenNames": [
+      "Jamie",
+      "Lynn"
+    ],
+    "familyName": "Spears",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Lynn_Spears",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Known for her role in the Nickelodeon television series Zoey 101",
+      "Released a country music album"
+    ],
+    "yearBorn": 1991
   }
 ]

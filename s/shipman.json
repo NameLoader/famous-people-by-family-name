@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Harold Frederick Shipman",
+    "givenNames": [
+      "Harold",
+      "Frederick"
+    ],
+    "familyName": "Shipman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Shipman",
+    "occupation": "Physician",
+    "achievements": [
+      "Convicted of murdering 15 patients.",
+      "Believed to have killed up to 250 people.",
+      "Known as 'Dr. Death'."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2004
+  }
+]

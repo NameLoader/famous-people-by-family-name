@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Camden",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Camden",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Camden",
+    "occupation": "Antiquarian, Historian",
+    "achievements": [
+      "Authored 'Britannia', a monumental history of England and Wales.",
+      "Considered one of the founders of English antiquarianism."
+    ],
+    "yearBorn": 1551,
+    "yearDied": 1623
+  }
+]

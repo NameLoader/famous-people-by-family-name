@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ernst Moritz Arndt",
+    "givenNames": [
+      "Ernst",
+      "Moritz"
+    ],
+    "familyName": "Arndt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Moritz_Arndt",
+    "occupation": "Writer, Poet, Philosopher, Nationalist",
+    "achievements": [
+      "Promoted German nationalism and unification",
+      "Known for his patriotic writings and speeches",
+      "Influential figure in the Vormärz period"
+    ],
+    "yearBorn": 1769,
+    "yearDied": 1860
+  }
+]

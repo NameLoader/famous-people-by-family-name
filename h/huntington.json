@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Samuel Huntington",
+    "givenNames": [
+      "Samuel",
+      "Phillips"
+    ],
+    "familyName": "Huntington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_P._Huntington",
+    "occupation": "Political scientist",
+    "achievements": [
+      "Developed the theory of the 'clash of civilizations'",
+      "Influential scholar on international relations and political development"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Collin Huntington",
+    "givenNames": [
+      "Collis",
+      "Potter"
+    ],
+    "familyName": "Huntington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Collis_Potter_Huntington",
+    "occupation": "Railroad executive",
+    "achievements": [
+      "Led the construction of the Central Pacific Railroad",
+      "Instrumental in developing the transcontinental railroad"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1900
+  },
+  {
+    "fullName": "Arabella Huntington",
+    "givenNames": [
+      "Arabella",
+      "Duval"
+    ],
+    "familyName": "Huntington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arabella_Huntington",
+    "occupation": "Art Collector and Philanthropist",
+    "achievements": [
+      "Assembled one of the finest art collections in America with her husband, Henry Huntington.",
+      "Supported numerous charities and cultural institutions."
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1924
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Kevin Kline",
+    "givenNames": [
+      "Kevin",
+      "Delaney"
+    ],
+    "familyName": "Kline",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Kline",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor (for 'A Fish Called Wanda')",
+      "Tony Award for Best Actor in a Play (for 'On the Twentieth Century')"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "John Kline",
+    "givenNames": [
+      "John",
+      "Paul"
+    ],
+    "familyName": "Kline",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Kline_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Minnesota's 2nd congressional district (2003-2019)",
+      "Chairman of the House Education and Workforce Committee"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2023
+  }
+]

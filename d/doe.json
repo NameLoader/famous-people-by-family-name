@@ -1,0 +1,14 @@
+[
+  {
+    "fullName": "John Doe",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Doe",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Doe",
+    "occupation": "Legal placeholder name",
+    "achievements": [
+      "Used as a placeholder name in legal contexts to protect anonymity."
+    ]
+  }
+]

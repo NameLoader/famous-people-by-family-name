@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ray Dolby",
+    "givenNames": [
+      "Ray",
+      "Milton"
+    ],
+    "familyName": "Dolby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Dolby",
+    "occupation": "Engineer and inventor",
+    "achievements": [
+      "Developed Dolby noise reduction systems for audio recording.",
+      "Founded Dolby Laboratories",
+      "Pioneer in surround sound technology"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2013
+  }
+]

@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1707,
     "yearDied": 1754
+  },
+  {
+    "fullName": "Sarah Fielding",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Fielding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Fielding",
+    "occupation": "Novelist and writer",
+    "achievements": [
+      "Authored novels such as 'The Adventures of David Simple'",
+      "Contributed to the development of sentimental fiction",
+      "Known for her moral and didactic themes in her writing"
+    ],
+    "yearBorn": 1710,
+    "yearDied": 1768
   }
 ]

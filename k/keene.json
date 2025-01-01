@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Keene",
+    "givenNames": [
+      "John",
+      "R."
+    ],
+    "familyName": "Keene",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Keene_(writer)",
+    "occupation": "Writer, Professor",
+    "achievements": [
+      "Award-winning novelist and essayist.",
+      "Professor of English at the University of Nevada, Las Vegas."
+    ],
+    "yearBorn": 1966
+  }
+]

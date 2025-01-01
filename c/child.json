@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Child",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Child",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Child_(volleyball)",
+    "occupation": "Volleyball Player",
+    "achievements": [
+      "Olympic Gold Medalist (Beach Volleyball)",
+      "World Champion (Beach Volleyball)"
+    ],
+    "yearBorn": 1967
+  }
+]

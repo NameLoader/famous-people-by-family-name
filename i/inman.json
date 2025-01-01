@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Inman",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Inman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Inman",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Best known for his role as Mr. Humphries in the British sitcom 'Are You Being Served?'"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2007
+  }
+]

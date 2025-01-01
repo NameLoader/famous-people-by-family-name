@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Joseph Whitworth",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Whitworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Whitworth",
+    "occupation": "Engineer, Inventor",
+    "achievements": [
+      "Pioneer of standardization in engineering",
+      "Inventor of the Whitworth thread system",
+      "Developed precision machine tools and manufacturing processes"
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1887
+  }
+]

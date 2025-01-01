@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Farnham",
+    "givenNames": [
+      "John",
+      "Peter"
+    ],
+    "familyName": "Farnham",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Farnham",
+    "occupation": "Singer, musician",
+    "achievements": [
+      "One of the best-selling Australian music artists of all time",
+      "Known for hits like 'You're The Voice', 'Pressure Down' and 'That's What I Call Love'",
+      "Inducted into the ARIA Hall of Fame in 1988"
+    ],
+    "yearBorn": 1949
+  }
+]

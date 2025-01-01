@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michael Drayton",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Drayton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Drayton",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his epic poem 'Poly-Olbion'",
+      "Celebrated as one of the leading Elizabethan poets"
+    ],
+    "yearBorn": 1563,
+    "yearDied": 1631
+  }
+]

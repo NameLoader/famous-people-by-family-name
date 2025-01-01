@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Stephen Smale",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Smale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Smale",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Fields Medal (1966)",
+      "Known for his work in topology and dynamical systems"
+    ],
+    "yearBorn": 1930
+  }
+]

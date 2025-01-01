@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Metcalfe",
+    "givenNames": [
+      "Robert",
+      "Bob"
+    ],
+    "familyName": "Metcalfe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Metcalfe",
+    "occupation": "Computer Scientist, Inventor",
+    "achievements": [
+      "Invented Ethernet",
+      "Co-founded 3Com Corporation"
+    ],
+    "yearBorn": 1946
+  }
+]

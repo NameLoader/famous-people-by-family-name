@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Joe Burrow",
+    "givenNames": [
+      "Joseph",
+      "Lee"
+    ],
+    "familyName": "Burrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Burrow",
+    "occupation": "American Football Quarterback",
+    "achievements": [
+      "Heisman Trophy winner (2019)",
+      "NFL Offensive Rookie of the Year (2020)",
+      "Led the Cincinnati Bengals to Super Bowl LVI (2022)"
+    ],
+    "yearBorn": 1996
+  }
+]

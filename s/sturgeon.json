@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Theodore Sturgeon",
+    "givenNames": [
+      "Theodore"
+    ],
+    "familyName": "Sturgeon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Sturgeon",
+    "occupation": "Science fiction writer",
+    "achievements": [
+      "Known for his influential science fiction stories and essays.",
+      "Winner of multiple Hugo Awards and Nebula Awards."
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1985
+  }
+]

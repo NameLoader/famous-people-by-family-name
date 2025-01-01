@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sir Robert Menzies",
+    "givenNames": [
+      "Robert",
+      "Gordon"
+    ],
+    "familyName": "Menzies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Menzies",
+    "occupation": "Politician",
+    "achievements": [
+      "Longest-serving Prime Minister of Australia",
+      "Led the Liberal Party to victory in multiple elections",
+      "Oversaw significant economic and social reforms in Australia"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1973
+  }
+]

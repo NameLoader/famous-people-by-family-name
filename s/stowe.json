@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Harriet Beecher Stowe",
+    "givenNames": [
+      "Harriet",
+      "Elisabeth",
+      "Beecher"
+    ],
+    "familyName": "Stowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe",
+    "occupation": "Author, abolitionist",
+    "achievements": [
+      "Authored the influential anti-slavery novel 'Uncle Tom's Cabin'",
+      "Contributed significantly to the abolitionist movement"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1896
+  }
+]

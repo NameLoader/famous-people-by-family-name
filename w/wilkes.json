@@ -1,17 +1,32 @@
 [
   {
-    "fullName": "John Wilkes Booth",
+    "fullName": "John Wilkes",
     "givenNames": [
       "John"
     ],
     "familyName": "Wilkes",
-    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
-    "occupation": "Actor, Assassin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes",
+    "occupation": "Politician, Writer",
     "achievements": [
-      "Assassinated President Abraham Lincoln",
-      "Fought for the Confederacy during the American Civil War"
+      "Advocate for parliamentary reform and individual liberty",
+      "Impeached for seditious libel but became a popular hero"
     ],
-    "yearBorn": 1838,
-    "yearDied": 1865
+    "yearBorn": 1727,
+    "yearDied": 1797
+  },
+  {
+    "fullName": "Charles Wilkes",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Wilkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Wilkes",
+    "occupation": "U.S. Navy officer, Explorer",
+    "achievements": [
+      "Led the United States Exploring Expedition (1838-1842)",
+      "Explored Antarctica and made important geographical discoveries"
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1877
   }
 ]

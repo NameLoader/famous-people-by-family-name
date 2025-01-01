@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Mitt Romney",
+    "givenNames": [
+      "Mitt",
+      "Willard"
+    ],
+    "familyName": "Romney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitt_Romney",
+    "occupation": "Politician, businessman",
+    "achievements": [
+      "Governor of Massachusetts (2003-2007)",
+      "Republican nominee for President of the United States in 2012"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "George Romney",
+    "givenNames": [
+      "George",
+      "Wilcken"
+    ],
+    "familyName": "Romney",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_W._Romney",
+    "occupation": "Politician, businessman",
+    "achievements": [
+      "Governor of Michigan (1963-1969)",
+      "Republican candidate for President of the United States in 1968"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1995
+  }
+]

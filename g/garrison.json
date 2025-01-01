@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Lloyd Garrison",
+    "givenNames": [
+      "William",
+      "Lloyd"
+    ],
+    "familyName": "Garrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Lloyd_Garrison",
+    "occupation": "Abolitionist, Journalist, Social Reformer",
+    "achievements": [
+      "Founded the abolitionist newspaper The Liberator",
+      "Key figure in the American anti-slavery movement",
+      "Advocate for women's rights and other social justice causes"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1879
+  }
+]

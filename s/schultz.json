@@ -1,18 +1,32 @@
 [
   {
-    "fullName": "George Schultz",
+    "fullName": "Richard Schultz",
     "givenNames": [
-      "George"
+      "Richard",
+      "Moses"
     ],
     "familyName": "Schultz",
-    "wikipedia": "https://en.wikipedia.org/wiki/George_Shultz",
-    "occupation": "Economist, Diplomat, Former U.S. Secretary of State",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Schultz",
+    "occupation": "Industrial designer",
     "achievements": [
-      "Served as the United States Secretary of the Treasury from 1972 to 1974.",
-      "Served as the United States Secretary of Labor from 1969 to 1970.",
-      "Served as the United States Secretary of State from 1982 to 1989."
+      "Designed iconic outdoor furniture including the '1966 Collection' for Knoll.",
+      "Work featured in major museums and collections worldwide."
     ],
-    "yearBorn": 1920,
-    "yearDied": 2021
+    "yearBorn": 1926
+  },
+  {
+    "fullName": "Howard Schultz",
+    "givenNames": [
+      "Howard",
+      "D"
+    ],
+    "familyName": "Schultz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Schultz",
+    "occupation": "Businessman",
+    "achievements": [
+      "Former CEO and chairman of Starbucks.",
+      "Led Starbucks' expansion into a global coffeehouse chain."
+    ],
+    "yearBorn": 1953
   }
 ]

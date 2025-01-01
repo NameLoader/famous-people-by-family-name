@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Edward Thorp",
+    "givenNames": [
+      "Edward",
+      "Oakley"
+    ],
+    "familyName": "Thorp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_O._Thorp",
+    "occupation": "Mathematician, author, blackjack player",
+    "achievements": [
+      "Developed card counting strategies for blackjack",
+      "Authored influential books on gambling and mathematics"
+    ],
+    "yearBorn": 1932
+  }
+]

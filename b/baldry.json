@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "John Baldry",
+    "givenNames": [
+      "John",
+      "William"
+    ],
+    "familyName": "Baldry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long_John_Baldry",
+    "occupation": "Singer, songwriter, actor",
+    "achievements": [
+      "Known as 'Long John Baldry' due to his height.",
+      "Early member of the blues band The Hoochie Coochie Men.",
+      "Had a successful solo career with hits like 'Let the Heartache Begin'",
+      "Appeared in films and television shows, including 'The Rolling Stones Rock and Roll Circus'"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2018
+  }
+]

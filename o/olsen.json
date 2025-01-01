@@ -2,7 +2,8 @@
   {
     "fullName": "Ashley Olsen",
     "givenNames": [
-      "Ashley"
+      "Ashley",
+      "Fuller"
     ],
     "familyName": "Olsen",
     "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Olsen",
@@ -10,6 +11,20 @@
     "achievements": [
       "Starred in the television series 'Full House'",
       "Co-founded the fashion label The Row"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Mary-Kate Olsen",
+    "givenNames": [
+      "Mary-Kate"
+    ],
+    "familyName": "Olsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary-Kate_and_Ashley_Olsen",
+    "occupation": "Actress, Fashion Designer",
+    "achievements": [
+      "Child star, known for her role in 'Full House'",
+      "Co-founded the fashion brand The Row"
     ],
     "yearBorn": 1986
   }

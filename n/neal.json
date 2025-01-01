@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "John Neal",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Neal",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Neal_(writer)",
+    "occupation": "Author",
+    "achievements": [
+      "Known for his novels and short stories, often focusing on American frontier life and social issues."
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1876
+  },
+  {
+    "fullName": "Stephen Neal",
+    "givenNames": [
+      "Stephen",
+      "Matthew"
+    ],
+    "familyName": "Neal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Neal",
+    "occupation": "Professional wrestler and former American football player",
+    "achievements": [
+      "Won the NCAA Division I national championship in wrestling while attending Cal State Bakersfield.",
+      "Had a successful career in professional wrestling with WWE."
+    ],
+    "yearBorn": 1976
+  }
+]

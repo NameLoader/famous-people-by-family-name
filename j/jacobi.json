@@ -2,10 +2,12 @@
   {
     "fullName": "Carl Jacobi",
     "givenNames": [
-      "Carl"
+      "Carl",
+      "Gustav",
+      "Jacob"
     ],
     "familyName": "Jacobi",
-    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Jacobi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi",
     "occupation": "Mathematician",
     "achievements": [
       "Contributions to analysis and number theory",

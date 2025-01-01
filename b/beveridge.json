@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Beveridge",
+    "givenNames": [
+      "William",
+      "Henry"
+    ],
+    "familyName": "Beveridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Beveridge",
+    "occupation": "Economist and social reformer",
+    "achievements": [
+      "Known for the Beveridge Report, which laid the foundation for the British welfare state.",
+      "Played a key role in shaping post-war social policy."
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1963
+  }
+]

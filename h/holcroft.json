@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Holcroft",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Holcroft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Holcroft",
+    "occupation": "Playwright, novelist",
+    "achievements": [
+      "Authored the novel 'The Road to Ruin'",
+      "Wrote popular plays like 'A Humourist' and 'The School for Wives'"
+    ],
+    "yearBorn": 1745,
+    "yearDied": 1809
+  }
+]

@@ -2,7 +2,8 @@
   {
     "fullName": "Kylie Minogue",
     "givenNames": [
-      "Kylie"
+      "Kylie",
+      "Ann"
     ],
     "familyName": "Minogue",
     "wikipedia": "https://en.wikipedia.org/wiki/Kylie_Minogue",
@@ -13,5 +14,19 @@
       "Global success with hit singles like 'Can't Get You Out of My Head'"
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Dannii Minogue",
+    "givenNames": [
+      "Dannii"
+    ],
+    "familyName": "Minogue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dannii_Minogue",
+    "occupation": "Singer, Actress, Television Personality",
+    "achievements": [
+      "Multi-platinum selling recording artist",
+      "Judge on popular television talent shows"
+    ],
+    "yearBorn": 1971
   }
 ]

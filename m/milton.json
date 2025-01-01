@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Milton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Milton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Milton",
+    "occupation": "Poet",
+    "achievements": [
+      "Author of Paradise Lost and other important works of English literature"
+    ],
+    "yearBorn": 1608,
+    "yearDied": 1674
+  }
+]

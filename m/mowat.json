@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Farley Mowat",
+    "givenNames": [
+      "Farley",
+      "McGill"
+    ],
+    "familyName": "Mowat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farley_Mowat",
+    "occupation": "Author, naturalist",
+    "achievements": [
+      "Published over 40 books about his experiences in the Arctic and Canada's wilderness.",
+      "Known for advocating environmental conservation and animal rights."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2014
+  }
+]

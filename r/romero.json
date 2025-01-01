@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George A. Romero",
+    "givenNames": [
+      "George",
+      "Andrew"
+    ],
+    "familyName": "Romero",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_A._Romero",
+    "occupation": "Film director, writer, and producer",
+    "achievements": [
+      "Father of the modern zombie genre with films like 'Night of the Living Dead'.",
+      "Influential filmmaker known for his social commentary and horror films."
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2017
+  }
+]

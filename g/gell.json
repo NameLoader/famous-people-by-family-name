@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Alfred Gell",
+    "givenNames": [
+      "Alfred",
+      "Antony",
+      "Francis"
+    ],
+    "familyName": "Gell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Gell",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Known for his work on the anthropology of art and material culture",
+      "Authored influential books like 'Art and Agency: An Anthropological Theory'"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 1997
+  }
+]

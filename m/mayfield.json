@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Baker Mayfield",
+    "givenNames": [
+      "Baker",
+      "Reagan"
+    ],
+    "familyName": "Mayfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baker_Mayfield",
+    "occupation": "NFL Quarterback",
+    "achievements": [
+      "Heisman Trophy winner (2017)",
+      "No. 1 overall pick in the 2018 NFL Draft"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Curtis Mayfield",
+    "givenNames": [
+      "Curtis",
+      "Lee"
+    ],
+    "familyName": "Mayfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curtis_Mayfield",
+    "occupation": "Singer-Songwriter, Guitarist, Producer",
+    "achievements": [
+      "Pioneer of funk and soul music",
+      "Inducted into the Rock and Roll Hall of Fame (1995)"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 1999
+  }
+]

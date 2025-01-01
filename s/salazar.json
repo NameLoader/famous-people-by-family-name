@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "António de Oliveira Salazar",
+    "givenNames": [
+      "António",
+      "de Oliveira"
+    ],
+    "familyName": "Salazar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar",
+    "occupation": "Politician, Economist",
+    "achievements": [
+      "Prime Minister of Portugal (1932-1968)",
+      "Established the Estado Novo regime",
+      "Known for his authoritarian rule and economic policies"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1970
+  }
+]

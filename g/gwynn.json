@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Tony Gwynn",
+    "givenNames": [
+      "Anthony",
+      "Keith"
+    ],
+    "familyName": "Gwynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Gwynn",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "Baseball Hall of Fame inductee",
+      "15-time MLB All-Star",
+      "8-time National League batting champion",
+      "Helped the San Diego Padres win 5 National League pennants"
+    ],
+    "yearBorn": 1960,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Tony Gwynn Jr.",
+    "givenNames": [
+      "Anthony",
+      "Keith",
+      "Jr."
+    ],
+    "familyName": "Gwynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Gwynn_Jr.",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "Played for the San Diego Padres, Milwaukee Brewers, and Los Angeles Dodgers"
+    ],
+    "yearBorn": 1982
+  }
+]

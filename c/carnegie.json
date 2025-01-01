@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1835,
     "yearDied": 1919
+  },
+  {
+    "fullName": "Dale Carnegie",
+    "givenNames": [
+      "Dale"
+    ],
+    "familyName": "Carnegie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dale_Carnegie",
+    "occupation": "Writer, Lecturer",
+    "achievements": [
+      "Authored the best-selling book 'How to Win Friends & Influence People'.",
+      "Developed and popularized techniques for improving social skills and communication."
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1955
   }
 ]

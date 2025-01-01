@@ -2,7 +2,8 @@
   {
     "fullName": "Steven Crowder",
     "givenNames": [
-      "Steven"
+      "Steven",
+      "Blake"
     ],
     "familyName": "Crowder",
     "wikipedia": "https://en.wikipedia.org/wiki/Steven_Crowder",
@@ -12,5 +13,21 @@
       "Co-founder of the conservative news website 'The Louder with Crowder Show'"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "David Crowder",
+    "givenNames": [
+      "David",
+      "Wallace"
+    ],
+    "familyName": "Crowder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crowder_(musician)",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead singer of the Christian rock band David Crowder Band",
+      "Grammy Award nominee",
+      "Dove Award winner"
+    ],
+    "yearBorn": 1971
   }
 ]

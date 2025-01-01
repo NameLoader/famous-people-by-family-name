@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hans Zimmer",
+    "givenNames": [
+      "Hans",
+      "Florian"
+    ],
+    "familyName": "Zimmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+    "occupation": "Film Composer",
+    "achievements": [
+      "Scored films like The Lion King, Gladiator, Inception, and Pirates of the Caribbean.",
+      "Won an Academy Award, two Golden Globes, three Grammy Awards, and a Tony Award."
+    ],
+    "yearBorn": 1957
+  }
+]

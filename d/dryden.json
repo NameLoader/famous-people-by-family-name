@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Dryden",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Dryden",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dryden",
+    "occupation": "Poet, playwright, literary critic",
+    "achievements": [
+      "Considered the most important English poet of the late 17th century.",
+      "Known for his satirical verse, heroic plays, and literary criticism."
+    ],
+    "yearBorn": 1631,
+    "yearDied": 1700
+  }
+]

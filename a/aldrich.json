@@ -2,7 +2,8 @@
   {
     "fullName": "Robert Aldrich",
     "givenNames": [
-      "Robert"
+      "Robert",
+      "Burgess"
     ],
     "familyName": "Aldrich",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_Aldrich",
@@ -13,5 +14,38 @@
     ],
     "yearBorn": 1918,
     "yearDied": 1983
+  },
+  {
+    "fullName": "Nelson Aldrich",
+    "givenNames": [
+      "Nelson",
+      "Wilmarth"
+    ],
+    "familyName": "Aldrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson_W._Aldrich",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a U.S. Senator from Rhode Island",
+      "Prominent figure in Republican politics",
+      "Played a role in the passage of the Federal Reserve Act"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1915
+  },
+  {
+    "fullName": "Winthrop Aldrich",
+    "givenNames": [
+      "Winthrop",
+      "Williams"
+    ],
+    "familyName": "Aldrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winthrop_W._Aldrich",
+    "occupation": "Diplomat and Banker",
+    "achievements": [
+      "Served as U.S. Ambassador to the United Kingdom (1953-1957)",
+      "President of Chase National Bank (later JPMorgan Chase)"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1974
   }
 ]

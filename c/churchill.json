@@ -17,5 +17,20 @@
     ],
     "yearBorn": 1874,
     "yearDied": 1965
+  },
+  {
+    "fullName": "John Churchill, 1st Duke of Marlborough",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Churchill",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Churchill,_1st_Duke_of_Marlborough",
+    "occupation": "Military leader and politician",
+    "achievements": [
+      "Victorious in the War of the Spanish Succession",
+      "Considered one of the greatest military commanders in English history"
+    ],
+    "yearBorn": 1650,
+    "yearDied": 1722
   }
 ]

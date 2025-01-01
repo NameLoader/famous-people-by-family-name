@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Peter Lawford",
+    "givenNames": [
+      "Peter",
+      "Sydney",
+      "Ernest"
+    ],
+    "familyName": "Lawford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Lawford",
+    "occupation": "Actor",
+    "achievements": [
+      "Member of the Rat Pack",
+      "Starred in films like 'The Longest Day' and 'Buona Sera, Mrs. Campbell'",
+      "Married to Patricia Kennedy, sister of President John F. Kennedy"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1984
+  }
+]

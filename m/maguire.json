@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Tobey Maguire",
+    "givenNames": [
+      "Tobias",
+      "Vincent"
+    ],
+    "familyName": "Maguire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tobey_Maguire",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Spider-Man in the superhero film trilogy.",
+      "Nominated for Academy Awards and Golden Globe Awards."
+    ],
+    "yearBorn": 1975
+  }
+]

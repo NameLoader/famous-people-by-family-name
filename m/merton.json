@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Robert King Merton",
+    "givenNames": [
+      "Robert",
+      "King"
+    ],
+    "familyName": "Merton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_K._Merton",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Developed theories of social structure and anomie",
+      "Contributed to the understanding of science and technology",
+      "Known for his concept of 'self-fulfilling prophecy'"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Thomas Merton",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Merton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Merton",
+    "occupation": "Trappist monk, writer, poet, social activist",
+    "achievements": [
+      "Authored influential books on spirituality and monastic life",
+      "Promoted interfaith dialogue and peace",
+      "His writings continue to inspire readers worldwide"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1968
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Joseph Addison",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Addison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Addison",
+    "occupation": "Essayist, Poet, Politician",
+    "achievements": [
+      "Co-founded the influential periodical 'The Spectator'",
+      "Authored notable plays like 'Cato'"
+    ],
+    "yearBorn": 1672,
+    "yearDied": 1719
+  }
+]

@@ -2,10 +2,11 @@
   {
     "fullName": "Charles Dow",
     "givenNames": [
-      "Charles"
+      "Charles",
+      "Henry"
     ],
     "familyName": "Dow",
-    "wikipedia": "https://en.wikipedia.org/wiki/Charles_H._Dow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dow",
     "occupation": "Journalist, Financier",
     "achievements": [
       "Co-founder of Dow Jones & Company",

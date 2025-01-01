@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Edward Cope",
+    "givenNames": [
+      "Edward",
+      "Drinker"
+    ],
+    "familyName": "Cope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Drinker_Cope",
+    "occupation": "Paleontologist, zoologist",
+    "achievements": [
+      "Discovery of many dinosaur fossils",
+      "Contribution to the understanding of evolutionary relationships between animals"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1897
+  }
+]

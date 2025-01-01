@@ -1,16 +1,19 @@
 [
   {
-    "fullName": "Floyd Liston Patterson",
+    "fullName": "Sonny Liston",
     "givenNames": [
-      "Floyd"
+      "Sonny",
+      "Charles",
+      "L."
     ],
     "familyName": "Liston",
-    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Patterson",
-    "occupation": "boxer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonny_Liston",
+    "occupation": "Professional boxer",
     "achievements": [
-      "Two-time world heavyweight boxing champion"
+      "World Heavyweight Champion (1962-1964)",
+      "Known for his intimidating presence and powerful punching ability"
     ],
-    "yearBorn": 1935,
+    "yearBorn": 1932,
     "yearDied": 1970
   }
 ]

@@ -2,7 +2,8 @@
   {
     "fullName": "David Tennant",
     "givenNames": [
-      "David"
+      "David",
+      "John"
     ],
     "familyName": "Tennant",
     "wikipedia": "https://en.wikipedia.org/wiki/David_Tennant",
@@ -13,5 +14,20 @@
       "Award-winning voice artist"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Neil Tennant",
+    "givenNames": [
+      "Neil",
+      "Francis"
+    ],
+    "familyName": "Tennant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Tennant",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Lead singer and songwriter of the synthpop duo Pet Shop Boys",
+      "Multiple Brit Award wins and Grammy nominations"
+    ],
+    "yearBorn": 1954
   }
 ]

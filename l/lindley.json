@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Lindley",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Lindley",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lindley",
+    "occupation": "Botanist",
+    "achievements": [
+      "Founded the Gardener's Chronicle",
+      "Authored numerous botanical works",
+      "Contributed to the understanding of plant taxonomy and morphology"
+    ],
+    "yearBorn": 1799,
+    "yearDied": 1865
+  }
+]

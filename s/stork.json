@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Stork",
+    "givenNames": [
+      "David",
+      "G"
+    ],
+    "familyName": "Stork",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_G._Stork",
+    "occupation": "Computer scientist, author, and professor",
+    "achievements": [
+      "Expertise in computer vision, image analysis, and artificial intelligence.",
+      "Authored influential books on these topics.",
+      "Professor Emeritus at Stanford University."
+    ],
+    "yearBorn": 1952
+  }
+]

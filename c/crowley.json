@@ -12,5 +12,20 @@
       "Received numerous awards for his work."
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Aleister Crowley",
+    "givenNames": [
+      "Aleister"
+    ],
+    "familyName": "Crowley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aleister_Crowley",
+    "occupation": "Occultist, writer, mountaineer",
+    "achievements": [
+      "Founder of Thelema",
+      "Prolific writer on esoteric subjects"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1947
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Raeburn",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Raeburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Raeburn",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure of the Scottish Enlightenment",
+      "Known for his portraits of prominent Scots",
+      "Developed a distinctive style characterized by naturalism and psychological insight"
+    ],
+    "yearBorn": 1756,
+    "yearDied": 1823
+  }
+]

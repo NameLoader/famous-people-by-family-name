@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gilbert Ryle",
+    "givenNames": [
+      "Gilbert"
+    ],
+    "familyName": "Ryle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Ryle",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Known for his work in analytic philosophy",
+      "Developed the concept of 'the ghost in the machine' to critique dualism",
+      "Authored influential works such as 'The Concept of Mind'"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1976
+  }
+]

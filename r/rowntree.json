@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Joseph Rowntree",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Rowntree",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Rowntree_(philanthropist)",
+    "occupation": "Businessman, philanthropist",
+    "achievements": [
+      "Founded Rowntree's confectionery company (known for KitKat and Aero)",
+      "Prominent social reformer and philanthropist",
+      "Established the Joseph Rowntree Foundation to tackle poverty and social inequality"
+    ],
+    "yearBorn": 1836,
+    "yearDied": 1925
+  },
+  {
+    "fullName": "Seebohm Rowntree",
+    "givenNames": [
+      "Seebohm"
+    ],
+    "familyName": "Rowntree",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seebohm_Rowntree",
+    "occupation": "Sociologist, social reformer",
+    "achievements": [
+      "Pioneer in the field of poverty studies",
+      "Conducted the first large-scale survey of poverty in York, England",
+      "Developed concepts like 'poverty line' and 'minimum income'",
+      "Influential advocate for social welfare programs"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1954
+  }
+]

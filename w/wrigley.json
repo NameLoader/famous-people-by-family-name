@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "William Wrigley Jr.",
+    "givenNames": [
+      "William",
+      "Mills"
+    ],
+    "familyName": "Wrigley",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wrigley_Jr.",
+    "occupation": "Businessman, Entrepreneur",
+    "achievements": [
+      "Founded the Wrigley Company, known for its chewing gum brands like Juicy Fruit and Doublemint.",
+      "Owned the Chicago Cubs baseball team from 1921 to his death in 1932."
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1932
+  },
+  {
+    "fullName": "Philip K. Wrigley",
+    "givenNames": [
+      "Philip",
+      "Knight"
+    ],
+    "familyName": "Wrigley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_K._Wrigley",
+    "occupation": "Businessman, Baseball Executive",
+    "achievements": [
+      "Inheriting and expanding the Wrigley Company.",
+      "Longtime owner of the Chicago Cubs (from 1932 to his death in 1977)",
+      "Helped establish the All-American Girls Professional Baseball League during World War II."
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1977
+  }
+]

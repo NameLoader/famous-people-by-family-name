@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Viswanathan Anand",
+    "givenNames": [
+      "Viswanathan"
+    ],
+    "familyName": "Anand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+    "occupation": "Chess Grandmaster",
+    "achievements": [
+      "Five-time World Chess Champion",
+      "Recipient of the Arjuna Award, Padma Shri, and Padma Vibhushan"
+    ],
+    "yearBorn": 1969
+  }
+]

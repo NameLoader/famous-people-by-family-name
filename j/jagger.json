@@ -2,7 +2,9 @@
   {
     "fullName": "Jade Jagger",
     "givenNames": [
-      "Jade"
+      "Jade",
+      "Sheena",
+      "Jezebel"
     ],
     "familyName": "Jagger",
     "wikipedia": "https://en.wikipedia.org/wiki/Jade_Jagger",
@@ -12,5 +14,21 @@
       "Collaborated with luxury brands like Asprey and Piaget"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Mick Jagger",
+    "givenNames": [
+      "Mick",
+      "Michael",
+      "Philip"
+    ],
+    "familyName": "Jagger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mick_Jagger",
+    "occupation": "Singer, songwriter, musician, actor",
+    "achievements": [
+      "Lead vocalist and founder of the Rolling Stones",
+      "Known for his energetic stage presence and distinctive vocals"
+    ],
+    "yearBorn": 1943
   }
 ]

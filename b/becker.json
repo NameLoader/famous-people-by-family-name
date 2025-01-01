@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Boris Becker",
+    "givenNames": [
+      "Boris",
+      "Franz"
+    ],
+    "familyName": "Becker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Becker",
+    "occupation": "Tennis Player, Coach",
+    "achievements": [
+      "Won six Grand Slam singles titles.",
+      "Became the youngest ever Wimbledon champion at age 17."
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Howard Becker",
+    "givenNames": [
+      "Howard",
+      "Saul"
+    ],
+    "familyName": "Becker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_S._Becker",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Known for his work on deviance and social labeling theory.",
+      "Won the Cooley-Mead Award from the American Sociological Association."
+    ],
+    "yearBorn": 1928
+  },
+  {
+    "fullName": "Gary Becker",
+    "givenNames": [
+      "Gary",
+      "Stanley"
+    ],
+    "familyName": "Becker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Becker",
+    "occupation": "Economist",
+    "achievements": [
+      "Won the Nobel Memorial Prize in Economic Sciences in 1992.",
+      "Applied economic principles to a wide range of social phenomena."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2014
+  }
+]

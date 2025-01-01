@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "John Naughton",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Naughton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Naughton",
+    "occupation": "British journalist and academic",
+    "achievements": [
+      "Professor of the Public Understanding of Technology at the Open University.",
+      "Frequent contributor to The Observer newspaper on technology and society issues."
+    ]
+  }
+]

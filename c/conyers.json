@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Lewis Conyers Jr.",
+    "givenNames": [
+      "John",
+      "Lewis"
+    ],
+    "familyName": "Conyers",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Conyers",
+    "occupation": "Politician",
+    "achievements": [
+      "Longest-serving African American member of Congress",
+      "Key figure in the Civil Rights Movement",
+      "Chairman of the House Judiciary Committee"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2019
+  }
+]

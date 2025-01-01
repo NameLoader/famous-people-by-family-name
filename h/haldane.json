@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "John Burdon Sanderson Haldane",
+    "givenNames": [
+      "John",
+      "Burdon",
+      "Sanderson"
+    ],
+    "familyName": "Haldane",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._B._S._Haldane",
+    "occupation": "Biologist, Geneticist",
+    "achievements": [
+      "Pioneering work in population genetics",
+      "Contributions to the theory of natural selection",
+      "Advocate for eugenics and social reform"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1964
+  }
+]

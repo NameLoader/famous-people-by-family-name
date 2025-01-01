@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Dallas",
+    "givenNames": [
+      "George",
+      "Mifflin"
+    ],
+    "familyName": "Dallas",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_M._Dallas",
+    "occupation": "Politician, Vice President of the United States",
+    "achievements": [
+      "Served as the 11th Vice President of the United States under President James K. Polk (1845–1849)",
+      "Governor of Pennsylvania (1849-1850)"
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1864
+  }
+]

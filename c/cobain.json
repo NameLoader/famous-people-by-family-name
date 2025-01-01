@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Kurt Cobain",
+    "givenNames": [
+      "Kurt",
+      "Donald"
+    ],
+    "familyName": "Cobain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Lead singer and guitarist of the grunge band Nirvana",
+      "Iconic figure in the Seattle music scene",
+      "Influential songwriter known for raw and emotional lyrics"
+    ],
+    "yearBorn": 1967,
+    "yearDied": 1994
+  }
+]

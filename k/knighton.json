@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Henry Knighton",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Knighton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Knighton",
+    "occupation": "Historian and chronicler",
+    "achievements": [
+      "Wrote 'The Chronicle of Henry Knighton,' a detailed account of English history from 1362 to 1391"
+    ],
+    "yearBorn": 1330,
+    "yearDied": 1391
+  }
+]

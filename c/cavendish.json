@@ -13,5 +13,36 @@
     ],
     "yearBorn": 1640,
     "yearDied": 1707
+  },
+  {
+    "fullName": "Henry Cavendish",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Cavendish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Cavendish",
+    "occupation": "Scientist",
+    "achievements": [
+      "Discovery of hydrogen",
+      "Pioneering work in electromagnetism and density measurements"
+    ],
+    "yearBorn": 1731,
+    "yearDied": 1810
+  },
+  {
+    "fullName": "Frederick Cavendish",
+    "givenNames": [
+      "Frederick",
+      "Charles"
+    ],
+    "familyName": "Cavendish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Frederick_Cavendish",
+    "occupation": "Politician",
+    "achievements": [
+      "Chief Secretary for Ireland",
+      "Victim of the Phoenix Park murders"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1940
   }
 ]

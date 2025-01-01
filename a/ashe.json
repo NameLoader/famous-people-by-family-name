@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Arthur Ashe",
+    "givenNames": [
+      "Arthur",
+      "Robert"
+    ],
+    "familyName": "Ashe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Ashe",
+    "occupation": "Tennis Player, Activist",
+    "achievements": [
+      "First Black player selected to the US Davis Cup team",
+      "Won three Grand Slam singles titles",
+      "Advocate for social justice and racial equality"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1993
+  }
+]

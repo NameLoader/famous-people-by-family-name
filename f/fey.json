@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Tina Fey",
+    "givenNames": [
+      "Elizabeth",
+      "Stamatina",
+      "Tina"
+    ],
+    "familyName": "Fey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tina_Fey",
+    "occupation": "Actress, Writer, Producer",
+    "achievements": [
+      "Head writer for Saturday Night Live",
+      "Creator and star of 30 Rock",
+      "Emmy Award winner"
+    ],
+    "yearBorn": 1970
+  }
+]

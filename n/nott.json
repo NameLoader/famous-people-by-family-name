@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Nott",
+    "givenNames": [
+      "John",
+      "William",
+      "Frederic"
+    ],
+    "familyName": "Nott",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Nott",
+    "occupation": "British politician and diplomat",
+    "achievements": [
+      "Served as Defence Secretary from 1981 to 1983.",
+      "Negotiated the withdrawal of British forces from Belize in 1981."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2017
+  }
+]

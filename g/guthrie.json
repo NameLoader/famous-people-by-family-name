@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Woody Guthrie",
+    "givenNames": [
+      "Woodrow",
+      "Wilson"
+    ],
+    "familyName": "Guthrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woody_Guthrie",
+    "occupation": "Singer-songwriter, Folk musician",
+    "achievements": [
+      "Influential figure in American folk music",
+      "Known for songs like 'This Land Is Your Land' and 'Blowin' in the Wind'",
+      "Advocated for social justice through his music"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Arlo Guthrie",
+    "givenNames": [
+      "Arlo",
+      "Davy"
+    ],
+    "familyName": "Guthrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arlo_Guthrie",
+    "occupation": "Singer-songwriter, Folk musician",
+    "achievements": [
+      "Son of Woody Guthrie",
+      "Known for songs like 'Alice's Restaurant Massacree'",
+      "Continues to perform and carry on his father's musical legacy"
+    ],
+    "yearBorn": 1947
+  }
+]

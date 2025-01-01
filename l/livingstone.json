@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Livingstone",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Livingstone",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Livingstone",
+    "occupation": "Missionary, explorer",
+    "achievements": [
+      "Explored the interior of Africa",
+      "Discovered Victoria Falls",
+      "Opposed the slave trade"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1873
+  }
+]

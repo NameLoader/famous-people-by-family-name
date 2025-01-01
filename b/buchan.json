@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Buchan",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Buchan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Buchan",
+    "occupation": "Novelist, Historian, Politician",
+    "achievements": [
+      "Author of adventure novels like 'The Thirty-Nine Steps'",
+      "Governor General of Canada",
+      "Historian specializing in the Jacobite risings"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1940
+  }
+]

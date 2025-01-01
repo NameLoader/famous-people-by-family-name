@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Oscar Fingal O'Flahertie Wills Wilde",
+    "givenNames": [
+      "Oscar",
+      "Fingal",
+      "O'Flahertie",
+      "Wills"
+    ],
+    "familyName": "Wilde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "occupation": "Poet, playwright, novelist",
+    "achievements": [
+      "Famous for works like 'The Picture of Dorian Gray', 'The Importance of Being Earnest'",
+      "Key figure in the Aesthetic movement"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1900
+  },
+  {
+    "fullName": "Willie Wilde",
+    "givenNames": [
+      "William",
+      "Charles",
+      "Kingsbury"
+    ],
+    "familyName": "Wilde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Wilde",
+    "occupation": "Journalist, writer",
+    "achievements": [
+      "Brother of Oscar Wilde",
+      "Known for writing on Irish and literary subjects"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1899
+  }
+]

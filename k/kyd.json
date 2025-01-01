@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Kyd",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Kyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kyd",
+    "occupation": "Playwright",
+    "achievements": [
+      "Considered one of the most influential Elizabethan dramatists.",
+      "Authored the play 'The Spanish Tragedy', a seminal work in revenge tragedy."
+    ],
+    "yearBorn": 1558,
+    "yearDied": 1594
+  }
+]

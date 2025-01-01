@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Zack Snyder",
+    "givenNames": [
+      "Zachary",
+      "Edward"
+    ],
+    "familyName": "Snyder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zack_Snyder",
+    "occupation": "Film director, producer, screenwriter",
+    "achievements": [
+      "Directed films such as '300', 'Watchmen', and 'Man of Steel'",
+      "Known for his distinctive visual style"
+    ],
+    "yearBorn": 1966
+  }
+]

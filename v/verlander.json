@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Justin Verlander",
+    "givenNames": [
+      "Justin",
+      "Brooks"
+    ],
+    "familyName": "Verlander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Verlander",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "MLB Cy Young Award Winner (2011)",
+      "MLB Triple Crown Winner (2011)",
+      "World Series Champion (2017)"
+    ],
+    "yearBorn": 1983
+  }
+]

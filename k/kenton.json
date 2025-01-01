@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Stan Kenton",
+    "givenNames": [
+      "Stan",
+      "Stanley",
+      "Newcomb"
+    ],
+    "familyName": "Kenton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stan_Kenton",
+    "occupation": "Jazz pianist, composer, and bandleader",
+    "achievements": [
+      "Pioneer of progressive jazz",
+      "Led influential big bands in the 1940s and 50s",
+      "Known for complex arrangements and innovative use of instruments"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1979
+  }
+]

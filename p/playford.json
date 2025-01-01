@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Playford",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Playford",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Playford",
+    "occupation": "Music publisher and composer",
+    "achievements": [
+      "Published the influential collection 'The English Dancing Master'",
+      "Contributed to the development of English country dance"
+    ],
+    "yearBorn": 1623,
+    "yearDied": 1687
+  }
+]

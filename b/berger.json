@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Peter Berger",
+    "givenNames": [
+      "Peter",
+      "Ludwig"
+    ],
+    "familyName": "Berger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_L._Berger",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Developed the concept of 'the social construction of reality'",
+      "Influential figure in the sociology of religion"
+    ],
+    "yearBorn": 1929
+  },
+  {
+    "fullName": "John Berger",
+    "givenNames": [
+      "John",
+      "Peter"
+    ],
+    "familyName": "Berger",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Berger",
+    "occupation": "Art critic, novelist, painter",
+    "achievements": [
+      "Author of 'Ways of Seeing', a seminal work on art criticism and visual culture",
+      "Won the Booker Prize for his novel 'G'"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2017
+  }
+]

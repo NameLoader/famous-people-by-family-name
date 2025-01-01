@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Roper",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Roper",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Roper",
+    "occupation": "Lawyer, Writer",
+    "achievements": [
+      "Defended Sir Thomas More against charges of treason",
+      "Author of 'The Life of Sir Thomas More'"
+    ],
+    "yearBorn": 1496,
+    "yearDied": 1578
+  }
+]

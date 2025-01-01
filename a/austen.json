@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1775,
     "yearDied": 1817
+  },
+  {
+    "fullName": "Henry Austen",
+    "givenNames": [
+      "Henry",
+      "Thomas"
+    ],
+    "familyName": "Austen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Thomas_Austen",
+    "occupation": "Clergyman, Banker",
+    "achievements": [
+      "Brother of Jane Austen.",
+      "Published some of Jane's works after her death."
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1850
   }
 ]

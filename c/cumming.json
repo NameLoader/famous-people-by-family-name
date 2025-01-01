@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alan Cumming",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Cumming",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Cumming",
+    "occupation": "Actor, Singer, Writer, Director",
+    "achievements": [
+      "Tony Award winner for his role in 'Cabaret'",
+      "Starred in films such as 'GoldenEye' and 'X2'",
+      "Advocate for LGBTQ+ rights"
+    ],
+    "yearBorn": 1965
+  }
+]

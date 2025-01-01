@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Terry Wogan",
+    "givenNames": [
+      "Michael",
+      "Terence"
+    ],
+    "familyName": "Wogan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Wogan",
+    "occupation": "Broadcaster, Television presenter",
+    "achievements": [
+      "Hosted BBC Radio 2's breakfast show for many years",
+      "Presented the Eurovision Song Contest numerous times",
+      "Known for his wit and charm"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2016
+  }
+]

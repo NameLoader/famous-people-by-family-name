@@ -2,7 +2,8 @@
   {
     "fullName": "Robert Vaughn",
     "givenNames": [
-      "Robert"
+      "Robert",
+      "Francis"
     ],
     "familyName": "Vaughn",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_Vaughn",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1932,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Vince Vaughn",
+    "givenNames": [
+      "Vincent",
+      "Anthony"
+    ],
+    "familyName": "Vaughn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vince_Vaughn",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Starred in popular comedies like 'Wedding Crashers', 'Dodgeball'",
+      "Known for his improvisational comedy skills"
+    ],
+    "yearBorn": 1970
   }
 ]

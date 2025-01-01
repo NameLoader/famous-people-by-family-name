@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Larry Doby",
+    "givenNames": [
+      "Lawrence",
+      "Eugene"
+    ],
+    "familyName": "Doby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Doby",
+    "occupation": "Baseball player",
+    "achievements": [
+      "First African-American player in the American League",
+      "7-time All-Star",
+      "Inducted into the Baseball Hall of Fame"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2003
+  }
+]

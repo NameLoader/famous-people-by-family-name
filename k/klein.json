@@ -13,5 +13,34 @@
     ],
     "yearBorn": 1882,
     "yearDied": 1960
+  },
+  {
+    "fullName": "Felix Klein",
+    "givenNames": [
+      "Felix",
+      "Christian"
+    ],
+    "familyName": "Klein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Klein",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Pioneer in non-Euclidean geometry",
+      "Developed the Erlangen program",
+      "Contributed to group theory and function theory"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1925
+  },
+  {
+    "fullName": "Gary Klein",
+    "givenNames": [
+      "Gary"
+    ],
+    "familyName": "Klein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_A._Klein",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Expert on decision-making and naturalistic decision making"
+    ]
   }
 ]

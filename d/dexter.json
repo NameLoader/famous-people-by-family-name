@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Colin Dexter",
+    "givenNames": [
+      "Colin",
+      "Norman"
+    ],
+    "familyName": "Dexter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Dexter",
+    "occupation": "Novelist, Writer",
+    "achievements": [
+      "Created the Inspector Morse series of detective novels",
+      "Won numerous awards for his writing, including the Mystery Writers of America Edgar Award"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2017
+  }
+]

@@ -1,17 +1,18 @@
 [
   {
-    "fullName": "Byron Lovelace",
+    "fullName": "Augusta Ada Byron Lovelace",
     "givenNames": [
-      "Byron"
+      "Augusta",
+      "Ada"
     ],
     "familyName": "Lovelace",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron#Byron_and_his_daughter",
-    "occupation": "Poet, politician",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+    "occupation": "Mathematician and Writer",
     "achievements": [
-      "One of the most famous Romantic poets",
-      "Father of Ada Lovelace"
+      "Considered the first computer programmer for her work on Charles Babbage's Analytical Engine.",
+      "Recognized for her understanding of the potential of computers beyond mere calculation."
     ],
-    "yearBorn": 1788,
-    "yearDied": 1824
+    "yearBorn": 1815,
+    "yearDied": 1852
   }
 ]

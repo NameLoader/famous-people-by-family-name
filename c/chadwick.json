@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "James Chadwick",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Chadwick",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Chadwick",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovered the neutron",
+      "Won the Nobel Prize in Physics in 1935"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1974
+  }
+]

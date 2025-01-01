@@ -18,7 +18,8 @@
   {
     "fullName": "Thomas Friedman",
     "givenNames": [
-      "Thomas"
+      "Thomas",
+      "Loren"
     ],
     "familyName": "Friedman",
     "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Friedman",
@@ -29,5 +30,19 @@
       "Bestselling author on globalization and economics"
     ],
     "yearBorn": 1953
+  },
+  {
+    "fullName": "David Friedman",
+    "givenNames": [
+      "David",
+      "Director"
+    ],
+    "familyName": "Friedman",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_D._Friedman",
+    "occupation": "Law Professor, Author",
+    "achievements": [
+      "Known for his work on legal theory and anarchism",
+      "Author of influential books like 'The Machinery of Freedom'"
+    ]
   }
 ]

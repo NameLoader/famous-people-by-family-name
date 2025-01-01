@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Pym",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Pym",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Pym",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Key figure in the English Civil War.",
+      "Leader of the opposition to King Charles I and his policies.",
+      "Signed the Grand Remonstrance, a list of grievances against the king."
+    ],
+    "yearBorn": 1584,
+    "yearDied": 1643
+  }
+]

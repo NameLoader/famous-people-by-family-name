@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "James Stirling",
+    "givenNames": [
+      "James",
+      "Frazer"
+    ],
+    "familyName": "Stirling",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stirling_(architect)",
+    "occupation": "Architect",
+    "achievements": [
+      "Pritzker Architecture Prize winner",
+      "Known for Brutalist style"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Robert Stirling",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Stirling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Stirling",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the Stirling engine"
+    ],
+    "yearBorn": 1790,
+    "yearDied": 1878
+  }
+]

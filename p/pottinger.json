@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir Henry Pottinger",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Pottinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Pottinger",
+    "occupation": "British diplomat and colonial administrator",
+    "achievements": [
+      "Negotiated the Treaty of Nanking",
+      "Served as the first Governor of Hong Kong"
+    ],
+    "yearBorn": 1789,
+    "yearDied": 1856
+  }
+]

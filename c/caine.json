@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michael Caine",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Caine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Caine",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Two Golden Globe Awards",
+      "BAFTA Fellowship"
+    ],
+    "yearBorn": 1933
+  }
+]

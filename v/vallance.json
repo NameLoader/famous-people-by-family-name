@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Patrick Vallance",
+    "givenNames": [
+      "Patrick",
+      "John",
+      "Thompson"
+    ],
+    "familyName": "Vallance",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Vallance",
+    "occupation": "Chief Scientific Adviser to the Government of the United Kingdom",
+    "achievements": [
+      "Led the UK's scientific response to the COVID-19 pandemic",
+      "Previously served as Chief Scientist at GlaxoSmithKline"
+    ],
+    "yearBorn": 1960
+  }
+]

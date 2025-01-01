@@ -2,7 +2,8 @@
   {
     "fullName": "Corey Seager",
     "givenNames": [
-      "Corey"
+      "Corey",
+      "Drew"
     ],
     "familyName": "Seager",
     "wikipedia": "https://en.wikipedia.org/wiki/Corey_Seager",
@@ -13,5 +14,20 @@
       "5× All-Star"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Kyle Seager",
+    "givenNames": [
+      "Kyle",
+      "Duerr"
+    ],
+    "familyName": "Seager",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyle_Seager",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "All-Star (2014)",
+      "Gold Glove Award winner (2016)"
+    ],
+    "yearBorn": 1987
   }
 ]

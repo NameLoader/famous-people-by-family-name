@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Stephen Paget",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Paget",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Paget",
+    "occupation": "Surgeon, Anatomist",
+    "achievements": [
+      "Pioneer of surgical oncology",
+      "Developed the concept of 'seed and soil' for cancer metastasis"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1926
+  }
+]

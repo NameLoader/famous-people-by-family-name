@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Carlos Castaneda",
+    "givenNames": [
+      "Carlos"
+    ],
+    "familyName": "Castaneda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Castaneda",
+    "occupation": "Author",
+    "achievements": [
+      "Known for his books detailing his alleged apprenticeship with a Yaqui sorcerer named Don Juan Matus.",
+      "His works are controversial and have been accused of being fictionalized."
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1998
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Makepeace Thackeray",
+    "givenNames": [
+      "William",
+      "Makepeace"
+    ],
+    "familyName": "Thackeray",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
+    "occupation": "Novelist, author, illustrator",
+    "achievements": [
+      "Authored Vanity Fair",
+      "Prominent figure in Victorian literature"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1863
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Kerry Packer",
+    "givenNames": [
+      "Kerry",
+      "Francis",
+      "Bullmore"
+    ],
+    "familyName": "Packer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerry_Packer",
+    "occupation": "Businessman",
+    "achievements": [
+      "Built a media empire including Nine Network and ACP Magazines",
+      "Known for his aggressive business tactics and philanthropy"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "James Packer",
+    "givenNames": [
+      "James",
+      "Douglas"
+    ],
+    "familyName": "Packer",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Packer",
+    "occupation": "Businessman",
+    "achievements": [
+      "Involved in the family's media empire and casino business",
+      "Known for his high-profile relationships and philanthropy"
+    ],
+    "yearBorn": 1967
+  }
+]

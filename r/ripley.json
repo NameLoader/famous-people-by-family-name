@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Ellen Ripley",
+    "givenNames": [
+      "Ellen",
+      "Louise"
+    ],
+    "familyName": "Ripley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellen_Ripley",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the Alien franchise",
+      "Known for her strength, intelligence, and resilience"
+    ]
+  },
+  {
+    "fullName": "George Ripley",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Ripley",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Ripley_(transcendentalist)",
+    "occupation": "American transcendentalist writer and theologian",
+    "achievements": [
+      "Founded the Brook Farm utopian community",
+      "Advocated for social reform and spiritual enlightenment"
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1880
+  }
+]

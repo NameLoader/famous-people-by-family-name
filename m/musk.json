@@ -16,5 +16,20 @@
       "Revolutionized the electric vehicle industry"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Maye Musk",
+    "givenNames": [
+      "Maye"
+    ],
+    "familyName": "Musk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maye_Musk",
+    "occupation": "Model, Dietitian",
+    "achievements": [
+      "One of the oldest working supermodels",
+      "Author of several cookbooks",
+      "Mother of Elon Musk, Kimbal Musk, and Tosca Musk"
+    ],
+    "yearBorn": 1948
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Doerr",
+    "givenNames": [
+      "John",
+      "L."
+    ],
+    "familyName": "Doerr",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Doerr",
+    "occupation": "Venture capitalist",
+    "achievements": [
+      "Early investor in Google, Amazon, and Sun Microsystems",
+      "Author of the book 'Measure What Matters'",
+      "Known for promoting Objectives and Key Results (OKRs)"
+    ],
+    "yearBorn": 1951
+  }
+]

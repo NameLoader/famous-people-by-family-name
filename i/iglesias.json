@@ -2,7 +2,8 @@
   {
     "fullName": "Enrique Iglesias",
     "givenNames": [
-      "Enrique"
+      "Enrique",
+      "Miguel"
     ],
     "familyName": "Iglesias",
     "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Iglesias",
@@ -13,5 +14,20 @@
       "Won numerous awards including Billboard Music Awards and World Music Awards"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Julio Iglesias",
+    "givenNames": [
+      "Julio",
+      "José"
+    ],
+    "familyName": "Iglesias",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_Iglesias",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Bestselling Latin artist of all time",
+      "Multiple Grammy Awards and Guinness World Records"
+    ],
+    "yearBorn": 1943
   }
 ]

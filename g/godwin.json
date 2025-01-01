@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Godwin",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Godwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Godwin",
+    "occupation": "Philosopher and novelist",
+    "achievements": [
+      "Considered one of the founders of anarchism",
+      "Author of 'Political Justice' and 'Caleb Williams'"
+    ],
+    "yearBorn": 1756,
+    "yearDied": 1836
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Blackstone",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Blackstone",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Blackstone",
+    "occupation": "Jurist, legal scholar",
+    "achievements": [
+      "Authored 'Commentaries on the Laws of England', a seminal work in English common law.",
+      "Influenced legal thought and education for centuries."
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1780
+  }
+]

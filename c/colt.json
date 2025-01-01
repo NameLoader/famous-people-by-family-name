@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1814,
     "yearDied": 1862
+  },
+  {
+    "fullName": "Elizabeth Colt",
+    "givenNames": [
+      "Elizabeth",
+      "Jarvis"
+    ],
+    "familyName": "Colt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Jarvis_Colt",
+    "occupation": "Philanthropist, Businesswoman",
+    "achievements": [
+      "Inherited and managed Colt's Patent Fire Arms Manufacturing Company after her husband Samuel Colt's death",
+      "Known for her extensive philanthropic work in Hartford, Connecticut"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1905
   }
 ]

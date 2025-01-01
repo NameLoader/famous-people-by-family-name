@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1898,
     "yearDied": 1959
+  },
+  {
+    "fullName": "John Sturges",
+    "givenNames": [
+      "John",
+      "Eliot"
+    ],
+    "familyName": "Sturges",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sturges",
+    "occupation": "Film and television director",
+    "achievements": [
+      "Directed classic Westerns such as The Magnificent Seven and Gunfight at the O.K. Corral",
+      "Known for his action-packed films with strong characters"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1997
   }
 ]

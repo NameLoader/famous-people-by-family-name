@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "James Jeffries",
+    "givenNames": [
+      "James",
+      "Jackson"
+    ],
+    "familyName": "Jeffries",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_J._Jeffries",
+    "occupation": "Boxer",
+    "achievements": [
+      "World Heavyweight Champion"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "John Jeffries",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Jeffries",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Jeffries",
+    "occupation": "Physician, Surgeon",
+    "achievements": [
+      "Pioneer in the study of medicine and surgery"
+    ],
+    "yearBorn": 1744,
+    "yearDied": 1819
+  }
+]

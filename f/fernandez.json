@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Vicente Fernandez",
+    "givenNames": [
+      "Vicente"
+    ],
+    "familyName": "Fernandez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "Known as 'El Charro de Huentitán'",
+      "One of the best-selling music artists of all time",
+      "Grammy Award Winner"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2021
+  }
+]

@@ -14,5 +14,38 @@
     ],
     "yearBorn": 1732,
     "yearDied": 1799
+  },
+  {
+    "fullName": "Booker T. Washington",
+    "givenNames": [
+      "Booker",
+      "Taliaferro"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+    "occupation": "Educator, author, orator, advisor to presidents",
+    "achievements": [
+      "Founded the Tuskegee Institute",
+      "Promoted vocational education and self-help for African Americans",
+      "Advocated for racial equality through economic empowerment"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1915
+  },
+  {
+    "fullName": "Denzel Washington",
+    "givenNames": [
+      "Denzel",
+      "Hayes"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denzel_Washington",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Two-time Academy Award winner",
+      "Tony Award winner",
+      "Known for roles in films like 'Glory', 'Malcolm X', 'Training Day'"
+    ],
+    "yearBorn": 1954
   }
 ]

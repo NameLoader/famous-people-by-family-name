@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Gary Player",
+    "givenNames": [
+      "Gary",
+      "James"
+    ],
+    "familyName": "Player",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Player",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "9 Major Championships",
+      "World Golf Hall of Fame Inductee"
+    ],
+    "yearBorn": 1935
+  }
+]

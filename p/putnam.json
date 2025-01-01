@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Israel Putnam",
+    "givenNames": [
+      "Israel"
+    ],
+    "familyName": "Putnam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Israel_Putnam",
+    "occupation": "Military General, Farmer",
+    "achievements": [
+      "Hero of the American Revolutionary War, notably for his bravery at the Battle of Bunker Hill and Saratoga",
+      "Served as a Major General in the Continental Army"
+    ],
+    "yearBorn": 1718,
+    "yearDied": 1790
+  },
+  {
+    "fullName": "Hillary Putnam",
+    "givenNames": [
+      "Hilary",
+      "Whitehall"
+    ],
+    "familyName": "Putnam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilary_Putnam",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Highly influential figure in 20th century philosophy, known for his work on the mind-body problem, metaphysics, and epistemology",
+      "Contributed significantly to the development of pragmatism and analytic philosophy"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2016
+  }
+]

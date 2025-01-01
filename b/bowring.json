@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Bowring",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Bowring",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bowring",
+    "occupation": "Governor, Linguist, Translator",
+    "achievements": [
+      "Governor of Hong Kong (1854-1856)",
+      "Translated works from Chinese, Persian, and other languages",
+      "Founded the first public library in Hong Kong"
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1872
+  }
+]

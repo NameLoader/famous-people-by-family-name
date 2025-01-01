@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Peter Sellers",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Sellers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Sellers",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Known for his comedic roles in films like 'The Pink Panther', 'Lolita', and 'Dr. Strangelove'",
+      "Renowned for his mastery of accents and physical comedy"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1980
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Ogilby",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ogilby",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ogilby",
+    "occupation": "Writer, translator, publisher, and mathematician",
+    "achievements": [
+      "Published the first edition of Milton's 'Paradise Lost'",
+      "Produced an atlas and guide to England and Wales",
+      "Translated Virgil's Aeneid into English"
+    ],
+    "yearBorn": 1600,
+    "yearDied": 1676
+  }
+]

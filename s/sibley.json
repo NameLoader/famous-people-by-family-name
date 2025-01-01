@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Sibley",
+    "givenNames": [
+      "Charles",
+      "Gald"
+    ],
+    "familyName": "Sibley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sibley",
+    "occupation": "Ornithologist",
+    "achievements": [
+      "Pioneer in avian taxonomy and systematics",
+      "Developed the Sibley-Ahlquist taxonomy of birds"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2001
+  }
+]

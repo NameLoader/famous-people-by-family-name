@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1739,
     "yearDied": 1823
+  },
+  {
+    "fullName": "John Bartram",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Bartram",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bartram",
+    "occupation": "Botanist, horticulturalist",
+    "achievements": [
+      "Considered the 'Father of American Botany'",
+      "Collected and cultivated plants from throughout the Americas",
+      "Correspondence with prominent European botanists like Carl Linnaeus"
+    ],
+    "yearBorn": 1699,
+    "yearDied": 1777
   }
 ]

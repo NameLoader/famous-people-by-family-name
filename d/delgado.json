@@ -2,7 +2,8 @@
   {
     "fullName": "Emilio Delgado",
     "givenNames": [
-      "Emilio"
+      "Emilio",
+      "Ernest"
     ],
     "familyName": "Delgado",
     "wikipedia": "https://en.wikipedia.org/wiki/Emilio_Delgado",
@@ -11,5 +12,19 @@
       "Known for his role as Luis on the children's television show 'Sesame Street'"
     ],
     "yearBorn": 1940
+  },
+  {
+    "fullName": "Pedro Delgado",
+    "givenNames": [
+      "Pedro"
+    ],
+    "familyName": "Delgado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Delgado",
+    "occupation": "Cyclist",
+    "achievements": [
+      "Won the Tour de France in 1988",
+      "Three-time winner of the Vuelta a España"
+    ],
+    "yearBorn": 1960
   }
 ]

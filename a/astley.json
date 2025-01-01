@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rick Astley",
+    "givenNames": [
+      "Richard",
+      "Paul"
+    ],
+    "familyName": "Astley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rick_Astley",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Known for the hit song 'Never Gonna Give You Up'",
+      "Experienced a resurgence in popularity through the internet meme 'Rickrolling'"
+    ],
+    "yearBorn": 1966
+  }
+]

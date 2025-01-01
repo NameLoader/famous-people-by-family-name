@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Art Blakey",
+    "givenNames": [
+      "Art",
+      "Arthur"
+    ],
+    "familyName": "Blakey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Art_Blakey",
+    "occupation": "Jazz drummer and bandleader",
+    "achievements": [
+      "Led the influential Jazz Messengers for over three decades",
+      "Known for his powerful drumming style and mentorship of young musicians"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1990
+  }
+]

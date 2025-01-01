@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Dover",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Dover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Dover",
+    "occupation": "Physician, author",
+    "achievements": [
+      "Developed the Dover's powder, a medication for treating fevers and ague.",
+      "Wrote several books on medicine and natural history."
+    ],
+    "yearBorn": 1660,
+    "yearDied": 1742
+  }
+]

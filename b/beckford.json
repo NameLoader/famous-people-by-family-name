@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Beckford",
+    "givenNames": [
+      "William",
+      "Thomas"
+    ],
+    "familyName": "Beckford",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Beckford_(novelist)",
+    "occupation": "Writer, art collector, traveler",
+    "achievements": [
+      "Authored the Gothic novel *Vathek***, *",
+      "Built Fonthill Abbey, a grand and eccentric estate*"
+    ],
+    "yearBorn": 1760,
+    "yearDied": 1844
+  }
+]

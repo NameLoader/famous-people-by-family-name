@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Grierson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Grierson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Grierson",
+    "occupation": "Filmmaker, Documentarian",
+    "achievements": [
+      "Considered the 'father of documentary'",
+      "Founded the National Film Board of Canada",
+      "Directed influential documentaries like 'Drifters'"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1972
+  }
+]

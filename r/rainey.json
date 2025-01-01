@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ma Rainey",
+    "givenNames": [
+      "Gertrude",
+      "Ma"
+    ],
+    "familyName": "Rainey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ma_Rainey",
+    "occupation": "Blues singer",
+    "achievements": [
+      "Known as the 'Mother of the Blues'",
+      "One of the first professional blues singers and a major influence on generations of musicians"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1939
+  }
+]

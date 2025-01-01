@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Norman MacLean",
+    "givenNames": [
+      "Norman",
+      "Fitzroy"
+    ],
+    "familyName": "MacLean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Maclean",
+    "occupation": "American author and professor",
+    "achievements": [
+      "Known for his short stories and novellas set in Montana.",
+      "His works often explore themes of nature, family, and loss."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1990
+  }
+]

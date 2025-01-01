@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Clare",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Clare",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Clare",
+    "occupation": "Poet",
+    "achievements": [
+      "Known as the 'Peasant Poet'",
+      "Wrote poems reflecting rural life and nature"
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1864
+  }
+]

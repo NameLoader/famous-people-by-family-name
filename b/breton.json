@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "André Breton",
+    "givenNames": [
+      "André",
+      "Robert"
+    ],
+    "familyName": "Breton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Breton",
+    "occupation": "Writer, Poet, Philosopher",
+    "achievements": [
+      "Founder of Surrealism.",
+      "Author of the Surrealist Manifesto and numerous other literary works."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1966
+  }
+]

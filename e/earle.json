@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Steve Earle",
+    "givenNames": [
+      "Steve",
+      "Stephen"
+    ],
+    "familyName": "Earle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Earle",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Won three Grammy Awards",
+      "Known for his Americana and country music style",
+      "Advocate for social justice issues"
+    ],
+    "yearBorn": 1955
+  }
+]

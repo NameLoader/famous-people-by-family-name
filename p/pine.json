@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Robert Pine",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Pine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Pine",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Sergeant Joseph Getraer in the television series CHiPs.",
+      "Appeared in numerous other television shows and films."
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Chris Pine",
+    "givenNames": [
+      "Chris",
+      "Christopher",
+      "Whitelaw"
+    ],
+    "familyName": "Pine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Pine",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred as Captain Kirk in the Star Trek reboot film series.",
+      "Known for roles in films such as Wonder Woman and The Princess Bride."
+    ],
+    "yearBorn": 1980
+  }
+]

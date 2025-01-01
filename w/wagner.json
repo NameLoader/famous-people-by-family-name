@@ -2,7 +2,8 @@
   {
     "fullName": "Richard Wagner",
     "givenNames": [
-      "Richard"
+      "Richard",
+      "Wilhelm"
     ],
     "familyName": "Wagner",
     "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner",
@@ -14,5 +15,20 @@
     ],
     "yearBorn": 1813,
     "yearDied": 1883
+  },
+  {
+    "fullName": "Robert Wagner",
+    "givenNames": [
+      "Robert",
+      "John"
+    ],
+    "familyName": "Wagner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Wagner",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'Broken Lance' and 'West Side Story'",
+      "Played the titular character in the TV series 'Hart to Hart'"
+    ],
+    "yearBorn": 1930
   }
 ]

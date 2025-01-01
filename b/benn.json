@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Tony Benn",
+    "givenNames": [
+      "Anthony",
+      "Neil",
+      "Wedgwood"
+    ],
+    "familyName": "Benn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Benn",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a Member of Parliament for over 50 years",
+      "Held various cabinet positions in the Labour government",
+      "Prominent socialist and advocate for nuclear disarmament"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2014
+  }
+]

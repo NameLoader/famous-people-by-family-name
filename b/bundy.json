@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ted Bundy",
+    "givenNames": [
+      "Theodore",
+      "Robert"
+    ],
+    "familyName": "Bundy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
+    "occupation": "Serial killer",
+    "achievements": [
+      "Convicted of the murders of at least 30 young women in the 1970s."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1989
+  }
+]

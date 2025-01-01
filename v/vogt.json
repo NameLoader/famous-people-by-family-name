@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Carl Vogt",
+    "givenNames": [
+      "August Christoph Carl"
+    ],
+    "familyName": "Vogt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Vogt",
+    "occupation": "Zoologist, anatomist, physiologist",
+    "achievements": [
+      "Pioneering work in comparative anatomy and physiology",
+      "Championed the theory of evolution by natural selection"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1895
+  }
+]

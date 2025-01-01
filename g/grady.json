@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henry Grady",
+    "givenNames": [
+      "Henry",
+      "Woodfin"
+    ],
+    "familyName": "Grady",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_W._Grady",
+    "occupation": "Journalist, editor",
+    "achievements": [
+      "Known as the 'Voice of the New South'",
+      "Promoted industrial development and reconciliation between North and South after the Civil War"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1889
+  }
+]

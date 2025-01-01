@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Ogden Abell",
+    "givenNames": [
+      "George",
+      "Ogden"
+    ],
+    "familyName": "Abell",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_O._Abell",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered over 100 galaxy clusters",
+      "Created the Abell Catalog of Rich Clusters of Galaxies"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1983
+  }
+]

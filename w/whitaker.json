@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Forest Whitaker",
+    "givenNames": [
+      "Forest",
+      "Steven"
+    ],
+    "familyName": "Whitaker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forest_Whitaker",
+    "occupation": "Actor, Director, Producer",
+    "achievements": [
+      "Academy Award for Best Actor (The Last King of Scotland)",
+      "BAFTA Award for Best Actor in a Leading Role (The Last King of Scotland)"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "John Whitaker",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Whitaker",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Whitaker_(equestrian)",
+    "occupation": "Show Jumper",
+    "achievements": [
+      "Multiple Olympic medalist (Show Jumping)",
+      "World Equestrian Games medalist (Show Jumping)"
+    ]
+  }
+]

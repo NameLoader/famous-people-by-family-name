@@ -2,7 +2,8 @@
   {
     "fullName": "Virgil Earp",
     "givenNames": [
-      "Virgil"
+      "Virgil",
+      "Walter"
     ],
     "familyName": "Earp",
     "wikipedia": "https://en.wikipedia.org/wiki/Virgil_Earp",
@@ -16,7 +17,8 @@
   {
     "fullName": "Morgan Earp",
     "givenNames": [
-      "Morgan"
+      "Morgan",
+      "Seth"
     ],
     "familyName": "Earp",
     "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Earp",
@@ -26,5 +28,37 @@
     ],
     "yearBorn": 1851,
     "yearDied": 1882
+  },
+  {
+    "fullName": "Wyatt Earp",
+    "givenNames": [
+      "Wyatt",
+      "Berry",
+      "Stapp"
+    ],
+    "familyName": "Earp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wyatt_Earp",
+    "occupation": "Lawman, gambler, saloon keeper",
+    "achievements": [
+      "Participant in the Gunfight at the O.K. Corral",
+      "Served as a deputy marshal in Dodge City and Tombstone"
+    ],
+    "yearBorn": 1848,
+    "yearDied": 1929
+  },
+  {
+    "fullName": "James Earp",
+    "givenNames": [
+      "James",
+      "Cooksey"
+    ],
+    "familyName": "Earp",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Earp",
+    "occupation": "Lawman, saloon keeper",
+    "achievements": [
+      "Served as a deputy marshal in Wichita and Dodge City"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1926
   }
 ]

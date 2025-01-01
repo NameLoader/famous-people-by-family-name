@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Brian Lumley",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Lumley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Lumley",
+    "occupation": "Author",
+    "achievements": [
+      "Known for his horror and science fiction works",
+      "Created the Necroscope series"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Joanna Lumley",
+    "givenNames": [
+      "Joanna",
+      "Lamond"
+    ],
+    "familyName": "Lumley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joanna_Lumley",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the British sitcom Absolutely Fabulous",
+      "Acclaimed for her roles in films and television series",
+      "Known for her activism and humanitarian work"
+    ],
+    "yearBorn": 1946
+  }
+]

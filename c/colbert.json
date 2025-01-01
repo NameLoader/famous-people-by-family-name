@@ -2,7 +2,8 @@
   {
     "fullName": "Stephen Colbert",
     "givenNames": [
-      "Stephen"
+      "Stephen",
+      "Tyrone"
     ],
     "familyName": "Colbert",
     "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Colbert",
@@ -12,5 +13,21 @@
       "Won numerous awards including multiple Emmy Awards and Peabody Awards"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Jean-Baptiste Colbert",
+    "givenNames": [
+      "Jean-Baptiste"
+    ],
+    "familyName": "Colbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Baptiste_Colbert",
+    "occupation": "French statesman and financier",
+    "achievements": [
+      "Served as Comptroller-General of Finances under Louis XIV",
+      "Implemented mercantilist policies that contributed to France's economic growth",
+      "Founded the Académie des Sciences and the French East India Company"
+    ],
+    "yearBorn": 1619,
+    "yearDied": 1683
   }
 ]

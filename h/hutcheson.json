@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Francis Hutcheson",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Hutcheson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Hutcheson_(philosopher)",
+    "occupation": "Philosopher, theologian, and educator",
+    "achievements": [
+      "Pioneer of the Scottish Enlightenment",
+      "Advocate for moral sense theory",
+      "Influential teacher at the University of Glasgow"
+    ],
+    "yearBorn": 1694,
+    "yearDied": 1746
+  }
+]

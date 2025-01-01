@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Lane Kiffin",
+    "givenNames": [
+      "Lane",
+      "Monte"
+    ],
+    "familyName": "Kiffin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lane_Kiffin",
+    "occupation": "American football coach",
+    "achievements": [
+      "Head Coach of Ole Miss Rebels",
+      "Former Head Coach of Tennessee Volunteers and USC Trojans",
+      "Offensive Coordinator for Alabama Crimson Tide under Nick Saban"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Monte Kiffin",
+    "givenNames": [
+      "Monte",
+      "George"
+    ],
+    "familyName": "Kiffin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monte_Kiffin",
+    "occupation": "American football coach",
+    "achievements": [
+      "Pioneer of the Tampa 2 defensive scheme",
+      "Defensive Coordinator for numerous NFL teams, including the Tampa Bay Buccaneers and Dallas Cowboys",
+      "Father of Lane Kiffin"
+    ],
+    "yearBorn": 1939
+  }
+]

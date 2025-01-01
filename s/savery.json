@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Savery",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Savery",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Savery",
+    "occupation": "Engineer, inventor",
+    "achievements": [
+      "Developed the first commercially used steam engine, the Savery engine.",
+      "Pioneered the use of steam for pumping water from mines."
+    ],
+    "yearBorn": 1650,
+    "yearDied": 1715
+  }
+]

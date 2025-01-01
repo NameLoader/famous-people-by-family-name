@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Aubrey",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Aubrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Aubrey",
+    "occupation": "Writer, antiquary, biographer",
+    "achievements": [
+      "Authored 'Brief Lives'",
+      "Collected biographical information about notable figures of his time"
+    ],
+    "yearBorn": 1626,
+    "yearDied": 1697
+  }
+]

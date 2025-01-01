@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Napier",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Napier",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Napier",
+    "occupation": "Mathematician, Physicist, Astronomer",
+    "achievements": [
+      "Invention of logarithms",
+      "Contributions to the development of decimal notation"
+    ],
+    "yearBorn": 1550,
+    "yearDied": 1617
+  }
+]

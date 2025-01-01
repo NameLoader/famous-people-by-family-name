@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Joseph Heller",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Heller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Heller",
+    "occupation": "Novelist, short story writer, playwright",
+    "achievements": [
+      "Author of Catch-22"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Steven Heller",
+    "givenNames": [
+      "Steven"
+    ],
+    "familyName": "Heller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Heller_(design_writer)",
+    "occupation": "Graphic designer, author, educator",
+    "achievements": [
+      "Co-authored numerous books on graphic design"
+    ]
+  }
+]

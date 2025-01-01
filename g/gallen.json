@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Paul Gallen",
+    "givenNames": [
+      "Paul"
+    ],
+    "familyName": "Gallen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Gallen",
+    "occupation": "Rugby league player",
+    "achievements": [
+      "Represented Australia in rugby league",
+      "Won the NRL premiership with the Cronulla-Sutherland Sharks"
+    ],
+    "yearBorn": 1981
+  }
+]

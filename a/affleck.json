@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ben Affleck",
+    "givenNames": [
+      "Ben",
+      "Benjamin",
+      "Géza"
+    ],
+    "familyName": "Affleck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Affleck",
+    "occupation": "Actor, director, screenwriter, producer",
+    "achievements": [
+      "Academy Award for Best Original Screenplay (Good Will Hunting)",
+      "Golden Globe Award for Best Director (Argo)"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Casey Affleck",
+    "givenNames": [
+      "Casey",
+      "Caleb"
+    ],
+    "familyName": "Affleck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Casey_Affleck",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Academy Award for Best Actor (Manchester by the Sea)"
+    ],
+    "yearBorn": 1975
+  }
+]

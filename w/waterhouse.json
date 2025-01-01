@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Waterhouse",
+    "givenNames": [
+      "John",
+      "William"
+    ],
+    "familyName": "Waterhouse",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_William_Waterhouse",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his paintings of classical and mythological subjects",
+      "Notable works include 'The Lady of Shalott' and 'Hylas and the Nymphs'"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1917
+  }
+]

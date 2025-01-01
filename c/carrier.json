@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jean-Baptiste Carrier",
+    "givenNames": [
+      "Jean-Baptiste"
+    ],
+    "familyName": "Carrier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Baptiste_Carrier",
+    "occupation": "French Revolutionary General",
+    "achievements": [
+      "Known for his role in the Reign of Terror.",
+      "Responsible for the mass execution of prisoners during the French Revolution."
+    ],
+    "yearBorn": 1756,
+    "yearDied": 1829
+  }
+]

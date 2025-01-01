@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Sidney Harman",
+    "givenNames": [
+      "Sidney",
+      "Mortimer"
+    ],
+    "familyName": "Harman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Harman",
+    "occupation": "Businessman, inventor, philanthropist",
+    "achievements": [
+      "Founder of Harman International Industries, a manufacturer of audio equipment",
+      "Chairman of the Board of Directors for Newsweek magazine",
+      "Philanthropist supporting education and the arts"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Mark Harman",
+    "givenNames": [
+      "Mark"
+    ],
+    "familyName": "Harman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Harman_(computer_scientist)",
+    "occupation": "Computer scientist",
+    "achievements": [
+      "Pioneer in the field of software engineering and testing",
+      "Professor at University College London",
+      "Author of numerous books and research papers on software testing and analysis"
+    ],
+    "yearBorn": 1958
+  }
+]

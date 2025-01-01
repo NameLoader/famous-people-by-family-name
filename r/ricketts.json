@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Howard Ricketts",
+    "givenNames": [
+      "Howard",
+      "Taylor"
+    ],
+    "familyName": "Ricketts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Taylor_Ricketts",
+    "occupation": "Physician and Medical Researcher",
+    "achievements": [
+      "Identified Rocky Mountain spotted fever, a tick-borne illness.",
+      "Pioneered research on infectious diseases and their transmission."
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1910
+  }
+]

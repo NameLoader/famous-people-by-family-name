@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Bowie",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Bowie",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Bowie",
+    "occupation": "Singer, songwriter, actor",
+    "achievements": [
+      "Influential figure in popular music",
+      "Known for his innovative and theatrical performances",
+      "Hit songs include 'Space Oddity', 'Changes', 'Heroes' and 'Let's Dance'"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2016
+  }
+]

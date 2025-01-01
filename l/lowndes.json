@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Lowndes",
+    "givenNames": [
+      "William",
+      "Jones"
+    ],
+    "familyName": "Lowndes",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Lowndes_(congressman)",
+    "occupation": "Politician",
+    "achievements": [
+      "United States Representative from South Carolina",
+      "Prominent figure in the Era of Good Feelings"
+    ],
+    "yearBorn": 1782,
+    "yearDied": 1822
+  }
+]

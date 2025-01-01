@@ -2,7 +2,8 @@
   {
     "fullName": "John Ashcroft",
     "givenNames": [
-      "John"
+      "John",
+      "David"
     ],
     "familyName": "Ashcroft",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Ashcroft",
@@ -12,5 +13,21 @@
       "served as a U.S. Senator from Missouri (1995-2001)"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Richard Ashcroft",
+    "givenNames": [
+      "Richard",
+      "Paul"
+    ],
+    "familyName": "Ashcroft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Ashcroft",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Frontman of the Britpop band The Verve",
+      "Successful solo career",
+      "Known for hit songs like 'Bittersweet Symphony' and 'The Drugs Don't Work'"
+    ],
+    "yearBorn": 1971
   }
 ]

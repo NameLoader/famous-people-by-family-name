@@ -18,7 +18,8 @@
   {
     "fullName": "Julian Huxley",
     "givenNames": [
-      "Julian"
+      "Julian",
+      "Sorell"
     ],
     "familyName": "Huxley",
     "wikipedia": "https://en.wikipedia.org/wiki/Julian_Huxley",
@@ -29,5 +30,21 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1975
+  },
+  {
+    "fullName": "Thomas Henry Huxley",
+    "givenNames": [
+      "Thomas",
+      "Henry"
+    ],
+    "familyName": "Huxley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Henry_Huxley",
+    "occupation": "Biologist, anatomist",
+    "achievements": [
+      "Known as 'Darwin's Bulldog' for his advocacy of Darwin's theory of evolution.",
+      "Made significant contributions to the fields of biology and comparative anatomy."
+    ],
+    "yearBorn": 1825,
+    "yearDied": 1895
   }
 ]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "William Paxton",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Paxton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Paxton",
+    "occupation": "Actor, Film Director",
+    "achievements": [
+      "Known for roles in films like 'Aliens', 'Apollo 13', and 'Titanic'",
+      "Directed the films 'Frailty' and 'The Greatest Game Ever Played'"
+    ],
+    "yearBorn": 1955,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Thomas Paxton",
+    "givenNames": [
+      "Thomas",
+      "Richard"
+    ],
+    "familyName": "Paxton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Paxton",
+    "occupation": "Singer-Songwriter, Activist",
+    "achievements": [
+      "Prominent figure in the American folk music revival of the 1960s",
+      "Known for songs like 'The Last Thing on My Mind' and 'Ramblin' Boy'",
+      "Active in social justice movements throughout his career"
+    ],
+    "yearBorn": 1937
+  }
+]

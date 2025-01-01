@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Charles Rennie Mackintosh",
+    "givenNames": [
+      "Charles",
+      "Rennie"
+    ],
+    "familyName": "Mackintosh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh",
+    "occupation": "Architect, Designer",
+    "achievements": [
+      "Pioneer of the Glasgow Style",
+      "Influential figure in Art Nouveau and Modernist design"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1928
+  },
+  {
+    "fullName": "Margaret Mackintosh",
+    "givenNames": [
+      "Margaret",
+      "Macdonald"
+    ],
+    "familyName": "Mackintosh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Macdonald_Mackintosh",
+    "occupation": "Artist, Designer",
+    "achievements": [
+      "Close collaborator with Charles Rennie Mackintosh",
+      "Significant contributor to the Glasgow Style"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1933
+  }
+]

@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1703,
     "yearDied": 1791
+  },
+  {
+    "fullName": "Charles Wesley",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Wesley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Wesley",
+    "occupation": "Anglican cleric and hymn writer",
+    "achievements": [
+      "Wrote over 6,500 hymns, many still sung today",
+      "Key figure in the Methodist movement"
+    ],
+    "yearBorn": 1707,
+    "yearDied": 1788
   }
 ]

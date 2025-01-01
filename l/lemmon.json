@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jack Lemmon",
+    "givenNames": [
+      "John",
+      "Uhler"
+    ],
+    "familyName": "Lemmon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Lemmon",
+    "occupation": "Actor",
+    "achievements": [
+      "Won two Academy Awards for Best Actor",
+      "Starred in numerous iconic films including 'Some Like It Hot', 'The Apartment' and 'Grumpy Old Men'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2001
+  }
+]

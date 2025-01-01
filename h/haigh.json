@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Haigh",
+    "givenNames": [
+      "John",
+      "George"
+    ],
+    "familyName": "Haigh",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Haigh",
+    "occupation": "Serial killer",
+    "achievements": [
+      "Convicted and executed for murdering nine people in England between 1944 and 1949.",
+      "Known as the 'Acid Bath Murderer' for his method of disposing of bodies."
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1949
+  }
+]

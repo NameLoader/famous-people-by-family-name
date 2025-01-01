@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Jenney",
+    "givenNames": [
+      "William",
+      "Le Baron"
+    ],
+    "familyName": "Jenney",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Le_Baron_Jenney",
+    "occupation": "Architect, Engineer",
+    "achievements": [
+      "Designed the first skyscraper in Chicago (Home Insurance Building)",
+      "Pioneer in using steel frame construction"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1907
+  }
+]

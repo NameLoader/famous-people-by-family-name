@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Michael Scriven",
+    "givenNames": [
+      "Michael",
+      "John"
+    ],
+    "familyName": "Scriven",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Scriven",
+    "occupation": "Philosopher and educator",
+    "achievements": [
+      "Pioneer in the field of curriculum evaluation",
+      "Developed the Scriven model for formative and summative evaluation"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2015
+  }
+]

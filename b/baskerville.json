@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Baskerville",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Baskerville",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Baskerville",
+    "occupation": "Type founder, printer",
+    "achievements": [
+      "Developed a typeface known for its clarity and elegance.",
+      "Innovated printing techniques and papermaking."
+    ],
+    "yearBorn": 1706,
+    "yearDied": 1775
+  }
+]

@@ -15,5 +15,22 @@
     ],
     "yearBorn": 1809,
     "yearDied": 1882
+  },
+  {
+    "fullName": "Erasmus Darwin",
+    "givenNames": [
+      "Erasmus",
+      "Robert"
+    ],
+    "familyName": "Darwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus_Darwin",
+    "occupation": "Physician, poet, philosopher, natural philosopher",
+    "achievements": [
+      "Early proponent of evolutionary ideas",
+      "Influenced his grandson Charles Darwin's thinking",
+      "Wrote on a wide range of scientific and philosophical topics"
+    ],
+    "yearBorn": 1731,
+    "yearDied": 1802
   }
 ]

@@ -19,7 +19,8 @@
   {
     "fullName": "Mary Todd Lincoln",
     "givenNames": [
-      "Mary"
+      "Mary",
+      "Todd"
     ],
     "familyName": "Lincoln",
     "wikipedia": "https://en.wikipedia.org/wiki/Mary_Todd_Lincoln",
@@ -31,5 +32,21 @@
     ],
     "yearBorn": 1818,
     "yearDied": 1882
+  },
+  {
+    "fullName": "Robert Todd Lincoln",
+    "givenNames": [
+      "Robert",
+      "Todd"
+    ],
+    "familyName": "Lincoln",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Todd_Lincoln",
+    "occupation": "Lawyer and businessman",
+    "achievements": [
+      "Served as Secretary of War under President Garfield",
+      "Ambassador to Great Britain"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1926
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alexander Calder",
+    "givenNames": [
+      "Alexander",
+      "Sandy"
+    ],
+    "familyName": "Calder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Calder",
+    "occupation": "Sculptor, Painter",
+    "achievements": [
+      "Pioneer of kinetic sculpture (mobiles)",
+      "Created iconic large-scale public sculptures"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1976
+  }
+]

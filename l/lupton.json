@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Lupton",
+    "givenNames": [
+      "John",
+      "Rollin"
+    ],
+    "familyName": "Lupton",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lupton",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the television series 'The Texan'",
+      "Known for his roles in Westerns and adventure films"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1993
+  }
+]
