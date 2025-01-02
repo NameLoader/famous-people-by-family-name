@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Charles Boyer",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Boyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Boyer",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for four Academy Awards",
+      "Starred in films such as 'Gaslight', 'Algiers' and 'Conquest'"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1978
+  },
+  {
+    "fullName": "Herbert Boyer",
+    "givenNames": [
+      "Herbert",
+      "Wayne",
+      "Herb"
+    ],
+    "familyName": "Boyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Boyer",
+    "occupation": "Biochemist",
+    "achievements": [
+      "Co-founder of Genentech",
+      "Pioneer in genetic engineering and biotechnology"
+    ],
+    "yearBorn": 1936
+  }
+]

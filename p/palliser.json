@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Palliser",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Palliser",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Palliser",
+    "occupation": "Explorer, Cartographer, Surveyor",
+    "achievements": [
+      "Explored the Canadian Prairies and Rocky Mountains",
+      "Mapped vast areas of Canada for the Hudson's Bay Company",
+      "His explorations influenced the development of Western Canada"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1906
+  }
+]

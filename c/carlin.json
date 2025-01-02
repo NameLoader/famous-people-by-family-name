@@ -2,7 +2,9 @@
   {
     "fullName": "George Carlin",
     "givenNames": [
-      "George"
+      "George",
+      "Denis",
+      "Patrick"
     ],
     "familyName": "Carlin",
     "wikipedia": "https://en.wikipedia.org/wiki/George_Carlin",
@@ -14,5 +16,19 @@
     ],
     "yearBorn": 1937,
     "yearDied": 2008
+  },
+  {
+    "fullName": "John Carlin",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Carlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Carlin_(journalist)",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "Won the Pulitzer Prize for Feature Writing in 2008",
+      "Wrote extensively about Nelson Mandela and South Africa's transition to democracy"
+    ],
+    "yearBorn": 1956
   }
 ]

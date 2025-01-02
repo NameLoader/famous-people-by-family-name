@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Nick Szabo",
+    "givenNames": [
+      "Nicholas"
+    ],
+    "familyName": "Szabo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Szabo",
+    "occupation": "Computer Scientist, Cryptographer",
+    "achievements": [
+      "Proposed the concept of 'Bit Gold,' a precursor to Bitcoin.",
+      "Developed the first known smart contracts."
+    ],
+    "yearBorn": 1964
+  }
+]

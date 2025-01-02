@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Midgley",
+    "givenNames": [
+      "Thomas",
+      "Jr."
+    ],
+    "familyName": "Midgley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
+    "occupation": "Chemist, Engineer",
+    "achievements": [
+      "Developed tetraethyllead (TEL), a gasoline additive that significantly improved engine performance.",
+      "Invented Freon, the first chlorofluorocarbon refrigerant."
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1944
+  }
+]

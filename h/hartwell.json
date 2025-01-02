@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Leland Hartwell",
+    "givenNames": [
+      "Leland",
+      "Harrison",
+      "Lee"
+    ],
+    "familyName": "Hartwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leland_H._Hartwell",
+    "occupation": "Biologist, Geneticist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2001)",
+      "Discovery of cell cycle control genes"
+    ],
+    "yearBorn": 1939
+  }
+]

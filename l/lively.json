@@ -2,7 +2,8 @@
   {
     "fullName": "Blake Lively",
     "givenNames": [
-      "Blake"
+      "Blake",
+      "Ellender"
     ],
     "familyName": "Lively",
     "wikipedia": "https://en.wikipedia.org/wiki/Blake_Lively",
@@ -11,5 +12,35 @@
       "Known for her role as Serena van der Woodsen in 'Gossip Girl'."
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Ernie Lively",
+    "givenNames": [
+      "Ernie"
+    ],
+    "familyName": "Lively",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernie_Lively",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in The Sisterhood of the Traveling Pants and Passenger 57",
+      "Father of actresses Blake Lively and Robyn Lively"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Robyn Lively",
+    "givenNames": [
+      "Robyn",
+      "Elaine"
+    ],
+    "familyName": "Lively",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robyn_Lively",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Teen Wolf and Twin Peaks",
+      "Sister of actress Blake Lively"
+    ],
+    "yearBorn": 1972
   }
 ]

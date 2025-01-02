@@ -2,7 +2,8 @@
   {
     "fullName": "Dustin Hoffman",
     "givenNames": [
-      "Dustin"
+      "Dustin",
+      "Lee"
     ],
     "familyName": "Hoffman",
     "wikipedia": "https://en.wikipedia.org/wiki/Dustin_Hoffman",
@@ -13,5 +14,22 @@
       "Tony Award for Best Featured Actor in a Play (1967)"
     ],
     "yearBorn": 1937
+  },
+  {
+    "fullName": "Abbie Hoffman",
+    "givenNames": [
+      "Abbot",
+      "Howard"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbie_Hoffman",
+    "occupation": "Political activist, writer",
+    "achievements": [
+      "Prominent figure in the counterculture movement of the 1960s",
+      "Co-founder of the Yippie movement",
+      "Known for his activism against the Vietnam War and social injustice"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 1989
   }
 ]

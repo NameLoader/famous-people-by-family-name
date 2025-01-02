@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Matthew Boulton",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Boulton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Boulton",
+    "occupation": "Industrialist, businessman",
+    "achievements": [
+      "Co-founder of the Soho Manufactory",
+      "Pioneer in steam engine technology",
+      "Partner with James Watt in developing and commercializing the steam engine"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1809
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Josef Albers",
+    "givenNames": [
+      "Josef"
+    ],
+    "familyName": "Albers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josef_Albers",
+    "occupation": "Artist, Educator",
+    "achievements": [
+      "Pioneer of geometric abstraction",
+      "Known for his 'Homage to the Square' series exploring color interaction",
+      "Influential teacher at Bauhaus and Yale University"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1976
+  }
+]

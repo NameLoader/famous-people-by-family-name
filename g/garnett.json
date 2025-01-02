@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Kevin Garnett",
+    "givenNames": [
+      "Kevin",
+      "Maurice"
+    ],
+    "familyName": "Garnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Garnett",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (2008)",
+      "15-time NBA All-Star",
+      "NBA Most Valuable Player (2004)",
+      "Naismith Memorial Basketball Hall of Fame inductee"
+    ],
+    "yearBorn": 1976
+  }
+]

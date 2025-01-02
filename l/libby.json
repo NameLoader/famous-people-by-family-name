@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Willard Libby",
+    "givenNames": [
+      "Willard",
+      "Frank"
+    ],
+    "familyName": "Libby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willard_Libby",
+    "occupation": "Chemist, Physicist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1960)",
+      "Developed radiocarbon dating"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1980
+  }
+]

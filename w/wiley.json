@@ -1,14 +1,31 @@
 [
   {
-    "fullName": "Professor Wiley",
-    "givenNames": [],
-    "familyName": "Wiley",
-    "wikipedia": "https://en.wikipedia.org/wiki/Wiley_(musician)",
-    "occupation": "Musician, record producer",
-    "achievements": [
-      "Known for grime music",
-      "Won two MOBO Awards"
+    "fullName": "William Wiley",
+    "givenNames": [
+      "William",
+      "Thomas"
     ],
-    "yearBorn": 1979
+    "familyName": "Wiley",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_T._Wiley",
+    "occupation": "Artist, Painter",
+    "achievements": [
+      "Known for abstract and figurative paintings",
+      "Influential figure in the Bay Area art scene"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Keane Wiley",
+    "givenNames": [
+      "Kehinde"
+    ],
+    "familyName": "Wiley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kehinde_Wiley",
+    "occupation": "Artist, Painter",
+    "achievements": [
+      "Known for portraits of African Americans in the style of Old Masters",
+      "First African American artist to paint a presidential portrait for the Smithsonian National Portrait Gallery (President Barack Obama)"
+    ],
+    "yearBorn": 1977
   }
 ]

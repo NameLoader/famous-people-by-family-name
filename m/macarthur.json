@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arthur MacArthur Jr.",
+    "givenNames": [
+      "Arthur",
+      "Jr."
+    ],
+    "familyName": "MacArthur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_MacArthur_Jr.",
+    "occupation": "Military Officer, Lawyer",
+    "achievements": [
+      "Recipient of the Medal of Honor for his actions during the Civil War",
+      "Served as Governor-General of the Philippines"
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1912
+  }
+]

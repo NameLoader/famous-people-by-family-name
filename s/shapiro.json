@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Robert Shapiro",
+    "givenNames": [
+      "Robert",
+      "Leslie"
+    ],
+    "familyName": "Shapiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Shapiro_(lawyer)",
+    "occupation": "Lawyer",
+    "achievements": [
+      "Member of O.J. Simpson's defense team",
+      "Co-founder of the law firm Christensen, Miller, Fink, Jacobs, Glaser, Weil & Shapiro"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Ben Shapiro",
+    "givenNames": [
+      "Benjamin",
+      "Aaron"
+    ],
+    "familyName": "Shapiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Shapiro",
+    "occupation": "Political commentator, media host, author",
+    "achievements": [
+      "Founder of The Daily Wire",
+      "Author of several best-selling books"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Susan Shapiro",
+    "givenNames": [
+      "Susan"
+    ],
+    "familyName": "Shapiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Shapiro",
+    "occupation": "Writer, professor",
+    "achievements": [
+      "Author of several memoirs and creative nonfiction books",
+      "Professor of Creative Writing at The New School"
+    ]
+  }
+]

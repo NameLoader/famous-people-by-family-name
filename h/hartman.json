@@ -2,7 +2,8 @@
   {
     "fullName": "Philip Hartman",
     "givenNames": [
-      "Philip"
+      "Philip",
+      "Edward"
     ],
     "familyName": "Hartman",
     "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
@@ -13,5 +14,17 @@
     ],
     "yearBorn": 1949,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Kevin Hartman",
+    "givenNames": [
+      "Kevin",
+      "Eugene"
+    ],
+    "familyName": "Hartman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Hartman",
+    "occupation": "Soccer Player, Goalkeeper",
+    "achievements": [],
+    "yearBorn": 1974
   }
 ]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Robert Thurman",
+    "givenNames": [
+      "Robert",
+      "Alexander",
+      "Farrar"
+    ],
+    "familyName": "Thurman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Thurman",
+    "occupation": "Professor, author, and Buddhist scholar",
+    "achievements": [
+      "Leading expert on Tibetan Buddhism",
+      "Father of actress Uma Thurman"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Uma Thurman",
+    "givenNames": [
+      "Uma",
+      "Karuna"
+    ],
+    "familyName": "Thurman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uma_Thurman",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominee for her role in Pulp Fiction",
+      "Known for roles in Kill Bill, Dangerous Liaisons, and Gattaca"
+    ],
+    "yearBorn": 1970
+  }
+]

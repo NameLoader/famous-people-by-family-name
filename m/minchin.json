@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tim Minchin",
+    "givenNames": [
+      "Timothy",
+      "David"
+    ],
+    "familyName": "Minchin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Minchin",
+    "occupation": "Comedian, actor, musician, writer",
+    "achievements": [
+      "Award-winning musical theatre composer (Matilda the Musical)",
+      "Acclaimed stand-up comedian",
+      "Actor in films and television shows"
+    ],
+    "yearBorn": 1975
+  }
+]

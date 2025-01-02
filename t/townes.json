@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Charles Hard Townes",
+    "givenNames": [
+      "Charles",
+      "Hard"
+    ],
+    "familyName": "Townes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_H._Townes",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1964) for his work on the maser and laser",
+      "Pioneer in the field of quantum electronics"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2005
+  }
+]

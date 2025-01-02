@@ -14,5 +14,52 @@
     ],
     "yearBorn": 1874,
     "yearDied": 1946
+  },
+  {
+    "fullName": "Leo Stein",
+    "givenNames": [
+      "Leo"
+    ],
+    "familyName": "Stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Stein",
+    "occupation": "Art collector, writer",
+    "achievements": [
+      "Collected works by Picasso, Matisse, Cézanne",
+      "Wrote about art and literature"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Charles Stein",
+    "givenNames": [
+      "Charles",
+      "Max"
+    ],
+    "familyName": "Stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Stein_(statistician)",
+    "occupation": "Mathematician, statistician",
+    "achievements": [
+      "Developed the Stein's method for approximating distributions",
+      "Professor emeritus at Stanford University"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Ben Stein",
+    "givenNames": [
+      "Benjamin",
+      "Jeremy"
+    ],
+    "familyName": "Stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Stein",
+    "occupation": "Actor, writer, economist, lawyer",
+    "achievements": [
+      "Known for roles in films like 'Ferris Bueller's Day Off'",
+      "Hosted the game show 'Win Ben Stein's Money'",
+      "Worked as a speechwriter for President Richard Nixon"
+    ],
+    "yearBorn": 1944
   }
 ]

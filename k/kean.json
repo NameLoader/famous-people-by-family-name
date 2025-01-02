@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Edmund Kean",
+    "givenNames": [
+      "Edmund"
+    ],
+    "familyName": "Kean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Kean",
+    "occupation": "Actor",
+    "achievements": [
+      "Considered one of the greatest Shakespearean actors of all time.",
+      "Known for his intense and emotional portrayals."
+    ],
+    "yearBorn": 1787,
+    "yearDied": 1833
+  },
+  {
+    "fullName": "Charles Kean",
+    "givenNames": [
+      "Charles",
+      "John"
+    ],
+    "familyName": "Kean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Kean",
+    "occupation": "Actor, Manager",
+    "achievements": [
+      "Son of Edmund Kean.",
+      "Successful actor and manager of the Theatre Royal in Drury Lane."
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1868
+  }
+]

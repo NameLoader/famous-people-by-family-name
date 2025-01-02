@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Leon Spinks",
+    "givenNames": [
+      "Leon"
+    ],
+    "familyName": "Spinks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leon_Spinks",
+    "occupation": "Boxer",
+    "achievements": [
+      "Won the World Heavyweight Championship title in 1978 by defeating Muhammad Ali.",
+      "Olympic gold medalist in the light heavyweight division at the 1976 Montreal Olympics."
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Michael Spinks",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Spinks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Spinks",
+    "occupation": "Boxer",
+    "achievements": [
+      "Undefeated light heavyweight champion from 1981 to 1985.",
+      "Held the undisputed heavyweight title from 1985 to 1987.",
+      "First boxer to win world titles in both the light heavyweight and heavyweight divisions."
+    ],
+    "yearBorn": 1956
+  }
+]

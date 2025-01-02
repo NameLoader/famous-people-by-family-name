@@ -16,5 +16,19 @@
     ],
     "yearBorn": 1809,
     "yearDied": 1849
+  },
+  {
+    "fullName": "David Poe Jr.",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Poe",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Poe_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Father of Edgar Allan Poe."
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1811
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Lin-Manuel Miranda",
+    "givenNames": [
+      "Lin-Manuel"
+    ],
+    "familyName": "Miranda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lin-Manuel_Miranda",
+    "occupation": "Composer, lyricist, playwright, actor",
+    "achievements": [
+      "Created the Broadway musicals 'Hamilton' and 'In the Heights'",
+      "Won three Tony Awards, three Grammy Awards, an Emmy Award, a Pulitzer Prize, and the MacArthur Fellowship"
+    ],
+    "yearBorn": 1980
+  }
+]

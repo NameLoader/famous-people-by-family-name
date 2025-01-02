@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alison Krauss",
+    "givenNames": [
+      "Alison",
+      "Maria"
+    ],
+    "familyName": "Krauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alison_Krauss",
+    "occupation": "Bluegrass musician and singer-songwriter",
+    "achievements": [
+      "Won 27 Grammy Awards, the most for any female artist in history.",
+      "Known for her distinctive voice and virtuosic fiddle playing."
+    ],
+    "yearBorn": 1971
+  }
+]

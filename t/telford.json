@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Telford",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Telford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Telford",
+    "occupation": "Civil engineer and architect",
+    "achievements": [
+      "Designed and built numerous canals, roads, bridges, and other infrastructure projects in Britain",
+      "Pioneer of modern civil engineering techniques",
+      "Known for his innovative use of materials and construction methods"
+    ],
+    "yearBorn": 1757,
+    "yearDied": 1834
+  }
+]

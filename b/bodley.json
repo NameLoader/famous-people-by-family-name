@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Bodley",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Bodley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bodley",
+    "occupation": "Diplomat, scholar",
+    "achievements": [
+      "Founded the Bodleian Library at Oxford University",
+      "Served as a Member of Parliament"
+    ],
+    "yearBorn": 1545,
+    "yearDied": 1613
+  }
+]

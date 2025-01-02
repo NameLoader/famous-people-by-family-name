@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Swainson",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Swainson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Swainson",
+    "occupation": "Ornithologist, Naturalist",
+    "achievements": [
+      "Described numerous bird species in Australia and South America.",
+      "Authored several influential works on ornithology."
+    ],
+    "yearBorn": 1789,
+    "yearDied": 1855
+  }
+]

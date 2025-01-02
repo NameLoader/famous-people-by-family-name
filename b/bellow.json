@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Saul Bellow",
+    "givenNames": [
+      "Saul"
+    ],
+    "familyName": "Bellow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saul_Bellow",
+    "occupation": "Novelist, essayist, short story writer",
+    "achievements": [
+      "Nobel Prize in Literature (1976)",
+      "Pulitzer Prize for Fiction (1971)",
+      "National Book Award (twice)"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1995
+  }
+]

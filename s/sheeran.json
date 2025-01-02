@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ed Sheeran",
+    "givenNames": [
+      "Edward",
+      "Christopher"
+    ],
+    "familyName": "Sheeran",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_Sheeran",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Bestselling music artist worldwide",
+      "Known for hit songs like 'Shape of You', 'Thinking Out Loud', and 'Perfect'"
+    ],
+    "yearBorn": 1991
+  }
+]

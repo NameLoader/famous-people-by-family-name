@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "David Trimble",
+    "givenNames": [
+      "William",
+      "David"
+    ],
+    "familyName": "Trimble",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Trimble",
+    "occupation": "Politician",
+    "achievements": [
+      "First Minister of Northern Ireland (1998-2002)",
+      "Nobel Peace Prize laureate (1998) for his role in the Northern Ireland peace process",
+      "Leader of the Ulster Unionist Party"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2022
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Moses",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Moses",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Moses",
+    "occupation": "Urban planner, Public official",
+    "achievements": [
+      "Shaped the landscape of New York City through large-scale infrastructure projects (parks, highways, bridges)",
+      "Controversial figure due to his authoritarian style and displacement of communities"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1981
+  }
+]

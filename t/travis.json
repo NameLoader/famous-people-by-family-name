@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "William Travis",
+    "givenNames": [
+      "William",
+      "Barret",
+      "Buck"
+    ],
+    "familyName": "Travis",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_B._Travis",
+    "occupation": "Military officer, lawyer",
+    "achievements": [
+      "Commander of the Texan forces at the Battle of the Alamo",
+      "Known for his defiant letter 'Victory or Death'"
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1836
+  }
+]

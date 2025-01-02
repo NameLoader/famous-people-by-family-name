@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Cab Calloway",
+    "givenNames": [
+      "Cabell"
+    ],
+    "familyName": "Calloway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cab_Calloway",
+    "occupation": "Jazz singer, bandleader, actor",
+    "achievements": [
+      "Known for his energetic performances and scat singing.",
+      "Led the Cab Calloway Orchestra during the swing era.",
+      "Appeared in films like \"Stormy Weather\" and \"The Cincinnati Kid.\""
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1994
+  }
+]

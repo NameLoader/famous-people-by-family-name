@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David Cone",
+    "givenNames": [
+      "David",
+      "Brian"
+    ],
+    "familyName": "Cone",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Cone",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "5x MLB All-Star",
+      "World Series Champion (1996, 1998, 1999)",
+      "Cy Young Award winner (1994)"
+    ],
+    "yearBorn": 1963
+  }
+]

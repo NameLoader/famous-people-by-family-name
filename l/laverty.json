@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Eugene Laverty",
+    "givenNames": [
+      "Eugene"
+    ],
+    "familyName": "Laverty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Laverty",
+    "occupation": "Motorcycle racer",
+    "achievements": [
+      "World Supersport Championship runner-up (2013)",
+      "British Superbike Championship winner (2007)"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Michael Laverty",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Laverty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Laverty",
+    "occupation": "Motorcycle racer",
+    "achievements": [
+      "British Superbike Championship race winner",
+      "World Superbike Championship competitor"
+    ],
+    "yearBorn": 1981
+  }
+]

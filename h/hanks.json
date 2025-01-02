@@ -2,7 +2,8 @@
   {
     "fullName": "Colin Hanks",
     "givenNames": [
-      "Colin"
+      "Colin",
+      "Lewes"
     ],
     "familyName": "Hanks",
     "wikipedia": "https://en.wikipedia.org/wiki/Colin_Hanks",
@@ -12,5 +13,37 @@
       "Son of actor Tom Hanks"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Tom Hanks",
+    "givenNames": [
+      "Thomas",
+      "Jeffrey"
+    ],
+    "familyName": "Hanks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Hanks",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Two-time Academy Award winner",
+      "Seven Primetime Emmy Awards",
+      "Four Golden Globe Awards",
+      "Known for roles in films like 'Forrest Gump,' 'Saving Private Ryan,' and 'Toy Story'"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Jim Hanks",
+    "givenNames": [
+      "James",
+      "Mathew"
+    ],
+    "familyName": "Hanks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Hanks",
+    "occupation": "Actor, Voice Actor",
+    "achievements": [
+      "Often serves as a stand-in and voice double for his brother Tom Hanks",
+      "Known for roles in films like 'Forrest Gump' and 'Toy Story'"
+    ],
+    "yearBorn": 1961
   }
 ]

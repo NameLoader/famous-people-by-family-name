@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alexander Mackenzie",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Mackenzie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Mackenzie_(politician)",
+    "occupation": "Politician, Explorer",
+    "achievements": [
+      "Second Prime Minister of Canada",
+      "Explored the North American interior"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1898
+  }
+]

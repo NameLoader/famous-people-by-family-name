@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Herbert Paul Grice",
+    "givenNames": [
+      "Herbert",
+      "Paul"
+    ],
+    "familyName": "Grice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Grice",
+    "occupation": "Philosopher, Logician",
+    "achievements": [
+      "Developed the theory of conversational implicature",
+      "Made significant contributions to the philosophy of language and mind"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1988
+  }
+]

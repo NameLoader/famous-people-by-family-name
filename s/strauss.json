@@ -2,7 +2,8 @@
   {
     "fullName": "Johann Strauss I",
     "givenNames": [
-      "Johann"
+      "Johann",
+      "Baptist"
     ],
     "familyName": "Strauss",
     "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_I",
@@ -17,7 +18,8 @@
   {
     "fullName": "Johann Strauss II",
     "givenNames": [
-      "Johann"
+      "Johann",
+      "Baptist"
     ],
     "familyName": "Strauss",
     "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
@@ -32,7 +34,8 @@
   {
     "fullName": "Richard Strauss",
     "givenNames": [
-      "Richard"
+      "Richard",
+      "Georg"
     ],
     "familyName": "Strauss",
     "wikipedia": "https://en.wikipedia.org/wiki/Richard_Strauss",
@@ -43,5 +46,20 @@
     ],
     "yearBorn": 1864,
     "yearDied": 1949
+  },
+  {
+    "fullName": "Levi Strauss",
+    "givenNames": [
+      "Levi"
+    ],
+    "familyName": "Strauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Levi_Strauss",
+    "occupation": "Businessman",
+    "achievements": [
+      "Founder of Levi Strauss & Co.",
+      "Introduced blue jeans to the world"
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1902
   }
 ]

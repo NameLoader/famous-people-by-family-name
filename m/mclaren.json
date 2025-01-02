@@ -1,16 +1,19 @@
 [
   {
-    "fullName": "Jackie Stewart",
+    "fullName": "Bruce McLaren",
     "givenNames": [
-      "Jackie"
+      "Bruce",
+      "Leslie"
     ],
     "familyName": "McLaren",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Stewart",
-    "occupation": "Race car driver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_McLaren",
+    "occupation": "Racing driver and engineer",
     "achievements": [
-      "Three-time Formula One World Champion (1969, 1971, 1973)",
-      "Known for his safety advocacy and contributions to improving motorsport safety"
+      "Founded the McLaren Formula One team",
+      "Won the 1968 Monaco Grand Prix",
+      "Developed innovative race car designs"
     ],
-    "yearBorn": 1939
+    "yearBorn": 1937,
+    "yearDied": 1970
   }
 ]

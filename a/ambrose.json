@@ -2,7 +2,8 @@
   {
     "fullName": "St. Ambrose",
     "givenNames": [
-      "Aurelius Ambrosius"
+      "Aurelius",
+      "Ambrosius"
     ],
     "familyName": "Ambrose",
     "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ambrose",
@@ -13,5 +14,22 @@
     ],
     "yearBorn": 340,
     "yearDied": 397
+  },
+  {
+    "fullName": "Stephen Ambrose",
+    "givenNames": [
+      "Stephen",
+      "Edward"
+    ],
+    "familyName": "Ambrose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_E._Ambrose",
+    "occupation": "Historian, Author",
+    "achievements": [
+      "Bestselling author of books on World War II and American history",
+      "Known for his accessible writing style and meticulous research",
+      "Works include 'Band of Brothers' and 'D-Day'"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2002
   }
 ]

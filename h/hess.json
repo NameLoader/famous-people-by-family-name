@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Rudolf Hess",
+    "givenNames": [
+      "Rudolf",
+      "Walter",
+      "Richard"
+    ],
+    "familyName": "Hess",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Hess",
+    "occupation": "Nazi Politician",
+    "achievements": [
+      "Deputy Führer of Nazi Germany under Adolf Hitler",
+      "Convicted war criminal at the Nuremberg Trials"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1987
+  }
+]

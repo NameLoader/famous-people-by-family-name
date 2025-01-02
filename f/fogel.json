@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Robert Fogel",
+    "givenNames": [
+      "Robert",
+      "William"
+    ],
+    "familyName": "Fogel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Fogel",
+    "occupation": "Economist, Historian",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (1993)",
+      "Known for his work on the economics of slavery and the American South"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2013
+  }
+]

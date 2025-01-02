@@ -2,7 +2,8 @@
   {
     "fullName": "Tyson Fury",
     "givenNames": [
-      "Tyson"
+      "Tyson",
+      "Luke"
     ],
     "familyName": "Fury",
     "wikipedia": "https://en.wikipedia.org/wiki/Tyson_Fury",
@@ -13,5 +14,20 @@
       "Ring magazine heavyweight champion"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Hughie Fury",
+    "givenNames": [
+      "Hughie",
+      "Lewis"
+    ],
+    "familyName": "Fury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hughie_Fury",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Former British and Commonwealth heavyweight champion",
+      "Known for his technical skills and stamina"
+    ],
+    "yearBorn": 1994
   }
 ]

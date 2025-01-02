@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Pete Postlethwaite",
+    "givenNames": [
+      "Peter",
+      "William"
+    ],
+    "familyName": "Postlethwaite",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Postlethwaite",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actor in \"In the Name of the Father\"",
+      "Notable roles in films such as \"Alien 3\", \"The Usual Suspects\", and \"The Age of Innocence\""
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2011
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "fullName": "Denis Donoghue",
+    "givenNames": [
+      "Denis"
+    ],
+    "familyName": "Donoghue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Donoghue_(academic)",
+    "occupation": "Literary critic and academic",
+    "achievements": [
+      "Known for his writings on Irish literature and culture"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Michael Donoghue",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Donoghue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Donoghue",
+    "occupation": "Botanist and evolutionary biologist",
+    "achievements": [
+      "Research focuses on plant phylogeny and evolution"
+    ]
+  }
+]

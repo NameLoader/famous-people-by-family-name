@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "James Monroe",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Monroe",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
+    "occupation": "Politician",
+    "achievements": [
+      "Fifth President of the United States",
+      "Author of the Monroe Doctrine"
+    ],
+    "yearBorn": 1758,
+    "yearDied": 1831
+  },
+  {
+    "fullName": "Marilyn Monroe",
+    "givenNames": [
+      "Marilyn"
+    ],
+    "familyName": "Monroe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+    "occupation": "Actress, Model, Singer",
+    "achievements": [
+      "Major sex symbol of the 1950s and early 1960s",
+      "Starred in iconic films like 'Gentlemen Prefer Blondes' and 'Some Like It Hot'"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1962
+  }
+]

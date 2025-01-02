@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Justin Gatlin",
+    "givenNames": [
+      "Justin",
+      "Alexander"
+    ],
+    "familyName": "Gatlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Gatlin",
+    "occupation": "Sprinter",
+    "achievements": [
+      "Olympic gold medalist (100m)",
+      "World Champion (100m and 200m)"
+    ],
+    "yearBorn": 1982
+  }
+]

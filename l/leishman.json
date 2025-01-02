@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Leishman",
+    "givenNames": [
+      "William",
+      "Boog"
+    ],
+    "familyName": "Leishman",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Boog_Leishman",
+    "occupation": "British Army officer and bacteriologist",
+    "achievements": [
+      "Discovered the protozoan parasite Leishmania donovani, which causes visceral leishmaniasis"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1926
+  }
+]

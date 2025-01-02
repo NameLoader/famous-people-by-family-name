@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Robert Livingston",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Livingston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Livingston_the_Elder",
+    "occupation": "Colonial Governor, Statesman",
+    "achievements": [
+      "Served as the first Chancellor of New York",
+      "Prominent figure in early colonial government and land ownership"
+    ],
+    "yearBorn": 1654,
+    "yearDied": 1728
+  },
+  {
+    "fullName": "Philip Livingston",
+    "givenNames": [
+      "Philip"
+    ],
+    "familyName": "Livingston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Livingston",
+    "occupation": "Merchant, Politician, Signatory of the Declaration of Independence",
+    "achievements": [
+      "One of the original signatories of the Declaration of Independence from New York"
+    ],
+    "yearBorn": 1716,
+    "yearDied": 1778
+  },
+  {
+    "fullName": "Edward Livingston",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Livingston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Livingston",
+    "occupation": "Politician, Diplomat, Jurist",
+    "achievements": [
+      "Served as U.S. Secretary of State and Minister to France",
+      "Played a key role in drafting the Louisiana Purchase treaty"
+    ],
+    "yearBorn": 1764,
+    "yearDied": 1836
+  },
+  {
+    "fullName": "William Livingston",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Livingston",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Livingston",
+    "occupation": "Governor of New Jersey, Revolutionary War figure",
+    "achievements": [
+      "Signed the Declaration of Independence for New Jersey"
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1790
+  }
+]

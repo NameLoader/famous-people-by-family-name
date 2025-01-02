@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Presper Eckert",
+    "givenNames": [
+      "John",
+      "Presper"
+    ],
+    "familyName": "Eckert",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._Presper_Eckert",
+    "occupation": "Computer Engineer",
+    "achievements": [
+      "Co-invented the ENIAC, the first general-purpose electronic digital computer.",
+      "Pioneer in computer architecture and design."
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1995
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Rob Schneider",
+    "givenNames": [
+      "Robert",
+      "Michael"
+    ],
+    "familyName": "Schneider",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rob_Schneider",
+    "occupation": "Actor and comedian",
+    "achievements": [
+      "Known for roles in films like 'Deuce Bigalow: Male Gigolo' and 'Grown Ups'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Daniel Schneider",
+    "givenNames": [
+      "Daniel",
+      "James"
+    ],
+    "familyName": "Schneider",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Schneider",
+    "occupation": "Television producer and screenwriter",
+    "achievements": [
+      "Created popular Nickelodeon shows like 'All That,' 'Kenan & Kel,' 'Zoey 101,' and 'iCarly'"
+    ],
+    "yearBorn": 1966
+  }
+]

@@ -2,8 +2,8 @@
   {
     "fullName": "R. C. Sproul",
     "givenNames": [
-      "R.",
-      "C."
+      "Robert",
+      "Charles"
     ],
     "familyName": "Sproul",
     "wikipedia": "https://en.wikipedia.org/wiki/R._C._Sproul",
@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1939,
     "yearDied": 2017
+  },
+  {
+    "fullName": "Robert Gordon Sproul",
+    "givenNames": [
+      "Robert",
+      "Gordon"
+    ],
+    "familyName": "Sproul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Gordon_Sproul",
+    "occupation": "University President",
+    "achievements": [
+      "President of the University of California, Berkeley",
+      "Led the university through significant growth and development during his tenure"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1975
   }
 ]

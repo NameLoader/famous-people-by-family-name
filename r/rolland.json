@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Michel Rolland",
+    "givenNames": [
+      "Michel"
+    ],
+    "familyName": "Rolland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Rolland",
+    "occupation": "French wine consultant",
+    "achievements": [
+      "Considered one of the most influential winemakers in the world.",
+      "Consults for wineries in Bordeaux, Napa Valley, and other regions."
+    ],
+    "yearBorn": 1947
+  }
+]

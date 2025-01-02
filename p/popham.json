@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sir John Popham",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Popham",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Popham_(judge)",
+    "occupation": "Judge",
+    "achievements": [
+      "Attorney General for England and Wales",
+      "Lord Chief Justice of the King's Bench"
+    ],
+    "yearBorn": 1532,
+    "yearDied": 1607
+  }
+]

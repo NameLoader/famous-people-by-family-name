@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Charles Townshend",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Townshend",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Townshend",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Chancellor of the Exchequer",
+      "Introduced the Townshend Acts, a series of taxes on goods imported to the American colonies"
+    ],
+    "yearBorn": 1725,
+    "yearDied": 1767
+  },
+  {
+    "fullName": "Pete Townshend",
+    "givenNames": [
+      "Peter",
+      "Dennis",
+      "Blandford"
+    ],
+    "familyName": "Townshend",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Townshend",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Guitarist and principal songwriter for The Who",
+      "Known for his energetic stage presence and innovative songwriting techniques"
+    ],
+    "yearBorn": 1945
+  }
+]

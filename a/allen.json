@@ -60,5 +60,19 @@
       "Golden Globe Award nomination"
     ],
     "yearBorn": 1953
+  },
+  {
+    "fullName": "James Allen",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Allen_(author)",
+    "occupation": "Author, inspirational writer",
+    "achievements": [
+      "Authored the influential self-help book 'As a Man Thinketh'"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1912
   }
 ]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Zygmunt Bauman",
+    "givenNames": [
+      "Zygmunt"
+    ],
+    "familyName": "Bauman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zygmunt_Bauman",
+    "occupation": "Sociologist, philosopher",
+    "achievements": [
+      "Developed theories on postmodernity, liquid modernity, and globalization",
+      "Prolific author of over 50 books translated into numerous languages"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Richard Bauman",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Bauman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Bauman",
+    "occupation": "Anthropologist, folklorist",
+    "achievements": [
+      "Known for his work on verbal art and performance",
+      "Contributed significantly to the study of folklore and communication"
+    ],
+    "yearBorn": 1938
+  }
+]

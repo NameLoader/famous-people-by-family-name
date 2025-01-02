@@ -1,16 +1,16 @@
 [
   {
-    "fullName": "Goldie Hawn",
+    "fullName": "Whoopi Goldberg",
     "givenNames": [
-      "Goldie"
+      "Whoopi"
     ],
     "familyName": "Goldberg",
-    "wikipedia": "https://en.wikipedia.org/wiki/Goldie_Hawn",
-    "occupation": "Actress, Singer, Dancer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whoopi_Goldberg",
+    "occupation": "Actress, Comedian, Television Host",
     "achievements": [
-      "Academy Award for Best Actress (nominated)",
-      "Golden Globe Awards (winner)"
+      "Won an Academy Award for Best Supporting Actress in Ghost (1990)",
+      "Long-time co-host of the daytime talk show The View"
     ],
-    "yearBorn": 1946
+    "yearBorn": 1955
   }
 ]

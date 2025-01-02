@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Tim McGraw",
+    "givenNames": [
+      "Samuel",
+      "Timothy"
+    ],
+    "familyName": "McGraw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_McGraw",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "Multi-platinum country music artist",
+      "Won three Grammy Awards",
+      "Starred in films such as 'Friday Night Lights' and 'The Blind Side'"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Phil McGraw",
+    "givenNames": [
+      "Phil",
+      "Phillip",
+      "Calvin"
+    ],
+    "familyName": "McGraw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phil_McGraw",
+    "occupation": "Television Host, Psychologist",
+    "achievements": [
+      "Created and hosted the popular talk show 'Dr. Phil'",
+      "Became a well-known figure in self-help and psychology"
+    ],
+    "yearBorn": 1950
+  }
+]

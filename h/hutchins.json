@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Robert Hutchins",
+    "givenNames": [
+      "Robert",
+      "Maynard"
+    ],
+    "familyName": "Hutchins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Maynard_Hutchins",
+    "occupation": "Academic, Philosopher",
+    "achievements": [
+      "President of the University of Chicago",
+      "Advocate for liberal arts education and intellectual freedom",
+      "Authored influential works on philosophy and education"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1977
+  }
+]

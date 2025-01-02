@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "S. D. Burman",
+    "givenNames": [
+      "Sachin",
+      "Dev"
+    ],
+    "familyName": "Burman",
+    "wikipedia": "https://en.wikipedia.org/wiki/S._D._Burman",
+    "occupation": "Music Composer, Singer",
+    "achievements": [
+      "Legendary music composer in the Hindi film industry.",
+      "Known for his soulful melodies and use of classical Indian elements."
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "R. D. Burman",
+    "givenNames": [
+      "Rahul",
+      "Dev"
+    ],
+    "familyName": "Burman",
+    "wikipedia": "https://en.wikipedia.org/wiki/R._D._Burman",
+    "occupation": "Music Composer, Musician",
+    "achievements": [
+      "Revolutionized Hindi film music with his innovative and experimental style.",
+      "Known for his catchy tunes, use of Western instruments, and collaborations with singers like Asha Bhosle."
+    ],
+    "yearBorn": 1939,
+    "yearDied": 1994
+  }
+]

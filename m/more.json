@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1478,
     "yearDied": 1535
+  },
+  {
+    "fullName": "Hannah More",
+    "givenNames": [
+      "Hannah"
+    ],
+    "familyName": "More",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_More",
+    "occupation": "Writer, Poet, Playwright, Philanthropist",
+    "achievements": [
+      "Promoted education for the poor and working class",
+      "Wrote popular religious and didactic works",
+      "Known for her strong Christian beliefs"
+    ],
+    "yearBorn": 1745,
+    "yearDied": 1833
   }
 ]

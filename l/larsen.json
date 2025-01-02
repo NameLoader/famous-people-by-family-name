@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Johannes Larsen",
+    "givenNames": [
+      "Johannes"
+    ],
+    "familyName": "Larsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Larsen",
+    "occupation": "Painter, Architect",
+    "achievements": [
+      "Key figure in the Danish art movement known as Funen Impressionism.",
+      "Known for his landscapes and depictions of rural life."
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Lars Larsen",
+    "givenNames": [
+      "Lars",
+      "Kristinus"
+    ],
+    "familyName": "Larsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lars_Larsen",
+    "occupation": "Businessman",
+    "achievements": [
+      "Founder and owner of the Danish discount retail chain JYSK.",
+      "One of Denmark's wealthiest individuals."
+    ],
+    "yearBorn": 1948
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Paul J. Flory",
+    "givenNames": [
+      "Paul",
+      "John"
+    ],
+    "familyName": "Flory",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Flory",
+    "occupation": "Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1974)",
+      "Pioneer in polymer science",
+      "Developed the Flory-Huggins solution theory"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1985
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Shawn Mendes",
+    "givenNames": [
+      "Shawn",
+      "Peter",
+      "Raul"
+    ],
+    "familyName": "Mendes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Mendes",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Multiple Juno Awards",
+      "Grammy Award nomination",
+      "Billboard Music Awards"
+    ],
+    "yearBorn": 1998
+  }
+]

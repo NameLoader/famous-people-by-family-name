@@ -2,7 +2,8 @@
   {
     "fullName": "Lindsay Lohan",
     "givenNames": [
-      "Lindsay"
+      "Lindsay",
+      "Dee"
     ],
     "familyName": "Lohan",
     "wikipedia": "https://en.wikipedia.org/wiki/Lindsay_Lohan",
@@ -12,5 +13,21 @@
       "Received nominations for various awards including a Golden Globe Award"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Ali Lohan",
+    "givenNames": [
+      "Aliana",
+      "Taylor",
+      "Ali"
+    ],
+    "familyName": "Lohan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aliana_Lohan",
+    "occupation": "Singer, actress, model",
+    "achievements": [
+      "Appeared on reality show 'Living Lohan'",
+      "Released music under the name 'Aliana'"
+    ],
+    "yearBorn": 1993
   }
 ]

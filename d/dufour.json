@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Henri Dufour",
+    "givenNames": [
+      "Guillaume",
+      "Henri"
+    ],
+    "familyName": "Dufour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillaume_Henri_Dufour",
+    "occupation": "Swiss general and engineer",
+    "achievements": [
+      "Led the Swiss army to victory in the Sonderbund War (1847)",
+      "Founded the Swiss Red Cross",
+      "Made significant contributions to cartography and surveying"
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1875
+  }
+]

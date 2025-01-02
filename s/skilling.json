@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jeffrey Skilling",
+    "givenNames": [
+      "Jeffrey",
+      "Keith"
+    ],
+    "familyName": "Skilling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Skilling",
+    "occupation": "Business executive",
+    "achievements": [
+      "Former CEO of Enron",
+      "Convicted of fraud and conspiracy in the Enron scandal"
+    ],
+    "yearBorn": 1953
+  }
+]

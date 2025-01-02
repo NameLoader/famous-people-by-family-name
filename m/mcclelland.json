@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "David McClelland",
+    "givenNames": [
+      "David",
+      "Clarence"
+    ],
+    "familyName": "McClelland",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_McClelland",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Developed the Acquired Needs Theory of Motivation",
+      "Known for his work on achievement motivation and cultural influences on personality"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1998
+  }
+]

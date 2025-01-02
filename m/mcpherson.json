@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "James McPherson",
+    "givenNames": [
+      "James",
+      "Munro"
+    ],
+    "familyName": "McPherson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_M._McPherson",
+    "occupation": "Historian",
+    "achievements": [
+      "Pulitzer Prize for History (1989)",
+      "National Humanities Medal (2016)"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "John McPherson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "McPherson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McPherson_(cartoonist)",
+    "occupation": "Cartoonist",
+    "achievements": [
+      "Known for his single-panel cartoon 'Close to Home'"
+    ]
+  }
+]

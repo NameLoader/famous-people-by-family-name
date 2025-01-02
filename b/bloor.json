@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Bloor",
+    "givenNames": [
+      "John",
+      "Stuart"
+    ],
+    "familyName": "Bloor",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bloor",
+    "occupation": "British businessman, former chairman of Triumph Motorcycles",
+    "achievements": [
+      "Led the revival of the Triumph motorcycle brand"
+    ],
+    "yearBorn": 1945
+  }
+]

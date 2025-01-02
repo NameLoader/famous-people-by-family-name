@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Hanning Speke",
+    "givenNames": [
+      "John",
+      "Hanning"
+    ],
+    "familyName": "Speke",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hanning_Speke",
+    "occupation": "Explorer, soldier, naturalist",
+    "achievements": [
+      "First European to see Lake Victoria",
+      "Contributed significantly to the exploration of East Africa"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1864
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Friedrich Jahn",
+    "givenNames": [
+      "Friedrich",
+      "Johann"
+    ],
+    "familyName": "Jahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Ludwig_Jahn",
+    "occupation": "Gymnast, educator",
+    "achievements": [
+      "Considered the 'father of gymnastics'",
+      "Founded the Turnverein movement in Germany"
+    ],
+    "yearBorn": 1778,
+    "yearDied": 1852
+  }
+]

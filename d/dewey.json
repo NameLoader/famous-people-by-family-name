@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Dewey",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Dewey",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dewey",
+    "occupation": "Philosopher, psychologist, and educational reformer",
+    "achievements": [
+      "Pioneer of pragmatism and progressive education.",
+      "Influential thinker on democracy, experience, and inquiry-based learning."
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1952
+  }
+]

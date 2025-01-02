@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Robert Emmet",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Emmet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Emmet",
+    "occupation": "Irish Nationalist, Revolutionary",
+    "achievements": [
+      "Led the failed Irish Rebellion of 1803",
+      "Became a martyr for Irish independence"
+    ],
+    "yearBorn": 1778,
+    "yearDied": 1803
+  }
+]

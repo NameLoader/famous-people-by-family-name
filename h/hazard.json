@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Eden Hazard",
+    "givenNames": [
+      "Eden",
+      "Michael",
+      "Walter"
+    ],
+    "familyName": "Hazard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eden_Hazard",
+    "occupation": "Footballer",
+    "achievements": [
+      "Two-time Premier League winner with Chelsea FC",
+      "Two-time Ligue 1 champion with Lille OSC",
+      "UEFA Europa League winner with Chelsea FC",
+      "Belgian Golden Shoe award winner (2011-12)"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Thorgan Hazard",
+    "givenNames": [
+      "Thorgan",
+      "Ganael",
+      "Francis"
+    ],
+    "familyName": "Hazard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thorgan_Hazard",
+    "occupation": "Footballer",
+    "achievements": [
+      "German Cup winner with Borussia Mönchengladbach",
+      "Belgian Golden Shoe award nominee"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Kylian Hazard",
+    "givenNames": [
+      "Kylian"
+    ],
+    "familyName": "Hazard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kylian_Hazard",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for professional clubs in Belgium and England"
+    ],
+    "yearBorn": 1995
+  }
+]

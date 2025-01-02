@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Claude Bernard",
+    "givenNames": [
+      "Claude"
+    ],
+    "familyName": "Bernard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Bernard",
+    "occupation": "Physiologist",
+    "achievements": [
+      "Considered one of the founders of experimental physiology",
+      "Key contributions to understanding digestion and the role of the pancreas"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1878
+  }
+]

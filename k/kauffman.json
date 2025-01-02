@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Stuart Kauffman",
+    "givenNames": [
+      "Stuart",
+      "Alan"
+    ],
+    "familyName": "Kauffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stuart_Kauffman",
+    "occupation": "Biophysicist, Complex systems researcher",
+    "achievements": [
+      "Known for his work on self-organization and emergence in complex systems",
+      "Proposed the concept of the 'adjacent possible' in evolution",
+      "Authored influential books such as 'At Home in the Universe'"
+    ],
+    "yearBorn": 1939
+  }
+]

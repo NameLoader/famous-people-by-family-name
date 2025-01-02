@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Michell",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Michell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Michell",
+    "occupation": "Physicist, astronomer",
+    "achievements": [
+      "Predicted the existence of black holes.",
+      "Pioneered work in optics and geophysics."
+    ],
+    "yearBorn": 1724,
+    "yearDied": 1793
+  }
+]

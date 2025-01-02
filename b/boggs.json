@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Wade Boggs",
+    "givenNames": [
+      "Wade",
+      "Anthony"
+    ],
+    "familyName": "Boggs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wade_Boggs",
+    "occupation": "Baseball player, Baseball analyst",
+    "achievements": [
+      "Inducted into the Baseball Hall of Fame in 2005",
+      "12-time All-Star",
+      "Won five batting titles"
+    ],
+    "yearBorn": 1958
+  }
+]

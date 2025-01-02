@@ -2,7 +2,8 @@
   {
     "fullName": "John Mayer",
     "givenNames": [
-      "John"
+      "John",
+      "Clayton"
     ],
     "familyName": "Mayer",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Mayer",
@@ -12,5 +13,19 @@
       "Known for his distinctive guitar playing and soulful vocals"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Richard Mayer",
+    "givenNames": [
+      "Richard",
+      "E."
+    ],
+    "familyName": "Mayer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_E._Mayer",
+    "occupation": "Educational psychologist",
+    "achievements": [
+      "Known for his work on cognitive psychology and educational applications",
+      "Authored numerous influential books and articles on learning and instruction"
+    ]
   }
 ]

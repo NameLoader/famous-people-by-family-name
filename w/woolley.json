@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Leonard Woolley",
+    "givenNames": [
+      "Leonard"
+    ],
+    "familyName": "Woolley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Woolley",
+    "occupation": "Archaeologist",
+    "achievements": [
+      "Led excavations at Ur in Mesopotamia.",
+      "Discovered the Royal Cemetery and the Standard of Ur."
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1960
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "David Zucker",
+    "givenNames": [
+      "David",
+      "Samuel"
+    ],
+    "familyName": "Zucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Zucker",
+    "occupation": "Filmmaker, director, producer, writer",
+    "achievements": [
+      "Known for his comedic films often in the parody genre",
+      "Directed classics like 'Airplane!', 'The Naked Gun' and 'Scary Movie'"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Jerry Zucker",
+    "givenNames": [
+      "Jerry",
+      "Gordon"
+    ],
+    "familyName": "Zucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Zucker",
+    "occupation": "Filmmaker, director, producer, writer",
+    "achievements": [
+      "Collaborated with his brother David on many films",
+      "Directed 'Ghost' and 'First Knight'"
+    ],
+    "yearBorn": 1950
+  }
+]

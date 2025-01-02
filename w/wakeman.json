@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rick Wakeman",
+    "givenNames": [
+      "Richard",
+      "Christopher"
+    ],
+    "familyName": "Wakeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rick_Wakeman",
+    "occupation": "Musician, composer",
+    "achievements": [
+      "Keyboardist for progressive rock band Yes",
+      "Successful solo career",
+      "Composer of numerous film and television scores"
+    ],
+    "yearBorn": 1949
+  }
+]

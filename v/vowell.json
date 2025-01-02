@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sarah Vowell",
+    "givenNames": [
+      "Sarah",
+      "Jane"
+    ],
+    "familyName": "Vowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Vowell",
+    "occupation": "Author, essayist, humorist",
+    "achievements": [
+      "Published several best-selling books on American history and culture",
+      "Contributed essays to The New York Times Magazine, This American Life, and other publications"
+    ],
+    "yearBorn": 1972
+  }
+]

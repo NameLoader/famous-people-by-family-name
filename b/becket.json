@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Becket",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Becket",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket",
+    "occupation": "Archbishop of Canterbury",
+    "achievements": [
+      "Martyred for his opposition to King Henry II.",
+      "Canonized as a saint by the Catholic Church."
+    ],
+    "yearBorn": 1118,
+    "yearDied": 1170
+  }
+]

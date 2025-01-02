@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Mick Fleetwood",
+    "givenNames": [
+      "Michael",
+      "John",
+      "Kells"
+    ],
+    "familyName": "Fleetwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mick_Fleetwood",
+    "occupation": "Drummer, musician",
+    "achievements": [
+      "Founding member and drummer of Fleetwood Mac",
+      "Inducted into the Rock and Roll Hall of Fame in 1998"
+    ],
+    "yearBorn": 1947
+  }
+]

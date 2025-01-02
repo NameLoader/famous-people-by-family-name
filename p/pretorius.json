@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Andries Pretorius",
+    "givenNames": [
+      "Andries",
+      "Wilhelmus",
+      "Jacobus"
+    ],
+    "familyName": "Pretorius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andries_Pretorius",
+    "occupation": "Voortrekker leader",
+    "achievements": [
+      "Led the Voortrekkers in the Great Trek",
+      "Founded the Transvaal Republic"
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1853
+  }
+]

@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1892,
     "yearDied": 1979
+  },
+  {
+    "fullName": "Jack Pickford",
+    "givenNames": [
+      "Jack"
+    ],
+    "familyName": "Pickford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Pickford",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous silent films.",
+      "Brother of Mary Pickford."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1933
   }
 ]

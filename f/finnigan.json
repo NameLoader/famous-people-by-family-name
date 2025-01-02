@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Mike Finnigan",
+    "givenNames": [
+      "Michael",
+      "Kelly"
+    ],
+    "familyName": "Finnigan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Finnigan",
+    "occupation": "Musician",
+    "achievements": [
+      "Keyboardist and vocalist for several bands, including the Jimi Hendrix Experience"
+    ],
+    "yearBorn": 1945
+  }
+]

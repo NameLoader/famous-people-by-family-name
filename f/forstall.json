@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Scott Forstall",
+    "givenNames": [
+      "Scott",
+      "James"
+    ],
+    "familyName": "Forstall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Forstall",
+    "occupation": "Software Engineer, Executive",
+    "achievements": [
+      "Led the development of iOS and Mac OS X at Apple",
+      "Key figure in the design of iPhone, iPad, and iPod touch user interfaces"
+    ],
+    "yearBorn": 1968
+  }
+]

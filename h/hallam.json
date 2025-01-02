@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Henry Hallam",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Hallam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Hallam",
+    "occupation": "Historian, Essayist",
+    "achievements": [
+      "Wrote influential histories of literature and the Middle Ages",
+      "Known for his elegant prose style"
+    ],
+    "yearBorn": 1777,
+    "yearDied": 1859
+  }
+]

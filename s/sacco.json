@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Nicola Sacco",
+    "givenNames": [
+      "Nicola"
+    ],
+    "familyName": "Sacco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sacco_and_Vanzetti",
+    "occupation": "Shoemaker, Anarchist",
+    "achievements": [
+      "Became a symbol of injustice and the Red Scare after being convicted (along with Bartolomeo Vanzetti) for a murder they likely did not commit."
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1927
+  }
+]

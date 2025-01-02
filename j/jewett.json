@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sarah Orne Jewett",
+    "givenNames": [
+      "Sarah",
+      "Orne"
+    ],
+    "familyName": "Jewett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Orne_Jewett",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Known for her realistic depictions of New England life",
+      "Authored classics like 'The Country of the Pointed Firs' and 'A White Heron'"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1909
+  }
+]

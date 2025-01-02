@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Alicia Vikander Johansson",
-    "givenNames": [
-      "Alicia"
-    ],
-    "familyName": "Johansson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Vikander",
-    "occupation": "Actress",
-    "achievements": [
-      "Academy Award for Best Supporting Actress (2016)",
-      "BAFTA Award for Best Actress in a Leading Role (2016)",
-      "Golden Globe Award for Best Actress – Motion Picture Drama (2016)"
-    ],
-    "yearBorn": 1988
-  },
-  {
     "fullName": "Scarlett Ingrid Johansson",
     "givenNames": [
       "Scarlett",
@@ -29,5 +14,21 @@
       "Golden Globe Award for Best Actress – Motion Picture Comedy or Musical (2016)"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Ingmar Johansson",
+    "givenNames": [
+      "Ingmar",
+      "Ingo"
+    ],
+    "familyName": "Johansson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingemar_Johansson",
+    "occupation": "Boxer",
+    "achievements": [
+      "World heavyweight boxing champion from 1957 to 1960.",
+      "Known for his powerful jab and left hook."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2009
   }
 ]

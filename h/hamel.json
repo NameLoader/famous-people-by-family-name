@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jacques Hamel",
+    "givenNames": [
+      "Jacques"
+    ],
+    "familyName": "Hamel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Hamel",
+    "occupation": "Catholic priest",
+    "achievements": [
+      "Served as a parish priest in Saint-Étienne-du-Rouvray, France.",
+      "Martyred during a terrorist attack in 2016."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2016
+  }
+]

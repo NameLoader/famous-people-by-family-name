@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Louis Botha",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Botha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Botha",
+    "occupation": "Politician, Military Leader",
+    "achievements": [
+      "First Prime Minister of the Union of South Africa",
+      "Key figure in the Boer Wars",
+      "Founder of the National Party"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Pieter Willem Botha",
+    "givenNames": [
+      "Pieter",
+      "Willem"
+    ],
+    "familyName": "Botha",
+    "wikipedia": "https://en.wikipedia.org/wiki/P._W._Botha",
+    "occupation": "Politician",
+    "achievements": [
+      "Last Prime Minister and first President of South Africa under apartheid",
+      "Implemented reforms that ultimately led to the dismantling of apartheid"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2006
+  }
+]

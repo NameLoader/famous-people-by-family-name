@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Sandys",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Sandys",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Sandys",
+    "occupation": "Poet, Traveller, Diplomat",
+    "achievements": [
+      "Published 'A Relation of a Journey Begun Anno 1610 into the Land of Brasil'",
+      "Worked as a translator for King James I"
+    ],
+    "yearBorn": 1578,
+    "yearDied": 1644
+  }
+]

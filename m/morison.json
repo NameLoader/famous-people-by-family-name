@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Samuel Morison",
+    "givenNames": [
+      "Samuel",
+      "Eliot"
+    ],
+    "familyName": "Morison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Eliot_Morison",
+    "occupation": "Historian, Naval Officer",
+    "achievements": [
+      "Pulitzer Prize-winning author of 'Oxford History of the United States'",
+      "Served in the U.S. Navy during World War I and II",
+      "Known for his authoritative works on naval history"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1966
+  }
+]

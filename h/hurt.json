@@ -2,7 +2,8 @@
   {
     "fullName": "Johnny Hurt",
     "givenNames": [
-      "John"
+      "John",
+      "Vincent"
     ],
     "familyName": "Hurt",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Hurt",
@@ -14,5 +15,22 @@
     ],
     "yearBorn": 1940,
     "yearDied": 2017
+  },
+  {
+    "fullName": "William Hurt",
+    "givenNames": [
+      "William",
+      "McChord"
+    ],
+    "familyName": "Hurt",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Hurt",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (Kiss of the Spider Woman)",
+      "Nominated for three other Academy Awards",
+      "Known for roles in films such as Broadcast News, The Big Chill, and A History of Violence"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2022
   }
 ]

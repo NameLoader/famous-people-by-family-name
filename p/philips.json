@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Frits Philips",
+    "givenNames": [
+      "Frederik",
+      "Jacques",
+      "Frits"
+    ],
+    "familyName": "Philips",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frits_Philips",
+    "occupation": "Industrialist",
+    "achievements": [
+      "Led Philips Electronics for many years",
+      "Oversaw the company's growth into a global electronics giant"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Gerard Philips",
+    "givenNames": [
+      "Gerard",
+      "Leonard",
+      "Frederik"
+    ],
+    "familyName": "Philips",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Philips",
+    "occupation": "Industrialist, Inventor",
+    "achievements": [
+      "Co-founded Philips Electronics with his brother Anton",
+      "Pioneered the development and production of incandescent light bulbs in the Netherlands"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1942
+  }
+]

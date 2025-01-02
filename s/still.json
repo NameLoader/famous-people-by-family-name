@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Still",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Still",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Still",
+    "occupation": "Abolitionist, Historian",
+    "achievements": [
+      "Helped over 800 enslaved people escape to freedom via the Underground Railroad.",
+      "Authored 'The Underground Railroad Records,' a vital historical document detailing the experiences of escaped slaves."
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1902
+  }
+]

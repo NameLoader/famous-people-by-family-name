@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Lunt",
+    "givenNames": [
+      "Richard",
+      "Royal"
+    ],
+    "familyName": "Lunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Lunt",
+    "occupation": "Scientist",
+    "achievements": [
+      "Developed transparent solar cells that can be applied to windows and other surfaces",
+      "Professor at Michigan State University"
+    ],
+    "yearBorn": 1982
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Walter Knott",
+    "givenNames": [
+      "Walter",
+      "Marvin"
+    ],
+    "familyName": "Knott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Knott",
+    "occupation": "Restaurant entrepreneur, businessman",
+    "achievements": [
+      "Founded Knott's Berry Farm, a popular amusement park in Buena Park, California"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1983
+  }
+]

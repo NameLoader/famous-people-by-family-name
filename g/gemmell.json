@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "David Gemmell",
+    "givenNames": [
+      "David",
+      "Andrew"
+    ],
+    "familyName": "Gemmell",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Gemmell",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote bestselling fantasy novels",
+      "Won multiple British Fantasy Awards"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Neil Gemmell",
+    "givenNames": [
+      "Neil",
+      "John"
+    ],
+    "familyName": "Gemmell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Gemmell",
+    "occupation": "Geneticist",
+    "achievements": [
+      "Professor at the University of Otago",
+      "Research focuses on genomics and conservation genetics"
+    ],
+    "yearBorn": 1968
+  }
+]

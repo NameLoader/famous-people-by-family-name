@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1501,
     "yearDied": 1536
+  },
+  {
+    "fullName": "Mary Boleyn",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Boleyn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Boleyn",
+    "occupation": "Noblewoman",
+    "achievements": [
+      "Mistress of King Henry VIII",
+      "Sister of Anne Boleyn"
+    ],
+    "yearBorn": 1499,
+    "yearDied": 1543
   }
 ]

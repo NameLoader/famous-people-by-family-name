@@ -60,5 +60,21 @@
       "Current Governor of Texas"
     ],
     "yearBorn": 1957
+  },
+  {
+    "fullName": "John Abbott",
+    "givenNames": [
+      "John",
+      "Joseph",
+      "Caldwell"
+    ],
+    "familyName": "Abbott",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Abbott",
+    "occupation": "Politician",
+    "achievements": [
+      "Third Prime Minister of Canada"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1893
   }
 ]

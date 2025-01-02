@@ -2,7 +2,9 @@
   {
     "fullName": "Barry Gibb",
     "givenNames": [
-      "Barry"
+      "Barry",
+      "Alan",
+      "Crompton"
     ],
     "familyName": "Gibb",
     "wikipedia": "https://en.wikipedia.org/wiki/Barry_Gibb",
@@ -17,7 +19,8 @@
   {
     "fullName": "Robin Gibb",
     "givenNames": [
-      "Robin"
+      "Robin",
+      "Hugh"
     ],
     "familyName": "Gibb",
     "wikipedia": "https://en.wikipedia.org/wiki/Robin_Gibb",
@@ -29,5 +32,35 @@
     ],
     "yearBorn": 1949,
     "yearDied": 2012
+  },
+  {
+    "fullName": "Maurice Gibb",
+    "givenNames": [
+      "Maurice",
+      "Ernest"
+    ],
+    "familyName": "Gibb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Gibb",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Member of the Bee Gees, one of the best-selling music acts of all time"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Andy Gibb",
+    "givenNames": [
+      "Andrew",
+      "Roy"
+    ],
+    "familyName": "Gibb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Gibb",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Younger brother of the Bee Gees, successful solo artist"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 1988
   }
 ]

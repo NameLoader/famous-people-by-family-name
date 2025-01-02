@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Joseph Bruce Ismay",
+    "givenNames": [
+      "Joseph",
+      "Bruce"
+    ],
+    "familyName": "Ismay",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._Bruce_Ismay",
+    "occupation": "Businessman, shipping magnate",
+    "achievements": [
+      "Founder and Managing Director of the White Star Line",
+      "Oversaw the construction of the RMS Titanic"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1937
+  }
+]

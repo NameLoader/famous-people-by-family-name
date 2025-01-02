@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rita Hayworth",
+    "givenNames": [
+      "Rita"
+    ],
+    "familyName": "Hayworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rita_Hayworth",
+    "occupation": "Actress and dancer",
+    "achievements": [
+      "Considered one of the most glamorous Hollywood stars of the 1940s",
+      "Known for her roles in films such as 'Gilda' and 'Cover Girl'"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1987
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Boydell",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Boydell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Boydell",
+    "occupation": "Publisher, art dealer",
+    "achievements": [
+      "Established the Shakespeare Gallery in London, commissioning artwork based on Shakespearean plays.",
+      "Published numerous engraved works and contributed to the growth of art print culture."
+    ],
+    "yearBorn": 1719,
+    "yearDied": 1804
+  }
+]

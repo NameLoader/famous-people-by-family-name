@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "T. S. Eliot",
+    "givenNames": [
+      "Thomas",
+      "Stearns"
+    ],
+    "familyName": "Eliot",
+    "wikipedia": "https://en.wikipedia.org/wiki/T._S._Eliot",
+    "occupation": "Poet, playwright, literary critic",
+    "achievements": [
+      "Nobel Prize in Literature (1948)",
+      "Considered one of the most important poets of the 20th century",
+      "Author of influential works like 'The Waste Land' and 'The Love Song of J. Alfred Prufrock'"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1965
+  }
+]

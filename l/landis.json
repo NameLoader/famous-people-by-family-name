@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "John Landis",
+    "givenNames": [
+      "John",
+      "David"
+    ],
+    "familyName": "Landis",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Landis",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed films such as 'Animal House', 'The Blues Brothers', and 'An American Werewolf in London'"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Harry Landis",
+    "givenNames": [
+      "Harry"
+    ],
+    "familyName": "Landis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Landis",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in British television shows like 'Coronation Street' and 'EastEnders'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2022
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Robert Hooke",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Hooke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hooke",
+    "occupation": "Scientist, architect",
+    "achievements": [
+      "Discovered the law of elasticity (Hooke's Law)",
+      "Made significant contributions to microscopy and astronomy",
+      "Coined the term 'cell'",
+      "Designed and built scientific instruments"
+    ],
+    "yearBorn": 1635,
+    "yearDied": 1703
+  }
+]

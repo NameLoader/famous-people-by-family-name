@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jerry Rubin",
+    "givenNames": [
+      "Jerry",
+      "Clyde"
+    ],
+    "familyName": "Rubin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Rubin",
+    "occupation": "Political activist, writer",
+    "achievements": [
+      "Co-founder of the Youth International Party (Yippies)",
+      "Prominent figure in the counterculture movement of the 1960s"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1994
+  }
+]

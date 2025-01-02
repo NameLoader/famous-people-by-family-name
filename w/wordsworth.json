@@ -13,5 +13,22 @@
     ],
     "yearBorn": 1770,
     "yearDied": 1850
+  },
+  {
+    "fullName": "Dorothy Wordsworth",
+    "givenNames": [
+      "Dorothy",
+      "Mae",
+      "Ann"
+    ],
+    "familyName": "Wordsworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Wordsworth",
+    "occupation": "Poet and diarist",
+    "achievements": [
+      "Her journals provided valuable insight into the life and work of her brother William Wordsworth",
+      "Wrote poetry and prose, though less celebrated than her brother's works"
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1855
   }
 ]

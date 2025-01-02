@@ -2,7 +2,8 @@
   {
     "fullName": "John Ritter",
     "givenNames": [
-      "John"
+      "Johnathan",
+      "Southworth"
     ],
     "familyName": "Ritter",
     "wikipedia": "https://en.wikipedia.org/wiki/John_Ritter",
@@ -13,5 +14,36 @@
     ],
     "yearBorn": 1948,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Tex Ritter",
+    "givenNames": [
+      "Woodward",
+      "Maurice",
+      "Tex"
+    ],
+    "familyName": "Ritter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tex_Ritter",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "Pioneer of Western music",
+      "Starred in numerous Western films"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1974
+  },
+  {
+    "fullName": "Karl Ritter",
+    "givenNames": [
+      "Carl"
+    ],
+    "familyName": "Ritter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Ritter",
+    "occupation": "Geographer",
+    "achievements": [
+      "Known for his work on comparative geography and physical geography"
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1859
   }
 ]

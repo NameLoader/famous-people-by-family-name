@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Mia Farrow",
+    "givenNames": [
+      "Maria",
+      "de",
+      "Lourdes",
+      "Villiers",
+      "Mia"
+    ],
+    "familyName": "Farrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mia_Farrow",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Academy Award nomination for Best Actress",
+      "Known for roles in films like Rosemary's Baby and Hannah and Her Sisters",
+      "UNICEF Goodwill Ambassador"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Ronan Farrow",
+    "givenNames": [
+      "Ronan",
+      "Satchel",
+      "Ronan"
+    ],
+    "familyName": "Farrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronan_Farrow",
+    "occupation": "Journalist, Lawyer",
+    "achievements": [
+      "Pulitzer Prize for Public Service",
+      "Known for investigative reporting on Harvey Weinstein and the #MeToo movement"
+    ],
+    "yearBorn": 1987
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Tony Esposito",
+    "givenNames": [
+      "Anthony",
+      "James"
+    ],
+    "familyName": "Esposito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Esposito",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "Hockey Hall of Fame inductee",
+      "Three-time Vezina Trophy winner",
+      "Led the Chicago Blackhawks to three Stanley Cup appearances"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2021
+  }
+]

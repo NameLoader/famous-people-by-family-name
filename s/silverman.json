@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Ben Silverman",
+    "givenNames": [
+      "Benjamin",
+      "Noah"
+    ],
+    "familyName": "Silverman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Silverman",
+    "occupation": "Television producer and entrepreneur",
+    "achievements": [
+      "Founded Electus, a production company acquired by NBCUniversal",
+      "Produced popular television shows such as 'Ugly Betty' and 'The Office'"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Sarah Silverman",
+    "givenNames": [
+      "Sarah",
+      "Kate"
+    ],
+    "familyName": "Silverman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Silverman",
+    "occupation": "Comedian, actress, writer, and producer",
+    "achievements": [
+      "Known for her dark humor and satirical stand-up comedy",
+      "Won a Primetime Emmy Award for her work on 'The Sarah Silverman Program'",
+      "Advocate for social justice and political activism"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "David Silverman",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Silverman",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Silverman_(animator)",
+    "occupation": "Animator and director",
+    "achievements": [
+      "Directed numerous episodes of 'The Simpsons'"
+    ]
+  }
+]

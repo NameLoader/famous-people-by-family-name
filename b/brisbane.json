@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Thomas Brisbane",
+    "givenNames": [
+      "Thomas",
+      "Makdougall"
+    ],
+    "familyName": "Brisbane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Brisbane",
+    "occupation": "Astronomer, Governor of New South Wales",
+    "achievements": [
+      "Founded the Brisbane Observatory",
+      "Served as Governor of New South Wales from 1821 to 1825"
+    ],
+    "yearBorn": 1773,
+    "yearDied": 1860
+  }
+]

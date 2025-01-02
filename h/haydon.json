@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Benjamin Haydon",
+    "givenNames": [
+      "Benjamin",
+      "Robert"
+    ],
+    "familyName": "Haydon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Haydon",
+    "occupation": "Painter, Historian",
+    "achievements": [
+      "Known for his large-scale historical paintings.",
+      "Notable works include 'The Raising of Lazarus' and 'The Last Supper'."
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1846
+  }
+]

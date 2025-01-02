@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "James Ensor",
+    "givenNames": [
+      "James",
+      "Sidney",
+      "Edouard"
+    ],
+    "familyName": "Ensor",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Ensor",
+    "occupation": "Painter and Printmaker",
+    "achievements": [
+      "Pioneer of Expressionism",
+      "Known for grotesque and satirical works"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1949
+  }
+]

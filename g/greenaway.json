@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Peter Greenaway",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Greenaway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Greenaway",
+    "occupation": "Film director, screenwriter, and artist",
+    "achievements": [
+      "Known for visually stunning and intellectually challenging films such as 'The Draughtsman's Contract' and 'Prospero's Books'",
+      "Often explores themes of art, history, and the human condition"
+    ],
+    "yearBorn": 1942
+  }
+]

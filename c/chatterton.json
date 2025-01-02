@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Thomas Chatterton",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Chatterton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Chatterton",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his literary forgeries and melancholic poetry.",
+      "His work inspired the Romantic movement."
+    ],
+    "yearBorn": 1752,
+    "yearDied": 1770
+  }
+]

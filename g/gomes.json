@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "André Gomes",
+    "givenNames": [
+      "André",
+      "Filipe",
+      "Tavares"
+    ],
+    "familyName": "Gomes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gomes",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for FC Barcelona, Everton, Valencia CF"
+    ],
+    "yearBorn": 1993
+  }
+]

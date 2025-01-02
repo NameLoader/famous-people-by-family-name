@@ -2,7 +2,8 @@
   {
     "fullName": "Robert Keohane",
     "givenNames": [
-      "Robert"
+      "Robert",
+      "Owen"
     ],
     "familyName": "Keohane",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_Keohane",
@@ -13,5 +14,21 @@
       "Co-founder of the journal 'International Organization'"
     ],
     "yearBorn": 1941
+  },
+  {
+    "fullName": "Nancy Keohane",
+    "givenNames": [
+      "Nannerl",
+      "Nan",
+      "Overholser"
+    ],
+    "familyName": "Keohane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nannerl_O._Keohane",
+    "occupation": "Academic administrator, Professor",
+    "achievements": [
+      "Former president of Wellesley College and Duke University",
+      "First woman to lead a major Ivy League university (Duke)"
+    ],
+    "yearBorn": 1938
   }
 ]

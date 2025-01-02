@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jerry Springer",
+    "givenNames": [
+      "Gerald",
+      "Norman"
+    ],
+    "familyName": "Springer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Springer",
+    "occupation": "Television host, politician",
+    "achievements": [
+      "Hosted The Jerry Springer Show",
+      "Served as Mayor of Cincinnati"
+    ],
+    "yearBorn": 1944
+  }
+]

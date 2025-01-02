@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "J. Willard Marriott",
+    "givenNames": [
+      "John",
+      "Willard"
+    ],
+    "familyName": "Marriott",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._Willard_Marriott",
+    "occupation": "Hotelier, Entrepreneur",
+    "achievements": [
+      "Founded Marriott Corporation (now Marriott International)",
+      "Pioneer in the hospitality industry"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Bill Marriott",
+    "givenNames": [
+      "John",
+      "Willard",
+      "Bill"
+    ],
+    "familyName": "Marriott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Marriott",
+    "occupation": "Business Executive",
+    "achievements": [
+      "Led Marriott International to become a global hospitality giant",
+      "Known for his strong leadership and philanthropic work"
+    ],
+    "yearBorn": 1932
+  }
+]

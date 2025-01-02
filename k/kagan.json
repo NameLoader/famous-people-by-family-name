@@ -12,5 +12,19 @@
       "Nominated by President Barack Obama and confirmed by the Senate in 2010"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Robert Kagan",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Kagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Kagan",
+    "occupation": "Political scientist and foreign policy expert",
+    "achievements": [
+      "Senior fellow at the Brookings Institution",
+      "Author of influential books on international relations, such as 'Paradise and Power'"
+    ],
+    "yearBorn": 1958
   }
 ]

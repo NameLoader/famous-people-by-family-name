@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Rushworth",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Rushworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Rushworth",
+    "occupation": "Historian and Writer",
+    "achievements": [
+      "Published 'Historical Collections of England'",
+      "Known for his accounts of the English Civil War"
+    ],
+    "yearBorn": 1612,
+    "yearDied": 1690
+  }
+]

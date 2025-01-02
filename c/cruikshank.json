@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Cruikshank",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Cruikshank",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Cruikshank",
+    "occupation": "Illustrator, caricaturist",
+    "achievements": [
+      "Prolific illustrator for Charles Dickens and other authors.",
+      "Known for satirical cartoons commenting on social issues."
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1878
+  }
+]

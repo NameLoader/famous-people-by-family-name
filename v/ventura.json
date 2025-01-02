@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jesse Ventura",
+    "givenNames": [
+      "Jesse"
+    ],
+    "familyName": "Ventura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Ventura",
+    "occupation": "Politician, Actor, Commentator",
+    "achievements": [
+      "Served as the 38th Governor of Minnesota from 1999 to 2003.",
+      "Former professional wrestler known for his charismatic persona and catchphrase 'Whatcha gonna do?'",
+      "Hosted various television shows and provided commentary on wrestling events."
+    ],
+    "yearBorn": 1951
+  }
+]

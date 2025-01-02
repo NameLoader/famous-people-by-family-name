@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1865,
     "yearDied": 1939
+  },
+  {
+    "fullName": "Jack B. Yeats",
+    "givenNames": [
+      "Jack",
+      "Butler"
+    ],
+    "familyName": "Yeats",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_B._Yeats",
+    "occupation": "Painter",
+    "achievements": [
+      "Brother of W. B. Yeats",
+      "Known for his Expressionist style paintings often depicting Irish landscapes and scenes"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1957
   }
 ]

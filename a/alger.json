@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Horatio Alger Jr.",
+    "givenNames": [
+      "Horatio",
+      "Jr."
+    ],
+    "familyName": "Alger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Alger",
+    "occupation": "Author",
+    "achievements": [
+      "Prolific author of juvenile fiction known for his 'rags to riches' stories",
+      "His works promoted values of hard work, honesty, and perseverance"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1899
+  }
+]

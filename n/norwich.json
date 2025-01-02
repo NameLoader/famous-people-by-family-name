@@ -1,17 +1,17 @@
 [
   {
-    "fullName": "Edward IV of England",
+    "fullName": "John Norwich",
     "givenNames": [
-      "Edward"
+      "John",
+      "Julius"
     ],
     "familyName": "Norwich",
-    "wikipedia": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
-    "occupation": "King of England",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Julius_Norwich",
+    "occupation": "Historian",
     "achievements": [
-      "Reigned as King of England from 1461 to 1470 and again from 1471 until his death.",
-      "Established the House of York on the English throne."
+      "Authored acclaimed historical works on the Byzantine Empire and Venice.",
+      "Won numerous awards for his writing."
     ],
-    "yearBorn": 1442,
-    "yearDied": 1483
+    "yearBorn": 1929
   }
 ]
