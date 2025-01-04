@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1886,
     "yearDied": 1953
+  },
+  {
+    "fullName": "Derek Freeman",
+    "givenNames": [
+      "John",
+      "Derek"
+    ],
+    "familyName": "Freeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Freeman",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Known for his controversial critiques of Margaret Mead's work on Samoan culture",
+      "Published numerous books and articles on anthropology and cultural studies"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2001
   }
 ]

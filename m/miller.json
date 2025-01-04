@@ -59,5 +59,21 @@
     ],
     "yearBorn": 1891,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Jonathan Miller",
+    "givenNames": [
+      "Jonathan",
+      "Wolfe"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Miller",
+    "occupation": "Physician, writer, theatre and opera director",
+    "achievements": [
+      "Directed numerous acclaimed productions at the Royal Opera House and other major venues.",
+      "Presented influential television documentaries on science and art."
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2019
   }
 ]

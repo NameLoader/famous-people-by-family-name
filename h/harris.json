@@ -30,22 +30,6 @@
     "yearDied": 2013
   },
   {
-    "fullName": "Richard Harris",
-    "givenNames": [
-      "Richard",
-      "St John Francis"
-    ],
-    "familyName": "Harris",
-    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Harris",
-    "occupation": "Actor",
-    "achievements": [
-      "Known for roles in films like 'Gladiator' and 'This Sporting Life'",
-      "Academy Award nominated for 'This Sporting Life'"
-    ],
-    "yearBorn": 1933,
-    "yearDied": 2002
-  },
-  {
     "fullName": "Maya Harris",
     "givenNames": [
       "Maya",
@@ -58,5 +42,21 @@
       "Senior advisor to Kamala Harris's presidential campaign",
       "Former Senior Fellow at the Center for American Progress"
     ]
+  },
+  {
+    "fullName": "Richard Harris",
+    "givenNames": [
+      "Richard",
+      "St John Francis"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Harris",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films such as 'Gladiator', 'A Man Called Horse', and 'This Sporting Life'",
+      "Won numerous awards for his acting, including a Golden Globe"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2002
   }
 ]

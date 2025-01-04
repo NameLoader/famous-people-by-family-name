@@ -13,5 +13,36 @@
       "Nominated for Academy Awards for Best Actor and Best Supporting Actor."
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Charles Eliot Norton",
+    "givenNames": [
+      "Charles",
+      "Eliot"
+    ],
+    "familyName": "Norton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Eliot_Norton",
+    "occupation": "Art historian, philanthropist",
+    "achievements": [
+      "Founded the Norton Lectures at Harvard University.",
+      "Significant contributions to the field of art history."
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1908
+  },
+  {
+    "fullName": "Mary Norton",
+    "givenNames": [
+      "Mary",
+      "Kathleen"
+    ],
+    "familyName": "Norton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Norton_(writer)",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for the children's novel 'The Borrowers'."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1994
   }
 ]

@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1931,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Peter Nichols",
+    "givenNames": [
+      "Peter",
+      "Richard"
+    ],
+    "familyName": "Nichols",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nichols_(playwright)",
+    "occupation": "British playwright and screenwriter",
+    "achievements": [
+      "Known for plays such as 'A Day in the Death of Joe Egg' and 'Privates on Parade'."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2019
   }
 ]

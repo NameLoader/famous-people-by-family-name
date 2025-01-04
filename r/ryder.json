@@ -12,5 +12,20 @@
       "Golden Globe Award win for Best Supporting Actress in 'Girl, Interrupted'"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Paul Ryder",
+    "givenNames": [
+      "Paul",
+      "Anthony"
+    ],
+    "familyName": "Ryder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Ryder",
+    "occupation": "Musician",
+    "achievements": [
+      "Bassist for the band Happy Mondays"
+    ],
+    "yearBorn": 1964,
+    "yearDied": 2022
   }
 ]

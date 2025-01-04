@@ -36,12 +36,26 @@
       "William"
     ],
     "familyName": "Burke",
-    "wikipedia": "https://en.wikipedia.org/wiki/Burke_and_Hare_murders#William_Burke_and_William_Hare",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Burke_(Burke_and_Hare_murders)",
     "occupation": "Murderer (historical figure)",
     "achievements": [
       "Infamous for his involvement in the Burke and Hare murders in Edinburgh."
     ],
     "yearBorn": 1792,
     "yearDied": 1829
+  },
+  {
+    "fullName": "James Burke",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Burke_(science_historian)",
+    "occupation": "Historian and television presenter",
+    "achievements": [
+      "Known for his popular history documentaries such as 'Connections'",
+      "Authored numerous books on history and science"
+    ],
+    "yearBorn": 1936
   }
 ]

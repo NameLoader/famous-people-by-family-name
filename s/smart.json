@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Smart",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Smart",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Smart",
+    "occupation": "Painter",
+    "achievements": [
+      "English portrait and miniature painter",
+      "Known for his portraits of prominent figures in 18th-century England"
+    ],
+    "yearBorn": 1742,
+    "yearDied": 1811
+  }
+]

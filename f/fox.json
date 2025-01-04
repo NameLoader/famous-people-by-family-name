@@ -44,5 +44,20 @@
       "Advocate for Parkinson's disease research after his diagnosis in 1991"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Laurence Fox",
+    "givenNames": [
+      "Laurence",
+      "Paul"
+    ],
+    "familyName": "Fox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Fox",
+    "occupation": "Actor, activist",
+    "achievements": [
+      "Known for roles in films and television series like 'Gosford Park' and 'Lewis'",
+      "Controversial figure due to his political views and activism"
+    ],
+    "yearBorn": 1978
   }
 ]

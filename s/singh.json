@@ -41,5 +41,36 @@
     ],
     "yearBorn": 1929,
     "yearDied": 2021
+  },
+  {
+    "fullName": "Sikh Guru Gobind Singh Ji",
+    "givenNames": [
+      "Gobind"
+    ],
+    "familyName": "Singh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+    "occupation": "Religious Leader, Warrior",
+    "achievements": [
+      "Tenth Guru of Sikhism",
+      "Founded the Khalsa, the collective body of initiated Sikhs"
+    ],
+    "yearBorn": 1666,
+    "yearDied": 1708
+  },
+  {
+    "fullName": "Sarabjit Singh",
+    "givenNames": [
+      "Sarabjit",
+      "Sarabjeet"
+    ],
+    "familyName": "Singh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarabjit_Singh",
+    "occupation": "Death Row Prisoner",
+    "achievements": [
+      "Indian national who was imprisoned in Pakistan for alleged espionage",
+      "His case gained international attention and highlighted tensions between India and Pakistan"
+    ],
+    "yearBorn": 1963,
+    "yearDied": 2013
   }
 ]

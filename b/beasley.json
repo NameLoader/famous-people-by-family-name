@@ -28,5 +28,20 @@
       "Named NBA Rookie of the Year runner-up."
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "David Beasley",
+    "givenNames": [
+      "David",
+      "Muldrow"
+    ],
+    "familyName": "Beasley",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Beasley",
+    "occupation": "Politician",
+    "achievements": [
+      "Executive Director of the World Food Programme (2017-present)",
+      "Governor of South Carolina (1995-1999)"
+    ],
+    "yearBorn": 1957
   }
 ]

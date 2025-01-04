@@ -60,5 +60,22 @@
       "Solo Career"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Patrick White",
+    "givenNames": [
+      "Patrick",
+      "Victor",
+      "Martindale"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_White",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Winner of the Nobel Prize in Literature (1973)",
+      "Known for his complex and psychologically insightful novels exploring Australian identity"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1990
   }
 ]

@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Robert Lowry",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Lowry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lowry_(hymn_writer)",
+    "occupation": "Composer, hymn writer",
+    "achievements": [
+      "Wrote the hymns 'Nothing But The Blood' and 'How Can I Keep From Singing']"
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1899
   }
 ]

@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1837,
     "yearDied": 1899
+  },
+  {
+    "fullName": "William Moody",
+    "givenNames": [
+      "William",
+      "Alvin"
+    ],
+    "familyName": "Moody",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Bearer",
+    "occupation": "Professional wrestler, Actor",
+    "achievements": [
+      "WWE Hall of Famer as Paul Bearer"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2023
   }
 ]

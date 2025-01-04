@@ -10,5 +10,20 @@
     "achievements": [
       "Protagonist of Bret Easton Ellis's novel 'American Psycho'"
     ]
+  },
+  {
+    "fullName": "Jason Bateman",
+    "givenNames": [
+      "Jason",
+      "Kent"
+    ],
+    "familyName": "Bateman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jason_Bateman",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Known for roles in Arrested Development and Ozark",
+      "Won a Primetime Emmy Award and a Golden Globe Award"
+    ],
+    "yearBorn": 1969
   }
 ]

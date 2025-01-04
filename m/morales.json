@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Luis Morales",
+    "givenNames": [
+      "Luis",
+      "de"
+    ],
+    "familyName": "Morales",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_de_Morales",
+    "occupation": "Painter",
+    "achievements": [
+      "Spanish Renaissance painter",
+      "Known for religious paintings and portraits"
+    ],
+    "yearBorn": 1530,
+    "yearDied": 1600
+  }
+]

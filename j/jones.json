@@ -60,5 +60,22 @@
       "Academy Honorary Award recipient"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Brian Jones",
+    "givenNames": [
+      "Brian",
+      "Lewis",
+      "Hopkin"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Jones",
+    "occupation": "Musician, Guitarist",
+    "achievements": [
+      "Founding member of The Rolling Stones",
+      "Influential guitarist in the development of rock music"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 1969
   }
 ]

@@ -29,5 +29,19 @@
     ],
     "yearBorn": 1926,
     "yearDied": 2024
+  },
+  {
+    "fullName": "Brendan Dolan",
+    "givenNames": [
+      "Brendan",
+      "Gabriel"
+    ],
+    "familyName": "Dolan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Dolan",
+    "occupation": "Professional Darts Player",
+    "achievements": [
+      "Reached the quarterfinals of the PDC World Darts Championship in 2013"
+    ],
+    "yearBorn": 1973
   }
 ]

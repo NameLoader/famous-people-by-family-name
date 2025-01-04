@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1632,
     "yearDied": 1704
+  },
+  {
+    "fullName": "Gary Locke",
+    "givenNames": [
+      "Gary",
+      "Faye"
+    ],
+    "familyName": "Locke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Locke",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "First Chinese American to serve as a U.S. governor (Washington)",
+      "Served as the U.S. Ambassador to China from 2011 to 2013",
+      "Secretary of Commerce under President Barack Obama"
+    ],
+    "yearBorn": 1950
   }
 ]

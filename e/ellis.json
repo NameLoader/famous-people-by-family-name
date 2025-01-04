@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "John Ellis",
+    "givenNames": [
+      "Jonathan",
+      "Richard",
+      "John"
+    ],
+    "familyName": "Ellis",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ellis_(physicist,_born_1946)",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Nobel Prize in Physics (2013)",
+      "Discovery of the Higgs boson"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Brian Ellis",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Ellis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_David_Ellis",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Known for his work on the philosophy of time travel and space-time"
+    ]
+  }
+]

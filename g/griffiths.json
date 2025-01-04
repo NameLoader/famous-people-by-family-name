@@ -13,5 +13,20 @@
       "Known for his work in algebraic geometry"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "Richard Griffiths",
+    "givenNames": [
+      "Richard",
+      "Thomas"
+    ],
+    "familyName": "Griffiths",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Griffiths",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Harry Potter films, Withnail & I, and The History Boys"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2013
   }
 ]

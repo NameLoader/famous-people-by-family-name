@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "John Sykes",
+    "givenNames": [
+      "John",
+      "James"
+    ],
+    "familyName": "Sykes",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Sykes",
+    "occupation": "Musician, guitarist, songwriter",
+    "achievements": [
+      "Founding member of the heavy metal band Whitesnake",
+      "Guitarist for Blue Murder and Thin Lizzy"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Charles Sykes",
+    "givenNames": [
+      "Charles",
+      "Jay"
+    ],
+    "familyName": "Sykes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Sykes",
+    "occupation": "Journalist, political commentator, author",
+    "achievements": [
+      "Editor-in-chief of the Weekly Standard",
+      "Author of several books on American politics"
+    ]
+  }
+]

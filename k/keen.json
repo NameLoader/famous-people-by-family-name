@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Sam Keen",
+    "givenNames": [
+      "Sam"
+    ],
+    "familyName": "Keen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Keen",
+    "occupation": "Author, Philosopher, and Lecturer",
+    "achievements": [
+      "Known for books exploring spirituality, masculinity, and human connection",
+      "Authored works like 'Faces of the Enemy' and 'To a Dancing God'"
+    ],
+    "yearBorn": 1930
+  }
+]

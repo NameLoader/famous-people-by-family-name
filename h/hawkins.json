@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Hawkins",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hawkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hawkins_(naval_commander)",
+    "occupation": "Privateer, explorer",
+    "achievements": [
+      "Led the first English slave-trading expeditions to Africa and the Americas.",
+      "Played a key role in the development of England's naval power."
+    ],
+    "yearBorn": 1532,
+    "yearDied": 1595
+  }
+]

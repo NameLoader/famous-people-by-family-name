@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "John Kirwan",
+    "givenNames": [
+      "John",
+      "James",
+      "Patrick"
+    ],
+    "familyName": "Kirwan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Kirwan_(rugby)",
+    "occupation": "Rugby player and coach",
+    "achievements": [
+      "All Blacks rugby union player",
+      "Won the Rugby World Cup in 1987",
+      "Coached the Auckland Blues and Japan national rugby union team"
+    ],
+    "yearBorn": 1964
+  }
+]

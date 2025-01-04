@@ -30,5 +30,19 @@
       "Knighted by Queen Elizabeth II in 1993"
     ],
     "yearBorn": 1937
+  },
+  {
+    "fullName": "John Hopkins",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Hopkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johns_Hopkins_School_of_Medicine",
+    "occupation": "Physician, philanthropist",
+    "achievements": [
+      "Founded Johns Hopkins Hospital and Johns Hopkins University."
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1873
   }
 ]

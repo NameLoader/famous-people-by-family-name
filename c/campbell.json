@@ -105,5 +105,35 @@
     ],
     "yearBorn": 1904,
     "yearDied": 1987
+  },
+  {
+    "fullName": "John Campbell, 1st Baron Campbell",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Campbell,_1st_Baron_Campbell",
+    "occupation": "Judge, Politician",
+    "achievements": [
+      "Lord Chancellor of Great Britain",
+      "Known for his legal expertise and reform efforts"
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1861
+  },
+  {
+    "fullName": "David Campbell",
+    "givenNames": [
+      "David",
+      "Joseph"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Campbell_(singer)",
+    "occupation": "Singer, Entertainer",
+    "achievements": [
+      "Popular Australian singer and television personality",
+      "Known for his smooth vocals and stage presence"
+    ],
+    "yearBorn": 1973
   }
 ]

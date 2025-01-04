@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "George Ferris Jr.",
+    "givenNames": [
+      "George",
+      "Washington",
+      "Gale"
+    ],
+    "familyName": "Ferris",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington_Gale_Ferris_Jr.",
+    "occupation": "Engineer, inventor",
+    "achievements": [
+      "Invented the Ferris wheel"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1896
+  }
+]

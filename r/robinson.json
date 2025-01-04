@@ -32,5 +32,21 @@
       "Olympic gold medalist (1992, 1996)"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Ken Robinson",
+    "givenNames": [
+      "Ken",
+      "Kenneth"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist)",
+    "occupation": "Educator and author",
+    "achievements": [
+      "Advocate for personalized learning and creativity in education",
+      "His TED Talk 'Do Schools Kill Creativity?' is one of the most viewed of all time"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2020
   }
 ]

@@ -29,5 +29,18 @@
       "Kennedy Center Honors recipient (1998)"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Tracy Nelson",
+    "givenNames": [
+      "Tracy"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracy_Nelson_(singer)",
+    "occupation": "Singer, Musician",
+    "achievements": [
+      "Blues and rock singer",
+      "Known for her powerful vocals"
+    ]
   }
 ]

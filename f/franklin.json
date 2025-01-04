@@ -49,5 +49,21 @@
     ],
     "yearBorn": 1920,
     "yearDied": 1958
+  },
+  {
+    "fullName": "Sir John Franklin",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Franklin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Franklin",
+    "occupation": "Royal Navy officer, Arctic explorer",
+    "achievements": [
+      "Led two expeditions to find the Northwest Passage",
+      "His lost ship HMS Erebus was found in 2014",
+      "Enduring legacy as a symbol of Arctic exploration"
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1847
   }
 ]

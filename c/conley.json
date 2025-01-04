@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mike Conley",
+    "givenNames": [
+      "Michael",
+      "Alex"
+    ],
+    "familyName": "Conley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Conley_Jr.",
+    "occupation": "NBA player (point guard)",
+    "achievements": [
+      "Selected 4th overall in the 2007 NBA draft by the Memphis Grizzlies.",
+      "Played for the Utah Jazz and currently plays for the Minnesota Timberwolves."
+    ],
+    "yearBorn": 1987
+  }
+]

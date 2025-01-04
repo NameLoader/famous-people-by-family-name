@@ -17,7 +17,6 @@
   {
     "fullName": "Ron Howard",
     "givenNames": [
-      "Ron",
       "Ronald",
       "William"
     ],
@@ -29,5 +28,20 @@
       "Known for films like Apollo 13, A Beautiful Mind, and The Da Vinci Code"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "John Howard",
+    "givenNames": [
+      "John",
+      "Winston"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Howard",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Australia from 1996 to 2007",
+      "Led the Liberal Party of Australia"
+    ],
+    "yearBorn": 1939
   }
 ]

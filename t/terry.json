@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Terry",
+    "givenNames": [
+      "John",
+      "George"
+    ],
+    "familyName": "Terry",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Terry",
+    "occupation": "Footballer (Retired)",
+    "achievements": [
+      "Former captain of the England national football team",
+      "Won multiple Premier League titles and FA Cups with Chelsea FC"
+    ],
+    "yearBorn": 1980
+  }
+]

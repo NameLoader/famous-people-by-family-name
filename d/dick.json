@@ -12,5 +12,20 @@
     ],
     "yearBorn": 1793,
     "yearDied": 1866
+  },
+  {
+    "fullName": "Philip Dick",
+    "givenNames": [
+      "Philip",
+      "Kindred"
+    ],
+    "familyName": "Dick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_K._Dick",
+    "occupation": "Science Fiction Writer",
+    "achievements": [
+      "Authored influential science fiction novels like 'Do Androids Dream of Electric Sheep?' (adapted into the film 'Blade Runner')"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1982
   }
 ]

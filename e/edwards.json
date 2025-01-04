@@ -16,20 +16,6 @@
     "yearDied": 1758
   },
   {
-    "fullName": "Hugh Edwards",
-    "givenNames": [
-      "Huw"
-    ],
-    "familyName": "Edwards",
-    "wikipedia": "https://en.wikipedia.org/wiki/Huw_Edwards",
-    "occupation": "Broadcast journalist",
-    "achievements": [
-      "Lead presenter of BBC News at Ten",
-      "Presented major news events including elections and royal weddings"
-    ],
-    "yearBorn": 1961
-  },
-  {
     "fullName": "John Edwards",
     "givenNames": [
       "Johnny",
@@ -56,5 +42,20 @@
     "achievements": [],
     "yearBorn": 1933,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Robert Edwards",
+    "givenNames": [
+      "Robert",
+      "Geoffrey"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Edwards_(physiologist)",
+    "occupation": "Physiologist, Nobel Laureate",
+    "achievements": [
+      "Pioneered in vitro fertilization (IVF)",
+      "Awarded the Nobel Prize in Physiology or Medicine in 2010"
+    ],
+    "yearBorn": 1925
   }
 ]

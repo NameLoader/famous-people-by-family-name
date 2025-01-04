@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jim Larkin",
+    "givenNames": [
+      "James",
+      "Jim"
+    ],
+    "familyName": "Larkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Larkin",
+    "occupation": "Labor leader and socialist politician",
+    "achievements": [
+      "Founded the Irish Transport and General Workers' Union",
+      "Key figure in the 1913 Dublin Lockout"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1947
+  }
+]

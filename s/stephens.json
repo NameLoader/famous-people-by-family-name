@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1812,
     "yearDied": 1883
+  },
+  {
+    "fullName": "James Stephens",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Stephens",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stephens_(author)",
+    "occupation": "Poet, novelist, playwright",
+    "achievements": [
+      "Known for his fantastical and mystical prose style",
+      "Published works such as 'The Crock of Gold' and 'Celtic Twilight'"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1950
   }
 ]

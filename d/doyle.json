@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1824,
     "yearDied": 1883
+  },
+  {
+    "fullName": "John Doyle",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Doyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Doyle_(Irish_artist)",
+    "occupation": "Artist, Cartoonist, Political Satirist",
+    "achievements": [
+      "Created the iconic character 'H.B.' (Honest Broker) for Punch magazine",
+      "Renowned for his sharp political satire and social commentary"
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1868
   }
 ]

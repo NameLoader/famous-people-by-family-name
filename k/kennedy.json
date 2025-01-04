@@ -83,5 +83,37 @@
     ],
     "yearBorn": 1890,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Caroline Kennedy",
+    "givenNames": [
+      "Caroline",
+      "Bouvier"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_Kennedy",
+    "occupation": "Diplomat, Author",
+    "achievements": [
+      "Served as US Ambassador to Japan",
+      "Author and editor of several books on history and culture",
+      "Advocate for education and literacy"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "John F. Kennedy Jr.",
+    "givenNames": [
+      "John",
+      "Fitzgerald"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy_Jr.",
+    "occupation": "Attorney, Magazine Publisher",
+    "achievements": [
+      "Founded and published the magazine 'George'",
+      "Became a popular media figure and public speaker"
+    ],
+    "yearBorn": 1960,
+    "yearDied": 1999
   }
 ]

@@ -42,5 +42,21 @@
       "Known for his visually stunning and thought-provoking science fiction and historical epics"
     ],
     "yearBorn": 1937
+  },
+  {
+    "fullName": "Robert Falcon Scott",
+    "givenNames": [
+      "Robert",
+      "Falcon"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott",
+    "occupation": "Royal Navy officer, explorer",
+    "achievements": [
+      "Led the Terra Nova Expedition to Antarctica",
+      "Reached the South Pole but perished on the return journey"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1912
   }
 ]

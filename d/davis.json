@@ -33,9 +33,9 @@
   {
     "fullName": "Sammy Davis Jr.",
     "givenNames": [
-      "Sammy",
       "Samuel",
-      "George"
+      "George",
+      "Jr."
     ],
     "familyName": "Davis",
     "wikipedia": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.",
@@ -50,6 +50,7 @@
   {
     "fullName": "Jim Davis",
     "givenNames": [
+      "Jim",
       "James",
       "Robert"
     ],

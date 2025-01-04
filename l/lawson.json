@@ -43,5 +43,20 @@
       "Published numerous novels and short story collections"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Henry Lawson",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Lawson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Lawson",
+    "occupation": "Writer and poet",
+    "achievements": [
+      "Considered one of Australia's greatest writers.",
+      "Known for his short stories and poems depicting Australian bush life."
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1922
   }
 ]

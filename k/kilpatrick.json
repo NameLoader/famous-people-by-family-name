@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1871,
     "yearDied": 1965
+  },
+  {
+    "fullName": "James Kilpatrick",
+    "givenNames": [
+      "James",
+      "Jackson"
+    ],
+    "familyName": "Kilpatrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_J._Kilpatrick",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Pulitzer Prize-winning columnist for the Richmond Times-Dispatch",
+      "Authored numerous books on grammar and language"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2010
   }
 ]

@@ -2,8 +2,7 @@
   {
     "fullName": "Stephen Curry",
     "givenNames": [
-      "Stephen",
-      "Wardell"
+      "Stephen"
     ],
     "familyName": "Curry",
     "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Curry",
@@ -43,5 +42,20 @@
       "Charlotte Hornets all-time leading scorer"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Ayesha Curry",
+    "givenNames": [
+      "Ayesha",
+      "Disa"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayesha_Curry",
+    "occupation": "Cookbook Author, Television Personality",
+    "achievements": [
+      "Host of Food Network's 'Ayesha's Home Kitchen'",
+      "Author of bestselling cookbooks"
+    ],
+    "yearBorn": 1989
   }
 ]

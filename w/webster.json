@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1782,
     "yearDied": 1852
+  },
+  {
+    "fullName": "John Webster",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Webster",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Webster",
+    "occupation": "English dramatist and playwright",
+    "achievements": [
+      "Known for his Jacobean tragedies, including 'The Duchess of Malfi' and 'The White Devil'",
+      "Explored themes of power, ambition, and morality in his works",
+      "Considered one of the most influential playwrights of his era"
+    ],
+    "yearBorn": 1580,
+    "yearDied": 1634
   }
 ]

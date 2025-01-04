@@ -12,5 +12,50 @@
       "Released chart-topping singles like 'Afterglow' and 'Chill Out'."
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "John Wilkinson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Wilkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkinson_(industrialist)",
+    "occupation": "Ironmaster and Engineer",
+    "achievements": [
+      "Pioneered the use of boring machines to manufacture cannon barrels",
+      "Developed techniques for producing high-quality cast iron"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1808
+  },
+  {
+    "fullName": "James Wilkinson",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Wilkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Wilkinson",
+    "occupation": "Military Officer",
+    "achievements": [
+      "Served as a Major General in the United States Army",
+      "Known for his controversial role during the War of 1812 and accusations of treason"
+    ],
+    "yearBorn": 1780,
+    "yearDied": 1825
+  },
+  {
+    "fullName": "Lisa Wilkinson",
+    "givenNames": [
+      "Lisa",
+      "Clare"
+    ],
+    "familyName": "Wilkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Wilkinson",
+    "occupation": "Television Presenter and Journalist",
+    "achievements": [
+      "Hosted popular Australian television programs like The Today Show and The Project",
+      "Known for her strong interviewing style and insightful commentary on current affairs"
+    ],
+    "yearBorn": 1959
   }
 ]

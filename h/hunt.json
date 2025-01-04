@@ -46,5 +46,20 @@
     ],
     "yearBorn": 1827,
     "yearDied": 1910
+  },
+  {
+    "fullName": "E. Howard Hunt",
+    "givenNames": [
+      "Everette",
+      "Howard"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/E._Howard_Hunt",
+    "occupation": "CIA operative",
+    "achievements": [
+      "Involved in the Watergate scandal"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2007
   }
 ]

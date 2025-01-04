@@ -28,5 +28,19 @@
       "Highly influential guitarist and composer in rock music"
     ],
     "yearBorn": 1944
+  },
+  {
+    "fullName": "Michael Page",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Page",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Page",
+    "occupation": "Mixed Martial Artist",
+    "achievements": [
+      "Former Bellator Welterweight World Champion",
+      "Known for his knockout power and aggressive fighting style"
+    ],
+    "yearBorn": 1987
   }
 ]

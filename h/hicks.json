@@ -14,5 +14,36 @@
     ],
     "yearBorn": 1961,
     "yearDied": 1994
+  },
+  {
+    "fullName": "Stephen Hicks",
+    "givenNames": [
+      "Stephen",
+      "Ronald",
+      "Craig"
+    ],
+    "familyName": "Hicks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hicks",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Author of several books on Objectivism and philosophy.",
+      "Known for his critical analysis of postmodernism."
+    ]
+  },
+  {
+    "fullName": "John Hicks",
+    "givenNames": [
+      "John",
+      "Richard"
+    ],
+    "familyName": "Hicks",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Hicks",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences in 1972.",
+      "Made significant contributions to general equilibrium theory and welfare economics."
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1989
   }
 ]

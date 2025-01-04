@@ -15,5 +15,22 @@
     ],
     "yearBorn": 1913,
     "yearDied": 1994
+  },
+  {
+    "fullName": "Pat Nixon",
+    "givenNames": [
+      "Thelma",
+      "Catherine",
+      "Pat"
+    ],
+    "familyName": "Nixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pat_Nixon",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Wife of Richard Nixon",
+      "Advocate for volunteerism and women's rights"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1993
   }
 ]

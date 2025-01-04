@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Brian Giles",
+    "givenNames": [
+      "Brian",
+      "Stephen"
+    ],
+    "familyName": "Giles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Giles",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "MLB All-Star (2000, 2001)",
+      "Silver Slugger Award Winner (2000)"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "John Giles",
+    "givenNames": [
+      "Michael",
+      "John"
+    ],
+    "familyName": "Giles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Giles",
+    "occupation": "Irish Professional Footballer and Manager",
+    "achievements": [
+      "Played for Manchester United and Leeds United",
+      "Represented Republic of Ireland internationally",
+      "Managed clubs such as West Bromwich Albion and Shamrock Rovers"
+    ],
+    "yearBorn": 1940
+  }
+]

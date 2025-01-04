@@ -12,5 +12,19 @@
       "Won Grammy Awards for Best Jazz Instrumental Performance"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Terry McLaughlin",
+    "givenNames": [
+      "Terence"
+    ],
+    "familyName": "McLaughlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_McLaughlin",
+    "occupation": "Sailor, Olympic medalist",
+    "achievements": [
+      "Won a silver medal in the Star class at the 1984 Summer Olympics.",
+      "Competed in multiple Olympic Games and World Championships."
+    ],
+    "yearBorn": 1956
   }
 ]

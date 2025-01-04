@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1766,
     "yearDied": 1844
+  },
+  {
+    "fullName": "Timothy Dalton",
+    "givenNames": [
+      "Timothy",
+      "Leonard"
+    ],
+    "familyName": "Dalton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Dalton",
+    "occupation": "Actor",
+    "achievements": [
+      "Played James Bond in 'The Living Daylights' and 'Licence to Kill'",
+      "Starred in numerous stage productions and films"
+    ],
+    "yearBorn": 1946
   }
 ]

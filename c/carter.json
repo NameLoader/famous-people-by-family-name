@@ -31,8 +31,8 @@
   {
     "fullName": "Jimmy Carter",
     "givenNames": [
-      "James",
-      "Earl"
+      "Jimmy",
+      "James Earl Jr."
     ],
     "familyName": "Carter",
     "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Carter",
@@ -43,5 +43,20 @@
       "Human rights activist"
     ],
     "yearBorn": 1924
+  },
+  {
+    "fullName": "Leslie Carter",
+    "givenNames": [
+      "Leslie",
+      "Barbara"
+    ],
+    "familyName": "Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Carter",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Sister of Aaron Carter and Backstreet Boys member Nick Carter"
+    ],
+    "yearBorn": 1986,
+    "yearDied": 2012
   }
 ]

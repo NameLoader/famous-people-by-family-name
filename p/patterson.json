@@ -13,5 +13,19 @@
       "Has sold over 300 million books worldwide."
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "David Patterson",
+    "givenNames": [
+      "David",
+      "Andrew"
+    ],
+    "familyName": "Patterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Professor Emeritus at the University of California, Berkeley",
+      "Known for his contributions to computer architecture and RISC processors"
+    ]
   }
 ]

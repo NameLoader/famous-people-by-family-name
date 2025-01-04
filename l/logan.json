@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1826,
     "yearDied": 1886
+  },
+  {
+    "fullName": "John Logan",
+    "givenNames": [
+      "John",
+      "David"
+    ],
+    "familyName": "Logan",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Logan_(writer)",
+    "occupation": "Playwright, Screenwriter",
+    "achievements": [
+      "Tony Award for Best Play (Red)",
+      "Screenwriter for films like Gladiator and The Aviator"
+    ],
+    "yearBorn": 1961
   }
 ]

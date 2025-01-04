@@ -18,7 +18,9 @@
     "fullName": "Anderson 'Devil Anse' Hatfield",
     "givenNames": [
       "Anderson",
-      "Devil Anse"
+      "Devil Anse",
+      "Uncle Anse",
+      "William"
     ],
     "familyName": "Hatfield",
     "wikipedia": "https://en.wikipedia.org/wiki/Devil_Anse_Hatfield",
@@ -29,5 +31,15 @@
     ],
     "yearBorn": 1839,
     "yearDied": 1921
+  },
+  {
+    "fullName": "The Hatfields",
+    "givenNames": [],
+    "familyName": "Hatfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hatfield%E2%80%93McCoy_feud",
+    "occupation": "Family involved in a historic feud",
+    "achievements": [
+      "Famously engaged in a violent feud with the McCoy family in the late 19th century, inspiring books, movies and songs."
+    ]
   }
 ]

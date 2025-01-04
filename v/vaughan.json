@@ -29,5 +29,22 @@
       "Leader of the British Antarctic Survey's Ice Sheet Science Group",
       "Expertise in the dynamics and history of ice sheets"
     ]
+  },
+  {
+    "fullName": "Stevie Vaughan",
+    "givenNames": [
+      "Stephen",
+      "Ray"
+    ],
+    "familyName": "Vaughan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan",
+    "occupation": "Guitarist, singer-songwriter",
+    "achievements": [
+      "Considered one of the greatest blues guitarists of all time",
+      "Won six Grammy Awards",
+      "Inducted into the Rock and Roll Hall of Fame in 2015"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 1990
   }
 ]

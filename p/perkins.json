@@ -17,7 +17,8 @@
     "fullName": "Charles Perkins",
     "givenNames": [
       "Charles",
-      "Nelson"
+      "Nelson",
+      "Charlie"
     ],
     "familyName": "Perkins",
     "wikipedia": "https://en.wikipedia.org/wiki/Charles_Perkins_(Aboriginal_activist)",
@@ -28,5 +29,19 @@
     ],
     "yearBorn": 1936,
     "yearDied": 2000
+  },
+  {
+    "fullName": "John Perkins",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Perkins_(author)",
+    "occupation": "Author, economist",
+    "achievements": [
+      "Authored the bestselling book 'Confessions of an Economic Hit Man'",
+      "Critic of global economic inequality and US foreign policy"
+    ],
+    "yearBorn": 1946
   }
 ]

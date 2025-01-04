@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1891,
     "yearDied": 1962
+  },
+  {
+    "fullName": "Mary Lamb",
+    "givenNames": [
+      "Mary",
+      "Anne"
+    ],
+    "familyName": "Lamb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Lamb",
+    "occupation": "Writer",
+    "achievements": [
+      "Collaborated with her brother Charles on the influential collection 'Tales from Shakespeare'",
+      "Contributed to the Romantic literary movement"
+    ],
+    "yearBorn": 1764,
+    "yearDied": 1847
   }
 ]

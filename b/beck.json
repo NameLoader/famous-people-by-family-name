@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1944,
     "yearDied": 2023
+  },
+  {
+    "fullName": "Ian Beck",
+    "givenNames": [
+      "Ian",
+      "Archibald"
+    ],
+    "familyName": "Beck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Beck",
+    "occupation": "Illustrator, author",
+    "achievements": [
+      "Known for his whimsical and detailed illustrations.",
+      "Published over 200 books for children.",
+      "Won numerous awards, including the Kate Greenaway Medal."
+    ],
+    "yearBorn": 1948
   }
 ]

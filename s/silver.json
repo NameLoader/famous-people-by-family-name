@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "John Silver",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Silver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long_John_Silver",
+    "occupation": "Fictional Pirate",
+    "achievements": [
+      "Famous fictional character created by Robert Louis Stevenson in the novel Treasure Island.",
+      "Known for his peg leg, parrot, and treasure map."
+    ]
+  }
+]

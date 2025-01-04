@@ -25,5 +25,20 @@
       "Republican presidential candidate (2000)"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Gary Gilmore",
+    "givenNames": [
+      "Gary",
+      "Mark"
+    ],
+    "familyName": "Gilmore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Gilmore",
+    "occupation": "Convicted murderer",
+    "achievements": [
+      "First person executed by firing squad in the United States since 1963"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1977
   }
 ]

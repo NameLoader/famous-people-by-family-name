@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Matheson",
+    "givenNames": [
+      "Richard",
+      "Burton"
+    ],
+    "familyName": "Matheson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Matheson",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote influential science fiction and horror novels such as 'I Am Legend' and 'The Shrinking Man'."
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2013
+  }
+]

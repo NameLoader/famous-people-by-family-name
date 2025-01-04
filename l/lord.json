@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Peter Lord",
+    "givenNames": [
+      "Peter",
+      "Duncan",
+      "Fraser"
+    ],
+    "familyName": "Lord",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Lord",
+    "occupation": "Animator, Film Director",
+    "achievements": [
+      "Co-founder of Aardman Animations",
+      "Directed Wallace & Gromit films"
+    ],
+    "yearBorn": 1947
+  }
+]

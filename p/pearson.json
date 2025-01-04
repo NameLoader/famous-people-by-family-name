@@ -14,5 +14,22 @@
     ],
     "yearBorn": 1857,
     "yearDied": 1936
+  },
+  {
+    "fullName": "Drew Pearson",
+    "givenNames": [
+      "Drew",
+      "Andrew",
+      "Russell"
+    ],
+    "familyName": "Pearson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Drew_Pearson_(journalist)",
+    "occupation": "Journalist and columnist",
+    "achievements": [
+      "Known for his syndicated column 'Washington Merry-Go-Round'",
+      "Won the Pulitzer Prize for Public Service in 1948"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1969
   }
 ]

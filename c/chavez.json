@@ -15,22 +15,5 @@
     ],
     "yearBorn": 1927,
     "yearDied": 1993
-  },
-  {
-    "fullName": "Hugo Chavez",
-    "givenNames": [
-      "Hugo",
-      "Rafael"
-    ],
-    "familyName": "Chavez",
-    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez",
-    "occupation": "Politician",
-    "achievements": [
-      "President of Venezuela from 1999 to 2013",
-      "Implemented socialist policies and nationalized industries",
-      "Controversial figure with both supporters and detractors"
-    ],
-    "yearBorn": 1954,
-    "yearDied": 2013
   }
 ]

@@ -31,5 +31,20 @@
     ],
     "yearBorn": 1935,
     "yearDied": 2009
+  },
+  {
+    "fullName": "Brian Kemp",
+    "givenNames": [
+      "Brian",
+      "Porter"
+    ],
+    "familyName": "Kemp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Kemp",
+    "occupation": "Politician",
+    "achievements": [
+      "Current governor of Georgia",
+      "Former Secretary of State of Georgia"
+    ],
+    "yearBorn": 1963
   }
 ]

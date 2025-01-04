@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Richard Smalley",
+    "givenNames": [
+      "Richard",
+      "Errett"
+    ],
+    "familyName": "Smalley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Smalley",
+    "occupation": "Chemist and Nobel laureate",
+    "achievements": [
+      "Won the 1996 Nobel Prize in Chemistry for the discovery of fullerenes",
+      "Professor at Rice University"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2005
+  }
+]

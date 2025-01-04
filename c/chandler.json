@@ -1,16 +1,18 @@
 [
   {
-    "fullName": "Richard Chandler",
+    "fullName": "Ray Chandler",
     "givenNames": [
-      "Richard",
-      "Fred"
+      "Raymond",
+      "Thornton"
     ],
     "familyName": "Chandler",
-    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Chandler_(businessman)",
-    "occupation": "Businessman, Investor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Chandler",
+    "occupation": "Writer",
     "achievements": [
-      "Co-founder of the investment firm Legato Merger Partners",
-      "Known for his investments in emerging markets"
-    ]
+      "Considered one of the most important American crime novelists.",
+      "Known for his hard-boiled detective fiction and creation of Philip Marlowe."
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1959
   }
 ]

@@ -18,21 +18,6 @@
     "yearDied": 1941
   },
   {
-    "fullName": "Brenda Joyce",
-    "givenNames": [
-      "Brenda"
-    ],
-    "familyName": "Joyce",
-    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Joyce_(actress)",
-    "occupation": "Actress",
-    "achievements": [
-      "Starred in numerous films during the Golden Age of Hollywood",
-      "Known for roles in Westerns and adventure serials"
-    ],
-    "yearBorn": 1914,
-    "yearDied": 2009
-  },
-  {
     "fullName": "William Joyce",
     "givenNames": [
       "William"
@@ -46,5 +31,19 @@
     ],
     "yearBorn": 1906,
     "yearDied": 1946
+  },
+  {
+    "fullName": "Brenda Joyce",
+    "givenNames": [
+      "Brenda"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Joyce_(actress)",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in classic films like 'The Invisible Man Returns' and 'Tarzan Finds a Son'."
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2009
   }
 ]

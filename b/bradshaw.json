@@ -29,5 +29,20 @@
       "Known for his work on shame and vulnerability"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "George Bradshaw",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Bradshaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Bradshaw",
+    "occupation": "Publisher, railway timetable creator",
+    "achievements": [
+      "Founded Bradshaw's Guide, a pioneering railway timetable and travel guide.",
+      "Revolutionized railway travel information accessibility."
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1854
   }
 ]

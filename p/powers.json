@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Richard Powers",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Powers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Powers",
+    "occupation": "Novelist",
+    "achievements": [
+      "Pulitzer Prize for Fiction (2019)",
+      "National Book Award (1986)",
+      "Known for novels exploring the intersection of science, technology, and human experience"
+    ],
+    "yearBorn": 1957
+  }
+]

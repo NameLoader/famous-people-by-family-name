@@ -29,5 +29,18 @@
     ],
     "yearBorn": 1918,
     "yearDied": 1984
+  },
+  {
+    "fullName": "Lynch Mob",
+    "givenNames": [
+      "Mob"
+    ],
+    "familyName": "Lynch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynch_Mob_(band)",
+    "occupation": "Heavy metal band",
+    "achievements": [
+      "Fronted by former Dokken guitarist George Lynch",
+      "Known for their melodic hard rock and virtuosic guitar playing"
+    ]
   }
 ]

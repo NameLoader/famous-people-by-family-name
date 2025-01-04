@@ -43,5 +43,20 @@
     ],
     "yearBorn": 1854,
     "yearDied": 1931
+  },
+  {
+    "fullName": "Alan Parsons",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Parsons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Parsons",
+    "occupation": "Musician, Producer",
+    "achievements": [
+      "Known for his innovative and progressive rock music.",
+      "Produced albums for artists like Pink Floyd and The Hollies.",
+      "Released successful solo albums under the name Alan Parsons Project."
+    ],
+    "yearBorn": 1948
   }
 ]

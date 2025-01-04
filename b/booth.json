@@ -45,5 +45,20 @@
       "Known for his eccentric personality and innovative approach to bookselling"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "Charles Booth",
+    "givenNames": [
+      "Charles",
+      "James"
+    ],
+    "familyName": "Booth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Booth_(social_reformer)",
+    "occupation": "Social Reformer, Philanthropist",
+    "achievements": [
+      "Surveyed London poverty in the late 19th century"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1916
   }
 ]

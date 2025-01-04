@@ -15,5 +15,22 @@
     ],
     "yearBorn": 1930,
     "yearDied": 2021
+  },
+  {
+    "fullName": "William Greaves",
+    "givenNames": [
+      "William",
+      "Garfield"
+    ],
+    "familyName": "Greaves",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Greaves",
+    "occupation": "Filmmaker, Journalist, Actor",
+    "achievements": [
+      "Pioneer in Black independent filmmaking",
+      "Created documentaries and feature films exploring social issues",
+      "Nominated for an Academy Award for Best Documentary Short Subject"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2014
   }
 ]

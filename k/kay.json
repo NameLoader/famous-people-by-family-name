@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alan Kay",
+    "givenNames": [
+      "Alan",
+      "Curtis"
+    ],
+    "familyName": "Kay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Kay",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Pioneering work in object-oriented programming and graphical user interfaces.",
+      "Known for his contributions to the development of personal computers."
+    ],
+    "yearBorn": 1940
+  }
+]

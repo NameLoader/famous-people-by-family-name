@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1540,
     "yearDied": 1596
+  },
+  {
+    "fullName": "Edwin Drake",
+    "givenNames": [
+      "Edwin",
+      "Laurentine"
+    ],
+    "familyName": "Drake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Drake",
+    "occupation": "Oil Driller",
+    "achievements": [
+      "Drilled the first successful oil well in the United States (1859)",
+      "Contributed to the development of the modern petroleum industry"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1880
   }
 ]

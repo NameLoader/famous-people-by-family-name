@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jim Mooney",
+    "givenNames": [
+      "James",
+      "Noel"
+    ],
+    "familyName": "Mooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Mooney",
+    "occupation": "Comic book artist",
+    "achievements": [
+      "Worked for major publishers like DC and Marvel; co-created characters like the Black Canary"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2008
+  }
+]

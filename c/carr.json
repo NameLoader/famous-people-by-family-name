@@ -13,5 +13,35 @@
       "Three-time Pro Bowl selection"
     ],
     "yearBorn": 1991
+  },
+  {
+    "fullName": "John Carr",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Carr",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Carr_(architect)",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed notable buildings in England and Ireland",
+      "Known for his Palladian style"
+    ],
+    "yearBorn": 1748,
+    "yearDied": 1807
+  },
+  {
+    "fullName": "David Carr",
+    "givenNames": [
+      "David",
+      "Duke"
+    ],
+    "familyName": "Carr",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Carr_(American_football)",
+    "occupation": "American football quarterback",
+    "achievements": [
+      "First overall pick in the 2002 NFL Draft",
+      "Played for the Houston Texans and other teams"
+    ],
+    "yearBorn": 1978
   }
 ]

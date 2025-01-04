@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "William Paterson",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Paterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Paterson_(judge)",
+    "occupation": "Politician, Founding Father of the United States",
+    "achievements": [
+      "Signer of the US Constitution",
+      "Governor of New Jersey"
+    ],
+    "yearBorn": 1755,
+    "yearDied": 1806
+  },
+  {
+    "fullName": "Katherine Paterson",
+    "givenNames": [
+      "Katherine",
+      "Womeldorf"
+    ],
+    "familyName": "Paterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Paterson",
+    "occupation": "Author",
+    "achievements": [
+      "Two-time Newbery Medal winner for 'Bridge to Terabithia' and 'Jacob Have I Loved'",
+      "National Book Award"
+    ],
+    "yearBorn": 1932
+  }
+]

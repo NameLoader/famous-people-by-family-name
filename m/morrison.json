@@ -34,5 +34,21 @@
     ],
     "yearBorn": 1943,
     "yearDied": 1971
+  },
+  {
+    "fullName": "Van Morrison",
+    "givenNames": [
+      "George",
+      "Ivan",
+      "Van"
+    ],
+    "familyName": "Morrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Van_Morrison",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Highly influential figure in rock, blues, and jazz music",
+      "Known for his distinctive vocals and introspective lyrics"
+    ],
+    "yearBorn": 1945
   }
 ]

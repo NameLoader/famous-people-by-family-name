@@ -27,7 +27,7 @@
       "Published numerous collections of poetry",
       "Won the T. S. Eliot Prize in 1985 for his collection 'The Householder'"
     ],
-    "yearBorn": 1919,
+    "yearBorn": 1913,
     "yearDied": 1991
   },
   {
@@ -44,5 +44,20 @@
       "Professor of Clinical Epidemiology and Public Health Medicine at the University of Southampton",
       "Known for his work on social inequalities in health"
     ]
+  },
+  {
+    "fullName": "Sir Ernest Barker",
+    "givenNames": [
+      "Ernest"
+    ],
+    "familyName": "Barker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Barker",
+    "occupation": "Political philosopher and academic",
+    "achievements": [
+      "Professor of Political Science at the University of Cambridge",
+      "Known for his works on political theory, constitutionalism, and democracy"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1960
   }
 ]

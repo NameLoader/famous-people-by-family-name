@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1880,
     "yearDied": 1968
+  },
+  {
+    "fullName": "William Keller",
+    "givenNames": [
+      "Bill",
+      "William"
+    ],
+    "familyName": "Keller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Keller",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Former Executive Editor of The New York Times",
+      "Author of several books including 'The Reason Why'"
+    ],
+    "yearBorn": 1949
   }
 ]

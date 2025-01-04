@@ -59,5 +59,21 @@
     ],
     "yearBorn": 1878,
     "yearDied": 1958
+  },
+  {
+    "fullName": "Thomas Watson Jr.",
+    "givenNames": [
+      "Thomas",
+      "John"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Watson_Jr.",
+    "occupation": "Business executive",
+    "achievements": [
+      "Chairman and CEO of IBM (1960-1971)",
+      "Key figure in the development and marketing of the IBM System/360"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1993
   }
 ]

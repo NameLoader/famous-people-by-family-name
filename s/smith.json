@@ -75,5 +75,21 @@
     ],
     "yearBorn": 1805,
     "yearDied": 1844
+  },
+  {
+    "fullName": "Jada Pinkett Smith",
+    "givenNames": [
+      "Jada",
+      "Koren",
+      "Pinkett"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jada_Pinkett_Smith",
+    "occupation": "Actress, Singer-songwriter, Talk show host",
+    "achievements": [
+      "MTV Movie Award for Best Kiss",
+      "Successful music career with the band Wicked Wisdom"
+    ],
+    "yearBorn": 1971
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charles Bridgeman",
+    "givenNames": [
+      "Charles"
+    ],
+    "familyName": "Bridgeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Bridgeman",
+    "occupation": "Landscape architect",
+    "achievements": [
+      "Created designs for gardens and parks across England",
+      "Influenced the development of landscape gardening"
+    ],
+    "yearBorn": 1690,
+    "yearDied": 1738
+  }
+]

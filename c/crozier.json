@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Sir Francis Crozier",
+    "givenNames": [
+      "Francis",
+      "Rawdon",
+      "Moira"
+    ],
+    "familyName": "Crozier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Crozier",
+    "occupation": "Royal Navy officer, explorer",
+    "achievements": [
+      "Led the HMS Terror in the Franklin expedition to find the Northwest Passage",
+      "Experienced Arctic navigator and explorer"
+    ],
+    "yearBorn": 1786,
+    "yearDied": 1848
+  }
+]

@@ -27,5 +27,37 @@
       "Nineteen number-one singles on Billboard Hot 100 chart"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Fred Perry",
+    "givenNames": [
+      "Frederick",
+      "John"
+    ],
+    "familyName": "Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Perry",
+    "occupation": "Tennis Player, Fashion Designer",
+    "achievements": [
+      "Won Wimbledon three times (1934-1936)",
+      "Founded the Fred Perry clothing brand"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Rick Perry",
+    "givenNames": [
+      "Rick",
+      "James",
+      "Richard"
+    ],
+    "familyName": "Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rick_Perry",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 47th Governor of Texas (2000-2015)",
+      "United States Secretary of Energy (2017-2019)"
+    ],
+    "yearBorn": 1950
   }
 ]

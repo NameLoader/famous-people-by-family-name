@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Robert Chambers",
-    "givenNames": [
-      "Robert"
-    ],
-    "familyName": "Chambers",
-    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)",
-    "occupation": "Writer, Editor",
-    "achievements": [
-      "Authored the influential and controversial Victorian-era novel 'The Book of Days'",
-      "Contributed significantly to the development of encyclopedias and dictionaries in the 19th century"
-    ],
-    "yearBorn": 1802,
-    "yearDied": 1871
-  },
-  {
     "fullName": "Emma Chambers",
     "givenNames": [
       "Emma",
@@ -30,5 +15,21 @@
     ],
     "yearBorn": 1964,
     "yearDied": 2018
+  },
+  {
+    "fullName": "Robert Chambers",
+    "givenNames": [
+      "Robert",
+      "William"
+    ],
+    "familyName": "Chambers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_W._Chambers",
+    "occupation": "Writer",
+    "achievements": [
+      "Author of the short story collection 'The King in Yellow'",
+      "Known for his contributions to weird fiction and cosmic horror"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1933
   }
 ]

@@ -40,5 +40,18 @@
     ],
     "yearBorn": 1827,
     "yearDied": 1861
+  },
+  {
+    "fullName": "John Gray",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Gray_(American_author)",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of Men Are from Mars, Women Are from Venus"
+    ],
+    "yearBorn": 1951
   }
 ]

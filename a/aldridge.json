@@ -29,5 +29,16 @@
       "NBA Rookie of the Year Award (2007)"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "David Aldridge",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Aldridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Aldridge",
+    "occupation": "Sportswriter, television commentator",
+    "achievements": [],
+    "yearBorn": 1965
   }
 ]

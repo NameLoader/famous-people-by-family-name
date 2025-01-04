@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "David Cross",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Cross",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Cross",
+    "occupation": "Comedian, Actor, Writer",
+    "achievements": [
+      "Starred in the cult comedy series 'Mr. Show'",
+      "Featured in films such as 'Eternal Sunshine of the Spotless Mind' and 'Kung Fu Panda'"
+    ],
+    "yearBorn": 1964
+  }
+]

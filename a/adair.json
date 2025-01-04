@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John Adair",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Adair",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Adair",
+    "occupation": "Politician, Military Officer",
+    "achievements": [
+      "Served as Governor of Kentucky.",
+      "Fought in the War of 1812."
+    ],
+    "yearBorn": 1757,
+    "yearDied": 1840
+  }
+]

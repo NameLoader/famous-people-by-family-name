@@ -41,5 +41,22 @@
     ],
     "yearBorn": 1860,
     "yearDied": 1937
+  },
+  {
+    "fullName": "Christopher Morley",
+    "givenNames": [
+      "Christopher",
+      "Darlington"
+    ],
+    "familyName": "Morley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Morley",
+    "occupation": "Author, essayist, literary critic",
+    "achievements": [
+      "Wrote numerous novels and short stories.",
+      "Known for his essays on literature and culture.",
+      "Founded the Christopher Morley Literary Society."
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1957
   }
 ]

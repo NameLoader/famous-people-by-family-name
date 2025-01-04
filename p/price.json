@@ -43,5 +43,20 @@
       "Known for his exceptional shooting skills and ball handling"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Richard Price",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Price",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Price",
+    "occupation": "Minister and political writer",
+    "achievements": [
+      "Advocate for religious tolerance and social reform",
+      "Influential figure in the development of Unitarianism"
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1791
   }
 ]

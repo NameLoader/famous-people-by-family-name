@@ -29,5 +29,22 @@
     ],
     "yearBorn": 1891,
     "yearDied": 1974
+  },
+  {
+    "fullName": "Robert Penn Warren",
+    "givenNames": [
+      "Robert",
+      "Penn"
+    ],
+    "familyName": "Warren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Penn_Warren",
+    "occupation": "Poet, Novelist, Literary Critic",
+    "achievements": [
+      "Pulitzer Prize winner for his novel 'All the King's Men'",
+      "Two-time National Book Award winner",
+      "United States Poet Laureate (1986-1987)"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1989
   }
 ]

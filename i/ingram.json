@@ -12,5 +12,21 @@
       "Became infamous for his involvement in the 'Coughing Major' scandal on the British game show Who Wants to Be a Millionaire?"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "James Ingram",
+    "givenNames": [
+      "James",
+      "Edward"
+    ],
+    "familyName": "Ingram",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Ingram",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award winner for Best Male R&B Vocal Performance",
+      "Known for hits like \"Just the Two of Us\" and \"I Don't Have the Heart\""
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2019
   }
 ]

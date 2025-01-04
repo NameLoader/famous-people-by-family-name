@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "William Edward Parry",
+    "givenNames": [
+      "William",
+      "Edward"
+    ],
+    "familyName": "Parry",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Edward_Parry",
+    "occupation": "Naval officer, Arctic explorer",
+    "achievements": [
+      "Led several expeditions to the Arctic in search of the Northwest Passage",
+      "Reached the highest latitude ever attained at the time (82°45' N)"
+    ],
+    "yearBorn": 1790,
+    "yearDied": 1855
+  }
+]

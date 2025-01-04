@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "David Orr",
+    "givenNames": [
+      "David",
+      "W."
+    ],
+    "familyName": "Orr",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_W._Orr",
+    "occupation": "Professor and Environmentalist",
+    "achievements": [
+      "Professor Emeritus at Oberlin College",
+      "Leading voice on ecological design, sustainability, and the role of higher education in addressing environmental challenges",
+      "Author of influential books like 'Earth in Mind' and 'Down to the Earth'"
+    ]
+  },
+  {
+    "fullName": "Bobby Orr",
+    "givenNames": [
+      "Robert",
+      "Gordon"
+    ],
+    "familyName": "Orr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Orr",
+    "occupation": "Ice Hockey Player",
+    "achievements": [
+      "Considered one of the greatest hockey players of all time",
+      "Won eight Norris Trophies as the NHL's best defenseman",
+      "Led the Boston Bruins to two Stanley Cup championships"
+    ],
+    "yearBorn": 1948
+  }
+]

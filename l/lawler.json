@@ -14,5 +14,21 @@
       "Known for his entertaining commentary and rivalry with Andy Kaufman"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Brian Lawler",
+    "givenNames": [
+      "Brian",
+      "Christopher"
+    ],
+    "familyName": "Lawler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Christopher",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Wrestled in WWE under the name Grand Master Sexay",
+      "Part of the tag team Too Cool"
+    ],
+    "yearBorn": 1970,
+    "yearDied": 2018
   }
 ]

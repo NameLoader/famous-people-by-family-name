@@ -30,5 +30,22 @@
       "Frequent contributor to radio and television programs, popularizing classical studies for a wider audience."
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Daniel Beard",
+    "givenNames": [
+      "Daniel",
+      "Carter"
+    ],
+    "familyName": "Beard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Carter_Beard",
+    "occupation": "Inventor, author, illustrator",
+    "achievements": [
+      "Pioneer in the Boy Scout movement",
+      "Developed early prototypes for helicopters and airplanes",
+      "Authored numerous books on mechanics, inventions, and outdoor activities"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1941
   }
 ]

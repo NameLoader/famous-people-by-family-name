@@ -75,5 +75,20 @@
     ],
     "yearBorn": 1945,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Luke Wilson",
+    "givenNames": [
+      "Luke",
+      "Cunningham"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Wilson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Legally Blonde' and 'Old School'",
+      "Brother of Owen Wilson"
+    ],
+    "yearBorn": 1971
   }
 ]

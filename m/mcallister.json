@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "David McAllister",
+    "givenNames": [
+      "David",
+      "James"
+    ],
+    "familyName": "McAllister",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_McAllister",
+    "occupation": "Politician",
+    "achievements": [
+      "Member of the European Parliament for Germany since 2009",
+      "Served as the Chairman of the Committee on Foreign Affairs from 2017 to 2019"
+    ]
+  },
+  {
+    "fullName": "Gary McAllister",
+    "givenNames": [
+      "Gary"
+    ],
+    "familyName": "McAllister",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_McAllister",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for clubs such as Leicester City, Coventry City and Liverpool FC.",
+      "Won the Scottish Cup with Dundee United in 1994."
+    ],
+    "yearBorn": 1964
+  }
+]

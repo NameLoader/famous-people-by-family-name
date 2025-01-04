@@ -14,5 +14,22 @@
       "Currently the Minister for Climate Change and Energy in Australia"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Elizabeth Bowen",
+    "givenNames": [
+      "Elizabeth",
+      "Dorothea",
+      "Cole"
+    ],
+    "familyName": "Bowen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Bowen",
+    "occupation": "Novelist and short story writer",
+    "achievements": [
+      "Known for novels like 'The Death of the Heart' and 'The Last September'",
+      "Acclaimed for her atmospheric prose and exploration of psychological themes"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1973
   }
 ]

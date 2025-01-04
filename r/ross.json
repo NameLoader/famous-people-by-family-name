@@ -58,5 +58,36 @@
     ],
     "yearBorn": 1800,
     "yearDied": 1862
+  },
+  {
+    "fullName": "Bob Ross",
+    "givenNames": [
+      "Robert",
+      "Norman"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Ross",
+    "occupation": "Painter, television host",
+    "achievements": [
+      "Created and hosted the popular television series \"The Joy of Painting\"",
+      "Became a cultural icon for his gentle demeanor and calming painting style"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Jerry Ross",
+    "givenNames": [
+      "Jerry",
+      "Lynn"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_L._Ross",
+    "occupation": "Astronaut, engineer",
+    "achievements": [
+      "Seven spaceflights as a NASA astronaut",
+      "Holds the record for most spacewalks by an American astronaut"
+    ],
+    "yearBorn": 1948
   }
 ]

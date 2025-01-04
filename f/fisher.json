@@ -46,5 +46,20 @@
     ],
     "yearBorn": 1922,
     "yearDied": 2012
+  },
+  {
+    "fullName": "Derek Fisher",
+    "givenNames": [
+      "Derek",
+      "Lamar"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Fisher",
+    "occupation": "Basketball player, Coach",
+    "achievements": [
+      "Won five NBA championships with the Los Angeles Lakers and one with the Dallas Mavericks",
+      "Coached the Los Angeles Sparks (WNBA) and the New York Knicks (NBA)"
+    ],
+    "yearBorn": 1974
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "George Gee",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Gee",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Gee_(bandleader)",
+    "occupation": "Jazz Musician, Bandleader",
+    "achievements": [
+      "Led the George Gee Swing Orchestra for over four decades.",
+      "Preserved and popularized swing music."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2007
+  }
+]

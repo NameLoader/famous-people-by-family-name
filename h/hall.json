@@ -3,7 +3,8 @@
     "fullName": "Gary Hall Jr.",
     "givenNames": [
       "Gary",
-      "Wayne"
+      "Wayne",
+      "Jr."
     ],
     "familyName": "Hall",
     "wikipedia": "https://en.wikipedia.org/wiki/Gary_Hall_Jr.",
@@ -27,5 +28,20 @@
       "Known for his contributions to econometrics and macroeconomics.",
       "Recipient of the 2011 Nobel Memorial Prize in Economic Sciences."
     ]
+  },
+  {
+    "fullName": "Jon Hall",
+    "givenNames": [
+      "Jon"
+    ],
+    "familyName": "Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Hall_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous films and television shows.",
+      "Known for his roles in Westerns and adventure movies."
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1979
   }
 ]

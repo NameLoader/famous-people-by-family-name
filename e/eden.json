@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1977
+  },
+  {
+    "fullName": "Mark Eden",
+    "givenNames": [
+      "Mark"
+    ],
+    "familyName": "Eden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Eden",
+    "occupation": "Actor",
+    "achievements": [
+      "Best known for his role as Alan Bradley in the British soap opera 'Coronation Street'",
+      "Appeared in numerous other television shows and films"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2023
   }
 ]

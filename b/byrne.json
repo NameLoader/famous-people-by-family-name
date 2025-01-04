@@ -58,5 +58,19 @@
     ],
     "yearBorn": 1924,
     "yearDied": 2018
+  },
+  {
+    "fullName": "Paula Byrne",
+    "givenNames": [
+      "Paula",
+      "Jayne"
+    ],
+    "familyName": "Byrne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paula_Byrne",
+    "occupation": "Writer, academic",
+    "achievements": [
+      "Author of biographies on figures such as Jane Austen and Evelyn Waugh.",
+      "Lecturer in English literature at the University of Oxford."
+    ]
   }
 ]

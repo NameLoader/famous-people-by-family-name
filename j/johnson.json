@@ -75,5 +75,21 @@
       "Successful businessman and philanthropist"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Robert Wood Johnson II",
+    "givenNames": [
+      "Robert",
+      "Wood"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Wood_Johnson_II",
+    "occupation": "Businessman, Philanthropist",
+    "achievements": [
+      "Co-founder of Johnson & Johnson",
+      "Known for his philanthropy and contributions to healthcare"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1968
   }
 ]

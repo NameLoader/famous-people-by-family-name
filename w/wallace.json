@@ -33,7 +33,6 @@
   {
     "fullName": "Lew Wallace",
     "givenNames": [
-      "Lew",
       "Lewis"
     ],
     "familyName": "Wallace",
@@ -62,5 +61,21 @@
     ],
     "yearBorn": 1919,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Mike Wallace",
+    "givenNames": [
+      "Myron",
+      "Leon"
+    ],
+    "familyName": "Wallace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Wallace",
+    "occupation": "Journalist, Broadcaster",
+    "achievements": [
+      "Longtime correspondent for CBS News' '60 Minutes'",
+      "Known for his aggressive interviewing style"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2012
   }
 ]

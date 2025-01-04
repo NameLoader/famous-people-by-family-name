@@ -44,5 +44,36 @@
     ],
     "yearBorn": 1911,
     "yearDied": 1989
+  },
+  {
+    "fullName": "Alan Ball",
+    "givenNames": [
+      "Alan",
+      "Erwin"
+    ],
+    "familyName": "Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Ball_(screenwriter)",
+    "occupation": "Screenwriter, director, producer",
+    "achievements": [
+      "Won Academy Award for Best Original Screenplay for American Beauty (2000)",
+      "Created the HBO series Six Feet Under and True Blood"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "George Ball",
+    "givenNames": [
+      "George",
+      "Wildman"
+    ],
+    "familyName": "Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Ball_(diplomat)",
+    "occupation": "Diplomat, Politician",
+    "achievements": [
+      "Served as United States Under Secretary of State from 1961 to 1966",
+      "Key advisor to President John F. Kennedy and Lyndon B. Johnson during the Cuban Missile Crisis"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1994
   }
 ]

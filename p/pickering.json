@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Edward Pickering",
+    "givenNames": [
+      "Edward",
+      "Charles"
+    ],
+    "familyName": "Pickering",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Charles_Pickering",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Director of the Harvard College Observatory",
+      "Pioneer in the field of stellar spectroscopy",
+      "Discovery of numerous variable stars and spectroscopic binaries"
+    ],
+    "yearBorn": 1846,
+    "yearDied": 1919
+  }
+]

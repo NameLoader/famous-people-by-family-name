@@ -62,5 +62,20 @@
     ],
     "yearBorn": 1913,
     "yearDied": 2006
+  },
+  {
+    "fullName": "Debbie Ford",
+    "givenNames": [
+      "Debbie"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debbie_Ford",
+    "occupation": "Author, self-help guru",
+    "achievements": [
+      "Founded the Ford Institute for Transformational Training",
+      "Wrote best-selling books on self-love and personal growth"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2013
   }
 ]

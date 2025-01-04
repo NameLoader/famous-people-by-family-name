@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Mullins",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Mullins",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Mullins_(Mayflower_passenger)",
+    "occupation": "Early settler of Plymouth Colony",
+    "achievements": [
+      "One of the original passengers on the Mayflower ship",
+      "Signed the Mayflower Compact"
+    ],
+    "yearBorn": 1580,
+    "yearDied": 1621
+  }
+]

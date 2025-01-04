@@ -25,5 +25,19 @@
     "achievements": [
       "Creator of the comic strip 'Mutts'"
     ]
+  },
+  {
+    "fullName": "Bob McDonnell",
+    "givenNames": [
+      "Robert",
+      "Francis"
+    ],
+    "familyName": "McDonnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_McDonnell",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 71st Governor of Virginia (2010-2014)"
+    ],
+    "yearBorn": 1953
   }
 ]

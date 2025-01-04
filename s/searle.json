@@ -13,5 +13,22 @@
       "Developed the 'Chinese Room' thought experiment."
     ],
     "yearBorn": 1932
+  },
+  {
+    "fullName": "Ronald Searle",
+    "givenNames": [
+      "Ronald",
+      "William",
+      "Fordham"
+    ],
+    "familyName": "Searle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Searle",
+    "occupation": "Cartoonist, Illustrator",
+    "achievements": [
+      "Famous for his satirical cartoons, especially those depicting life in British boarding schools.",
+      "Created the characters St. Trinian's Girls School."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2011
   }
 ]

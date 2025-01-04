@@ -12,5 +12,21 @@
       "Known for his ballets inspired by classical music"
     ],
     "yearBorn": 1948
+  },
+  {
+    "fullName": "William Alston",
+    "givenNames": [
+      "William",
+      "Payne"
+    ],
+    "familyName": "Alston",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Alston",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Known for his work in epistemology and the philosophy of religion.",
+      "Author of influential books such as 'Perceiving God: The Epistemological Problem of Religious Knowledge'."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2001
   }
 ]

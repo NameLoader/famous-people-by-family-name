@@ -32,5 +32,21 @@
       "Known for roles in films such as 'MASH', 'The Dirty Dozen', and 'The Hunger Games' series"
     ],
     "yearBorn": 1935
+  },
+  {
+    "fullName": "Graham Sutherland",
+    "givenNames": [
+      "Graham",
+      "Vivian"
+    ],
+    "familyName": "Sutherland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Sutherland",
+    "occupation": "Painter, printmaker",
+    "achievements": [
+      "Known for his powerful figurative and landscape paintings",
+      "Painted a controversial portrait of Winston Churchill"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1980
   }
 ]

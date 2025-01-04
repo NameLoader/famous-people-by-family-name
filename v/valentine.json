@@ -13,5 +13,18 @@
       "Grammy Award winner"
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Saint Valentine",
+    "givenNames": [
+      "Saint"
+    ],
+    "familyName": "Valentine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Valentine",
+    "occupation": "Early Christian saint",
+    "achievements": [
+      "Patron saint of love, couples, and marriage"
+    ],
+    "yearDied": 269
   }
 ]

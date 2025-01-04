@@ -30,5 +30,20 @@
       "Known for his imaginative storytelling and dungeon mastering skills"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Justin McElroy",
+    "givenNames": [
+      "Justin",
+      "Tyler"
+    ],
+    "familyName": "McElroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_McElroy",
+    "occupation": "Podcaster, comedian, writer",
+    "achievements": [
+      "Co-host of popular podcasts such as My Brother, My Brother and Me, The Adventure Zone, and Sawbones",
+      "Author of several books, including 'The McElroys: A Novel'",
+      "Known for his comedic timing and improvisational skills"
+    ]
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "John Rae",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Rae",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Rae_(explorer)",
+    "occupation": "Explorer, Surgeon",
+    "achievements": [
+      "Discovery of the Northwest Passage through North America's Arctic Archipelago"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1893
+  }
+]

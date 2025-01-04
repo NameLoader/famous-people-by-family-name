@@ -28,5 +28,20 @@
       "Won four Golden Globe Awards and three Emmy Awards."
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Sir Geoffrey Parker",
+    "givenNames": [
+      "Noel",
+      "Geoffrey"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Parker_(historian)",
+    "occupation": "Historian",
+    "achievements": [
+      "Distinguished Professor Emeritus at Yale University",
+      "Author of numerous influential works on military history and the early modern period"
+    ],
+    "yearBorn": 1943
   }
 ]

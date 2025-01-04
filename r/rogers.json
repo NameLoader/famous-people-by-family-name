@@ -67,5 +67,21 @@
     ],
     "yearBorn": 1911,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Roy Rogers",
+    "givenNames": [
+      "Roy"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Rogers",
+    "occupation": "Singer, actor, cowboy",
+    "achievements": [
+      "Became a beloved icon of the Western genre.",
+      "Known for his singing voice and charismatic personality.",
+      "Starred in numerous films and television shows."
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1998
   }
 ]

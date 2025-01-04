@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Jamie Dixon",
+    "givenNames": [
+      "Jamie",
+      "James",
+      "Patrick"
+    ],
+    "familyName": "Dixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Dixon",
+    "occupation": "Basketball coach",
+    "achievements": [
+      "Head coach of the TCU Horned Frogs men's basketball team",
+      "Previously coached Pittsburgh Panthers to multiple NCAA Tournament appearances"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Michael Dixon",
+    "givenNames": [
+      "Michael",
+      "Andre"
+    ],
+    "familyName": "Dixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Dixon_(basketball)",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Played college basketball at the University of Missouri",
+      "Known for his scoring ability and athleticism"
+    ],
+    "yearBorn": 1990
+  }
+]

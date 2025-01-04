@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "William Orange",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Orange",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_III_of_England",
+    "occupation": "Prince of Orange and King of England, Scotland, and Ireland",
+    "achievements": [
+      "Led the Glorious Revolution, overthrowing James II",
+      "Signed the Bill of Rights, establishing parliamentary supremacy in England"
+    ],
+    "yearBorn": 1650,
+    "yearDied": 1702
+  }
+]

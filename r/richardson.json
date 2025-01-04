@@ -28,5 +28,20 @@
     ],
     "yearBorn": 1934,
     "yearDied": 2007
+  },
+  {
+    "fullName": "John Richardson",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Richardson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Richardson_(naturalist)",
+    "occupation": "Explorer, naturalist",
+    "achievements": [
+      "Led expeditions to explore the Arctic",
+      "Authored books detailing his experiences and observations of arctic wildlife"
+    ],
+    "yearBorn": 1787,
+    "yearDied": 1865
   }
 ]

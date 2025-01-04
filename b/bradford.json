@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1590,
     "yearDied": 1657
+  },
+  {
+    "fullName": "Mel Bradford",
+    "givenNames": [
+      "Melvin",
+      "Eustace"
+    ],
+    "familyName": "Bradford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Bradford",
+    "occupation": "Conservative writer and literary critic",
+    "achievements": [
+      "Author of 'The Spirit of the Republic'",
+      "Advocate for Southern literature"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 1996
   }
 ]

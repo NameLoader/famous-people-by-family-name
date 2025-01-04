@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1865,
     "yearDied": 1946
+  },
+  {
+    "fullName": "Stephen Gardiner",
+    "givenNames": [
+      "Stephen"
+    ],
+    "familyName": "Gardiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Gardiner",
+    "occupation": "Bishop, Theologian",
+    "achievements": [
+      "Bishop of Winchester",
+      "Key advisor to Henry VIII and a leading figure in the English Reformation"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1555
   }
 ]

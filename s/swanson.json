@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Gloria Swanson",
+    "givenNames": [
+      "Gloria",
+      "Josephine",
+      "Mae"
+    ],
+    "familyName": "Swanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Swanson",
+    "occupation": "Actress, Film Producer",
+    "achievements": [
+      "Silent film icon",
+      "Nominated for an Academy Award for Best Actress for her role in Sunset Boulevard"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1983
+  }
+]

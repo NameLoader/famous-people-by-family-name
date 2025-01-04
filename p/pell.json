@@ -13,5 +13,21 @@
       "High-ranking official in the Vatican"
     ],
     "yearBorn": 1941
+  },
+  {
+    "fullName": "John Pell",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Pell",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Pell_(mathematician)",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Contributed to the development of algebra and geometry",
+      "Proposed a method for solving cubic equations",
+      "Correspondence with other prominent mathematicians like Fermat and Descartes"
+    ],
+    "yearBorn": 1611,
+    "yearDied": 1685
   }
 ]

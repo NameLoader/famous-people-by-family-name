@@ -35,7 +35,8 @@
     "fullName": "Spike Lee",
     "givenNames": [
       "Shelton",
-      "Jackson"
+      "Jackson",
+      "Spike"
     ],
     "familyName": "Lee",
     "wikipedia": "https://en.wikipedia.org/wiki/Spike_Lee",
@@ -46,5 +47,19 @@
       "Notable works include 'Do the Right Thing', 'Malcolm X', 'BlacKkKlansman'"
     ],
     "yearBorn": 1957
+  },
+  {
+    "fullName": "Stan Lee",
+    "givenNames": [
+      "Stan"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stan_Lee",
+    "occupation": "Comic Book Writer, Editor, Publisher",
+    "achievements": [
+      "Co-created many iconic Marvel superheroes like Spider-Man, the Hulk, Iron Man"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2018
   }
 ]

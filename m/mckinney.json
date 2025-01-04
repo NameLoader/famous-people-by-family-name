@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "John McKinney",
+    "givenNames": [
+      "John",
+      "P"
+    ],
+    "familyName": "McKinney",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_P._McKinney",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Minority Leader of the Connecticut Senate",
+      "Candidate for Governor of Connecticut"
+    ],
+    "yearBorn": 1963
+  }
+]

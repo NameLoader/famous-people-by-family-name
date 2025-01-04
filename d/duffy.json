@@ -13,5 +13,20 @@
       "Known for her hit single 'Mercy'"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Brian Duffy",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Duffy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Duffy_(photographer)",
+    "occupation": "Fashion photographer",
+    "achievements": [
+      "Photographed iconic figures like David Bowie and The Rolling Stones",
+      "Work featured in renowned publications such as Vogue and Harper's Bazaar"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2010
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "John Ray",
+    "givenNames": [
+      "John"
+    ],
+    "familyName": "Ray",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ray",
+    "occupation": "Naturalist",
+    "achievements": [
+      "Considered the father of British natural history",
+      "Authored 'Historia Plantarum'",
+      "Developed the concept of species"
+    ],
+    "yearBorn": 1627,
+    "yearDied": 1705
+  }
+]

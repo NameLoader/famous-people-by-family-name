@@ -29,5 +29,19 @@
     ],
     "yearBorn": 1667,
     "yearDied": 1731
+  },
+  {
+    "fullName": "Benjamin Ward",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Ward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Ward",
+    "occupation": "Police Chief",
+    "achievements": [
+      "First African American police commissioner of New York City"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2003
   }
 ]

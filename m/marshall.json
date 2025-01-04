@@ -2,6 +2,7 @@
   {
     "fullName": "Thurgood Marshall",
     "givenNames": [
+      "Thoroughgood",
       "Thurgood"
     ],
     "familyName": "Marshall",
@@ -30,5 +31,20 @@
     ],
     "yearBorn": 1880,
     "yearDied": 1959
+  },
+  {
+    "fullName": "Peter Marshall",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Marshall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Marshall_(entertainer)",
+    "occupation": "Clergyman, Author, Television Personality",
+    "achievements": [
+      "Longtime host of the game show Hollywood Squares",
+      "Known for his charismatic personality and religious beliefs"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2014
   }
 ]

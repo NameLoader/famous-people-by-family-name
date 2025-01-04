@@ -57,5 +57,20 @@
     ],
     "yearBorn": 1905,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Jon Snow",
+    "givenNames": [
+      "Jonathan",
+      "George"
+    ],
+    "familyName": "Snow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Snow_(journalist)",
+    "occupation": "Journalist, television presenter",
+    "achievements": [
+      "Former chief correspondent for Channel 4 News.",
+      "Known for his in-depth reporting on international conflicts and politics."
+    ],
+    "yearBorn": 1947
   }
 ]

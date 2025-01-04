@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Thomas Dudley",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Dudley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Dudley",
+    "occupation": "Early settler and governor of the Massachusetts Bay Colony",
+    "achievements": [
+      "Served as governor from 1634 to 1636"
+    ],
+    "yearBorn": 1600,
+    "yearDied": 1653
+  },
+  {
+    "fullName": "Robert Dudley",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Dudley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Dudley,_1st_Earl_of_Leicester",
+    "occupation": "English nobleman and courtier",
+    "achievements": [
+      "Close friend and confidant of Queen Elizabeth I"
+    ],
+    "yearBorn": 1532,
+    "yearDied": 1588
+  }
+]

@@ -27,5 +27,45 @@
       "Known for her roles in films like 'Dirty Dancing' and 'Ferris Bueller's Day Off'"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Jane Grey",
+    "givenNames": [
+      "Jane"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
+    "occupation": "Queen of England (briefly)",
+    "achievements": [
+      "Nine Days' Queen"
+    ],
+    "yearBorn": 1537,
+    "yearDied": 1554
+  },
+  {
+    "fullName": "Thomas Grey, 2nd Marquess of Dorset",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Grey,_2nd_Marquess_of_Dorset",
+    "occupation": "Nobleman",
+    "achievements": [
+      "Supporter of Henry VIII"
+    ],
+    "yearBorn": 1480,
+    "yearDied": 1530
+  },
+  {
+    "fullName": "Christian Grey",
+    "givenNames": [
+      "Christian"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist in the Fifty Shades trilogy"
+    ]
   }
 ]

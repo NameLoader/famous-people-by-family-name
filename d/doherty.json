@@ -28,5 +28,19 @@
       "Released successful solo albums and collaborated with other artists."
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Brian Doherty",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Doherty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Radicals_for_Capitalism",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "Editor of Reason magazine",
+      "Author of several books on libertarianism and culture"
+    ],
+    "yearBorn": 1949
   }
 ]
